@@ -1,11 +1,15 @@
 {
-  "name": "digital.tn",
+  "name": "Reserver",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "lint": "eslint .",
+    "dev": "cd android/ && ./gradlew clean && react-native start --reset-cache",
+    "build-staging": "cp ./.env.staging ./.env && npx react-native run-android",
+    "build-prod": "cp ./.env.prod ./.env && npx react-native run-android",
+    "release": "cd android && ./gradlew assembleRelease && cd ../",
     "start": "react-native start",
     "test": "jest"
   },
