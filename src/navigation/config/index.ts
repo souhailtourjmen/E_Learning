@@ -4,8 +4,11 @@ import { ROUTES, TEXT } from "../../constant";
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ProgressionScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
 =======
+=======
+>>>>>>> af751c6f (- add new screen onbording)
 import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
 >>>>>>> 4cdec91b (first unit project)
 import i18n from "../../config/mulitLang";
@@ -130,8 +133,16 @@ export const ARRAYROUTES = [
 =======
 =======
 import { Intro } from "../../screens";
+=======
+import { Intro, OnboardingScreen } from "../../screens";
+>>>>>>> 9c8d4eae (- add new screen onbording)
 import i18n from "../../config/mulitLang";
 export const ARRAYROUTES = [
+  {
+    route: ROUTES.ONBOARDING,
+    label: i18n.t(TEXT.ROUTES.ONBOARDING),
+    component: OnboardingScreen,
+  },
   {
     route: ROUTES.INTRO,
     label: i18n.t(TEXT.ROUTES.Intro),

@@ -5,6 +5,7 @@ export const VIDEO= {
 export const IMGS= {
     // videos
 <<<<<<< HEAD
+<<<<<<< HEAD
     ArrowIcon: require('../../assets/app_images/ArrowIcon.png'),
 }
 export const ICONS= {
@@ -38,6 +39,9 @@ export const ICONS= {
    reservationProfileMenuIcon: require('../../assets/icon_images/reservationMenuProfile.png'),
 =======
     VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
+=======
+    ArrowIcon: require('../../assets/app_images/ArrowIcon.png'),
+>>>>>>> 9c8d4eae (- add new screen onbording)
 }
 <<<<<<< HEAD
 export const IMGS= {

@@ -1,8 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> af751c6f (- add new screen onbording)
 export {default as Intro} from './intro'
 export {default as OnboardingScreen} from './onboarding'
 export {default as LoginScreen} from './auth/signin'
@@ -33,4 +36,11 @@ export {default as ScreenCourseDetails} from './courseDetails'
 =======
 export {default as Intro} from './intro'
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+export {default as Intro} from './intro'
+export {default as OnboardingScreen} from './onboarding'
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)

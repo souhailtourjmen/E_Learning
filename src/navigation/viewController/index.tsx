@@ -1,10 +1,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
 import {
     useNavigation,
   } from '@react-navigation/native';
@@ -44,6 +49,7 @@ import {
         if (item && item.screen) {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           navigation.navigate(item.screen, {...item});
 =======
           navigation.navigate(item.screen, item?.navigationParams);
@@ -51,6 +57,12 @@ import {
 =======
           navigation.navigate(item.screen, {...item});
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+          navigation.navigate(item.screen, {...item});
+=======
+          navigation.navigate(item.screen, item?.navigationParams);
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
         }
       },
       [navigation],
@@ -78,8 +90,11 @@ import {
   export default useNavigationController;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> af751c6f (- add new screen onbording)
   
 =======
 import React, {
@@ -100,4 +115,10 @@ export default useNavigationViewController;
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
 =======
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+  
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)

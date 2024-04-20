@@ -175,8 +175,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> af751c6f (- add new screen onbording)
         "Intro": "Intro",
         "ONBOARDING": "ONBOARDING",
         "home": "Home",
@@ -193,7 +196,14 @@
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
 =======
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+        "Intro": "Intro",
+        "ONBOARDING": "ONBOARDING"
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
         
       },
       "message": {
@@ -202,10 +212,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
       },
       "OnBoarding": {
         "interface": {
@@ -219,6 +234,9 @@
         }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> af751c6f (- add new screen onbording)
       },
      
       "HOME": {
@@ -231,6 +249,7 @@
         }
       }
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
@@ -251,6 +270,10 @@
       }
 >>>>>>> c3fc9c43 (screen in progress)
 =======
+=======
+=======
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
       }
      
 >>>>>>> e6aa837d (first unit project)

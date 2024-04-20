@@ -33,6 +33,7 @@ export default {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     HOME: {
       welcome: 'HOME.interface.welcome',
       coursAVenir: 'HOME.interface.coursAVenir',
@@ -50,6 +51,8 @@ export default {
 =======
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> af751c6f (- add new screen onbording)
     HOME: {
       welcome: 'HOME.interface.welcome',
       coursAVenir: 'HOME.interface.coursAVenir',
@@ -61,7 +64,13 @@ export default {
       Intro: 'ROUTES.Intro',
 >>>>>>> e6aa837d (first unit project)
     },
+<<<<<<< HEAD
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+=======
+
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
     message: {
       payment: 'message.payment',
       notFound: 'message.notFound',
@@ -77,10 +86,15 @@ export default {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
     },
     Login: {
       SeConnecter: 'login.interface.SeConnecter',
@@ -213,6 +227,7 @@ export default {
     ROUTES: {
       Intro: 'ROUTES.Intro',
       ONBOARDING: 'ROUTES.ONBOARDING',
+<<<<<<< HEAD
       home: 'ROUTES.home',
       message: 'ROUTES.message',
       myCourse: 'ROUTES.myCourse',
@@ -231,6 +246,12 @@ export default {
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
 =======
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+    },
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
   };
   

@@ -4,8 +4,11 @@ export const ROUTES = {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> af751c6f (- add new screen onbording)
   ONBOARDING: "OnboardingScreen",
   ForgetPasswordScreen: 'ForgetPasswordScreen',
   HomeScreen: 'HomeScreen',
@@ -16,6 +19,7 @@ export const ROUTES = {
   MESSAGESCREENBOTTOM: 'MESSAGESCREEN',
   MYCOURSESCREENBOTTOM: 'MYCOURSESCREEN',
   PROFILESCREENBOTTOM: 'PROFILESCREEN',
+<<<<<<< HEAD
   UpdateProfile: 'UpdateProfile',
   ProgressionScreen: 'Progression',
 =======
@@ -24,6 +28,11 @@ export const ROUTES = {
 =======
   CourseDetails: 'Course Details',
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+  ONBOARDING: "OnboardingScreen",
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
 };
 
 =======

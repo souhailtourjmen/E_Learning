@@ -3,8 +3,11 @@ export interface NavigationParamsType {
     name?: string;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+>>>>>>> af751c6f (- add new screen onbording)
     params?: any;
   }
 
@@ -136,4 +139,19 @@ export interface DefaultValues {
     thumb: string;
     title: string;
 }
+<<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+=======
+    navigationParams?: NavigationItemType | any;
+  }
+  export interface NavigationItemType {
+    screen: string;
+    id?: string;
+    slug?: string;
+    title?: string;
+    description?: string;
+    image?: string;
+  }
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
