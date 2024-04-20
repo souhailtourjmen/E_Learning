@@ -18,10 +18,13 @@ import com.shopify.reactnative.flash_list.ReactNativeFlashListPackage;
 import com.lugg.RNCConfig.RNCConfigPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.RNGestureHandlerPackage;
+<<<<<<< HEAD
 =======
 // react-native-config
 import com.lugg.RNCConfig.RNCConfigPackage;
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 // react-native-keychain
 import com.oblador.keychain.KeychainPackage;
 // react-native-linear-gradient
@@ -29,19 +32,29 @@ import com.BV.LinearGradient.LinearGradientPackage;
 // react-native-localize
 import com.zoontek.rnlocalize.RNLocalizePackage;
 <<<<<<< HEAD
+<<<<<<< HEAD
 // react-native-reanimated
 import com.swmansion.reanimated.ReanimatedPackage;
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+// react-native-reanimated
+import com.swmansion.reanimated.ReanimatedPackage;
+>>>>>>> 38206cac (- add ui kitten)
 // react-native-safe-area-context
 import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 // react-native-screens
 import com.swmansion.rnscreens.RNScreensPackage;
 <<<<<<< HEAD
+<<<<<<< HEAD
 // react-native-svg
 import com.horcrux.svg.SvgPackage;
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+// react-native-svg
+import com.horcrux.svg.SvgPackage;
+>>>>>>> 38206cac (- add ui kitten)
 // react-native-vector-icons
 import com.oblador.vectoricons.VectorIconsPackage;
 // react-native-video
@@ -104,12 +117,18 @@ public class PackageList {
       new SvgPackage(),
 =======
       new RNCConfigPackage(),
+      new RNGestureHandlerPackage(),
       new KeychainPackage(),
       new LinearGradientPackage(),
       new RNLocalizePackage(),
+      new ReanimatedPackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage(),
+<<<<<<< HEAD
 >>>>>>> 9ce4bce8 (rename project)
+=======
+      new SvgPackage(),
+>>>>>>> 38206cac (- add ui kitten)
       new VectorIconsPackage(),
       new ReactVideoPackage()
     ));

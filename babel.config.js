@@ -1,10 +1,14 @@
 module.exports = {
   "presets": ["module:metro-react-native-babel-preset"],
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 
   plugins: [
     'react-native-reanimated/plugin',
   ],
+<<<<<<< HEAD
 =======
   // plugins: [
   //   [
@@ -27,4 +31,6 @@ module.exports = {
   //   }
   // }
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 };

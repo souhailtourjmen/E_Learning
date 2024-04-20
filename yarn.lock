@@ -109,6 +109,9 @@
     semver "^6.3.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/helper-create-class-features-plugin@^7.24.4":
   version "7.24.4"
   resolved "https://registry.yarnpkg.com/@babel/helper-create-class-features-plugin/-/helper-create-class-features-plugin-7.24.4.tgz#c806f73788a6800a5cfbbc04d2df7ee4d927cce3"
@@ -124,8 +127,11 @@
     "@babel/helper-split-export-declaration" "^7.22.6"
     semver "^6.3.1"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/helper-create-regexp-features-plugin@^7.18.6", "@babel/helper-create-regexp-features-plugin@^7.22.15", "@babel/helper-create-regexp-features-plugin@^7.22.5":
   version "7.22.15"
   resolved "https://registry.npmjs.org/@babel/helper-create-regexp-features-plugin/-/helper-create-regexp-features-plugin-7.22.15.tgz"
@@ -222,6 +228,9 @@
     "@babel/helper-optimise-call-expression" "^7.22.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/helper-replace-supers@^7.24.1":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/helper-replace-supers/-/helper-replace-supers-7.24.1.tgz#7085bd19d4a0b7ed8f405c1ed73ccb70f323abc1"
@@ -231,8 +240,11 @@
     "@babel/helper-member-expression-to-functions" "^7.23.0"
     "@babel/helper-optimise-call-expression" "^7.22.5"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/helper-simple-access@^7.22.5":
   version "7.22.5"
   resolved "https://registry.npmjs.org/@babel/helper-simple-access/-/helper-simple-access-7.22.5.tgz"
@@ -492,6 +504,9 @@
     "@babel/helper-plugin-utils" "^7.22.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-syntax-jsx@^7.24.1":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-jsx/-/plugin-syntax-jsx-7.24.1.tgz#3f6ca04b8c841811dbc3c5c5f837934e0d626c10"
@@ -499,8 +514,11 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.24.0"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-syntax-logical-assignment-operators@^7.10.4", "@babel/plugin-syntax-logical-assignment-operators@^7.8.3":
   version "7.10.4"
   resolved "https://registry.npmjs.org/@babel/plugin-syntax-logical-assignment-operators/-/plugin-syntax-logical-assignment-operators-7.10.4.tgz"
@@ -565,6 +583,9 @@
     "@babel/helper-plugin-utils" "^7.22.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-syntax-typescript@^7.24.1":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-typescript/-/plugin-syntax-typescript-7.24.1.tgz#b3bcc51f396d15f3591683f90239de143c076844"
@@ -572,8 +593,11 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.24.0"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-syntax-unicode-sets-regex@^7.18.6":
   version "7.18.6"
   resolved "https://registry.npmjs.org/@babel/plugin-syntax-unicode-sets-regex/-/plugin-syntax-unicode-sets-regex-7.18.6.tgz"
@@ -590,6 +614,9 @@
     "@babel/helper-plugin-utils" "^7.22.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-arrow-functions@^7.0.0-0":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-arrow-functions/-/plugin-transform-arrow-functions-7.24.1.tgz#2bf263617060c9cc45bcdbf492b8cc805082bf27"
@@ -597,8 +624,11 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.24.0"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-async-generator-functions@^7.23.9":
   version "7.23.9"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-async-generator-functions/-/plugin-transform-async-generator-functions-7.23.9.tgz"
@@ -790,6 +820,9 @@
     "@babel/helper-simple-access" "^7.22.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-modules-commonjs@^7.24.1":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-modules-commonjs/-/plugin-transform-modules-commonjs-7.24.1.tgz#e71ba1d0d69e049a22bf90b3867e263823d3f1b9"
@@ -799,8 +832,11 @@
     "@babel/helper-plugin-utils" "^7.24.0"
     "@babel/helper-simple-access" "^7.22.5"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-modules-systemjs@^7.23.9":
   version "7.23.9"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-modules-systemjs/-/plugin-transform-modules-systemjs-7.23.9.tgz"
@@ -835,6 +871,9 @@
     "@babel/helper-plugin-utils" "^7.22.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-nullish-coalescing-operator@^7.0.0-0":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-nullish-coalescing-operator/-/plugin-transform-nullish-coalescing-operator-7.24.1.tgz#0cd494bb97cb07d428bd651632cb9d4140513988"
@@ -843,8 +882,11 @@
     "@babel/helper-plugin-utils" "^7.24.0"
     "@babel/plugin-syntax-nullish-coalescing-operator" "^7.8.3"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-nullish-coalescing-operator@^7.23.4":
   version "7.23.4"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-nullish-coalescing-operator/-/plugin-transform-nullish-coalescing-operator-7.23.4.tgz"
@@ -889,6 +931,9 @@
     "@babel/plugin-syntax-optional-catch-binding" "^7.8.3"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-optional-chaining@^7.0.0-0":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-optional-chaining/-/plugin-transform-optional-chaining-7.24.1.tgz#26e588acbedce1ab3519ac40cc748e380c5291e6"
@@ -898,8 +943,11 @@
     "@babel/helper-skip-transparent-expression-wrappers" "^7.22.5"
     "@babel/plugin-syntax-optional-chaining" "^7.8.3"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-optional-chaining@^7.23.3", "@babel/plugin-transform-optional-chaining@^7.23.4":
   version "7.23.4"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-optional-chaining/-/plugin-transform-optional-chaining-7.23.4.tgz"
@@ -1008,6 +1056,9 @@
     "@babel/helper-plugin-utils" "^7.22.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-shorthand-properties@^7.0.0-0":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-shorthand-properties/-/plugin-transform-shorthand-properties-7.24.1.tgz#ba9a09144cf55d35ec6b93a32253becad8ee5b55"
@@ -1015,8 +1066,11 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.24.0"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-spread@^7.0.0", "@babel/plugin-transform-spread@^7.23.3":
   version "7.23.3"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-spread/-/plugin-transform-spread-7.23.3.tgz"
@@ -1033,6 +1087,9 @@
     "@babel/helper-plugin-utils" "^7.22.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-template-literals@^7.0.0-0":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-template-literals/-/plugin-transform-template-literals-7.24.1.tgz#15e2166873a30d8617e3e2ccadb86643d327aab7"
@@ -1040,8 +1097,11 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.24.0"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-template-literals@^7.23.3":
   version "7.23.3"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-template-literals/-/plugin-transform-template-literals-7.23.3.tgz"
@@ -1067,6 +1127,9 @@
     "@babel/plugin-syntax-typescript" "^7.23.3"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-typescript@^7.24.1":
   version "7.24.4"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-typescript/-/plugin-transform-typescript-7.24.4.tgz#03e0492537a4b953e491f53f2bc88245574ebd15"
@@ -1077,8 +1140,11 @@
     "@babel/helper-plugin-utils" "^7.24.0"
     "@babel/plugin-syntax-typescript" "^7.24.1"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/plugin-transform-unicode-escapes@^7.23.3":
   version "7.23.3"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-unicode-escapes/-/plugin-transform-unicode-escapes-7.23.3.tgz"
@@ -1226,6 +1292,9 @@
     "@babel/plugin-transform-typescript" "^7.23.3"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/preset-typescript@^7.16.7":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/preset-typescript/-/preset-typescript-7.24.1.tgz#89bdf13a3149a17b3b2a2c9c62547f06db8845ec"
@@ -1237,8 +1306,11 @@
     "@babel/plugin-transform-modules-commonjs" "^7.24.1"
     "@babel/plugin-transform-typescript" "^7.24.1"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@babel/register@^7.13.16":
   version "7.23.7"
   resolved "https://registry.npmjs.org/@babel/register/-/register-7.23.7.tgz"
@@ -1302,6 +1374,9 @@
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@egjs/hammerjs@^2.0.17":
   version "2.0.17"
   resolved "https://registry.yarnpkg.com/@egjs/hammerjs/-/hammerjs-2.0.17.tgz#5dc02af75a6a06e4c2db0202cae38c9263895124"
@@ -1309,8 +1384,11 @@
   dependencies:
     "@types/hammerjs" "^2.0.36"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.4.0"
   resolved "https://registry.npmjs.org/@eslint-community/eslint-utils/-/eslint-utils-4.4.0.tgz"
@@ -1344,6 +1422,9 @@
   integrity sha512-Ys+3g2TaW7gADOJzPt83SJtCDhMjndcDMFVQ/Tj9iA1BfJzFKD9mAUXT3OenpuPHbI6P/myECxRJrofUsDx/5g==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@eva-design/dss@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@eva-design/dss/-/dss-2.2.0.tgz#1eb765e480b3b140386a3a105374435c0c927616"
@@ -1359,8 +1440,11 @@
   resolved "https://registry.yarnpkg.com/@eva-design/processor/-/processor-2.2.0.tgz#038c20f682bc71fe0c7e17e06372416c88d023be"
   integrity sha512-fEvjvilmF/R9dqXDiMoaoXxrPIb5s1APVXbacXKAxjlWl231rzOxc5sdTtJPoFTTEon5KeaKwLHtbQvz5eVvIA==
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@hapi/hoek@^9.0.0", "@hapi/hoek@^9.3.0":
   version "9.3.0"
   resolved "https://registry.npmjs.org/@hapi/hoek/-/hoek-9.3.0.tgz"
@@ -2211,13 +2295,19 @@
     "@types/node" "*"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@types/hammerjs@^2.0.36":
   version "2.0.45"
   resolved "https://registry.yarnpkg.com/@types/hammerjs/-/hammerjs-2.0.45.tgz#ffa764bb68a66c08db6efb9c816eb7be850577b1"
   integrity sha512-qkcUlZmX6c4J8q45taBKTL3p+LbITgyx7qhlPYOdOHZB7B31K0mXbP5YA7i7SgDeEGuI9MnumiKPEMrxg8j3KQ==
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0", "@types/istanbul-lib-coverage@^2.0.1":
   version "2.0.6"
   resolved "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.6.tgz"
@@ -2417,6 +2507,9 @@
     eslint-visitor-keys "^3.3.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@ui-kitten/components@^5.3.1":
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/@ui-kitten/components/-/components-5.3.1.tgz#259bbedcb7a29df026982064823a50cc30b8eaad"
@@ -2428,8 +2521,11 @@
     hoist-non-react-statics "^3.2.1"
     lodash.merge "^4.6.1"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 "@ungap/structured-clone@^1.2.0":
   version "1.2.0"
   resolved "https://registry.npmjs.org/@ungap/structured-clone/-/structured-clone-1.2.0.tgz"
@@ -3215,6 +3311,9 @@ css-select@^5.1.0:
     nth-check "^2.0.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 css-tree@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/css-tree/-/css-tree-1.1.3.tgz#eb4870fb6fd7707327ec95c2ff2ab09b5e8db91d"
@@ -3223,8 +3322,11 @@ css-tree@^1.1.3:
     mdn-data "2.0.14"
     source-map "^0.6.1"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 css-what@^6.1.0:
   version "6.1.0"
   resolved "https://registry.yarnpkg.com/css-what/-/css-what-6.1.0.tgz#fb5effcf76f1ddea2c81bdfaa4de44e79bac70f4"
@@ -3887,13 +3989,19 @@ fb-watchman@^2.0.0:
     bser "2.1.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 fecha@3.0.3:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/fecha/-/fecha-3.0.3.tgz#fabbd416497649a42c24d34bfa726b579203a1e2"
   integrity sha512-6LQK/1jud/FZnfEEZJ7y81vw7ge81DNd/XEsX0hgMUjhS+QMljkb1C0czBaP7dMNRVrd5mw/J2J7qI2Nw+TWZw==
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 file-entry-cache@^6.0.1:
   version "6.0.1"
   resolved "https://registry.npmjs.org/file-entry-cache/-/file-entry-cache-6.0.1.tgz"
@@ -4252,11 +4360,14 @@ hermes-profile-transformer@^0.0.6:
     source-map "^0.7.3"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hex-to-rgba@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/hex-to-rgba/-/hex-to-rgba-2.0.1.tgz#4176977882a1cb32b83ce5ab1db6828ab84d5a13"
   integrity sha512-5XqPJBpsEUMsseJUi2w2Hl7cHFFi3+OO10M2pzAvKB1zL6fc+koGMhmBqoDOCB4GemiRM/zvDMRIhVw6EkB8dQ==
 
+=======
+>>>>>>> 38206cac (- add ui kitten)
 hoist-non-react-statics@^3.2.1, hoist-non-react-statics@^3.3.0:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-3.3.2.tgz#ece0acaf71d62c2969c2ec59feff42a4b1a85b45"
@@ -4264,8 +4375,11 @@ hoist-non-react-statics@^3.2.1, hoist-non-react-statics@^3.3.0:
   dependencies:
     react-is "^16.7.0"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 html-entities@^2.4.0:
   version "2.5.2"
   resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-2.5.2.tgz#201a3cf95d3a15be7099521620d19dfb4f65359f"
@@ -5290,10 +5404,14 @@ lodash.debounce@^4.0.8:
   integrity sha512-FT1yDzDYEoYWhnSGnpE/4Kj1fLZkDFyqRb7fNt6FdYOSxlUWAtp42Eh6Wb0rGIv/m9Bgo7x4GhQbm5Ys4SG5ow==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 lodash.merge@^4.6.1, lodash.merge@^4.6.2:
 =======
 lodash.merge@^4.6.2:
 >>>>>>> ab93aef2 (first unit project)
+=======
+lodash.merge@^4.6.1, lodash.merge@^4.6.2:
+>>>>>>> 38206cac (- add ui kitten)
   version "4.6.2"
   resolved "https://registry.npmjs.org/lodash.merge/-/lodash.merge-4.6.2.tgz"
   integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
@@ -5374,13 +5492,19 @@ marky@^1.2.2:
   integrity sha512-q9JtQJKjpsVxCRVgQ+WapguSbKC3SQ5HEzFGPAJMStgh3QjCawp00UKv3MTTAArTmGmmPUvllHZoNbZ3gs0I+Q==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 mdn-data@2.0.14:
   version "2.0.14"
   resolved "https://registry.yarnpkg.com/mdn-data/-/mdn-data-2.0.14.tgz#7113fc4281917d63ce29b43446f701e68c25ba50"
   integrity sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow==
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 memoize-one@^5.0.0:
   version "5.2.1"
   resolved "https://registry.npmjs.org/memoize-one/-/memoize-one-5.2.1.tgz"
@@ -6273,10 +6397,14 @@ react-i18next@^14.0.5:
   integrity sha512-xWGDIW6x921xtzPkhiULtthJHoJvBbF3q26fzloPCK0hsvxtPVelvftw3zjbHWSkR2km9Z+4uxbDDK/6Zw9B8w==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 react-is@^16.13.0, react-is@^16.13.1, react-is@^16.7.0:
 =======
 react-is@^16.13.0, react-is@^16.13.1:
 >>>>>>> ab93aef2 (first unit project)
+=======
+react-is@^16.13.0, react-is@^16.13.1, react-is@^16.7.0:
+>>>>>>> 38206cac (- add ui kitten)
   version "16.13.1"
   resolved "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
@@ -6302,6 +6430,7 @@ react-native-config@^1.5.1:
   integrity sha512-g1xNgt1tV95FCX+iWz6YJonxXkQX0GdD3fB8xQtR1GUBEqweB9zMROW77gi2TygmYmUkBI7LU4pES+zcTyK4HA==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 react-native-easy-content-loader@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/react-native-easy-content-loader/-/react-native-easy-content-loader-0.3.2.tgz#5c0dcd69c84c5370365153162b21fe82098459c3"
@@ -6309,6 +6438,8 @@ react-native-easy-content-loader@^0.3.2:
   dependencies:
     hex-to-rgba "^2.0.1"
 
+=======
+>>>>>>> 38206cac (- add ui kitten)
 react-native-gesture-handler@^2.16.0:
   version "2.16.0"
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.16.0.tgz#45a00b5988e74ebc58f130c8d1443319c8e678db"
@@ -6320,8 +6451,11 @@ react-native-gesture-handler@^2.16.0:
     lodash "^4.17.21"
     prop-types "^15.7.2"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 react-native-keychain@^8.2.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/react-native-keychain/-/react-native-keychain-8.2.0.tgz#aea82df37aacbb04f8b567a8e0e6d7292025610a"
@@ -6338,6 +6472,9 @@ react-native-localize@^3.0.6:
   integrity sha512-pfwwNKRfXcxp0LZEzj5oW2/uo5oZOhiQ4PYlg8uLlsl9pDLcWg03yLCHohTWKX02vE/BFz9hkrHT/nQtlO/iFg==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 react-native-reanimated@^3.8.1:
   version "3.8.1"
   resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-3.8.1.tgz#45c13d4bedebef8df3d5a8756f25072de65960d7"
@@ -6352,6 +6489,7 @@ react-native-reanimated@^3.8.1:
     convert-source-map "^2.0.0"
     invariant "^2.2.4"
 
+<<<<<<< HEAD
 react-native-redash@*:
   version "18.1.3"
   resolved "https://registry.yarnpkg.com/react-native-redash/-/react-native-redash-18.1.3.tgz#725c3efc1908425f1579d8103c27ded94d03e8f6"
@@ -6363,6 +6501,8 @@ react-native-redash@*:
 
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 react-native-rename@^3.2.14:
   version "3.2.14"
   resolved "https://registry.yarnpkg.com/react-native-rename/-/react-native-rename-3.2.14.tgz#9c368ee1bc8e3d6b93d64c669a4a2fed76894cb2"
@@ -6393,6 +6533,9 @@ react-native-screens@^3.29.0:
     warn-once "^0.1.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 react-native-svg@^15.1.0:
   version "15.1.0"
   resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-15.1.0.tgz#07c75f29b1d641faba50144c7ccd21604b368420"
@@ -6401,8 +6544,11 @@ react-native-svg@^15.1.0:
     css-select "^5.1.0"
     css-tree "^1.1.3"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 react-native-vector-icons@^10.0.3:
   version "10.0.3"
   resolved "https://registry.npmjs.org/react-native-vector-icons/-/react-native-vector-icons-10.0.3.tgz"

@@ -75,19 +75,27 @@
 			<false/>
 		</dict>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<key>Pods-DigitalTn-DigitalTnTests.xcscheme</key>
 =======
 		<key>Pods-Reserver-ReserverTests.xcscheme</key>
 >>>>>>> ab93aef2 (first unit project)
+=======
+		<key>Pods-DigitalTn-DigitalTnTests.xcscheme</key>
+>>>>>>> 38206cac (- add ui kitten)
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<key>Pods-DigitalTn.xcscheme</key>
 =======
 		<key>Pods-Reserver.xcscheme</key>
 >>>>>>> ab93aef2 (first unit project)
+=======
+		<key>Pods-DigitalTn.xcscheme</key>
+>>>>>>> 38206cac (- add ui kitten)
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -118,13 +126,19 @@
 			<false/>
 		</dict>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38206cac (- add ui kitten)
 		<key>RNSVG.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 38206cac (- add ui kitten)
 		<key>RNScreens.xcscheme</key>
 		<dict>
 			<key>isShown</key>
