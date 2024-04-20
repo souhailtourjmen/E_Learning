@@ -5,10 +5,14 @@
     "kind": "Directory"
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "applicationId": "com.digitalTn.app",
 =======
   "applicationId": "com.reserver",
 >>>>>>> 9ce4bce8 (rename project)
+=======
+  "applicationId": "com.digitalTn.app",
+>>>>>>> 0d945e64 (change name Digital.Tn)
   "variantName": "debug",
   "elements": []
 }

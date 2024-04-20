@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 path.4=7/classes.dex
 path.3=14/classes.dex
@@ -13,13 +14,23 @@ base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/
 #Sat Apr 20 12:18:51 CET 2024
 path.4=14/classes.dex
 path.3=1/classes.dex
+=======
+#Sat Apr 20 12:39:25 CET 2024
+path.4=7/classes.dex
+path.3=14/classes.dex
+>>>>>>> 0d945e64 (change name Digital.Tn)
 path.2=0/classes.dex
 path.1=0/classes.dex
 path.5=classes2.dex
 path.0=classes.dex
+<<<<<<< HEAD
 base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
 base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
 >>>>>>> 9ce4bce8 (rename project)
+=======
+base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+>>>>>>> 0d945e64 (change name Digital.Tn)
 base.2=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.1=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
 base.0=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex

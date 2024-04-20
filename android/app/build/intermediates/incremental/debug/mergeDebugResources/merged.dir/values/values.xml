@@ -2237,11 +2237,15 @@
     <string description="important, and usually time-sensitive, information" name="alert_description">Alert</string>
     <string name="androidx_startup" translatable="false">androidx.startup</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="app_name">Digital.Tn</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="authentication_required">Authentication required</string>
 =======
     <string name="app_name">Reserver</string>
+=======
+    <string name="app_name">Digital.Tn</string>
+>>>>>>> 0d945e64 (change name Digital.Tn)
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
 >>>>>>> 9ce4bce8 (rename project)
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>

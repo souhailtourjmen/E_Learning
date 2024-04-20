@@ -80,6 +80,7 @@ android {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     namespace "com.digitalTn.app"
     defaultConfig {
         applicationId "com.digitalTn.app"
@@ -93,6 +94,11 @@ android {
     defaultConfig {
         applicationId "com.reserver"
 >>>>>>> 9ce4bce8 (rename project)
+=======
+    namespace "com.digitalTn.app"
+    defaultConfig {
+        applicationId "com.digitalTn.app"
+>>>>>>> 0d945e64 (change name Digital.Tn)
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

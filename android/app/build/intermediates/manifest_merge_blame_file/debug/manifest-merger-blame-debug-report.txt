@@ -1,10 +1,14 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 <<<<<<< HEAD
+<<<<<<< HEAD
 3    package="com.digitalTn.app"
 =======
 3    package="com.reserver"
 >>>>>>> 9ce4bce8 (rename project)
+=======
+3    package="com.digitalTn.app"
+>>>>>>> 0d945e64 (change name Digital.Tn)
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -178,18 +182,18 @@
 20
 21    <permission
 21-->[androidx.core:core:1.9.0] /Users/souhail/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
-22        android:name="com.reserver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+22        android:name="com.digitalTn.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 22-->[androidx.core:core:1.9.0] /Users/souhail/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
 23        android:protectionLevel="signature" />
 23-->[androidx.core:core:1.9.0] /Users/souhail/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 24
-25    <uses-permission android:name="com.reserver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+25    <uses-permission android:name="com.digitalTn.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 25-->[androidx.core:core:1.9.0] /Users/souhail/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 25-->[androidx.core:core:1.9.0] /Users/souhail/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 26
 27    <application
 27-->/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/src/main/AndroidManifest.xml:5:5-24:19
-28        android:name="com.reserver.MainApplication"
+28        android:name="com.digitalTn.app.MainApplication"
 28-->/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/src/main/AndroidManifest.xml:6:7-38
 29        android:allowBackup="false"
 29-->/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/src/main/AndroidManifest.xml:10:7-34
@@ -209,7 +213,7 @@
 37-->/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/src/debug/AndroidManifest.xml:6:9-44
 38        <activity
 38-->/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/src/main/AndroidManifest.xml:12:7-23:18
-39            android:name="com.reserver.MainActivity"
+39            android:name="com.digitalTn.app.MainActivity"
 39-->/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/src/main/AndroidManifest.xml:13:9-37
 40            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
 40-->/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/src/main/AndroidManifest.xml:15:9-118
@@ -243,7 +247,7 @@
 55-->[androidx.emoji2:emoji2:1.2.0] /Users/souhail/.gradle/caches/transforms-3/faa3592d2fc203d6c74b9a5f601058a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 56            android:name="androidx.startup.InitializationProvider"
 56-->[androidx.emoji2:emoji2:1.2.0] /Users/souhail/.gradle/caches/transforms-3/faa3592d2fc203d6c74b9a5f601058a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
-57            android:authorities="com.reserver.androidx-startup"
+57            android:authorities="com.digitalTn.app.androidx-startup"
 57-->[androidx.emoji2:emoji2:1.2.0] /Users/souhail/.gradle/caches/transforms-3/faa3592d2fc203d6c74b9a5f601058a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
 58            android:exported="false" >
 58-->[androidx.emoji2:emoji2:1.2.0] /Users/souhail/.gradle/caches/transforms-3/faa3592d2fc203d6c74b9a5f601058a1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37

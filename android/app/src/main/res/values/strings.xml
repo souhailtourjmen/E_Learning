@@ -1,6 +1,7 @@
 <resources>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="app_name">Digital.Tn</string>
 =======
     <string name="app_name">Reserver</string>
@@ -8,4 +9,7 @@
 =======
     <string name="app_name">Reserver</string>
 >>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="app_name">Digital.Tn</string>
+>>>>>>> 0d945e64 (change name Digital.Tn)
 </resources>

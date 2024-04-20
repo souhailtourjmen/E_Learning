@@ -81,7 +81,4 @@ To learn more about React Native, take a look at the following resources:
 =======
 # MOBILE_E-LEAARNING
 aplication mobile react native 
-<<<<<<< HEAD
->>>>>>> cf38494f (Initial commit)
-=======
->>>>>>> ab93aef2 (first unit project)
+

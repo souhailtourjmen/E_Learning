@@ -27,6 +27,7 @@ end
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 target 'DigitalTn' do
 =======
 target 'Reserver' do
@@ -34,6 +35,9 @@ target 'Reserver' do
 =======
 target 'Reserver' do
 >>>>>>> 9ce4bce8 (rename project)
+=======
+target 'DigitalTn' do
+>>>>>>> 0d945e64 (change name Digital.Tn)
   config = use_native_modules!
 
   use_react_native!(
@@ -49,6 +53,7 @@ target 'Reserver' do
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   target 'DigitalTnTests' do
 =======
   target 'ReserverTests' do
@@ -56,6 +61,9 @@ target 'Reserver' do
 =======
   target 'ReserverTests' do
 >>>>>>> 9ce4bce8 (rename project)
+=======
+  target 'DigitalTnTests' do
+>>>>>>> 0d945e64 (change name Digital.Tn)
     inherit! :complete
     # Pods for testing
   end

@@ -1,6 +1,7 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "digital.tn",
 =======
   "name": "Reserver",
@@ -8,6 +9,9 @@
 =======
   "name": "Reserver",
 >>>>>>> 9ce4bce8 (rename project)
+=======
+  "name": "digital.tn",
+>>>>>>> 0d945e64 (change name Digital.Tn)
   "version": "0.0.1",
   "private": true,
   "scripts": {
