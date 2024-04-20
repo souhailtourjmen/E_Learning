@@ -172,12 +172,24 @@
       },
       
       "ROUTES": {
-        "Intro": "Intro"
+        "Intro": "Intro",
+        "ONBOARDING": "ONBOARDING"
         
       },
       "message": {
         "payment": "Paiement effectuée par succès",
         "notFound": "Nous sommes ravis de vous informer qu'une toute nouvelle fonctionnalité passionnante est sur le point d'arriver! 🚀 Restez à l'écoute, car nous travaillons ardemment en coulisses pour vous offrir une expérience encore meilleure.\nMerci pour votre patience et votre fidélité."
+      },
+      "OnBoarding": {
+        "interface": {
+          "titleOne": "Bienvenue à notre cours en ligne",
+          "titleTwo": "Digital.Tn: Empowering Your Learning Journey",
+          "titleThree": "Donnez du pouvoir à votre parcours",
+          "descOne": "Ici, vous pouvez apprendre de nouveaux cours et les plus intéressants pour vous. ",
+          "descTwo": "Votre parcours personnel vers la réussite de l'apprentissage",
+          "descThree": "L'intégration et la croissance professionnelle dans votre poche.",
+          "invited": "Continuer comme invité"
+        }
       }
      
     }
