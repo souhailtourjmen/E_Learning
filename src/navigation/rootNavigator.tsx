@@ -7,7 +7,7 @@ const Stack = createNativeStackNavigator();
 export const RootNavigator = () => {
   return (
     <Stack.Navigator
-      initialRouteName={ROUTES.INTRO}
+      initialRouteName={ROUTES.ONBOARDING}
       screenOptions={{
         headerBackTitleVisible: false,
       }}

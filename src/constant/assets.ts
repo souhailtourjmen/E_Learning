@@ -4,7 +4,7 @@ export const VIDEO= {
 }
 export const IMGS= {
     // videos
-    VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
+    ArrowIcon: require('../../assets/app_images/ArrowIcon.png'),
 }
 export const ICONS= {
     // videos
