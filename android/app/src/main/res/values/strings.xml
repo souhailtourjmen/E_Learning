@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Digital.Tn</string>
+=======
+    <string name="app_name">Reserver</string>
+>>>>>>> ab93aef2 (first unit project)
 </resources>

@@ -1,4 +1,5 @@
 import React, {
+<<<<<<< HEAD
     Dispatch,
     SetStateAction,
     useCallback,
@@ -45,3 +46,15 @@ import { TEXT } from '../../../../constant';
   };
   export default useSignInModels;
   
+=======
+Dispatch,
+SetStateAction,
+useCallback,
+useEffect,
+useState,
+} from 'react';
+const useLoginViewModels = () => {
+return {};
+};
+export default useLoginViewModels;
+>>>>>>> ab93aef2 (first unit project)

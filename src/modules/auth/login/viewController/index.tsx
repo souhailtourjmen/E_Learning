@@ -1,4 +1,5 @@
 import React, {
+<<<<<<< HEAD
     Dispatch,
     SetStateAction,
     useCallback,
@@ -112,3 +113,15 @@ import { useAuth } from '../../../../hooks';
   };
   export default useSignInController;
   
+=======
+Dispatch,
+SetStateAction,
+useCallback,
+useEffect,
+useState,
+} from 'react';
+const useLoginViewController = () => {
+return {};
+};
+export default useLoginViewController;
+>>>>>>> ab93aef2 (first unit project)

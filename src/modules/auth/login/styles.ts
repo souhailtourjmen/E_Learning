@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {StyleSheet} from 'react-native';
 import { FONTFAMILY } from '../../../constant';
 
@@ -83,3 +84,9 @@ export const styles = StyleSheet.create({
     opacity:.64
   }
 });
+=======
+import { StyleSheet} from 'react-native';
+export const styles = StyleSheet.create({
+
+  });
+>>>>>>> ab93aef2 (first unit project)

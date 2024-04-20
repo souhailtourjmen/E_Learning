@@ -1,6 +1,7 @@
 export const ROUTES = {
   LOGIN: "login",
   INTRO: "Intro",
+<<<<<<< HEAD
   ONBOARDING: "OnboardingScreen",
   ForgetPasswordScreen: 'ForgetPasswordScreen',
   HomeScreen: 'HomeScreen',
@@ -14,3 +15,6 @@ export const ROUTES = {
   ProgressionScreen: 'Progression',
 };
 
+=======
+};
+>>>>>>> ab93aef2 (first unit project)

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useId } from "react";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { ARRAYROUTES } from "./config";
@@ -13,6 +14,18 @@ export const RootNavigator = () => {
   return (
     <Stack.Navigator
       initialRouteName={ROUTES.ONBOARDING}
+=======
+import React from "react";
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
+import { ARRAYROUTES } from "./config";
+import { ROUTES } from "../constant";
+
+const Stack = createNativeStackNavigator();
+export const RootNavigator = () => {
+  return (
+    <Stack.Navigator
+      initialRouteName={ROUTES.INTRO}
+>>>>>>> ab93aef2 (first unit project)
       screenOptions={{
         headerBackTitleVisible: false,
       }}
@@ -20,6 +33,7 @@ export const RootNavigator = () => {
       {ARRAYROUTES?.map((item, index) => {
         return (
           <Stack.Screen
+<<<<<<< HEAD
             key={idStack}
             name={item.label}
             component={item.component}
@@ -53,6 +67,15 @@ export const RootNavigator = () => {
               ),
             })}
           />
+=======
+            key={index?.toString()}
+            name={item.label}
+            component={item.component}
+            options={{ headerShown: false }}
+          />
+        );
+      })}
+>>>>>>> ab93aef2 (first unit project)
     </Stack.Navigator>
   );
 };

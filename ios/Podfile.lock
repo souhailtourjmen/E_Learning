@@ -1132,8 +1132,11 @@ PODS:
     - glog
     - RCT-Folly (= 2022.05.16.00)
     - React-Core
+<<<<<<< HEAD
   - RNSVG (15.1.0):
     - React-Core
+=======
+>>>>>>> ab93aef2 (first unit project)
   - RNVectorIcons (10.0.3):
     - glog
     - RCT-Folly (= 2022.05.16.00)
@@ -1221,7 +1224,10 @@ DEPENDENCIES:
   - RNKeychain (from `../node_modules/react-native-keychain`)
   - RNLocalize (from `../node_modules/react-native-localize`)
   - RNScreens (from `../node_modules/react-native-screens`)
+<<<<<<< HEAD
   - RNSVG (from `../node_modules/react-native-svg`)
+=======
+>>>>>>> ab93aef2 (first unit project)
   - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
@@ -1351,8 +1357,11 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-localize"
   RNScreens:
     :path: "../node_modules/react-native-screens"
+<<<<<<< HEAD
   RNSVG:
     :path: "../node_modules/react-native-svg"
+=======
+>>>>>>> ab93aef2 (first unit project)
   RNVectorIcons:
     :path: "../node_modules/react-native-vector-icons"
   Yoga:
@@ -1425,11 +1434,18 @@ SPEC CHECKSUMS:
   RNKeychain: bfe3d12bf4620fe488771c414530bf16e88f3678
   RNLocalize: 4222a3756cdbe2dc9a5bdf445765a4d2572107cb
   RNScreens: 17e2f657f1b09a71ec3c821368a04acbb7ebcb46
+<<<<<<< HEAD
   RNSVG: 50cf2c7018e57cf5d3522d98d0a3a4dd6bf9d093
+=======
+>>>>>>> ab93aef2 (first unit project)
   RNVectorIcons: 73ab573085f65a572d3b6233e68996d4707fd505
   SocketRocket: f32cd54efbe0f095c4d7594881e52619cfe80b17
   Yoga: a716eea57d0d3430219c0a5a233e1e93ee931eb7
 
+<<<<<<< HEAD
 PODFILE CHECKSUM: 14818a02849b640a8d2dff2be6ff3052d0d4240a
+=======
+PODFILE CHECKSUM: a1f96e1c445dcca397ed44839492b8705daf8cb6
+>>>>>>> ab93aef2 (first unit project)
 
 COCOAPODS: 1.14.3

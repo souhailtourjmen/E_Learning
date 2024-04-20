@@ -74,12 +74,20 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+<<<<<<< HEAD
 		<key>Pods-DigitalTn-DigitalTnTests.xcscheme</key>
+=======
+		<key>Pods-Reserver-ReserverTests.xcscheme</key>
+>>>>>>> ab93aef2 (first unit project)
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
+<<<<<<< HEAD
 		<key>Pods-DigitalTn.xcscheme</key>
+=======
+		<key>Pods-Reserver.xcscheme</key>
+>>>>>>> ab93aef2 (first unit project)
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -109,11 +117,14 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+<<<<<<< HEAD
 		<key>RNSVG.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
+=======
+>>>>>>> ab93aef2 (first unit project)
 		<key>RNScreens.xcscheme</key>
 		<dict>
 			<key>isShown</key>

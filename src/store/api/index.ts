@@ -6,7 +6,11 @@ const baseQueryWithAuth = fetchBaseQuery({
   credentials: 'include',
   prepareHeaders: async headers => {
     const token = await getToken();
+<<<<<<< HEAD
     console.log('\x1b[34m%s\x1b[0m', 'src/store/api/index.ts:9 token', token);
+=======
+    // console.log('%cindex.ts line:10 token', 'color: #007acc;', token);
+>>>>>>> ab93aef2 (first unit project)
     if (token) {
       headers.set('Authorization', `Bearer ${token}`);
     }
@@ -34,6 +38,7 @@ const baseQueryWithReauth = async (args: any, api: any, extraOptions: any) => {
 export const apiSlice: any = createApi({
   baseQuery: baseQueryWithReauth,
   tagTypes: [
+<<<<<<< HEAD
    "courses",
    "course",
    "coursesFiltre",
@@ -41,6 +46,9 @@ export const apiSlice: any = createApi({
    'profile',
    'Progression'
 
+=======
+   
+>>>>>>> ab93aef2 (first unit project)
   ],
   endpoints: builder => ({}),
 });

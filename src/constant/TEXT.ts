@@ -29,12 +29,17 @@ export default {
     },
   
   
+<<<<<<< HEAD
     HOME: {
       welcome: 'HOME.interface.welcome',
       coursAVenir: 'HOME.interface.coursAVenir',
       recommendedForYOU: 'HOME.interface.recommendedForYOU',
       VoirTout: 'HOME.interface.VoirTout',
       
+=======
+    ROUTES: {
+      Intro: 'ROUTES.Intro',
+>>>>>>> ab93aef2 (first unit project)
     },
     message: {
       payment: 'message.payment',
@@ -48,6 +53,7 @@ export default {
       descTwo: 'OnBoarding.interface.descTwo',
       descThree: 'OnBoarding.interface.descThree',
       invited: 'OnBoarding.interface.invited',
+<<<<<<< HEAD
     },
     Login: {
       SeConnecter: 'login.interface.SeConnecter',
@@ -184,5 +190,8 @@ export default {
       myCourse: 'ROUTES.myCourse',
       profile: 'ROUTES.profile',
     },
+=======
+    }
+>>>>>>> ab93aef2 (first unit project)
   };
   

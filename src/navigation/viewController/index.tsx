@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {
     useNavigation,
   } from '@react-navigation/native';
@@ -62,3 +63,16 @@ import {
   
   export default useNavigationController;
   
+=======
+import React, {
+Dispatch,
+SetStateAction,
+useCallback,
+useEffect,
+useState,
+} from 'react';
+const useNavigationViewController = () => {
+return {};
+};
+export default useNavigationViewController;
+>>>>>>> ab93aef2 (first unit project)

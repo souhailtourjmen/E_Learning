@@ -172,17 +172,22 @@
       },
       
       "ROUTES": {
+<<<<<<< HEAD
         "Intro": "Intro",
         "ONBOARDING": "ONBOARDING",
         "home": "Home",
         "message": "Messages",
         "myCourse": "My Course",
         "profile": "Profile"
+=======
+        "Intro": "Intro"
+>>>>>>> ab93aef2 (first unit project)
         
       },
       "message": {
         "payment": "Paiement effectuée par succès",
         "notFound": "Nous sommes ravis de vous informer qu'une toute nouvelle fonctionnalité passionnante est sur le point d'arriver! 🚀 Restez à l'écoute, car nous travaillons ardemment en coulisses pour vous offrir une expérience encore meilleure.\nMerci pour votre patience et votre fidélité."
+<<<<<<< HEAD
       },
       "OnBoarding": {
         "interface": {
@@ -205,5 +210,9 @@
          
         }
       }
+=======
+      }
+     
+>>>>>>> ab93aef2 (first unit project)
     }
   }

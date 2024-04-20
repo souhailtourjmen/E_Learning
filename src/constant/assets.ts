@@ -1,5 +1,6 @@
 export const VIDEO= {
     // videos
+<<<<<<< HEAD
 }
 export const IMGS= {
     // videos
@@ -34,4 +35,15 @@ export const ICONS= {
    MessageIcon: require('../../assets/icon_images/message.png'),
    CardIcon: require('../../assets/icon_images/card.png'),
    reservationProfileMenuIcon: require('../../assets/icon_images/reservationMenuProfile.png'),
+=======
+    VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
+}
+export const IMGS= {
+    // videos
+    VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
+}
+export const ICONS= {
+    // videos
+    VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
+>>>>>>> ab93aef2 (first unit project)
 }

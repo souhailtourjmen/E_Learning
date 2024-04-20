@@ -54,7 +54,11 @@ react {
 /**
  * Set this to true to Run Proguard on Release builds to minify the Java bytecode.
  */
+<<<<<<< HEAD
 def enableProguardInReleaseBuilds = true
+=======
+def enableProguardInReleaseBuilds = false
+>>>>>>> ab93aef2 (first unit project)
 
 /**
  * The preferred build flavor of JavaScriptCore (JSC)
@@ -74,13 +78,20 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
+<<<<<<< HEAD
     namespace "com.digitalTn.app"
     defaultConfig {
         applicationId "com.digitalTn.app"
+=======
+    namespace "com.reserver"
+    defaultConfig {
+        applicationId "com.reserver"
+>>>>>>> ab93aef2 (first unit project)
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
+<<<<<<< HEAD
         multiDexEnabled true
     }
     signingConfigs {
@@ -92,6 +103,10 @@ android {
     }
   }
     signingConfigs {
+=======
+    }
+    signingConfigs {
+>>>>>>> ab93aef2 (first unit project)
         debug {
             storeFile file('debug.keystore')
             storePassword 'android'
@@ -100,12 +115,18 @@ android {
         }
     }
     buildTypes {
+<<<<<<< HEAD
 
+=======
+>>>>>>> ab93aef2 (first unit project)
         debug {
             signingConfig signingConfigs.debug
         }
         release {
+<<<<<<< HEAD
              signingConfig signingConfigs.release
+=======
+>>>>>>> ab93aef2 (first unit project)
             // Caution! In production, you need to generate your own keystore file.
             // see https://reactnative.dev/docs/signed-apk-android.
             signingConfig signingConfigs.debug
@@ -121,7 +142,10 @@ dependencies {
     implementation("com.facebook.react:flipper-integration")
     implementation project(':react-native-vector-icons')
     implementation project(':react-native-config')
+<<<<<<< HEAD
      implementation 'com.android.support:multidex:1.0.3'
+=======
+>>>>>>> ab93aef2 (first unit project)
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")
     } else {
