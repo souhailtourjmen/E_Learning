@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     package="com.digitalTn.app"
 =======
     package="com.reserver"
@@ -9,6 +10,12 @@
 =======
     package="com.digitalTn.app"
 >>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+    package="com.digitalTn.app"
+=======
+    package="com.reserver"
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -27,8 +34,11 @@
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <permission
@@ -42,6 +52,7 @@
 =======
 
     <permission
+<<<<<<< HEAD
         android:name="com.digitalTn.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
@@ -54,6 +65,16 @@
 =======
         android:name="com.digitalTn.app.MainApplication"
 >>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+        android:name="com.reserver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.reserver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:name="com.reserver.MainApplication"
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
         android:allowBackup="false"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -66,6 +87,7 @@
         <activity
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             android:name="com.digitalTn.app.MainActivity"
 =======
             android:name="com.reserver.MainActivity"
@@ -73,6 +95,12 @@
 =======
             android:name="com.digitalTn.app.MainActivity"
 >>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+            android:name="com.digitalTn.app.MainActivity"
+=======
+            android:name="com.reserver.MainActivity"
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
             android:exported="true"
             android:label="@string/app_name"
@@ -92,6 +120,7 @@
             android:name="androidx.startup.InitializationProvider"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             android:authorities="com.digitalTn.app.androidx-startup"
 =======
             android:authorities="com.reserver.androidx-startup"
@@ -99,6 +128,12 @@
 =======
             android:authorities="com.digitalTn.app.androidx-startup"
 >>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+            android:authorities="com.digitalTn.app.androidx-startup"
+=======
+            android:authorities="com.reserver.androidx-startup"
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"
@@ -108,8 +143,11 @@
                 android:value="androidx.startup" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
             <meta-data
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"
                 android:value="androidx.startup" />
@@ -136,12 +174,19 @@
         </receiver>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         </provider>
 
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+        </provider>
+
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
         <meta-data
             android:name="com.facebook.soloader.enabled"
             android:value="false" />

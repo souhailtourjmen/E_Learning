@@ -2,8 +2,11 @@
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string-array name="exo_controls_playback_speeds">
     <item>০.২৫x</item>
     <item>০.৫x</item>
@@ -22,10 +25,15 @@
     <item quantity="other">%d সেকেন্ড রিওয়াইন্ড করুন</item>
   </plurals>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%dটি নতুন বিজ্ঞপ্তি</item>
     <item quantity="other">%dটি নতুন বিজ্ঞপ্তি</item>
@@ -60,12 +68,18 @@
     <string gender="unknown" name="alert_description">অ্যালার্ট</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">যাচাইকরণ প্রয়োজন</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
     <string name="authentication_required">যাচাইকরণ প্রয়োজন</string>
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">যাচাইকরণ প্রয়োজন</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string name="bottomsheet_action_collapse">স্ক্রিনের নিচে অ্যাটাচ করা শিট আড়াল করুন</string>
     <string name="bottomsheet_action_expand">স্ক্রিনের নিচে অ্যাটাচ করা শিট বড় করুন</string>
     <string name="bottomsheet_action_expand_halfway">অর্ধেক প্রসারিত করুন</string>
@@ -81,8 +95,11 @@
     <string msgid="4776854077120974966" name="default_error_msg">"অজানা সমস্যা"</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string name="default_notification_channel_name">এখন চলছে</string>
     <string name="error_icon_content_description">সমস্যা</string>
     <string name="exo_controls_cc_disabled_description">সাবটাইটেল চালু করুন</string>
@@ -137,11 +154,17 @@
     <string name="exo_track_surround_7_point_1">7.1 সারাউন্ড সাউন্ড</string>
     <string name="exo_track_unknown">অজানা</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">সমস্যা</string>
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">সমস্যা</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string name="exposed_dropdown_menu_content_description">ড্রপ-ডাউন মেনু দেখুন</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"আঙ্গুলের ছাপের সেন্সর টাচ করুন"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"আঙ্গুলের ছাপ নেওয়ার হার্ডওয়্যার উপলভ্য নয়।"</string>
@@ -174,8 +197,11 @@
     <string name="material_timepicker_text_input_mode_description">সময় ইনপুট দেওয়ার জন্য পাঠ্য ইনপুট মোডে যান।</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string name="media3_controls_pause_description">পজ করুন</string>
     <string name="media3_controls_play_description">চালান</string>
     <string name="media3_controls_seek_back_description">ফিরে যাওয়ার বোতাম</string>
@@ -183,10 +209,15 @@
     <string name="media3_controls_seek_to_next_description">পরের আইটেমে যান</string>
     <string name="media3_controls_seek_to_previous_description">আগের আইটেমে যান</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string gender="unknown" name="menu_description">মেনু</string>
     <string gender="unknown" name="menubar_description">মেনু বার</string>
     <string gender="unknown" name="menuitem_description">মেনু আইটেম</string>

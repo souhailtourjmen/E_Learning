@@ -6,6 +6,7 @@
   },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "applicationId": "com.digitalTn.app",
 =======
   "applicationId": "com.reserver",
@@ -13,6 +14,12 @@
 =======
   "applicationId": "com.digitalTn.app",
 >>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+  "applicationId": "com.digitalTn.app",
+=======
+  "applicationId": "com.reserver",
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
   "variantName": "debug",
   "elements": [
     {

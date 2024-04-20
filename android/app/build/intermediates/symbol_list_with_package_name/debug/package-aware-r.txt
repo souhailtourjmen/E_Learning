@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 com.digitalTn.app
 =======
 com.reserver
@@ -7,6 +8,12 @@ com.reserver
 =======
 com.digitalTn.app
 >>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+com.digitalTn.app
+=======
+com.reserver
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -118,12 +125,18 @@ array crypto_fingerprint_fallback_vendors
 array delay_showing_prompt_models
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 array exo_controls_playback_speeds
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 array exo_controls_playback_speeds
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+array exo_controls_playback_speeds
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 array hide_fingerprint_instantly_prefixes
 attr actionBarDivider
 attr actionBarItemBackground
@@ -167,6 +180,7 @@ attr actualImageScaleType
 attr actualImageUri
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr ad_marker_color
 attr ad_marker_width
 =======
@@ -175,6 +189,12 @@ attr ad_marker_width
 attr ad_marker_color
 attr ad_marker_width
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr ad_marker_color
+attr ad_marker_width
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr addElevationShadow
 attr alertDialogButtonGroupStyle
 attr alertDialogCenterButtons
@@ -190,12 +210,18 @@ attr animate_relativeTo
 attr animationMode
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr animation_enabled
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr animation_enabled
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr animation_enabled
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr appBarLayoutStyle
 attr applyMotionScene
 attr arcMode
@@ -203,12 +229,18 @@ attr arrowHeadLength
 attr arrowShaftLength
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr artwork_display_mode
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr artwork_display_mode
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr artwork_display_mode
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr attributeName
 attr autoCompleteTextViewStyle
 attr autoShowKeyboard
@@ -220,12 +252,18 @@ attr autoSizeTextType
 attr autoTransition
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr auto_show
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr auto_show
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr auto_show
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr autofillInlineSuggestionChip
 attr autofillInlineSuggestionEndIconStyle
 attr autofillInlineSuggestionStartIconStyle
@@ -261,6 +299,7 @@ attr badgeWithTextWidth
 attr barLength
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr bar_gravity
 attr bar_height
 =======
@@ -269,6 +308,12 @@ attr bar_height
 attr bar_gravity
 attr bar_height
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr bar_gravity
+attr bar_height
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr barrierAllowsGoneWidgets
 attr barrierDirection
 attr barrierMargin
@@ -306,12 +351,18 @@ attr boxStrokeWidthFocused
 attr brightness
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr buffered_color
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr buffered_color
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr buffered_color
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr buttonBarButtonStyle
 attr buttonBarNegativeButtonStyle
 attr buttonBarNeutralButtonStyle
@@ -487,12 +538,18 @@ attr contrast
 attr controlBackground
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr controller_layout_id
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr controller_layout_id
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr controller_layout_id
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr coordinatorLayoutStyle
 attr coplanarSiblingViewId
 attr cornerFamily
@@ -535,12 +592,18 @@ attr defaultScrollFlagsEnabled
 attr defaultState
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr default_artwork
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr default_artwork
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr default_artwork
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr deltaPolarAngle
 attr deltaPolarRadius
 attr deriveConstraintsFrom
@@ -711,6 +774,7 @@ attr hideOnContentScroll
 attr hideOnScroll
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr hide_during_ads
 attr hide_on_touch
 =======
@@ -719,6 +783,12 @@ attr hide_on_touch
 attr hide_during_ads
 attr hide_on_touch
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr hide_during_ads
+attr hide_on_touch
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr hintAnimationEnabled
 attr hintEnabled
 attr hintTextAppearance
@@ -783,12 +853,18 @@ attr itemTextColor
 attr itemVerticalPadding
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr keep_content_on_player_reset
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr keep_content_on_player_reset
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr keep_content_on_player_reset
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr keyPositionType
 attr keyboardIcon
 attr keylines
@@ -1055,16 +1131,23 @@ attr placeholderTextColor
 attr placeholder_emptyVisibility
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b980ea3d (rename project)
 attr played_ad_marker_color
 attr played_color
 attr player_layout_id
 =======
+<<<<<<< HEAD
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr played_ad_marker_color
 attr played_color
 attr player_layout_id
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr popupMenuBackground
 attr popupMenuStyle
 attr popupTheme
@@ -1096,6 +1179,7 @@ attr region_widthMoreThan
 attr removeEmbeddedFabElevation
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr repeat_toggle_modes
 attr resize_mode
 =======
@@ -1104,6 +1188,12 @@ attr resize_mode
 attr repeat_toggle_modes
 attr resize_mode
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr repeat_toggle_modes
+attr resize_mode
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr retryImage
 attr retryImageScaleType
 attr reverseLayout
@@ -1127,6 +1217,9 @@ attr roundingBorderWidth
 attr saturation
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b980ea3d (rename project)
 attr scrimAnimationDuration
 attr scrimBackground
 attr scrimVisibleHeightTrigger
@@ -1140,6 +1233,7 @@ attr scalableType
 attr scrimAnimationDuration
 attr scrimBackground
 attr scrimVisibleHeightTrigger
+<<<<<<< HEAD
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr scrimAnimationDuration
@@ -1151,6 +1245,9 @@ attr scrubber_dragged_size
 attr scrubber_drawable
 attr scrubber_enabled_size
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr searchHintIcon
 attr searchIcon
 attr searchPrefixText
@@ -1183,8 +1280,11 @@ attr showText
 attr showTitle
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 attr show_buffering
 attr show_fastforward_button
 attr show_next_button
@@ -1197,11 +1297,17 @@ attr show_vr_button
 attr shrinkMotionSpec
 attr shutter_background_color
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 attr shrinkMotionSpec
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+attr shrinkMotionSpec
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr sideSheetDialogTheme
 attr sideSheetModalStyle
 attr simpleItemLayout
@@ -1262,12 +1368,18 @@ attr suffixTextColor
 attr suggestionRowLayout
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr surface_type
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr surface_type
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr surface_type
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr swipeRefreshLayoutProgressSpinnerBackgroundColor
 attr switchMinWidth
 attr switchPadding
@@ -1381,12 +1493,18 @@ attr tickRadiusInactive
 attr tickVisible
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr time_bar_min_update_interval
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr time_bar_min_update_interval
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr time_bar_min_update_interval
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr tint
 attr tintMode
 attr tintNavigationIcon
@@ -1420,12 +1538,18 @@ attr touchAnchorSide
 attr touchRegionId
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 attr touch_target_height
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 attr touch_target_height
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+attr touch_target_height
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr track
 attr trackColor
 attr trackColorActive
@@ -1449,8 +1573,11 @@ attr triggerSlack
 attr ttcIndex
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 attr unplayed_color
 attr useCompatPadding
 attr useDrawerArrowDrawable
@@ -1458,13 +1585,20 @@ attr useMaterialThemeColors
 attr use_artwork
 attr use_controller
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b980ea3d (rename project)
 =======
 attr useCompatPadding
 attr useDrawerArrowDrawable
 attr useMaterialThemeColors
+<<<<<<< HEAD
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 attr values
 attr verticalOffset
 attr verticalOffsetWithText
@@ -1588,8 +1722,11 @@ color error_color_material_dark
 color error_color_material_light
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 color exo_black_opacity_60
 color exo_black_opacity_70
 color exo_bottom_bar_background
@@ -1599,10 +1736,15 @@ color exo_styled_error_message_background
 color exo_white
 color exo_white_opacity_70
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
@@ -2402,8 +2544,11 @@ dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 dimen exo_error_message_height
 dimen exo_error_message_margin_bottom
 dimen exo_error_message_text_padding_horizontal
@@ -2440,10 +2585,15 @@ dimen exo_styled_progress_layout_height
 dimen exo_styled_progress_margin_bottom
 dimen exo_styled_progress_touch_target_height
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 dimen fastscroll_default_thickness
 dimen fastscroll_margin
 dimen fastscroll_minimum_range
@@ -3070,14 +3220,21 @@ dimen notification_top_pad
 dimen notification_top_pad_large_text
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b980ea3d (rename project)
 =======
 dimen subtitle_corner_radius
 dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
+<<<<<<< HEAD
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -3183,8 +3340,11 @@ drawable design_password_eye
 drawable design_snackbar_background
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 drawable exo_edit_mode_logo
 drawable exo_ic_audiotrack
 drawable exo_ic_check
@@ -3265,10 +3425,15 @@ drawable exo_styled_controls_subtitle_off
 drawable exo_styled_controls_subtitle_on
 drawable exo_styled_controls_vr
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 drawable fingerprint_dialog_error
 drawable fingerprint_dialog_fp_icon
 drawable ic_arrow_back_black_24
@@ -3306,8 +3471,11 @@ drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 drawable media3_icon_circular_play
 drawable media3_notification_pause
 drawable media3_notification_play
@@ -3318,10 +3486,15 @@ drawable media3_notification_seek_to_previous
 drawable media3_notification_small_icon
 drawable media_session_service_notification_ic_music_note
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 drawable mtrl_bottomsheet_drag_handle
 drawable mtrl_checkbox_button
 drawable mtrl_checkbox_button_checked_unchecked
@@ -3379,12 +3552,18 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 font roboto_medium_numbers
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 font roboto_medium_numbers
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+font roboto_medium_numbers
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -3495,6 +3674,9 @@ id catalyst_redbox_title
 id center
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b980ea3d (rename project)
 id centerCrop
 id centerInside
 =======
@@ -3504,11 +3686,15 @@ id centerCrop
 id centerInside
 id centerTop
 id centerTopCrop
+<<<<<<< HEAD
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id centerCrop
 id centerInside
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id center_horizontal
 id center_vertical
 id chain
@@ -3570,11 +3756,17 @@ id embed
 id end
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 id endInside
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+id endInside
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id endToStart
 id end_padder
 id enterAlways
@@ -3582,8 +3774,11 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 id exo_ad_overlay
 id exo_artwork
 id exo_audio_track
@@ -3635,10 +3830,15 @@ id exo_time
 id exo_track_selection_view
 id exo_vr
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id expand_activities_button
 id expanded_menu
 id fade
@@ -3652,12 +3852,18 @@ id fingerprint_icon
 id fingerprint_subtitle
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id fit
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id fit
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id fit
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id fitBottomStart
 id fitCenter
 id fitEnd
@@ -3667,6 +3873,7 @@ id fitXY
 id fixed
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id fixed_height
 id fixed_width
 =======
@@ -3675,6 +3882,12 @@ id fixed_width
 id fixed_height
 id fixed_width
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id fixed_height
+id fixed_width
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id flip
 id flipper_skip_empty_view_group_traversal
 id flipper_skip_view_traversal
@@ -3709,12 +3922,18 @@ id invisible
 id inward
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id is_pooling_container_tag
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id is_pooling_container_tag
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id is_pooling_container_tag
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id italic
 id item_touch_helper_previous_elevation
 id jumpToEnd
@@ -3725,6 +3944,9 @@ id layout
 id left
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b980ea3d (rename project)
 id leftToRight
 =======
 id leftBottom
@@ -3734,10 +3956,14 @@ id leftCenterCrop
 id leftToRight
 id leftTop
 id leftTopCrop
+<<<<<<< HEAD
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id leftToRight
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id legacy
 id line1
 id line3
@@ -3772,12 +3998,18 @@ id matrix
 id media_actions
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id media_controller_compat_view_tag
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id media_controller_compat_view_tag
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id media_controller_compat_view_tag
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id message
 id middle
 id mini
@@ -3830,12 +4062,18 @@ id off
 id on
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id one
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id one
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id one
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id outline
 id outward
 id packed
@@ -3853,12 +4091,18 @@ id pin
 id pointer_events
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id pooling_container_listener_holder_tag
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id pooling_container_listener_holder_tag
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id pooling_container_listener_holder_tag
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id position
 id postLayout
 id pressed
@@ -3870,11 +4114,15 @@ id react_test_id
 id rectangles
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b980ea3d (rename project)
 id report_drawn
 id reverseSawtooth
 id right
 id rightToLeft
 =======
+<<<<<<< HEAD
 =======
 id report_drawn
 >>>>>>> 4005439c (add Desing Screen course details)
@@ -3887,6 +4135,18 @@ id rightTopCrop
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id reverseSawtooth
+id right
+id rightBottom
+id rightBottomCrop
+id rightCenter
+id rightCenterCrop
+id rightToLeft
+id rightTop
+id rightTopCrop
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id right_icon
 id right_side
 id rn_frame_file
@@ -3953,12 +4213,18 @@ id spacer
 id special_effects_controller_view_tag
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id spherical_gl_surface_view
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id spherical_gl_surface_view
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id spherical_gl_surface_view
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id spline
 id split_action_bar
 id spread
@@ -3972,11 +4238,17 @@ id start
 id startHorizontal
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 id startInside
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+id startInside
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id startToEnd
 id startVertical
 id staticLayout
@@ -3988,12 +4260,18 @@ id submenuarrow
 id submit_area
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id surface_view
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id surface_view
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id surface_view
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -4026,12 +4304,18 @@ id textinput_prefix_text
 id textinput_suffix_text
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id texture_view
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id texture_view
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id texture_view
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id time
 id title
 id titleDividerNoCustom
@@ -4057,12 +4341,18 @@ id up
 id useLogo
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id video_decoder_gl_surface_view
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id video_decoder_gl_surface_view
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id video_decoder_gl_surface_view
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id view_offset_helper
 id view_tag_instance_handle
 id view_tag_native_id
@@ -4074,12 +4364,18 @@ id visible
 id visible_removing_fragment_view_tag
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id when_playing
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id when_playing
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id when_playing
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 id withText
 id with_icon
 id withinBounds
@@ -4087,12 +4383,18 @@ id wrap
 id wrap_content
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 id zoom
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 id zoom
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+id zoom
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
 integer app_bar_elevation_anim_duration
@@ -4103,6 +4405,7 @@ integer design_snackbar_text_max_lines
 integer design_tab_indicator_anim_duration_ms
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 integer exo_media_button_opacity_percentage_disabled
 integer exo_media_button_opacity_percentage_enabled
 =======
@@ -4111,6 +4414,12 @@ integer exo_media_button_opacity_percentage_enabled
 integer exo_media_button_opacity_percentage_disabled
 integer exo_media_button_opacity_percentage_enabled
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+integer exo_media_button_opacity_percentage_disabled
+integer exo_media_button_opacity_percentage_enabled
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 integer hide_password_duration
 integer m3_btn_anim_delay_ms
 integer m3_btn_anim_duration_ms
@@ -4238,8 +4547,11 @@ layout design_text_input_start_icon
 layout dev_loading_view
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 layout exo_legacy_player_control_view
 layout exo_list_divider
 layout exo_player_control_ffwd_button
@@ -4251,10 +4563,15 @@ layout exo_styled_settings_list_item
 layout exo_styled_sub_settings_list_item
 layout exo_track_selection_dialog
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 layout fingerprint_dialog_layout
 layout fps_view
 layout m3_alert_dialog
@@ -4334,18 +4651,27 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 plurals exo_controls_fastforward_by_amount_description
 plurals exo_controls_rewind_by_amount_description
 plurals mtrl_badge_content_description
 string API_URL
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 plurals mtrl_badge_content_description
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+plurals mtrl_badge_content_description
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -4379,12 +4705,18 @@ string app_name
 string appbar_scrolling_view_behavior
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 string authentication_required
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 string authentication_required
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+string authentication_required
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 string bottom_sheet_behavior
 string bottomsheet_action_collapse
 string bottomsheet_action_expand
@@ -4427,6 +4759,9 @@ string confirm_device_credential_password
 string default_error_msg
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b980ea3d (rename project)
 string default_notification_channel_name
 string error_a11y_label
 string error_drm_not_supported
@@ -4491,6 +4826,7 @@ string exo_track_surround_5_point_1
 string exo_track_surround_7_point_1
 string exo_track_unknown
 =======
+<<<<<<< HEAD
 =======
 string default_notification_channel_name
 >>>>>>> 4005439c (add Desing Screen course details)
@@ -4560,6 +4896,11 @@ string exo_track_surround_5_point_1
 string exo_track_surround_7_point_1
 string exo_track_unknown
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+string error_a11y_label
+string error_icon_content_description
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
@@ -4619,8 +4960,11 @@ string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 string media3_controls_pause_description
 string media3_controls_play_description
 string media3_controls_seek_back_description
@@ -4628,10 +4972,15 @@ string media3_controls_seek_forward_description
 string media3_controls_seek_to_next_description
 string media3_controls_seek_to_previous_description
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 string menu_description
 string menubar_description
 string menuitem_description
@@ -4727,12 +5076,18 @@ string timer_description
 string toolbar_description
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 string unrecognized_media_format
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 string unrecognized_media_format
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+string unrecognized_media_format
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -5026,8 +5381,11 @@ style DialogAnimationFade
 style DialogAnimationSlide
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
 style ExoMediaButton
 style ExoMediaButton_FastForward
 style ExoMediaButton_FullScreen
@@ -5062,10 +5420,15 @@ style ExoStyledControls_TimeText_Duration
 style ExoStyledControls_TimeText_Position
 style ExoStyledControls_TimeText_Separator
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 style MaterialAlertDialog_Material3
 style MaterialAlertDialog_Material3_Animation
 style MaterialAlertDialog_Material3_Body_Text
@@ -5929,12 +6292,18 @@ styleable AppCompatTextView android_textAppearance autoSizeMaxTextSize autoSizeM
 styleable AppCompatTheme android_windowIsFloating android_windowAnimationStyle actionBarDivider actionBarItemBackground actionBarPopupTheme actionBarSize actionBarSplitStyle actionBarStyle actionBarTabBarStyle actionBarTabStyle actionBarTabTextStyle actionBarTheme actionBarWidgetTheme actionButtonStyle actionDropDownStyle actionMenuTextAppearance actionMenuTextColor actionModeBackground actionModeCloseButtonStyle actionModeCloseContentDescription actionModeCloseDrawable actionModeCopyDrawable actionModeCutDrawable actionModeFindDrawable actionModePasteDrawable actionModePopupWindowStyle actionModeSelectAllDrawable actionModeShareDrawable actionModeSplitBackground actionModeStyle actionModeTheme actionModeWebSearchDrawable actionOverflowButtonStyle actionOverflowMenuStyle activityChooserViewStyle alertDialogButtonGroupStyle alertDialogCenterButtons alertDialogStyle alertDialogTheme autoCompleteTextViewStyle borderlessButtonStyle buttonBarButtonStyle buttonBarNegativeButtonStyle buttonBarNeutralButtonStyle buttonBarPositiveButtonStyle buttonBarStyle buttonStyle buttonStyleSmall checkboxStyle checkedTextViewStyle colorAccent colorBackgroundFloating colorButtonNormal colorControlActivated colorControlHighlight colorControlNormal colorError colorPrimary colorPrimaryDark colorSwitchThumbNormal controlBackground dialogCornerRadius dialogPreferredPadding dialogTheme dividerHorizontal dividerVertical dropDownListViewStyle dropdownListPreferredItemHeight editTextBackground editTextColor editTextStyle homeAsUpIndicator imageButtonStyle listChoiceBackgroundIndicator listChoiceIndicatorMultipleAnimated listChoiceIndicatorSingleAnimated listDividerAlertDialog listMenuViewStyle listPopupWindowStyle listPreferredItemHeight listPreferredItemHeightLarge listPreferredItemHeightSmall listPreferredItemPaddingEnd listPreferredItemPaddingLeft listPreferredItemPaddingRight listPreferredItemPaddingStart panelBackground panelMenuListTheme panelMenuListWidth popupMenuStyle popupWindowStyle radioButtonStyle ratingBarStyle ratingBarStyleIndicator ratingBarStyleSmall searchViewStyle seekBarStyle selectableItemBackground selectableItemBackgroundBorderless spinnerDropDownItemStyle spinnerStyle switchStyle textAppearanceLargePopupMenu textAppearanceListItem textAppearanceListItemSecondary textAppearanceListItemSmall textAppearancePopupMenuHeader textAppearanceSearchResultSubtitle textAppearanceSearchResultTitle textAppearanceSmallPopupMenu textColorAlertDialogListItem textColorSearchUrl toolbarNavigationButtonStyle toolbarStyle tooltipForegroundColor tooltipFrameBackground viewInflaterClass windowActionBar windowActionBarOverlay windowActionModeOverlay windowFixedHeightMajor windowFixedHeightMinor windowFixedWidthMajor windowFixedWidthMinor windowMinWidthMajor windowMinWidthMinor windowNoTitle
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 styleable AspectRatioFrameLayout resize_mode
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 styleable AspectRatioFrameLayout resize_mode
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+styleable AspectRatioFrameLayout resize_mode
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 styleable Autofill_InlineSuggestion autofillInlineSuggestionChip autofillInlineSuggestionEndIconStyle autofillInlineSuggestionStartIconStyle autofillInlineSuggestionSubtitle autofillInlineSuggestionTitle isAutofillInlineSuggestionTheme
 styleable Badge backgroundColor badgeGravity badgeHeight badgeRadius badgeShapeAppearance badgeShapeAppearanceOverlay badgeTextAppearance badgeTextColor badgeWidePadding badgeWidth badgeWithTextHeight badgeWithTextRadius badgeWithTextShapeAppearance badgeWithTextShapeAppearanceOverlay badgeWithTextWidth horizontalOffset horizontalOffsetWithText maxCharacterCount number offsetAlignmentMode verticalOffset verticalOffsetWithText
 styleable BaseProgressIndicator android_indeterminate hideAnimationBehavior indicatorColor minHideDelay showAnimationBehavior showDelay trackColor trackCornerRadius trackThickness
@@ -5963,12 +6332,18 @@ styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_a
 styleable CustomAttribute attributeName customBoolean customColorDrawableValue customColorValue customDimension customFloatValue customIntegerValue customPixelDimension customStringValue
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 styleable DefaultTimeBar ad_marker_color ad_marker_width bar_gravity bar_height buffered_color played_ad_marker_color played_color scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size touch_target_height unplayed_color
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 styleable DefaultTimeBar ad_marker_color ad_marker_width bar_gravity bar_height buffered_color played_ad_marker_color played_color scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size touch_target_height unplayed_color
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+styleable DefaultTimeBar ad_marker_color ad_marker_width bar_gravity bar_height buffered_color played_ad_marker_color played_color scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size touch_target_height unplayed_color
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 styleable DrawerArrowToggle arrowHeadLength arrowShaftLength barLength color drawableSize gapBetweenBars spinBars thickness
 styleable DrawerLayout elevation
 styleable ExtendedFloatingActionButton collapsedSize elevation extendMotionSpec extendStrategy hideMotionSpec showMotionSpec shrinkMotionSpec
@@ -5997,12 +6372,18 @@ styleable KeyTrigger framePosition motionTarget motion_postLayoutCollision motio
 styleable Layout android_orientation android_layout_width android_layout_height android_layout_marginLeft android_layout_marginTop android_layout_marginRight android_layout_marginBottom android_layout_marginStart android_layout_marginEnd barrierAllowsGoneWidgets barrierDirection barrierMargin chainUseRtl constraint_referenced_ids layout_constrainedHeight layout_constrainedWidth layout_constraintBaseline_creator layout_constraintBaseline_toBaselineOf layout_constraintBottom_creator layout_constraintBottom_toBottomOf layout_constraintBottom_toTopOf layout_constraintCircle layout_constraintCircleAngle layout_constraintCircleRadius layout_constraintDimensionRatio layout_constraintEnd_toEndOf layout_constraintEnd_toStartOf layout_constraintGuide_begin layout_constraintGuide_end layout_constraintGuide_percent layout_constraintHeight_default layout_constraintHeight_max layout_constraintHeight_min layout_constraintHeight_percent layout_constraintHorizontal_bias layout_constraintHorizontal_chainStyle layout_constraintHorizontal_weight layout_constraintLeft_creator layout_constraintLeft_toLeftOf layout_constraintLeft_toRightOf layout_constraintRight_creator layout_constraintRight_toLeftOf layout_constraintRight_toRightOf layout_constraintStart_toEndOf layout_constraintStart_toStartOf layout_constraintTop_creator layout_constraintTop_toBottomOf layout_constraintTop_toTopOf layout_constraintVertical_bias layout_constraintVertical_chainStyle layout_constraintVertical_weight layout_constraintWidth_default layout_constraintWidth_max layout_constraintWidth_min layout_constraintWidth_percent layout_editor_absoluteX layout_editor_absoluteY layout_goneMarginBottom layout_goneMarginEnd layout_goneMarginLeft layout_goneMarginRight layout_goneMarginStart layout_goneMarginTop maxHeight maxWidth minHeight minWidth
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 styleable LegacyPlayerControlView ad_marker_color ad_marker_width bar_gravity bar_height buffered_color controller_layout_id played_ad_marker_color played_color repeat_toggle_modes scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_fastforward_button show_next_button show_previous_button show_rewind_button show_shuffle_button show_timeout time_bar_min_update_interval touch_target_height unplayed_color
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 styleable LegacyPlayerControlView ad_marker_color ad_marker_width bar_gravity bar_height buffered_color controller_layout_id played_ad_marker_color played_color repeat_toggle_modes scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_fastforward_button show_next_button show_previous_button show_rewind_button show_shuffle_button show_timeout time_bar_min_update_interval touch_target_height unplayed_color
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+styleable LegacyPlayerControlView ad_marker_color ad_marker_width bar_gravity bar_height buffered_color controller_layout_id played_ad_marker_color played_color repeat_toggle_modes scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_fastforward_button show_next_button show_previous_button show_rewind_button show_shuffle_button show_timeout time_bar_min_update_interval touch_target_height unplayed_color
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 styleable LinearLayoutCompat android_gravity android_orientation android_baselineAligned android_baselineAlignedChildIndex android_weightSum divider dividerPadding measureWithLargestChild showDividers
 styleable LinearLayoutCompat_Layout android_layout_gravity android_layout_width android_layout_height android_layout_weight
 styleable LinearProgressIndicator indeterminateAnimationType indicatorDirectionLinear
@@ -6042,6 +6423,7 @@ styleable OnClick clickAction targetId
 styleable OnSwipe dragDirection dragScale dragThreshold limitBoundsTo maxAcceleration maxVelocity moveWhenScrollAtTop nestedScrollFlags onTouchUp touchAnchorId touchAnchorSide touchRegionId
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 styleable PlayerControlView ad_marker_color ad_marker_width animation_enabled bar_gravity bar_height buffered_color controller_layout_id played_ad_marker_color played_color repeat_toggle_modes scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_fastforward_button show_next_button show_previous_button show_rewind_button show_shuffle_button show_subtitle_button show_timeout show_vr_button time_bar_min_update_interval touch_target_height unplayed_color
 styleable PlayerView ad_marker_color ad_marker_width animation_enabled artwork_display_mode auto_show bar_gravity bar_height buffered_color controller_layout_id default_artwork hide_during_ads hide_on_touch keep_content_on_player_reset played_ad_marker_color played_color player_layout_id repeat_toggle_modes resize_mode scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_buffering show_shuffle_button show_subtitle_button show_timeout show_vr_button shutter_background_color surface_type time_bar_min_update_interval touch_target_height unplayed_color use_artwork use_controller
 =======
@@ -6050,6 +6432,12 @@ styleable PlayerView ad_marker_color ad_marker_width animation_enabled artwork_d
 styleable PlayerControlView ad_marker_color ad_marker_width animation_enabled bar_gravity bar_height buffered_color controller_layout_id played_ad_marker_color played_color repeat_toggle_modes scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_fastforward_button show_next_button show_previous_button show_rewind_button show_shuffle_button show_subtitle_button show_timeout show_vr_button time_bar_min_update_interval touch_target_height unplayed_color
 styleable PlayerView ad_marker_color ad_marker_width animation_enabled artwork_display_mode auto_show bar_gravity bar_height buffered_color controller_layout_id default_artwork hide_during_ads hide_on_touch keep_content_on_player_reset played_ad_marker_color played_color player_layout_id repeat_toggle_modes resize_mode scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_buffering show_shuffle_button show_subtitle_button show_timeout show_vr_button shutter_background_color surface_type time_bar_min_update_interval touch_target_height unplayed_color use_artwork use_controller
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+styleable PlayerControlView ad_marker_color ad_marker_width animation_enabled bar_gravity bar_height buffered_color controller_layout_id played_ad_marker_color played_color repeat_toggle_modes scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_fastforward_button show_next_button show_previous_button show_rewind_button show_shuffle_button show_subtitle_button show_timeout show_vr_button time_bar_min_update_interval touch_target_height unplayed_color
+styleable PlayerView ad_marker_color ad_marker_width animation_enabled artwork_display_mode auto_show bar_gravity bar_height buffered_color controller_layout_id default_artwork hide_during_ads hide_on_touch keep_content_on_player_reset played_ad_marker_color played_color player_layout_id repeat_toggle_modes resize_mode scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_buffering show_shuffle_button show_subtitle_button show_timeout show_vr_button shutter_background_color surface_type time_bar_min_update_interval touch_target_height unplayed_color use_artwork use_controller
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 styleable PopupWindow android_popupBackground android_popupAnimationStyle overlapAnchor
 styleable PopupWindowBackgroundState state_above_anchor
 styleable PropertySet android_visibility android_alpha layout_constraintTag motionProgress visibilityMode
@@ -6093,9 +6481,15 @@ styleable ViewPager2 android_orientation
 styleable ViewStubCompat android_id android_layout android_inflatedId
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 styleable scaleStyle scalableType
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+styleable scaleStyle scalableType
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 xml rn_dev_preferences

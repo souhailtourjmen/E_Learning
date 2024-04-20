@@ -2,8 +2,11 @@
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25 пати</item>
     <item>0,5 пати</item>
@@ -22,10 +25,15 @@
     <item quantity="other">Премотајте %d секунди</item>
   </plurals>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d ново известување</item>
     <item quantity="other">%d нови известувања</item>
@@ -60,12 +68,18 @@
     <string gender="unknown" name="alert_description">Предупредување</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Потребна е проверка</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
     <string name="authentication_required">Потребна е проверка</string>
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">Потребна е проверка</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string name="bottomsheet_action_collapse">Соберете го долниот лист</string>
     <string name="bottomsheet_action_expand">Проширете го долниот лист</string>
     <string name="bottomsheet_action_expand_halfway">Прошири до половина</string>
@@ -81,8 +95,11 @@
     <string msgid="4776854077120974966" name="default_error_msg">"Непозната грешка"</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string name="default_notification_channel_name">Сега е пуштено</string>
     <string name="error_icon_content_description">Грешка</string>
     <string name="exo_controls_cc_disabled_description">Овозможете ги титловите</string>
@@ -137,11 +154,17 @@
     <string name="exo_track_surround_7_point_1">7.1 опкружувачки звук</string>
     <string name="exo_track_unknown">Непозната</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Грешка</string>
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">Грешка</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string name="exposed_dropdown_menu_content_description">Прикажи паѓачко мени</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Допрете го сенз. за отпечатоци"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Нема достапен хардвер за отпечатоци."</string>
@@ -174,8 +197,11 @@
     <string name="material_timepicker_text_input_mode_description">Префрлете се на режимот за внесување текст за да внесете време.</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string name="media3_controls_pause_description">Паузирај</string>
     <string name="media3_controls_play_description">Пушти</string>
     <string name="media3_controls_seek_back_description">Премотај наназад</string>
@@ -183,10 +209,15 @@
     <string name="media3_controls_seek_to_next_description">Премотај на следната ставка</string>
     <string name="media3_controls_seek_to_previous_description">Премотај на претходната ставка</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string gender="unknown" name="menu_description">Мени</string>
     <string gender="unknown" name="menubar_description">Мени лента</string>
     <string gender="unknown" name="menuitem_description">Производ на мени</string>

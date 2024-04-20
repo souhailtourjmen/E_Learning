@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "digital.tn",
 =======
   "name": "Reserver",
@@ -14,17 +15,26 @@
   "name": "digital.tn",
 >>>>>>> 0d945e64 (change name Digital.Tn)
 =======
+=======
+>>>>>>> b980ea3d (rename project)
   "name": "digital.tn",
 =======
   "name": "Reserver",
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+  "name": "Reserver",
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "lint": "eslint .",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -37,16 +47,27 @@
 =======
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     "dev": "cd android/ && ./gradlew clean && react-native start --reset-cache",
     "build-staging": "cp ./.env.staging ./.env && npx react-native run-android",
     "build-prod": "cp ./.env.prod ./.env && npx react-native run-android",
     "release": "cd android && ./gradlew assembleRelease && cd ../",
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 9ce4bce8 (rename project)
 =======
 =======
 >>>>>>> e6aa837d (first unit project)
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     "start": "react-native start",
     "test": "jest"
   },

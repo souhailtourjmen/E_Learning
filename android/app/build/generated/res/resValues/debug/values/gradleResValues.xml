@@ -9,6 +9,7 @@
     <integer name="react_native_inspector_proxy_port">8081</integer>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <!-- Value from default config. -->
     <string name="API_URL" translatable="false">"http://192.168.1.12:3000"</string>
 =======
@@ -17,5 +18,11 @@
     <!-- Value from default config. -->
     <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <!-- Value from default config. -->
+    <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 
 </resources>

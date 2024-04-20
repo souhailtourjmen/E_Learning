@@ -2,8 +2,11 @@
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -22,10 +25,15 @@
     <item quantity="other">%d վայրկյան հետ տալ</item>
   </plurals>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d նոր ծանուցում</item>
     <item quantity="other">%d նոր ծանուցում</item>
@@ -59,12 +67,18 @@
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ծալել"</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Պահանջվում է նույնականացում</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
     <string name="authentication_required">Պահանջվում է նույնականացում</string>
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">Պահանջվում է նույնականացում</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string name="bottomsheet_action_collapse">Ծալել ներքևի էկրանը</string>
     <string name="bottomsheet_action_expand">Ծավալել ներքևի էկրանը</string>
     <string name="bottomsheet_action_expand_halfway">Ծավալել կիսով չափ</string>
@@ -78,8 +92,11 @@
     <string msgid="4776854077120974966" name="default_error_msg">"Անհայտ սխալ"</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string name="default_notification_channel_name">Այժմ նվագարկվում է</string>
     <string name="error_icon_content_description">Սխալ</string>
     <string name="exo_controls_cc_disabled_description">Միացնել ենթագրերը</string>
@@ -134,11 +151,17 @@
     <string name="exo_track_surround_7_point_1">7․1 ծավալային ձայն</string>
     <string name="exo_track_unknown">Անհայտ</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Սխալ</string>
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">Սխալ</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string name="exposed_dropdown_menu_content_description">Ցույց տալ իջնող ընտրացանկը</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Հպեք մատնահետքի սկաներին"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Մատնահետքերի սարքն անհասանելի է:"</string>
@@ -170,8 +193,11 @@
     <string name="material_timepicker_text_input_mode_description">Ժամը մուտքագրելու համար միացրեք տեքստի մուտքագրման ռեժիմը:</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string name="media3_controls_pause_description">Դադարեցնել</string>
     <string name="media3_controls_play_description">Նվագարկել</string>
     <string name="media3_controls_seek_back_description">Հետ գնալ</string>
@@ -179,10 +205,15 @@
     <string name="media3_controls_seek_to_next_description">Անցնել հաջորդ տարրին</string>
     <string name="media3_controls_seek_to_previous_description">Անցնել նախորդ տարրին</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string gender="unknown" name="menu_description">Ընտրացանկ</string>
     <string name="mtrl_badge_numberless_content_description">Նոր ծանուցում</string>
     <string name="mtrl_chip_close_icon_content_description">Հեռացնել (%1$s)</string>

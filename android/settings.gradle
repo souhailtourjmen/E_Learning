@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 rootProject.name = 'Digital.Tn'
 =======
 rootProject.name = 'Reserver'
@@ -13,11 +14,19 @@ rootProject.name = 'Reserver'
 rootProject.name = 'Digital.Tn'
 >>>>>>> 0d945e64 (change name Digital.Tn)
 =======
+=======
+>>>>>>> b980ea3d (rename project)
 rootProject.name = 'Digital.Tn'
 =======
 rootProject.name = 'Reserver'
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+rootProject.name = 'Reserver'
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
 include ':app'
 includeBuild('../node_modules/@react-native/gradle-plugin')

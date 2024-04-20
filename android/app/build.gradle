@@ -82,8 +82,11 @@ android {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> b980ea3d (rename project)
     namespace "com.digitalTn.app"
     defaultConfig {
         applicationId "com.digitalTn.app"
@@ -105,7 +108,15 @@ android {
 >>>>>>> 0d945e64 (change name Digital.Tn)
 =======
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+    namespace "com.reserver"
+    defaultConfig {
+        applicationId "com.reserver"
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

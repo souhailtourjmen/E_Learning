@@ -1,4 +1,19 @@
 {
+<<<<<<< HEAD
   "name": "Digital.Tn",
   "displayName": "Digital.Tn"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "name": "Digital.Tn",
+  "displayName": "Digital.Tn"
+=======
+  "name": "Reserver",
+  "displayName": "Reserver"
+>>>>>>> e6aa837d (first unit project)
+=======
+  "name": "Reserver",
+  "displayName": "Reserver"
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 }

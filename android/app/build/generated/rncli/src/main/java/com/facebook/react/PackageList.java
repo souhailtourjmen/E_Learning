@@ -16,8 +16,10 @@ import java.util.ArrayList;
 import com.shopify.reactnative.flash_list.ReactNativeFlashListPackage;
 // react-native-config
 import com.lugg.RNCConfig.RNCConfigPackage;
+<<<<<<< HEAD
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.RNGestureHandlerPackage;
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 // react-native-config
@@ -25,6 +27,10 @@ import com.lugg.RNCConfig.RNCConfigPackage;
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 // react-native-keychain
 import com.oblador.keychain.KeychainPackage;
 // react-native-linear-gradient
@@ -33,6 +39,7 @@ import com.BV.LinearGradient.LinearGradientPackage;
 import com.zoontek.rnlocalize.RNLocalizePackage;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // react-native-reanimated
 import com.swmansion.reanimated.ReanimatedPackage;
 =======
@@ -41,12 +48,19 @@ import com.swmansion.reanimated.ReanimatedPackage;
 // react-native-reanimated
 import com.swmansion.reanimated.ReanimatedPackage;
 >>>>>>> 38206cac (- add ui kitten)
+=======
+// react-native-reanimated
+import com.swmansion.reanimated.ReanimatedPackage;
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 // react-native-safe-area-context
 import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 // react-native-screens
 import com.swmansion.rnscreens.RNScreensPackage;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // react-native-svg
 import com.horcrux.svg.SvgPackage;
 =======
@@ -55,6 +69,12 @@ import com.horcrux.svg.SvgPackage;
 // react-native-svg
 import com.horcrux.svg.SvgPackage;
 >>>>>>> 38206cac (- add ui kitten)
+=======
+// react-native-svg
+import com.horcrux.svg.SvgPackage;
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 // react-native-vector-icons
 import com.oblador.vectoricons.VectorIconsPackage;
 // react-native-video
@@ -107,6 +127,7 @@ public class PackageList {
 <<<<<<< HEAD
       new ReactNativeFlashListPackage(),
       new RNCConfigPackage(),
+<<<<<<< HEAD
       new RNGestureHandlerPackage(),
       new KeychainPackage(),
       new LinearGradientPackage(),
@@ -116,6 +137,7 @@ public class PackageList {
       new RNScreensPackage(),
       new SvgPackage(),
 =======
+<<<<<<< HEAD
       new RNCConfigPackage(),
       new RNGestureHandlerPackage(),
       new KeychainPackage(),
@@ -129,6 +151,14 @@ public class PackageList {
 =======
       new SvgPackage(),
 >>>>>>> 38206cac (- add ui kitten)
+=======
+      new KeychainPackage(),
+      new LinearGradientPackage(),
+      new RNLocalizePackage(),
+      new SafeAreaContextPackage(),
+      new RNScreensPackage(),
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
       new VectorIconsPackage(),
       new ReactVideoPackage()
     ));

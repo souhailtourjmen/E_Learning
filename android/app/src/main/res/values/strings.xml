@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="app_name">Digital.Tn</string>
 =======
     <string name="app_name">Reserver</string>
@@ -14,9 +15,17 @@
     <string name="app_name">Digital.Tn</string>
 >>>>>>> 0d945e64 (change name Digital.Tn)
 =======
+=======
+>>>>>>> b980ea3d (rename project)
     <string name="app_name">Digital.Tn</string>
 =======
     <string name="app_name">Reserver</string>
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+    <string name="app_name">Reserver</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
 </resources>

@@ -2,8 +2,11 @@
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -22,10 +25,15 @@
     <item quantity="other">Voltar %d segundos</item>
   </plurals>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
@@ -56,12 +64,18 @@
     <string gender="unknown" name="alert_description">Alerta</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Autenticação necessária</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
     <string name="authentication_required">Autenticação necessária</string>
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">Autenticação necessária</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string gender="unknown" name="catalyst_dev_menu_header">Menu de desenvolvedor de reações nativas (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">%1$s em veiculação</string>
     <string gender="unknown" name="combobox_description">Caixa de combinação</string>
@@ -69,8 +83,11 @@
     <string msgid="4776854077120974966" name="default_error_msg">"Erro desconhecido"</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string name="default_notification_channel_name">Tocando agora</string>
     <string name="exo_controls_cc_disabled_description">Ativar legendas</string>
     <string name="exo_controls_cc_enabled_description">Desativar legendas</string>
@@ -124,10 +141,15 @@
     <string name="exo_track_surround_7_point_1">Sistema surround 7.1</string>
     <string name="exo_track_unknown">Desconhecido</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Toque no sensor de digital"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Hardware de impressão digital não disponível."</string>
     <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Este dispositivo não tem um sensor de impressão digital"</string>
@@ -144,8 +166,11 @@
     <string gender="unknown" name="link_description">Link</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
     <string name="media3_controls_pause_description">Pausar</string>
     <string name="media3_controls_play_description">Tocar</string>
     <string name="media3_controls_seek_back_description">Retroceder</string>
@@ -153,10 +178,15 @@
     <string name="media3_controls_seek_to_next_description">Ir para o próximo item</string>
     <string name="media3_controls_seek_to_previous_description">Ir para o item anterior</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
     <string gender="unknown" name="menu_description">Menu</string>
     <string gender="unknown" name="menubar_description">Barra do menu</string>
     <string gender="unknown" name="menuitem_description">Item do menu</string>
