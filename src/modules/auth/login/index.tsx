@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 import React, { ReactElement } from "react";
 
 import { styles } from "./styles";
@@ -281,6 +284,7 @@ export default SignIn;
 =======
 import React, { ReactElement, memo, useCallback, useEffect, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
+<<<<<<< HEAD
 =======
 import React, {
   ReactElement,
@@ -571,13 +575,22 @@ const SignIn = ({}: propsSignIn): ReactElement => {
   );
 };
 <<<<<<< HEAD
+=======
+
+type LoginProps = {
+};
+>>>>>>> 4cdec91b (first unit project)
 
 const Login = ({}: LoginProps): ReactElement => {
   return (<View></View>);
 };
 
 export default Login;
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
 export default SignIn;
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)

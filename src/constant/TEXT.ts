@@ -32,6 +32,7 @@ export default {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     HOME: {
       welcome: 'HOME.interface.welcome',
       coursAVenir: 'HOME.interface.coursAVenir',
@@ -47,12 +48,18 @@ export default {
 
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
 =======
+=======
+>>>>>>> 4cdec91b (first unit project)
     HOME: {
       welcome: 'HOME.interface.welcome',
       coursAVenir: 'HOME.interface.coursAVenir',
       recommendedForYOU: 'HOME.interface.recommendedForYOU',
       VoirTout: 'HOME.interface.VoirTout',
       
+=======
+    ROUTES: {
+      Intro: 'ROUTES.Intro',
+>>>>>>> e6aa837d (first unit project)
     },
 >>>>>>> c3fc9c43 (screen in progress)
     message: {
@@ -69,8 +76,11 @@ export default {
       invited: 'OnBoarding.interface.invited',
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+>>>>>>> 4cdec91b (first unit project)
     },
     Login: {
       SeConnecter: 'login.interface.SeConnecter',
@@ -210,6 +220,7 @@ export default {
     },
 =======
     }
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
     
@@ -218,5 +229,8 @@ export default {
       ONBOARDING: 'ROUTES.ONBOARDING',
     },
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   };
   

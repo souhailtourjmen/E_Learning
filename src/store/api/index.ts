@@ -8,12 +8,18 @@ const baseQueryWithAuth = fetchBaseQuery({
     const token = await getToken();
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     console.log('\x1b[34m%s\x1b[0m', 'src/store/api/index.ts:9 token', token);
 =======
     // console.log('%cindex.ts line:10 token', 'color: #007acc;', token);
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+=======
+    // console.log('%cindex.ts line:10 token', 'color: #007acc;', token);
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
     if (token) {
       headers.set('Authorization', `Bearer ${token}`);
     }
@@ -42,6 +48,7 @@ export const apiSlice: any = createApi({
   baseQuery: baseQueryWithReauth,
   tagTypes: [
 <<<<<<< HEAD
+<<<<<<< HEAD
    "courses",
    "course",
    "coursesFiltre",
@@ -52,6 +59,12 @@ export const apiSlice: any = createApi({
 =======
    
 >>>>>>> ab93aef2 (first unit project)
+=======
+   "courses"
+=======
+   
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   ],
   endpoints: builder => ({}),
 });

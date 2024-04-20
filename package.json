@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "digital.tn",
 =======
   "name": "Reserver",
@@ -12,12 +13,19 @@
 =======
   "name": "digital.tn",
 >>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+  "name": "digital.tn",
+=======
+  "name": "Reserver",
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "lint": "eslint .",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     "dev": "cd android/ && ./gradlew clean && react-native start --reset-cache",
@@ -27,28 +35,42 @@
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
+=======
+>>>>>>> 4cdec91b (first unit project)
     "dev": "cd android/ && ./gradlew clean && react-native start --reset-cache",
     "build-staging": "cp ./.env.staging ./.env && npx react-native run-android",
     "build-prod": "cp ./.env.prod ./.env && npx react-native run-android",
     "release": "cd android && ./gradlew assembleRelease && cd ../",
+<<<<<<< HEAD
 >>>>>>> 9ce4bce8 (rename project)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
     "start": "react-native start",
     "test": "jest"
   },
   "dependencies": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
     "@eva-design/eva": "^2.2.0",
     "@hookform/resolvers": "^3.3.4",
 <<<<<<< HEAD
     "@react-navigation/bottom-tabs": "^6.5.20",
 =======
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
     "@eva-design/eva": "^2.2.0",
 >>>>>>> 38206cac (- add ui kitten)
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
     "@react-navigation/native": "^6.1.14",
     "@react-navigation/native-stack": "^6.9.22",
     "@react-navigation/stack": "^6.3.25",
@@ -83,6 +105,7 @@
     "yup": "^1.4.0"
 =======
     "@types/react-native-video": "^5.0.19",
+<<<<<<< HEAD
     "@ui-kitten/components": "^5.3.1",
     "add": "^2.0.6",
     "i18next": "^23.10.0",
@@ -110,7 +133,28 @@
 =======
     "yarn": "^1.22.21",
     "yup": "^1.4.0"
+<<<<<<< HEAD
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+=======
+    "add": "^2.0.6",
+    "i18next": "^23.10.0",
+    "react": "18.2.0",
+    "react-i18next": "^14.0.5",
+    "react-native": "0.73.5",
+    "react-native-config": "^1.5.1",
+    "react-native-keychain": "^8.2.0",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-localize": "^3.0.6",
+    "react-native-rename": "^3.2.14",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-screens": "^3.29.0",
+    "react-native-vector-icons": "^10.0.3",
+    "react-native-video": "^5.2.1",
+    "react-redux": "^9.1.0",
+    "yarn": "^1.22.21"
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

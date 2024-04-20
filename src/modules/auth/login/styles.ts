@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 import {StyleSheet} from 'react-native';
 import { FONTFAMILY } from '../../../constant';
 
@@ -90,6 +93,7 @@ import { StyleSheet} from 'react-native';
 export const styles = StyleSheet.create({
 
   });
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
 import {StyleSheet} from 'react-native';
@@ -176,3 +180,6 @@ export const styles = StyleSheet.create({
   }
 });
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)

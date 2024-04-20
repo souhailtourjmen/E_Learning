@@ -4,6 +4,7 @@ export const VIDEO= {
 }
 export const IMGS= {
     // videos
+<<<<<<< HEAD
     ArrowIcon: require('../../assets/app_images/ArrowIcon.png'),
 }
 export const ICONS= {
@@ -38,6 +39,7 @@ export const ICONS= {
 =======
     VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
 }
+<<<<<<< HEAD
 export const IMGS= {
     // videos
     ArrowIcon: require('../../assets/app_images/ArrowIcon.png'),
@@ -46,4 +48,10 @@ export const ICONS= {
     // videos
     VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
 >>>>>>> ab93aef2 (first unit project)
+=======
+export const ICONS= {
+    // videos
+    VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 }

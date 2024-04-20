@@ -19,6 +19,7 @@ export const store = configureStore({
     getDefaultMiddleware().concat(apiSlice.middleware),
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   devTools: false,
 =======
   devTools: true,
@@ -26,6 +27,12 @@ export const store = configureStore({
 =======
   devTools: false,
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+  devTools: false,
+=======
+  devTools: true,
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 });
 setupListeners(store.dispatch);
 

@@ -1,10 +1,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
@@ -23,6 +29,9 @@ import { store } from "./src/store";
 import Navigation from "./src/navigation";
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 import { ColorSchemeName, StatusBar } from "react-native";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { ApplicationProvider } from "@ui-kitten/components";
@@ -48,6 +57,7 @@ function App(): JSX.Element {
         </GestureHandlerRootView>
 =======
 import { ColorSchemeName } from "react-native";
+<<<<<<< HEAD
 =======
 import { ColorSchemeName, StatusBar } from "react-native";
 >>>>>>> 0dd5df8f (- ADD element in screen home)
@@ -78,6 +88,16 @@ function App(): JSX.Element {
           </ApplicationProvider>
         </GestureHandlerRootView>
 >>>>>>> 38206cac (- add ui kitten)
+=======
+function App(): JSX.Element {
+  const colorScheme: NonNullable<ColorSchemeName> = useColorScheme();
+
+  return (
+    <SafeAreaProvider>
+      <Provider store={store}>
+        <Navigation colorScheme={colorScheme} />
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
       </Provider>
     </SafeAreaProvider>
   );

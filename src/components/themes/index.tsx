@@ -197,4 +197,8 @@ import { useColorScheme } from "../../hooks";
       <DefaultFlatList style={[{ backgroundColor }, style]} {...otherProps} />
     );
   }
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)

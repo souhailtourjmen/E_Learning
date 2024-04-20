@@ -3,7 +3,11 @@ import { ROUTES, TEXT } from "../../constant";
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ProgressionScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
+=======
+import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
+>>>>>>> 4cdec91b (first unit project)
 import i18n from "../../config/mulitLang";
 import { CustomHeader } from "../../components";
 export const ARRAYROUTES = [
@@ -121,5 +125,18 @@ export const ARRAYROUTES = [
   },
   
   
+<<<<<<< HEAD
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+import { Intro } from "../../screens";
+import i18n from "../../config/mulitLang";
+export const ARRAYROUTES = [
+  {
+    route: ROUTES.INTRO,
+    label: i18n.t(TEXT.ROUTES.Intro),
+    component: Intro,
+  },
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 ];

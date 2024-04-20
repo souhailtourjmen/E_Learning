@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 import React, { useId } from "react";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { ARRAYROUTES } from "./config";
@@ -17,6 +20,7 @@ export const RootNavigator = () => {
       initialRouteName={ROUTES.ONBOARDING}
 =======
 import React from "react";
+<<<<<<< HEAD
 =======
 import React, { useId } from "react";
 >>>>>>> 50fe44b2 (- add WS login implementation)
@@ -41,6 +45,18 @@ export const RootNavigator = () => {
 =======
       initialRouteName={ROUTES.ONBOARDING}
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
+import { ARRAYROUTES } from "./config";
+import { ROUTES } from "../constant";
+
+const Stack = createNativeStackNavigator();
+export const RootNavigator = () => {
+  return (
+    <Stack.Navigator
+      initialRouteName={ROUTES.INTRO}
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
       screenOptions={{
         headerBackTitleVisible: false,
       }}
@@ -50,6 +66,9 @@ export const RootNavigator = () => {
           <Stack.Screen
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
             key={idStack}
             name={item.label}
             component={item.component}
@@ -74,6 +93,7 @@ export const RootNavigator = () => {
               ),
             })}
           />
+<<<<<<< HEAD
        <Stack.Screen
             key={idStack}
             name={ROUTES.COurseFilter}
@@ -111,6 +131,17 @@ export const RootNavigator = () => {
             })}
           />
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+=======
+            key={index?.toString()}
+            name={item.label}
+            component={item.component}
+            options={{ headerShown: false }}
+          />
+        );
+      })}
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
     </Stack.Navigator>
   );
 };

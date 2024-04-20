@@ -1134,6 +1134,7 @@ PODS:
     - React-Core
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - RNSVG (15.1.0):
     - React-Core
 =======
@@ -1142,6 +1143,12 @@ PODS:
   - RNSVG (15.1.0):
     - React-Core
 >>>>>>> 38206cac (- add ui kitten)
+=======
+  - RNSVG (15.1.0):
+    - React-Core
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   - RNVectorIcons (10.0.3):
     - glog
     - RCT-Folly (= 2022.05.16.00)
@@ -1231,12 +1238,18 @@ DEPENDENCIES:
   - RNScreens (from `../node_modules/react-native-screens`)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - RNSVG (from `../node_modules/react-native-svg`)
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
   - RNSVG (from `../node_modules/react-native-svg`)
 >>>>>>> 38206cac (- add ui kitten)
+=======
+  - RNSVG (from `../node_modules/react-native-svg`)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
@@ -1368,6 +1381,7 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-screens"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   RNSVG:
     :path: "../node_modules/react-native-svg"
 =======
@@ -1376,6 +1390,12 @@ EXTERNAL SOURCES:
   RNSVG:
     :path: "../node_modules/react-native-svg"
 >>>>>>> 38206cac (- add ui kitten)
+=======
+  RNSVG:
+    :path: "../node_modules/react-native-svg"
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   RNVectorIcons:
     :path: "../node_modules/react-native-vector-icons"
   Yoga:
@@ -1450,16 +1470,23 @@ SPEC CHECKSUMS:
   RNScreens: 17e2f657f1b09a71ec3c821368a04acbb7ebcb46
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   RNSVG: 50cf2c7018e57cf5d3522d98d0a3a4dd6bf9d093
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
   RNSVG: 50cf2c7018e57cf5d3522d98d0a3a4dd6bf9d093
 >>>>>>> 38206cac (- add ui kitten)
+=======
+  RNSVG: 50cf2c7018e57cf5d3522d98d0a3a4dd6bf9d093
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   RNVectorIcons: 73ab573085f65a572d3b6233e68996d4707fd505
   SocketRocket: f32cd54efbe0f095c4d7594881e52619cfe80b17
   Yoga: a716eea57d0d3430219c0a5a233e1e93ee931eb7
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 PODFILE CHECKSUM: 14818a02849b640a8d2dff2be6ff3052d0d4240a
@@ -1469,5 +1496,11 @@ PODFILE CHECKSUM: a1f96e1c445dcca397ed44839492b8705daf8cb6
 =======
 PODFILE CHECKSUM: 14818a02849b640a8d2dff2be6ff3052d0d4240a
 >>>>>>> 38206cac (- add ui kitten)
+=======
+PODFILE CHECKSUM: 14818a02849b640a8d2dff2be6ff3052d0d4240a
+=======
+PODFILE CHECKSUM: a1f96e1c445dcca397ed44839492b8705daf8cb6
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 
 COCOAPODS: 1.14.3

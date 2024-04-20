@@ -1,11 +1,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 export {default as Intro} from './intro'
 export {default as OnboardingScreen} from './onboarding'
 export {default as LoginScreen} from './auth/signin'
 <<<<<<< HEAD
 export {default as ForgetPasswordScreen} from './auth/forgetPassword'
 export {default as HomeScreen} from './home'
+<<<<<<< HEAD
 <<<<<<< HEAD
 export {default as ScreenCourseDetails} from './courseDetails'
 export {default as ChatScreen} from './chat'
@@ -24,3 +28,9 @@ export {default as ForgetPasswordScreen} from './auth/forgetPassword'
 =======
 export {default as ScreenCourseDetails} from './courseDetails'
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+export {default as ScreenCourseDetails} from './courseDetails'
+=======
+export {default as Intro} from './intro'
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)

@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+>>>>>>> 4cdec91b (first unit project)
 import {
     useNavigation,
   } from '@react-navigation/native';
@@ -74,6 +77,9 @@ import {
   
   export default useNavigationController;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
   
 =======
 import React, {
@@ -87,7 +93,11 @@ const useNavigationViewController = () => {
 return {};
 };
 export default useNavigationViewController;
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
   
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)

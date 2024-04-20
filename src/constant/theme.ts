@@ -135,6 +135,7 @@ interface IColor {
 export const COLORS: IColor = {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   primary:  "#070576",
 =======
   primary:  "#172731",
@@ -142,6 +143,12 @@ export const COLORS: IColor = {
 =======
   primary:  "#010038",
 >>>>>>> 38206cac (- add ui kitten)
+=======
+  primary:  "#070576",
+=======
+  primary:  "#172731",
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   primaryDarkGrey:  "#222E36",
   secondary: "#7A182A",
   secondaryPink:"#B18787",

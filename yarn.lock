@@ -110,8 +110,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/helper-create-class-features-plugin@^7.24.4":
   version "7.24.4"
   resolved "https://registry.yarnpkg.com/@babel/helper-create-class-features-plugin/-/helper-create-class-features-plugin-7.24.4.tgz#c806f73788a6800a5cfbbc04d2df7ee4d927cce3"
@@ -128,10 +131,15 @@
     semver "^6.3.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/helper-create-regexp-features-plugin@^7.18.6", "@babel/helper-create-regexp-features-plugin@^7.22.15", "@babel/helper-create-regexp-features-plugin@^7.22.5":
   version "7.22.15"
   resolved "https://registry.npmjs.org/@babel/helper-create-regexp-features-plugin/-/helper-create-regexp-features-plugin-7.22.15.tgz"
@@ -229,8 +237,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/helper-replace-supers@^7.24.1":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/helper-replace-supers/-/helper-replace-supers-7.24.1.tgz#7085bd19d4a0b7ed8f405c1ed73ccb70f323abc1"
@@ -241,10 +252,15 @@
     "@babel/helper-optimise-call-expression" "^7.22.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/helper-simple-access@^7.22.5":
   version "7.22.5"
   resolved "https://registry.npmjs.org/@babel/helper-simple-access/-/helper-simple-access-7.22.5.tgz"
@@ -505,8 +521,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-syntax-jsx@^7.24.1":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-jsx/-/plugin-syntax-jsx-7.24.1.tgz#3f6ca04b8c841811dbc3c5c5f837934e0d626c10"
@@ -515,10 +534,15 @@
     "@babel/helper-plugin-utils" "^7.24.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-syntax-logical-assignment-operators@^7.10.4", "@babel/plugin-syntax-logical-assignment-operators@^7.8.3":
   version "7.10.4"
   resolved "https://registry.npmjs.org/@babel/plugin-syntax-logical-assignment-operators/-/plugin-syntax-logical-assignment-operators-7.10.4.tgz"
@@ -584,8 +608,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-syntax-typescript@^7.24.1":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-typescript/-/plugin-syntax-typescript-7.24.1.tgz#b3bcc51f396d15f3591683f90239de143c076844"
@@ -594,10 +621,15 @@
     "@babel/helper-plugin-utils" "^7.24.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-syntax-unicode-sets-regex@^7.18.6":
   version "7.18.6"
   resolved "https://registry.npmjs.org/@babel/plugin-syntax-unicode-sets-regex/-/plugin-syntax-unicode-sets-regex-7.18.6.tgz"
@@ -615,8 +647,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-arrow-functions@^7.0.0-0":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-arrow-functions/-/plugin-transform-arrow-functions-7.24.1.tgz#2bf263617060c9cc45bcdbf492b8cc805082bf27"
@@ -625,10 +660,15 @@
     "@babel/helper-plugin-utils" "^7.24.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-async-generator-functions@^7.23.9":
   version "7.23.9"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-async-generator-functions/-/plugin-transform-async-generator-functions-7.23.9.tgz"
@@ -821,8 +861,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-modules-commonjs@^7.24.1":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-modules-commonjs/-/plugin-transform-modules-commonjs-7.24.1.tgz#e71ba1d0d69e049a22bf90b3867e263823d3f1b9"
@@ -833,10 +876,15 @@
     "@babel/helper-simple-access" "^7.22.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-modules-systemjs@^7.23.9":
   version "7.23.9"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-modules-systemjs/-/plugin-transform-modules-systemjs-7.23.9.tgz"
@@ -872,8 +920,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-nullish-coalescing-operator@^7.0.0-0":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-nullish-coalescing-operator/-/plugin-transform-nullish-coalescing-operator-7.24.1.tgz#0cd494bb97cb07d428bd651632cb9d4140513988"
@@ -883,10 +934,15 @@
     "@babel/plugin-syntax-nullish-coalescing-operator" "^7.8.3"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-nullish-coalescing-operator@^7.23.4":
   version "7.23.4"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-nullish-coalescing-operator/-/plugin-transform-nullish-coalescing-operator-7.23.4.tgz"
@@ -932,8 +988,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-optional-chaining@^7.0.0-0":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-optional-chaining/-/plugin-transform-optional-chaining-7.24.1.tgz#26e588acbedce1ab3519ac40cc748e380c5291e6"
@@ -944,10 +1003,15 @@
     "@babel/plugin-syntax-optional-chaining" "^7.8.3"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-optional-chaining@^7.23.3", "@babel/plugin-transform-optional-chaining@^7.23.4":
   version "7.23.4"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-optional-chaining/-/plugin-transform-optional-chaining-7.23.4.tgz"
@@ -1057,8 +1121,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-shorthand-properties@^7.0.0-0":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-shorthand-properties/-/plugin-transform-shorthand-properties-7.24.1.tgz#ba9a09144cf55d35ec6b93a32253becad8ee5b55"
@@ -1067,10 +1134,15 @@
     "@babel/helper-plugin-utils" "^7.24.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-spread@^7.0.0", "@babel/plugin-transform-spread@^7.23.3":
   version "7.23.3"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-spread/-/plugin-transform-spread-7.23.3.tgz"
@@ -1088,8 +1160,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-template-literals@^7.0.0-0":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-template-literals/-/plugin-transform-template-literals-7.24.1.tgz#15e2166873a30d8617e3e2ccadb86643d327aab7"
@@ -1098,10 +1173,15 @@
     "@babel/helper-plugin-utils" "^7.24.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-template-literals@^7.23.3":
   version "7.23.3"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-template-literals/-/plugin-transform-template-literals-7.23.3.tgz"
@@ -1128,8 +1208,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-typescript@^7.24.1":
   version "7.24.4"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-typescript/-/plugin-transform-typescript-7.24.4.tgz#03e0492537a4b953e491f53f2bc88245574ebd15"
@@ -1141,10 +1224,15 @@
     "@babel/plugin-syntax-typescript" "^7.24.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/plugin-transform-unicode-escapes@^7.23.3":
   version "7.23.3"
   resolved "https://registry.npmjs.org/@babel/plugin-transform-unicode-escapes/-/plugin-transform-unicode-escapes-7.23.3.tgz"
@@ -1293,8 +1381,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@babel/preset-typescript@^7.16.7":
   version "7.24.1"
   resolved "https://registry.yarnpkg.com/@babel/preset-typescript/-/preset-typescript-7.24.1.tgz#89bdf13a3149a17b3b2a2c9c62547f06db8845ec"
@@ -1307,10 +1398,15 @@
     "@babel/plugin-transform-typescript" "^7.24.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@babel/register@^7.13.16":
   version "7.23.7"
   resolved "https://registry.npmjs.org/@babel/register/-/register-7.23.7.tgz"
@@ -1375,8 +1471,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@egjs/hammerjs@^2.0.17":
   version "2.0.17"
   resolved "https://registry.yarnpkg.com/@egjs/hammerjs/-/hammerjs-2.0.17.tgz#5dc02af75a6a06e4c2db0202cae38c9263895124"
@@ -1385,10 +1484,15 @@
     "@types/hammerjs" "^2.0.36"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.4.0"
   resolved "https://registry.npmjs.org/@eslint-community/eslint-utils/-/eslint-utils-4.4.0.tgz"
@@ -1423,8 +1527,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@eva-design/dss@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@eva-design/dss/-/dss-2.2.0.tgz#1eb765e480b3b140386a3a105374435c0c927616"
@@ -1441,10 +1548,15 @@
   integrity sha512-fEvjvilmF/R9dqXDiMoaoXxrPIb5s1APVXbacXKAxjlWl231rzOxc5sdTtJPoFTTEon5KeaKwLHtbQvz5eVvIA==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@hapi/hoek@^9.0.0", "@hapi/hoek@^9.3.0":
   version "9.3.0"
   resolved "https://registry.npmjs.org/@hapi/hoek/-/hoek-9.3.0.tgz"
@@ -1459,18 +1571,26 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@hookform/resolvers@^3.3.4":
   version "3.3.4"
   resolved "https://registry.yarnpkg.com/@hookform/resolvers/-/resolvers-3.3.4.tgz#de9b668c2835eb06892290192de6e2a5c906229b"
   integrity sha512-o5cgpGOuJYrd+iMKvkttOclgwRW86EsWJZZRC23prf0uU2i48Htq4PuT73AVb9ionFyZrwYEITuOFGF+BydEtQ==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@humanwhocodes/config-array@^0.11.14":
   version "0.11.14"
   resolved "https://registry.npmjs.org/@humanwhocodes/config-array/-/config-array-0.11.14.tgz"
@@ -2108,15 +2228,22 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 =======
 "@react-native/normalize-color@*":
   version "2.1.0"
   resolved "https://registry.npmjs.org/@react-native/normalize-color/-/normalize-color-2.1.0.tgz"
   integrity sha512-Z1jQI2NpdFJCVgpY+8Dq/Bt3d+YUi1928Q+/CZm/oh66fzM0RUl54vvuXlPJKybH4pdCZey1eDTPaLHkMPNgWA==
 
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@react-native/normalize-colors@0.73.2", "@react-native/normalize-colors@^0.73.0":
   version "0.73.2"
   resolved "https://registry.npmjs.org/@react-native/normalize-colors/-/normalize-colors-0.73.2.tgz"
@@ -2146,7 +2273,11 @@
     warn-once "^0.1.0"
 
 =======
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@react-navigation/core@^6.4.13":
   version "6.4.13"
   resolved "https://registry.yarnpkg.com/@react-navigation/core/-/core-6.4.13.tgz#27cf33d963f59aeeb36f27514a9744ab818097b3"
@@ -2171,7 +2302,11 @@
   integrity sha512-plhc8UvCZs0UkV+sI+3bisIyn78wz9O/BiWZXpounu72k/R/Sj5PuZYFJ1fi6psvriUveMCGh4LeZckAZu2qiQ==
 
 =======
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@react-navigation/native-stack@^6.9.22":
   version "6.9.22"
   resolved "https://registry.npmjs.org/@react-navigation/native-stack/-/native-stack-6.9.22.tgz"
@@ -2305,18 +2440,26 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@types/hammerjs@^2.0.36":
   version "2.0.45"
   resolved "https://registry.yarnpkg.com/@types/hammerjs/-/hammerjs-2.0.45.tgz#ffa764bb68a66c08db6efb9c816eb7be850577b1"
   integrity sha512-qkcUlZmX6c4J8q45taBKTL3p+LbITgyx7qhlPYOdOHZB7B31K0mXbP5YA7i7SgDeEGuI9MnumiKPEMrxg8j3KQ==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0", "@types/istanbul-lib-coverage@^2.0.1":
   version "2.0.6"
   resolved "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.6.tgz"
@@ -2517,8 +2660,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 "@ui-kitten/components@^5.3.1":
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/@ui-kitten/components/-/components-5.3.1.tgz#259bbedcb7a29df026982064823a50cc30b8eaad"
@@ -2531,10 +2677,15 @@
     lodash.merge "^4.6.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 "@ungap/structured-clone@^1.2.0":
   version "1.2.0"
   resolved "https://registry.npmjs.org/@ungap/structured-clone/-/structured-clone-1.2.0.tgz"
@@ -3321,8 +3472,11 @@ css-select@^5.1.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 css-tree@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/css-tree/-/css-tree-1.1.3.tgz#eb4870fb6fd7707327ec95c2ff2ab09b5e8db91d"
@@ -3332,10 +3486,15 @@ css-tree@^1.1.3:
     source-map "^0.6.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 css-what@^6.1.0:
   version "6.1.0"
   resolved "https://registry.yarnpkg.com/css-what/-/css-what-6.1.0.tgz#fb5effcf76f1ddea2c81bdfaa4de44e79bac70f4"
@@ -3432,6 +3591,9 @@ depd@2.0.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 =======
 deprecated-react-native-prop-types@^2.2.0:
   version "2.3.0"
@@ -3442,9 +3604,13 @@ deprecated-react-native-prop-types@^2.2.0:
     invariant "*"
     prop-types "*"
 
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 deprecated-react-native-prop-types@^5.0.0:
   version "5.0.0"
   resolved "https://registry.npmjs.org/deprecated-react-native-prop-types/-/deprecated-react-native-prop-types-5.0.0.tgz"
@@ -3537,15 +3703,22 @@ electron-to-chromium@^1.4.668:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 =======
 eme-encryption-scheme-polyfill@^2.0.1:
   version "2.1.1"
   resolved "https://registry.npmjs.org/eme-encryption-scheme-polyfill/-/eme-encryption-scheme-polyfill-2.1.1.tgz"
   integrity sha512-njD17wcUrbqCj0ArpLu5zWXtaiupHb/2fIUQGdInf83GlI+Q6mmqaPGLdrke4savKAu15J/z1Tg/ivDgl14g0g==
 
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 emittery@^0.13.1:
   version "0.13.1"
   resolved "https://registry.npmjs.org/emittery/-/emittery-0.13.1.tgz"
@@ -4005,18 +4178,26 @@ fb-watchman@^2.0.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 fecha@3.0.3:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/fecha/-/fecha-3.0.3.tgz#fabbd416497649a42c24d34bfa726b579203a1e2"
   integrity sha512-6LQK/1jud/FZnfEEZJ7y81vw7ge81DNd/XEsX0hgMUjhS+QMljkb1C0czBaP7dMNRVrd5mw/J2J7qI2Nw+TWZw==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 file-entry-cache@^6.0.1:
   version "6.0.1"
   resolved "https://registry.npmjs.org/file-entry-cache/-/file-entry-cache-6.0.1.tgz"
@@ -4376,6 +4557,7 @@ hermes-profile-transformer@^0.0.6:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hex-to-rgba@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/hex-to-rgba/-/hex-to-rgba-2.0.1.tgz#4176977882a1cb32b83ce5ab1db6828ab84d5a13"
@@ -4383,6 +4565,8 @@ hex-to-rgba@^2.0.1:
 
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 hoist-non-react-statics@^3.2.1, hoist-non-react-statics@^3.3.0:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-3.3.2.tgz#ece0acaf71d62c2969c2ec59feff42a4b1a85b45"
@@ -4391,10 +4575,15 @@ hoist-non-react-statics@^3.2.1, hoist-non-react-statics@^3.3.0:
     react-is "^16.7.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 html-entities@^2.4.0:
   version "2.5.2"
   resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-2.5.2.tgz#201a3cf95d3a15be7099521620d19dfb4f65359f"
@@ -4530,6 +4719,7 @@ interpret@^1.0.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 invariant@^2.2.4:
 =======
 invariant@*, invariant@^2.2.4:
@@ -4537,6 +4727,12 @@ invariant@*, invariant@^2.2.4:
 =======
 invariant@^2.2.4:
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+invariant@^2.2.4:
+=======
+invariant@*, invariant@^2.2.4:
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   version "2.2.4"
   resolved "https://registry.npmjs.org/invariant/-/invariant-2.2.4.tgz"
   integrity sha512-phJfQVBuaJM5raOpJjSfkiD6BpbCE4Ns//LaXl6wGYtUBY83nWS6Rf9tXm2e8VaK60JEjYldbPif/A2B1C2gNA==
@@ -5342,15 +5538,22 @@ jsonfile@^4.0.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 =======
 keymirror@^0.1.1:
   version "0.1.1"
   resolved "https://registry.npmjs.org/keymirror/-/keymirror-0.1.1.tgz"
   integrity sha512-vIkZAFWoDijgQT/Nvl2AHCMmnegN2ehgTPYuyy2hWQkQSntI0S7ESYqdLkoSe1HyEBFHHkCgSIvVdSEiWwKvCg==
 
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 keyv@^4.5.3:
   version "4.5.4"
   resolved "https://registry.npmjs.org/keyv/-/keyv-4.5.4.tgz"
@@ -5427,6 +5630,7 @@ lodash.debounce@^4.0.8:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 lodash.merge@^4.6.1, lodash.merge@^4.6.2:
 =======
 lodash.merge@^4.6.2:
@@ -5434,6 +5638,12 @@ lodash.merge@^4.6.2:
 =======
 lodash.merge@^4.6.1, lodash.merge@^4.6.2:
 >>>>>>> 38206cac (- add ui kitten)
+=======
+lodash.merge@^4.6.1, lodash.merge@^4.6.2:
+=======
+lodash.merge@^4.6.2:
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   version "4.6.2"
   resolved "https://registry.npmjs.org/lodash.merge/-/lodash.merge-4.6.2.tgz"
   integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
@@ -5515,18 +5725,26 @@ marky@^1.2.2:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 mdn-data@2.0.14:
   version "2.0.14"
   resolved "https://registry.yarnpkg.com/mdn-data/-/mdn-data-2.0.14.tgz#7113fc4281917d63ce29b43446f701e68c25ba50"
   integrity sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 memoize-one@^5.0.0:
   version "5.2.1"
   resolved "https://registry.npmjs.org/memoize-one/-/memoize-one-5.2.1.tgz"
@@ -5839,18 +6057,26 @@ mkdirp@^1.0.4:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> 4cdec91b (first unit project)
 moment@^2.30.1:
   version "2.30.1"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.30.1.tgz#f8c91c07b7a786e30c59926df530b4eac96974ae"
   integrity sha512-uEmtNhbDOrWPFS+hdjFCBfy9f2YoyzRpwcl+DqpC6taX21FzsTLQVbMV/W7PzNSX6x/bhC1zA3c2UQ5NzH6how==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/ms/-/ms-2.0.0.tgz"
@@ -6324,6 +6550,7 @@ prompts@^2.0.1, prompts@^2.4.2:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 prop-types@15.8.1, prop-types@^15.7.2, prop-types@^15.8.1:
 =======
 prop-types@*, prop-types@^15.7.2, prop-types@^15.8.1:
@@ -6331,6 +6558,12 @@ prop-types@*, prop-types@^15.7.2, prop-types@^15.8.1:
 =======
 prop-types@^15.7.2, prop-types@^15.8.1:
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+prop-types@^15.7.2, prop-types@^15.8.1:
+=======
+prop-types@*, prop-types@^15.7.2, prop-types@^15.8.1:
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   version "15.8.1"
   resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -6341,18 +6574,26 @@ prop-types@^15.7.2, prop-types@^15.8.1:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> 4cdec91b (first unit project)
 property-expr@^2.0.5:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/property-expr/-/property-expr-2.0.6.tgz#f77bc00d5928a6c748414ad12882e83f24aec1e8"
   integrity sha512-SVtmxhRE/CGkn3eZY1T6pC8Nln6Fr/lu1mKSgRud0eC73whjGfoAogbn78LkD8aFL0zz3bAFerKSnOl7NlErBA==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 punycode@^2.1.0:
   version "2.3.1"
   resolved "https://registry.npmjs.org/punycode/-/punycode-2.3.1.tgz"
@@ -6415,18 +6656,26 @@ react-freeze@^1.0.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> 4cdec91b (first unit project)
 react-hook-form@^7.51.3:
   version "7.51.3"
   resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.51.3.tgz#7486dd2d52280b6b28048c099a98d2545931cab3"
   integrity sha512-cvJ/wbHdhYx8aviSWh28w9ImjmVsb5Y05n1+FW786vEZQJV5STNM0pW6ujS+oiBecb0ARBxJFyAnXj9+GHXACQ==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 react-i18next@^14.0.5:
   version "14.0.5"
   resolved "https://registry.npmjs.org/react-i18next/-/react-i18next-14.0.5.tgz"
@@ -6442,6 +6691,7 @@ react-i18next@^14.0.5:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 react-is@^16.13.0, react-is@^16.13.1, react-is@^16.7.0:
 =======
 react-is@^16.13.0, react-is@^16.13.1:
@@ -6449,6 +6699,12 @@ react-is@^16.13.0, react-is@^16.13.1:
 =======
 react-is@^16.13.0, react-is@^16.13.1, react-is@^16.7.0:
 >>>>>>> 38206cac (- add ui kitten)
+=======
+react-is@^16.13.0, react-is@^16.13.1, react-is@^16.7.0:
+=======
+react-is@^16.13.0, react-is@^16.13.1:
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
   version "16.13.1"
   resolved "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
@@ -6475,6 +6731,7 @@ react-native-config@^1.5.1:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 react-native-easy-content-loader@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/react-native-easy-content-loader/-/react-native-easy-content-loader-0.3.2.tgz#5c0dcd69c84c5370365153162b21fe82098459c3"
@@ -6484,6 +6741,8 @@ react-native-easy-content-loader@^0.3.2:
 
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 react-native-gesture-handler@^2.16.0:
   version "2.16.0"
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.16.0.tgz#45a00b5988e74ebc58f130c8d1443319c8e678db"
@@ -6496,10 +6755,15 @@ react-native-gesture-handler@^2.16.0:
     prop-types "^15.7.2"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 react-native-keychain@^8.2.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/react-native-keychain/-/react-native-keychain-8.2.0.tgz#aea82df37aacbb04f8b567a8e0e6d7292025610a"
@@ -6517,8 +6781,11 @@ react-native-localize@^3.0.6:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 react-native-reanimated@^3.8.1:
   version "3.8.1"
   resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-3.8.1.tgz#45c13d4bedebef8df3d5a8756f25072de65960d7"
@@ -6534,6 +6801,7 @@ react-native-reanimated@^3.8.1:
     invariant "^2.2.4"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 react-native-redash@*:
   version "18.1.3"
   resolved "https://registry.yarnpkg.com/react-native-redash/-/react-native-redash-18.1.3.tgz#725c3efc1908425f1579d8103c27ded94d03e8f6"
@@ -6547,6 +6815,10 @@ react-native-redash@*:
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 react-native-rename@^3.2.14:
   version "3.2.14"
   resolved "https://registry.yarnpkg.com/react-native-rename/-/react-native-rename-3.2.14.tgz#9c368ee1bc8e3d6b93d64c669a4a2fed76894cb2"
@@ -6578,8 +6850,11 @@ react-native-screens@^3.29.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> 4cdec91b (first unit project)
 react-native-svg@^15.1.0:
   version "15.1.0"
   resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-15.1.0.tgz#07c75f29b1d641faba50144c7ccd21604b368420"
@@ -6589,10 +6864,15 @@ react-native-svg@^15.1.0:
     css-tree "^1.1.3"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 react-native-vector-icons@^10.0.3:
   version "10.0.3"
   resolved "https://registry.npmjs.org/react-native-vector-icons/-/react-native-vector-icons-10.0.3.tgz"
@@ -6603,13 +6883,19 @@ react-native-vector-icons@^10.0.3:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> 4cdec91b (first unit project)
 react-native-video@^6.0.0-beta.8:
   version "6.0.0-beta.8"
   resolved "https://registry.yarnpkg.com/react-native-video/-/react-native-video-6.0.0-beta.8.tgz#76597ea61d3791beb14731e9e469ddb86e88adf9"
   integrity sha512-pWAJKhP6yt7sIe/u4vi292sWaHNgqSwZbKzauRKBHHEJr2pY/EG7Lis5hDI+rOJlQ0NmsPEurbUPH5TGQsFJFw==
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 =======
 react-native-video@^5.2.1:
   version "5.2.1"
@@ -6620,9 +6906,13 @@ react-native-video@^5.2.1:
     keymirror "^0.1.1"
     prop-types "^15.7.2"
     shaka-player "^2.5.9"
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 
 react-native@*, react-native@0.73.5:
   version "0.73.5"
@@ -7093,6 +7383,9 @@ setprototypeof@1.2.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
 =======
 shaka-player@^2.5.9:
   version "2.5.23"
@@ -7101,9 +7394,13 @@ shaka-player@^2.5.9:
   dependencies:
     eme-encryption-scheme-polyfill "^2.0.1"
 
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 shallow-clone@^3.0.0:
   version "3.0.1"
   resolved "https://registry.npmjs.org/shallow-clone/-/shallow-clone-3.0.1.tgz"
@@ -7465,18 +7762,26 @@ through2@^2.0.1:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> 4cdec91b (first unit project)
 tiny-case@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/tiny-case/-/tiny-case-1.0.3.tgz#d980d66bc72b5d5a9ca86fb7c9ffdb9c898ddd03"
   integrity sha512-Eet/eeMhkO6TX8mnUteS9zgPbUMQa4I6Kkp5ORiBD5476/m+PIRiumP5tmh5ioJpH7k51Kehawy2UDfsnxxY8Q==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 tmpl@1.0.5:
   version "1.0.5"
   resolved "https://registry.npmjs.org/tmpl/-/tmpl-1.0.5.tgz"
@@ -7501,18 +7806,26 @@ toidentifier@1.0.1:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> 4cdec91b (first unit project)
 toposort@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/toposort/-/toposort-2.0.2.tgz#ae21768175d1559d48bef35420b2f4962f09c330"
   integrity sha512-0a5EOkAUp8D4moMi2W8ZF8jcga7BgZd91O/yabJCFY8az+XSzeGyTKs0Aoo897iV1Nj6guFq8orWDS96z91oGg==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 tr46@~0.0.3:
   version "0.0.3"
   resolved "https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz"
@@ -7577,18 +7890,26 @@ type-fest@^0.7.1:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> 4cdec91b (first unit project)
 type-fest@^2.19.0:
   version "2.19.0"
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.19.0.tgz#88068015bb33036a598b952e55e9311a60fd3a9b"
   integrity sha512-RAH822pAdBgcNMAfWnCBU3CFZcfZ/i1eZjwFU/dsLKumyuuP3niueg2UAukXYF0E2AAoc82ZSSf9J0WQBinzHA==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 typed-array-buffer@^1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/typed-array-buffer/-/typed-array-buffer-1.0.2.tgz"
@@ -8006,8 +8327,11 @@ yocto-queue@^0.1.0:
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> 4cdec91b (first unit project)
 
 yup@^1.4.0:
   version "1.4.0"
@@ -8019,7 +8343,12 @@ yup@^1.4.0:
     toposort "^2.0.2"
     type-fest "^2.19.0"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)

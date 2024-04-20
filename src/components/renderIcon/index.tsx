@@ -43,7 +43,11 @@ import React, {
   type propsRenderIcon =TouchableWithoutFeedback['props']& {
 =======
   type propsRenderIcon = {
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
     name: string;
     styleIcon?: ViewStyle | TextStyle;
     color?: string;

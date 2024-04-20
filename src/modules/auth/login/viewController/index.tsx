@@ -1,8 +1,11 @@
 import React, {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> 4cdec91b (first unit project)
     Dispatch,
     SetStateAction,
     useCallback,
@@ -205,6 +208,9 @@ import { useAuth } from '../../../../hooks';
   };
   export default useSignInController;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
   
 =======
 Dispatch,
@@ -217,7 +223,11 @@ const useLoginViewController = () => {
 return {};
 };
 export default useLoginViewController;
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
 =======
   
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
