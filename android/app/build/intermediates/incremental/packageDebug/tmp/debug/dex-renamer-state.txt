@@ -10,6 +10,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -39,6 +40,12 @@
 >>>>>>> 8ad543a9 (change name Digital.Tn)
 #Sun May 12 00:16:43 CET 2024
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+#Sun May 12 00:16:43 CET 2024
+=======
+#Sat Apr 20 22:04:21 CET 2024
+>>>>>>> 1b7ac40d (- add ui kitten)
+>>>>>>> 214ba539 (- add ui kitten)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex

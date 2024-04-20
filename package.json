@@ -84,8 +84,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> 214ba539 (- add ui kitten)
     "@eva-design/eva": "^2.2.0",
     "@hookform/resolvers": "^3.3.4",
 <<<<<<< HEAD
@@ -100,7 +103,13 @@
 >>>>>>> ef87bf9c (Create module auth signIn)
 =======
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+    "@eva-design/eva": "^2.2.0",
+>>>>>>> 1b7ac40d (- add ui kitten)
+>>>>>>> 214ba539 (- add ui kitten)
     "@react-navigation/native": "^6.1.14",
     "@react-navigation/native-stack": "^6.9.22",
     "@react-navigation/stack": "^6.3.25",
@@ -136,6 +145,7 @@
 =======
     "@types/react-native-video": "^5.0.19",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "@ui-kitten/components": "^5.3.1",
     "add": "^2.0.6",
     "i18next": "^23.10.0",
@@ -167,18 +177,24 @@
 >>>>>>> ef87bf9c (Create module auth signIn)
 =======
 =======
+=======
+    "@ui-kitten/components": "^5.3.1",
+>>>>>>> 1b7ac40d (- add ui kitten)
     "add": "^2.0.6",
     "i18next": "^23.10.0",
     "react": "18.2.0",
     "react-i18next": "^14.0.5",
     "react-native": "0.73.5",
     "react-native-config": "^1.5.1",
+    "react-native-gesture-handler": "^2.16.0",
     "react-native-keychain": "^8.2.0",
     "react-native-linear-gradient": "^2.8.3",
     "react-native-localize": "^3.0.6",
+    "react-native-reanimated": "^3.8.1",
     "react-native-rename": "^3.2.14",
     "react-native-safe-area-context": "^4.9.0",
     "react-native-screens": "^3.29.0",
+    "react-native-svg": "^15.1.0",
     "react-native-vector-icons": "^10.0.3",
     "react-native-video": "^5.2.1",
     "react-redux": "^9.1.0",

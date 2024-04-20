@@ -3,18 +3,26 @@ module.exports = {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> 1b7ac40d (- add ui kitten)
+>>>>>>> 214ba539 (- add ui kitten)
 
   plugins: [
     'react-native-reanimated/plugin',
   ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> 214ba539 (- add ui kitten)
 =======
   // plugins: [
   //   [
@@ -42,5 +50,10 @@ module.exports = {
 >>>>>>> 38206cac (- add ui kitten)
 =======
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> 1b7ac40d (- add ui kitten)
+>>>>>>> 214ba539 (- add ui kitten)
 };

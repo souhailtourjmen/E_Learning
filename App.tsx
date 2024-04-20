@@ -58,6 +58,7 @@ function App(): JSX.Element {
 =======
 import { ColorSchemeName } from "react-native";
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 import { ColorSchemeName, StatusBar } from "react-native";
 >>>>>>> 0dd5df8f (- ADD element in screen home)
@@ -89,15 +90,24 @@ function App(): JSX.Element {
         </GestureHandlerRootView>
 >>>>>>> 38206cac (- add ui kitten)
 =======
+=======
+import { GestureHandlerRootView } from "react-native-gesture-handler";
+import { ApplicationProvider } from "@ui-kitten/components";
+import * as eva from "@eva-design/eva";
+import {default as theme} from './custom-theme.json';
+>>>>>>> 214ba539 (- add ui kitten)
 function App(): JSX.Element {
   const colorScheme: NonNullable<ColorSchemeName> = useColorScheme();
-
+  const defaultmode: any = colorScheme === "dark" ? eva.dark : eva.light;
   return (
     <SafeAreaProvider>
       <Provider store={store}>
         <Navigation colorScheme={colorScheme} />
+<<<<<<< HEAD
 >>>>>>> e6aa837d (first unit project)
 >>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> 214ba539 (- add ui kitten)
       </Provider>
     </SafeAreaProvider>
   );

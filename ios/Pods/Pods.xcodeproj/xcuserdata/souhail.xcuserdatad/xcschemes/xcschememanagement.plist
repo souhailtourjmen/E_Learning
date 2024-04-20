@@ -77,6 +77,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<key>Pods-DigitalTn-DigitalTnTests.xcscheme</key>
 =======
 		<key>Pods-Reserver-ReserverTests.xcscheme</key>
@@ -85,11 +86,19 @@
 		<key>Pods-DigitalTn-DigitalTnTests.xcscheme</key>
 >>>>>>> 38206cac (- add ui kitten)
 =======
+=======
+>>>>>>> 214ba539 (- add ui kitten)
 		<key>Pods-DigitalTn-DigitalTnTests.xcscheme</key>
 =======
 		<key>Pods-Reserver-ReserverTests.xcscheme</key>
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+		<key>Pods-DigitalTn-DigitalTnTests.xcscheme</key>
+>>>>>>> 1b7ac40d (- add ui kitten)
+>>>>>>> 214ba539 (- add ui kitten)
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -97,6 +106,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<key>Pods-DigitalTn.xcscheme</key>
 =======
 		<key>Pods-Reserver.xcscheme</key>
@@ -105,11 +115,19 @@
 		<key>Pods-DigitalTn.xcscheme</key>
 >>>>>>> 38206cac (- add ui kitten)
 =======
+=======
+>>>>>>> 214ba539 (- add ui kitten)
 		<key>Pods-DigitalTn.xcscheme</key>
 =======
 		<key>Pods-Reserver.xcscheme</key>
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+		<key>Pods-DigitalTn.xcscheme</key>
+>>>>>>> 1b7ac40d (- add ui kitten)
+>>>>>>> 214ba539 (- add ui kitten)
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -142,15 +160,21 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 38206cac (- add ui kitten)
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> 1b7ac40d (- add ui kitten)
+>>>>>>> 214ba539 (- add ui kitten)
 		<key>RNSVG.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -161,6 +185,12 @@
 =======
 >>>>>>> e6aa837d (first unit project)
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+=======
+>>>>>>> 1b7ac40d (- add ui kitten)
+>>>>>>> 214ba539 (- add ui kitten)
 		<key>RNScreens.xcscheme</key>
 		<dict>
 			<key>isShown</key>
