@@ -24,7 +24,11 @@ const data: OnboardingData[] = [
   },
   {
     id: 2,
+<<<<<<< HEAD
     img: require('../../../../assets/app_images/OnboardingImg2.jpeg'),
+=======
+    img: require('../../../../assets/app_images/OnboardingImg2.png'),
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
     text: i18next.t(TEXT.ONBOARDING.titleTwo),
     desc: i18next.t(TEXT.ONBOARDING.descTwo),
     textColor: COLORS.primary,

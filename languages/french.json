@@ -173,6 +173,7 @@
       
       "ROUTES": {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "Intro": "Intro",
         "ONBOARDING": "ONBOARDING",
         "home": "Home",
@@ -182,12 +183,19 @@
 =======
         "Intro": "Intro"
 >>>>>>> ab93aef2 (first unit project)
+=======
+        "Intro": "Intro",
+        "ONBOARDING": "ONBOARDING"
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
         
       },
       "message": {
         "payment": "Paiement effectuée par succès",
         "notFound": "Nous sommes ravis de vous informer qu'une toute nouvelle fonctionnalité passionnante est sur le point d'arriver! 🚀 Restez à l'écoute, car nous travaillons ardemment en coulisses pour vous offrir une expérience encore meilleure.\nMerci pour votre patience et votre fidélité."
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
       },
       "OnBoarding": {
         "interface": {
@@ -199,6 +207,7 @@
           "descThree": "L'intégration et la croissance professionnelle dans votre poche.",
           "invited": "Continuer comme invité"
         }
+<<<<<<< HEAD
       },
      
       "HOME": {
@@ -211,6 +220,8 @@
         }
       }
 =======
+=======
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
       }
      
 >>>>>>> ab93aef2 (first unit project)

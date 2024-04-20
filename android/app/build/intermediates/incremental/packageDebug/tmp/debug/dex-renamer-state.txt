@@ -1,10 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
 >>>>>>> 38206cac (- add ui kitten)
+=======
+#Sat Apr 20 23:00:32 CET 2024
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex

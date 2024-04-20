@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
 import {
     useNavigation,
   } from '@react-navigation/native';
@@ -36,7 +39,11 @@ import {
         // const routes = navigation.getState();
         // console.log('%cindex.tsx line:48 routes', 'color: #007acc;', routes);
         if (item && item.screen) {
+<<<<<<< HEAD
           navigation.navigate(item.screen, {...item});
+=======
+          navigation.navigate(item.screen, item?.navigationParams);
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
         }
       },
       [navigation],
@@ -62,6 +69,7 @@ import {
   };
   
   export default useNavigationController;
+<<<<<<< HEAD
   
 =======
 import React, {
@@ -76,3 +84,6 @@ return {};
 };
 export default useNavigationViewController;
 >>>>>>> ab93aef2 (first unit project)
+=======
+  
+>>>>>>> 5c6f7ff1 (- add new screen onbording)

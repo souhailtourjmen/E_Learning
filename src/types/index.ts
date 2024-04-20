@@ -1,6 +1,7 @@
 export interface NavigationParamsType {
     screen: string | {};
     name?: string;
+<<<<<<< HEAD
     params?: any;
   }
 
@@ -65,3 +66,15 @@ export interface DefaultValues {
   numero: string;
   prenom: string;
 }
+=======
+    navigationParams?: NavigationItemType | any;
+  }
+  export interface NavigationItemType {
+    screen: string;
+    id?: string;
+    slug?: string;
+    title?: string;
+    description?: string;
+    image?: string;
+  }
+>>>>>>> 5c6f7ff1 (- add new screen onbording)

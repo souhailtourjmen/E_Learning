@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 export {default as Intro} from './intro'
 export {default as OnboardingScreen} from './onboarding'
 export {default as LoginScreen} from './auth/signin'
@@ -11,3 +12,7 @@ export {default as ProgressionScreen} from './ProgressionScreen'
 =======
 export {default as Intro} from './intro'
 >>>>>>> ab93aef2 (first unit project)
+=======
+export {default as Intro} from './intro'
+export {default as OnboardingScreen} from './onboarding'
+>>>>>>> 5c6f7ff1 (- add new screen onbording)

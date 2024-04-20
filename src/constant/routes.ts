@@ -2,6 +2,7 @@ export const ROUTES = {
   LOGIN: "login",
   INTRO: "Intro",
 <<<<<<< HEAD
+<<<<<<< HEAD
   ONBOARDING: "OnboardingScreen",
   ForgetPasswordScreen: 'ForgetPasswordScreen',
   HomeScreen: 'HomeScreen',
@@ -13,6 +14,9 @@ export const ROUTES = {
   PROFILESCREENBOTTOM: 'PROFILESCREEN',
   UpdateProfile: 'UpdateProfile',
   ProgressionScreen: 'Progression',
+=======
+  ONBOARDING: "OnboardingScreen",
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
 };
 
 =======

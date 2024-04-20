@@ -24,8 +24,12 @@ const Stack = createNativeStackNavigator();
 export const RootNavigator = () => {
   return (
     <Stack.Navigator
+<<<<<<< HEAD
       initialRouteName={ROUTES.INTRO}
 >>>>>>> ab93aef2 (first unit project)
+=======
+      initialRouteName={ROUTES.ONBOARDING}
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
       screenOptions={{
         headerBackTitleVisible: false,
       }}

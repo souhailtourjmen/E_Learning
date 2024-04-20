@@ -1,5 +1,6 @@
 import { ROUTES, TEXT } from "../../constant";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ProgressionScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
 import i18n from "../../config/mulitLang";
 import { CustomHeader } from "../../components";
@@ -67,8 +68,16 @@ export const BottomRoutes = [
   
 =======
 import { Intro } from "../../screens";
+=======
+import { Intro, OnboardingScreen } from "../../screens";
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
 import i18n from "../../config/mulitLang";
 export const ARRAYROUTES = [
+  {
+    route: ROUTES.ONBOARDING,
+    label: i18n.t(TEXT.ROUTES.ONBOARDING),
+    component: OnboardingScreen,
+  },
   {
     route: ROUTES.INTRO,
     label: i18n.t(TEXT.ROUTES.Intro),
