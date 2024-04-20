@@ -74,12 +74,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Reserver-ReserverTests.xcscheme</key>
+		<key>Pods-DigitalTn-DigitalTnTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Reserver.xcscheme</key>
+		<key>Pods-DigitalTn.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -105,6 +105,11 @@
 			<false/>
 		</dict>
 		<key>RNLocalize.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RNSVG.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

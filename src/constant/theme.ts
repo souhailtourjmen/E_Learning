@@ -133,7 +133,7 @@ interface IColor {
 }
 
 export const COLORS: IColor = {
-  primary:  "#172731",
+  primary:  "#010038",
   primaryDarkGrey:  "#222E36",
   secondary: "#7A182A",
   secondaryPink:"#B18787",

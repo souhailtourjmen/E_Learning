@@ -13,16 +13,22 @@ import java.util.ArrayList;
 
 // react-native-config
 import com.lugg.RNCConfig.RNCConfigPackage;
+// react-native-gesture-handler
+import com.swmansion.gesturehandler.RNGestureHandlerPackage;
 // react-native-keychain
 import com.oblador.keychain.KeychainPackage;
 // react-native-linear-gradient
 import com.BV.LinearGradient.LinearGradientPackage;
 // react-native-localize
 import com.zoontek.rnlocalize.RNLocalizePackage;
+// react-native-reanimated
+import com.swmansion.reanimated.ReanimatedPackage;
 // react-native-safe-area-context
 import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 // react-native-screens
 import com.swmansion.rnscreens.RNScreensPackage;
+// react-native-svg
+import com.horcrux.svg.SvgPackage;
 // react-native-vector-icons
 import com.oblador.vectoricons.VectorIconsPackage;
 // react-native-video
@@ -73,11 +79,14 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
       new RNCConfigPackage(),
+      new RNGestureHandlerPackage(),
       new KeychainPackage(),
       new LinearGradientPackage(),
       new RNLocalizePackage(),
+      new ReanimatedPackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage(),
+      new SvgPackage(),
       new VectorIconsPackage(),
       new ReactVideoPackage()
     ));
