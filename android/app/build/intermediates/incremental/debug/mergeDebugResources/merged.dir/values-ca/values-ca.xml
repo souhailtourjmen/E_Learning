@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -17,6 +18,8 @@
     <item quantity="one">Rebobina %d segon</item>
     <item quantity="other">Rebobina %d segons</item>
   </plurals>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d notificació nova</item>
     <item quantity="other">%d notificacions noves</item>
@@ -48,7 +51,10 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Replega"</string>
+<<<<<<< HEAD
     <string name="authentication_required">Autenticació obligatòria</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="bottomsheet_action_collapse">Replega el full inferior</string>
     <string name="bottomsheet_action_expand">Desplega el full inferior</string>
     <string name="bottomsheet_action_expand_halfway">Desplega fins a la meitat</string>
@@ -59,6 +65,7 @@
     <string name="clear_text_end_icon_content_description">Esborra el text</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Utilitza la contrasenya"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Error desconegut"</string>
+<<<<<<< HEAD
     <string name="default_notification_channel_name">S\'està reproduint</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exo_controls_cc_disabled_description">Activa els subtítols</string>
@@ -112,6 +119,9 @@
     <string name="exo_track_surround_5_point_1">So envoltant 5.1</string>
     <string name="exo_track_surround_7_point_1">So envoltant 7.1</string>
     <string name="exo_track_unknown">Desconegut</string>
+=======
+    <string name="error_icon_content_description">Error</string>
+>>>>>>> 9ce4bce8 (rename project)
     <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Toca sensor d\'empremtes"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"El maquinari per a empremtes dactilars no està disponible."</string>
@@ -138,12 +148,15 @@
     <string name="material_timepicker_pm">p. m.</string>
     <string name="material_timepicker_select_time">Selecció de l\'hora</string>
     <string name="material_timepicker_text_input_mode_description">Canvia al mode d\'introducció de text per introduir l\'hora.</string>
+<<<<<<< HEAD
     <string name="media3_controls_pause_description">Posa en pausa</string>
     <string name="media3_controls_play_description">Reprodueix</string>
     <string name="media3_controls_seek_back_description">Retrocedeix</string>
     <string name="media3_controls_seek_forward_description">Avança</string>
     <string name="media3_controls_seek_to_next_description">Ves a l\'element següent</string>
     <string name="media3_controls_seek_to_previous_description">Ves a l\'element anterior</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="mtrl_badge_numberless_content_description">Notificació nova</string>
     <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Més de %1$d notificacions noves</string>

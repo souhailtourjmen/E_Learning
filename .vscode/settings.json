@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+=======
+{
+<<<<<<< HEAD
+    "java.configuration.updateBuildConfiguration": "interactive"
+=======
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic"
+>>>>>>> a2d98ded (rename project)
+}
+>>>>>>> 9ce4bce8 (rename project)

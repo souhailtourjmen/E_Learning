@@ -5,8 +5,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39c9c9d0-0b1f-4920-bffd-af7ba4362453" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.lock" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidGradleLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinGradleLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinPluginAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidGradleLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KotlinGradleLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KotlinLibraryAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KotlinPluginAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/sources/org/gradle/accessors/dm/LibrariesForLibs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/423f0288fa7dffe069445ffa4b72952b4629a15a/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/res/resValues/debug/values/gradleResValues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/rncli/src/main/java/com/facebook/react/PackageList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/AntDesign.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/Entypo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/EvilIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/Feather.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/FontAwesome.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/FontAwesome5_Brands.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/FontAwesome5_Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/FontAwesome5_Solid.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/FontAwesome6_Brands.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/FontAwesome6_Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/FontAwesome6_Solid.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/Fontisto.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/Foundation.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/Ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/MaterialCommunityIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/MaterialIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/Octicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/SimpleLineIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/ReactNativeVectorIcons/fonts/Zocial.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tn/digitalTn/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tn/digitalTn/MainApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn.xcodeproj/xcshareddata/xcschemes/DigitalTn.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn.xcworkspace/xcuserdata/souhail.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn/AppDelegate.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTn/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTnTests/DigitalTnTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/DigitalTnTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+>>>>>>> 9ce4bce8 (rename project)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +85,7 @@
       <ProjectState />
     </projectState>
   </component>
+<<<<<<< HEAD
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -45,6 +112,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+>>>>>>> 9ce4bce8 (rename project)
   <component name="ProjectId" id="2fMVJLzLu88TA5ZZQj8OhpLBogU" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,6 +125,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
@@ -66,6 +139,21 @@
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="Digital.Tn.app.main" />
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Reserver.app.main" />
+>>>>>>> 9ce4bce8 (rename project)
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />

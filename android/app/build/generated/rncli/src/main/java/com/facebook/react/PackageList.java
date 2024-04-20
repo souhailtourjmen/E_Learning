@@ -11,26 +11,37 @@ import com.facebook.react.shell.MainReactPackage;
 import java.util.Arrays;
 import java.util.ArrayList;
 
+<<<<<<< HEAD
 // @shopify/flash-list
 import com.shopify.reactnative.flash_list.ReactNativeFlashListPackage;
 // react-native-config
 import com.lugg.RNCConfig.RNCConfigPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.RNGestureHandlerPackage;
+=======
+// react-native-config
+import com.lugg.RNCConfig.RNCConfigPackage;
+>>>>>>> 9ce4bce8 (rename project)
 // react-native-keychain
 import com.oblador.keychain.KeychainPackage;
 // react-native-linear-gradient
 import com.BV.LinearGradient.LinearGradientPackage;
 // react-native-localize
 import com.zoontek.rnlocalize.RNLocalizePackage;
+<<<<<<< HEAD
 // react-native-reanimated
 import com.swmansion.reanimated.ReanimatedPackage;
+=======
+>>>>>>> 9ce4bce8 (rename project)
 // react-native-safe-area-context
 import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 // react-native-screens
 import com.swmansion.rnscreens.RNScreensPackage;
+<<<<<<< HEAD
 // react-native-svg
 import com.horcrux.svg.SvgPackage;
+=======
+>>>>>>> 9ce4bce8 (rename project)
 // react-native-vector-icons
 import com.oblador.vectoricons.VectorIconsPackage;
 // react-native-video
@@ -80,6 +91,7 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
+<<<<<<< HEAD
       new ReactNativeFlashListPackage(),
       new RNCConfigPackage(),
       new RNGestureHandlerPackage(),
@@ -90,6 +102,14 @@ public class PackageList {
       new SafeAreaContextPackage(),
       new RNScreensPackage(),
       new SvgPackage(),
+=======
+      new RNCConfigPackage(),
+      new KeychainPackage(),
+      new LinearGradientPackage(),
+      new RNLocalizePackage(),
+      new SafeAreaContextPackage(),
+      new RNScreensPackage(),
+>>>>>>> 9ce4bce8 (rename project)
       new VectorIconsPackage(),
       new ReactVideoPackage()
     ));

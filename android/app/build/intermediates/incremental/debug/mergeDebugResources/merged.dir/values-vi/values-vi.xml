@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -17,6 +18,8 @@
     <item quantity="one">Tua lại %d giây</item>
     <item quantity="other">Tua lại %d giây</item>
   </plurals>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d thông báo mới</item>
     <item quantity="other">%d thông báo mới</item>
@@ -49,7 +52,10 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Thu gọn"</string>
     <string gender="unknown" name="alert_description">Thông báo</string>
+<<<<<<< HEAD
     <string name="authentication_required">Yêu cầu xác thực</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="bottomsheet_action_collapse">Thu gọn bảng dưới cùng</string>
     <string name="bottomsheet_action_expand">Mở rộng bảng dưới cùng</string>
     <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
@@ -63,6 +69,7 @@
     <string gender="unknown" name="combobox_description">Ô lựa chọn</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Dùng mật khẩu"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Lỗi không xác định"</string>
+<<<<<<< HEAD
     <string name="default_notification_channel_name">Đang phát</string>
     <string name="error_icon_content_description">Lỗi</string>
     <string name="exo_controls_cc_disabled_description">Bật phụ đề</string>
@@ -116,6 +123,9 @@
     <string name="exo_track_surround_5_point_1">Âm thanh vòm 5.1</string>
     <string name="exo_track_surround_7_point_1">Âm thanh vòm 7.1</string>
     <string name="exo_track_unknown">Không xác định</string>
+=======
+    <string name="error_icon_content_description">Lỗi</string>
+>>>>>>> 9ce4bce8 (rename project)
     <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Chạm vào cảm biến vân tay"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Không dùng được phần cứng vân tay."</string>
@@ -146,12 +156,15 @@
     <string name="material_timepicker_pm">CH</string>
     <string name="material_timepicker_select_time">Chọn thời gian</string>
     <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
+<<<<<<< HEAD
     <string name="media3_controls_pause_description">Tạm dừng</string>
     <string name="media3_controls_play_description">Phát</string>
     <string name="media3_controls_seek_back_description">Tua lại</string>
     <string name="media3_controls_seek_forward_description">Tua đi</string>
     <string name="media3_controls_seek_to_next_description">Tua đến mục tiếp theo</string>
     <string name="media3_controls_seek_to_previous_description">Tua về mục trước</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string gender="unknown" name="menubar_description">Thanh menu</string>
     <string gender="unknown" name="menuitem_description">Mục trong menu</string>
     <string name="mtrl_badge_numberless_content_description">Thông báo mới</string>

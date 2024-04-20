@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -17,6 +18,8 @@
     <item quantity="one">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτο</item>
     <item quantity="other">Μετάβαση προς τα πίσω κατά %d δευτερόλεπτα</item>
   </plurals>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d νέα ειδοποίηση</item>
     <item quantity="other">%d νέες ειδοποιήσεις</item>
@@ -49,7 +52,10 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Κοινοποίηση στην εφαρμογή <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
     <string gender="unknown" name="alert_description">Ειδοποίηση</string>
+<<<<<<< HEAD
     <string name="authentication_required">Απαιτείται έλεγχος ταυτότητας</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="bottomsheet_action_collapse">Σύμπτυξη του φύλλου κάτω μέρους</string>
     <string name="bottomsheet_action_expand">Ανάπτυξη του φύλλου κάτω μέρους</string>
     <string name="bottomsheet_action_expand_halfway">Ανάπτυξη μέχρι τη μέση</string>
@@ -62,6 +68,7 @@
     <string gender="unknown" name="combobox_description">Συνδυαστικό κουτάκι</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Χρήση κωδικού πρόσβασης"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Άγνωστο σφάλμα"</string>
+<<<<<<< HEAD
     <string name="default_notification_channel_name">Ακούγεται τώρα</string>
     <string name="error_icon_content_description">Σφάλμα</string>
     <string name="exo_controls_cc_disabled_description">Ενεργοποίηση υπότιτλων</string>
@@ -115,6 +122,9 @@
     <string name="exo_track_surround_5_point_1">Περιφερειακός ήχος 5.1</string>
     <string name="exo_track_surround_7_point_1">Περιφερειακός ήχος 7.1</string>
     <string name="exo_track_unknown">Άγνωστο</string>
+=======
+    <string name="error_icon_content_description">Σφάλμα</string>
+>>>>>>> 9ce4bce8 (rename project)
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Αγγίξτε τον αισθ. δακτ. αποτ."</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Ο εξοπλισμός δακτυλικού αποτυπώματος δεν είναι διαθέσιμος."</string>
@@ -145,12 +155,15 @@
     <string name="material_timepicker_pm">ΜΜ</string>
     <string name="material_timepicker_select_time">Επιλέξτε ώρα</string>
     <string name="material_timepicker_text_input_mode_description">Κάντε εναλλαγή στη λειτουργία εισαγωγής κειμένου, για την εισαγωγή της ώρας.</string>
+<<<<<<< HEAD
     <string name="media3_controls_pause_description">Παύση</string>
     <string name="media3_controls_play_description">Αναπαραγωγή</string>
     <string name="media3_controls_seek_back_description">Αναζήτηση προς τα πίσω</string>
     <string name="media3_controls_seek_forward_description">Αναζήτηση προς τα εμπρός</string>
     <string name="media3_controls_seek_to_next_description">Αναζήτηση προς επόμενο στοιχείο</string>
     <string name="media3_controls_seek_to_previous_description">Αναζήτηση προς προηγούμενο στοιχείο</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string gender="unknown" name="menu_description">Μενού</string>
     <string gender="unknown" name="menubar_description">Γραμμή μενού</string>
     <string gender="unknown" name="menuitem_description">Στοιχείο μενού</string>

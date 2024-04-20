@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -17,6 +18,8 @@
     <item quantity="one">%d секунд артка түрдүрүү</item>
     <item quantity="other">%d секунд артка түрдүрүү</item>
   </plurals>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d жаңы билдирме</item>
     <item quantity="other">%d жаңы билдирме</item>
@@ -48,7 +51,10 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Төмөнкү менен бөлүшүү"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> аркылуу бөлүшүү"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Жыйыштыруу"</string>
+<<<<<<< HEAD
     <string name="authentication_required">Аныктыгын текшерүү талап кылынат</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="bottomsheet_action_collapse">Ылдыйкы экранды жыйыштыруу</string>
     <string name="bottomsheet_action_expand">Ылдыйкы экранды жайып көрсөтүү</string>
     <string name="bottomsheet_action_expand_halfway">Жарымын жайып көрсөтүү</string>
@@ -59,6 +65,7 @@
     <string name="clear_text_end_icon_content_description">Текстти тазалоо</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Сырсөз колдонуу"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Белгисиз ката"</string>
+<<<<<<< HEAD
     <string name="default_notification_channel_name">Ойноп жатат</string>
     <string name="error_icon_content_description">Ката</string>
     <string name="exo_controls_cc_disabled_description">Коштомо жазууларды иштетүү</string>
@@ -112,6 +119,9 @@
     <string name="exo_track_surround_5_point_1">5.1 көлөмдүү добуш</string>
     <string name="exo_track_surround_7_point_1">7.1 көлөмдүү добуш</string>
     <string name="exo_track_unknown">Белгисиз</string>
+=======
+    <string name="error_icon_content_description">Ката</string>
+>>>>>>> 9ce4bce8 (rename project)
     <string name="exposed_dropdown_menu_content_description">Түрүлмө менюну көрсөтүү</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Манжа изинин сенсорун басыңыз"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Манжа изинин аппараттык камсыздоосу жеткиликтүү эмес."</string>
@@ -141,12 +151,15 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Убакыт тандоо</string>
     <string name="material_timepicker_text_input_mode_description">Убакытты текст киргизүү режиминде киргизиңиз.</string>
+<<<<<<< HEAD
     <string name="media3_controls_pause_description">Тындыруу</string>
     <string name="media3_controls_play_description">Ойнотуу</string>
     <string name="media3_controls_seek_back_description">Артка түрдүрүү</string>
     <string name="media3_controls_seek_forward_description">Алдыга түрдүрүү</string>
     <string name="media3_controls_seek_to_next_description">Кийинки нерсеге өтүү</string>
     <string name="media3_controls_seek_to_previous_description">Мурунку нерсеге өтүү</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string gender="unknown" name="menu_description">Меню</string>
     <string name="mtrl_badge_numberless_content_description">Жаңы билдирме</string>
     <string name="mtrl_chip_close_icon_content_description">Мазмунду алып салуу (%1$s)</string>

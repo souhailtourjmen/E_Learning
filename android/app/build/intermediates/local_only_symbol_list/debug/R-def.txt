@@ -5,6 +5,9 @@ integer react_native_dev_server_port
 integer react_native_inspector_proxy_port
 mipmap ic_launcher
 mipmap ic_launcher_round
+<<<<<<< HEAD
 string API_URL
+=======
+>>>>>>> 9ce4bce8 (rename project)
 string app_name
 style AppTheme

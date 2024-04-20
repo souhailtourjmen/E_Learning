@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -17,6 +18,8 @@
     <item quantity="one">Shko prapa %d sekondë</item>
     <item quantity="other">Shko prapa %d sekonda</item>
   </plurals>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d njoftim i ri</item>
     <item quantity="other">%d njoftime të reja</item>
@@ -49,7 +52,10 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Ndaje me <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Palos"</string>
     <string gender="unknown" name="alert_description">Sinjalizim</string>
+<<<<<<< HEAD
     <string name="authentication_required">Kërkohet vërtetimi</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="bottomsheet_action_collapse">Palos fletën e poshtme</string>
     <string name="bottomsheet_action_expand">Zgjero fletën e poshtme</string>
     <string name="bottomsheet_action_expand_halfway">Zgjeroje deri në gjysmë</string>
@@ -63,6 +69,7 @@
     <string gender="unknown" name="combobox_description">Kuti kombinimi</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Përdor fjalëkalimin"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Gabim i panjohur"</string>
+<<<<<<< HEAD
     <string name="default_notification_channel_name">Gjej këngën</string>
     <string name="error_icon_content_description">Gabim</string>
     <string name="exo_controls_cc_disabled_description">Aktivizo titrat</string>
@@ -116,6 +123,9 @@
     <string name="exo_track_surround_5_point_1">Tingull rrethues 5.1</string>
     <string name="exo_track_surround_7_point_1">Tingull rrethues 7.1</string>
     <string name="exo_track_unknown">E panjohur</string>
+=======
+    <string name="error_icon_content_description">Gabim</string>
+>>>>>>> 9ce4bce8 (rename project)
     <string name="exposed_dropdown_menu_content_description">Shfaq menynë me lëshim poshtë</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Prek sensorin e gjurmës së gishtit"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Hardueri i gjurmës së gishtit nuk mundësohet."</string>
@@ -146,12 +156,15 @@
     <string name="material_timepicker_pm">PD</string>
     <string name="material_timepicker_select_time">Zgjidh orën</string>
     <string name="material_timepicker_text_input_mode_description">Kalo te modaliteti i hyrjes së tekstit për hyrjen e kohës.</string>
+<<<<<<< HEAD
     <string name="media3_controls_pause_description">Vendos në pauzë</string>
     <string name="media3_controls_play_description">Luaj</string>
     <string name="media3_controls_seek_back_description">Kërko prapa</string>
     <string name="media3_controls_seek_forward_description">Kërko përpara</string>
     <string name="media3_controls_seek_to_next_description">Kërko te artikulli tjetër</string>
     <string name="media3_controls_seek_to_previous_description">Kërko te artikulli i mëparshëm</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string gender="unknown" name="menu_description">Meny</string>
     <string gender="unknown" name="menubar_description">Shiriti i menysë</string>
     <string gender="unknown" name="menuitem_description">Artikull i menysë</string>

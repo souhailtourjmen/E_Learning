@@ -1,9 +1,13 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "digital.tn",
 =======
   "name": "Reserver",
 >>>>>>> ab93aef2 (first unit project)
+=======
+  "name": "Reserver",
+>>>>>>> 9ce4bce8 (rename project)
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,12 +15,19 @@
     "ios": "react-native run-ios",
     "lint": "eslint .",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "dev": "cd android/ && ./gradlew clean && react-native start --reset-cache",
     "build-staging": "cp ./.env.staging ./.env && npx react-native run-android",
     "build-prod": "cp ./.env.prod ./.env && npx react-native run-android",
     "release": "cd android && ./gradlew clean && ./gradlew assembleRelease && cd ../",
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+    "dev": "cd android/ && ./gradlew clean && react-native start --reset-cache",
+    "build-staging": "cp ./.env.staging ./.env && npx react-native run-android",
+    "build-prod": "cp ./.env.prod ./.env && npx react-native run-android",
+    "release": "cd android && ./gradlew assembleRelease && cd ../",
+>>>>>>> 9ce4bce8 (rename project)
     "start": "react-native start",
     "test": "jest"
   },

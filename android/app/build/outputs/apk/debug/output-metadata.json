@@ -4,7 +4,11 @@
     "type": "APK",
     "kind": "Directory"
   },
+<<<<<<< HEAD
   "applicationId": "com.digitalTn.app",
+=======
+  "applicationId": "com.reserver",
+>>>>>>> 9ce4bce8 (rename project)
   "variantName": "debug",
   "elements": [
     {

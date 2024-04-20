@@ -26,10 +26,14 @@ if linkage != nil
 end
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 target 'DigitalTn' do
 =======
 target 'Reserver' do
 >>>>>>> ab93aef2 (first unit project)
+=======
+target 'Reserver' do
+>>>>>>> 9ce4bce8 (rename project)
   config = use_native_modules!
 
   use_react_native!(
@@ -44,10 +48,14 @@ target 'Reserver' do
   )
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   target 'DigitalTnTests' do
 =======
   target 'ReserverTests' do
 >>>>>>> ab93aef2 (first unit project)
+=======
+  target 'ReserverTests' do
+>>>>>>> 9ce4bce8 (rename project)
     inherit! :complete
     # Pods for testing
   end

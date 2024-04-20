@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -19,6 +20,8 @@
     <item quantity="few">Premotajte %d sekunde unazad</item>
     <item quantity="other">Premotajte %d sekundi unazad</item>
   </plurals>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d novo obaveštenje</item>
     <item quantity="few">%d nova obaveštenja</item>
@@ -51,7 +54,10 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Delite pomoću"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Delite pomoću aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Skupi"</string>
+<<<<<<< HEAD
     <string name="authentication_required">Potrebna je potvrda identiteta</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="bottomsheet_action_collapse">Skupite donju tabelu</string>
     <string name="bottomsheet_action_expand">Proširite donju tabelu</string>
     <string name="bottomsheet_action_expand_halfway">Proširite do pola</string>
@@ -62,6 +68,7 @@
     <string name="clear_text_end_icon_content_description">Obriši tekst</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Koristite lozinku"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Nepoznata greška"</string>
+<<<<<<< HEAD
     <string name="default_notification_channel_name">Trenutno svira</string>
     <string name="error_icon_content_description">Greška</string>
     <string name="exo_controls_cc_disabled_description">Omogući titlove</string>
@@ -115,6 +122,9 @@
     <string name="exo_track_surround_5_point_1">Prostorni zvuk 5.1</string>
     <string name="exo_track_surround_7_point_1">Prostorni zvuk 7.1</string>
     <string name="exo_track_unknown">Nepoznato</string>
+=======
+    <string name="error_icon_content_description">Greška</string>
+>>>>>>> 9ce4bce8 (rename project)
     <string name="exposed_dropdown_menu_content_description">Prikaži padajući meni</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Dodirn. senzor za otisak prsta"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Hardver za otiske prstiju nije dostupan."</string>
@@ -141,12 +151,15 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Izaberite vreme</string>
     <string name="material_timepicker_text_input_mode_description">Pređite u režim unosa teksta radi unosa vremena.</string>
+<<<<<<< HEAD
     <string name="media3_controls_pause_description">Pauziraj</string>
     <string name="media3_controls_play_description">Pusti</string>
     <string name="media3_controls_seek_back_description">Premotaj unazad</string>
     <string name="media3_controls_seek_forward_description">Premotaj unapred</string>
     <string name="media3_controls_seek_to_next_description">Premotaj na sledeću stavku</string>
     <string name="media3_controls_seek_to_previous_description">Premotaj na prethodnu stavku</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="mtrl_badge_numberless_content_description">Novo obaveštenje</string>
     <string name="mtrl_chip_close_icon_content_description">Uklonite %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Novih obaveštenja: više od %1$d</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="exo_controls_playback_speeds">
     <item>0.25x</item>
     <item>0.5x</item>
@@ -17,6 +18,8 @@
     <item quantity="one">%d ਸਕਿੰਟ ਪਿੱਛੇ ਕਰੋ</item>
     <item quantity="other">%d ਸਕਿੰਟ ਪਿੱਛੇ ਕਰੋ</item>
   </plurals>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d ਨਵੀਂ ਸੂਚਨਾ</item>
     <item quantity="other">%d ਨਵੀਆਂ ਸੂਚਨਾਵਾਂ</item>
@@ -49,7 +52,10 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ਨਾਲ ਸਾਂਝਾ ਕਰੋ"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ਸਮੇਟੋ"</string>
     <string gender="unknown" name="alert_description">ਸੁਚੇਤਨਾ</string>
+<<<<<<< HEAD
     <string name="authentication_required">ਪ੍ਰਮਾਣੀਕਰਨ ਲੋੜੀਂਦਾ ਹੈ</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="bottomsheet_action_collapse">ਹੇਠਲੀ ਸ਼ੀਟ ਨੂੰ ਸਮੇਟੋ</string>
     <string name="bottomsheet_action_expand">ਹੇਠਲੀ ਸ਼ੀਟ ਦਾ ਵਿਸਤਾਰ ਕਰੋ</string>
     <string name="bottomsheet_action_expand_halfway">ਅੱਧ ਤੱਕ ਵਿਸਤਾਰ ਕਰੋ</string>
@@ -63,6 +69,7 @@
     <string gender="unknown" name="combobox_description">ਕੋਂਬੋ ਬਾਕਸ</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"ਪਾਸਵਰਡ ਵਰਤੋ"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"ਅਗਿਆਤ ਗੜਬੜ"</string>
+<<<<<<< HEAD
     <string name="default_notification_channel_name">ਹੁਣੇ ਚੱਲ ਰਿਹਾ ਹੈ</string>
     <string name="error_icon_content_description">ਗੜਬੜ</string>
     <string name="exo_controls_cc_disabled_description">ਉਪਸਿਰਲੇਖਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ</string>
@@ -116,6 +123,9 @@
     <string name="exo_track_surround_5_point_1">5.1 ਸਰਾਊਂਡ ਸਾਊਂਡ</string>
     <string name="exo_track_surround_7_point_1">7.1 ਸਰਾਊਂਡ ਸਾਊਂਡ</string>
     <string name="exo_track_unknown">ਅਗਿਆਤ</string>
+=======
+    <string name="error_icon_content_description">ਗੜਬੜ</string>
+>>>>>>> 9ce4bce8 (rename project)
     <string name="exposed_dropdown_menu_content_description">ਡ੍ਰੌਪ-ਡਾਊਨ ਮੀਨੂ ਦਿਖਾਓ</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਨੂੰ ਸਪਰਸ਼ ਕਰੋ"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"ਫਿੰਗਰਪ੍ਰਿੰਟ ਹਾਰਡਵੇਅਰ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।"</string>
@@ -146,12 +156,15 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">ਸਮਾਂ ਚੁਣੋ</string>
     <string name="material_timepicker_text_input_mode_description">ਸਮਾਂ ਇਨਪੁੱਟ ਕਰਨ ਲਈ ਲਿਖਤ ਇਨਪੁੱਟ ਮੋਡ \'ਤੇ ਸਵਿੱਚ ਕਰੋ।</string>
+<<<<<<< HEAD
     <string name="media3_controls_pause_description">ਰੋਕੋ</string>
     <string name="media3_controls_play_description">ਚਲਾਓ</string>
     <string name="media3_controls_seek_back_description">ਪਿੱਛੇ ਲਿਜਾਓ</string>
     <string name="media3_controls_seek_forward_description">ਅੱਗੇ ਵਧਾਓ</string>
     <string name="media3_controls_seek_to_next_description">ਅਗਲੀ ਆਈਟਮ \'ਤੇ ਜਾਓ</string>
     <string name="media3_controls_seek_to_previous_description">ਪਿਛਲੀ ਆਈਟਮ \'ਤੇ ਜਾਓ</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string gender="unknown" name="menu_description">ਮੀਨੂ</string>
     <string gender="unknown" name="menubar_description">ਮੀਨੂ ਬਾਰ</string>
     <string gender="unknown" name="menuitem_description">ਮੀਨੂ ਆਈਟਮ</string>

@@ -2,8 +2,12 @@
 <resources>
     <integer name="react_native_dev_server_port">8081</integer>
     <integer name="react_native_inspector_proxy_port">8081</integer>
+<<<<<<< HEAD
     <string name="API_URL" translatable="false">"http://192.168.1.12:3000"</string>
     <string name="app_name">Digital.Tn</string>
+=======
+    <string name="app_name">Reserver</string>
+>>>>>>> 9ce4bce8 (rename project)
     <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
         
         <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>

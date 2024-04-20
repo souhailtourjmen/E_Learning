@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="exo_controls_playback_speeds">
     <item>0.25x</item>
     <item>0.5x</item>
@@ -17,6 +18,8 @@
     <item quantity="one">%d 秒巻き戻し</item>
     <item quantity="other">%d 秒巻き戻し</item>
   </plurals>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d 件の新しい通知</item>
     <item quantity="other">%d 件の新しい通知</item>
@@ -49,7 +52,10 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"折りたたむ"</string>
     <string gender="unknown" name="alert_description">アラート</string>
+<<<<<<< HEAD
     <string name="authentication_required">認証が必要です</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="bottomsheet_action_collapse">ボトムシートを閉じる</string>
     <string name="bottomsheet_action_expand">ボトムシートを開く</string>
     <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
@@ -63,6 +69,7 @@
     <string gender="unknown" name="combobox_description">コンボボックス</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"パスワードを使用"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"不明なエラーです"</string>
+<<<<<<< HEAD
     <string name="default_notification_channel_name">再生中</string>
     <string name="error_icon_content_description">エラー</string>
     <string name="exo_controls_cc_disabled_description">字幕の有効化</string>
@@ -116,6 +123,9 @@
     <string name="exo_track_surround_5_point_1">5.1 サラウンド サウンド</string>
     <string name="exo_track_surround_7_point_1">7.1 サラウンド サウンド</string>
     <string name="exo_track_unknown">不明</string>
+=======
+    <string name="error_icon_content_description">エラー</string>
+>>>>>>> 9ce4bce8 (rename project)
     <string name="exposed_dropdown_menu_content_description">プルダウン メニューを表示</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"指紋認証センサーをタップ"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"指紋認証ハードウェアは使用できません。"</string>
@@ -146,12 +156,15 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">時間を選択</string>
     <string name="material_timepicker_text_input_mode_description">時刻をテキストで入力するモードに切り替えます。</string>
+<<<<<<< HEAD
     <string name="media3_controls_pause_description">一時停止</string>
     <string name="media3_controls_play_description">再生</string>
     <string name="media3_controls_seek_back_description">巻き戻し</string>
     <string name="media3_controls_seek_forward_description">早送り</string>
     <string name="media3_controls_seek_to_next_description">次のアイテムに移動</string>
     <string name="media3_controls_seek_to_previous_description">前のアイテムに移動</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string gender="unknown" name="menu_description">メニュー</string>
     <string gender="unknown" name="menubar_description">メニューバー</string>
     <string gender="unknown" name="menuitem_description">メニューアイテム</string>

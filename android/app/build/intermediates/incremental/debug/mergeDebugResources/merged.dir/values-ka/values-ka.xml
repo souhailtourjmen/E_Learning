@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -17,6 +18,8 @@
     <item quantity="one">უკან გადახვევა %d წამით</item>
     <item quantity="other">უკან გადახვევა %d წამით</item>
   </plurals>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d ახალი შეტყობინება</item>
     <item quantity="other">%d ახალი შეტყობინება</item>
@@ -49,7 +52,10 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-ით გაზიარება"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ჩაკეცვა"</string>
     <string gender="unknown" name="alert_description">გაფრთხილება</string>
+<<<<<<< HEAD
     <string name="authentication_required">საჭიროა ავტორიზაცია</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="bottomsheet_action_collapse">ქვედა ფურცლის ჩაკეცვა</string>
     <string name="bottomsheet_action_expand">ქვედა ფურცლის გაშლა</string>
     <string name="bottomsheet_action_expand_halfway">ნახევრამდე გაფართოება</string>
@@ -62,6 +68,7 @@
     <string name="clear_text_end_icon_content_description">ტექსტის გასუფთავება</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"პაროლის გამოყენება"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"უცნობი შეცდომა"</string>
+<<<<<<< HEAD
     <string name="default_notification_channel_name">ამჟამად უკრავს</string>
     <string name="error_icon_content_description">შეცდომა</string>
     <string name="exo_controls_cc_disabled_description">სუბტიტრების ჩართვა</string>
@@ -115,6 +122,9 @@
     <string name="exo_track_surround_5_point_1">5.1 მოცულობითი ხმა</string>
     <string name="exo_track_surround_7_point_1">7.1 მოცულობითი ხმა</string>
     <string name="exo_track_unknown">უცნობი</string>
+=======
+    <string name="error_icon_content_description">შეცდომა</string>
+>>>>>>> 9ce4bce8 (rename project)
     <string name="exposed_dropdown_menu_content_description">ჩამოსაშლელი მენიუს ჩვენება</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"შეეხეთ თითის ანაბეჭდის სენსორს"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"თითის ანაბეჭდის აპარატურა მიუწვდომელია."</string>
@@ -145,12 +155,15 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">აირჩიეთ დრო</string>
     <string name="material_timepicker_text_input_mode_description">დროის შეყვანისთვის ტექსტის შეყვანის რეჟიმზე გადართვა.</string>
+<<<<<<< HEAD
     <string name="media3_controls_pause_description">პაუზა</string>
     <string name="media3_controls_play_description">დაკვრა</string>
     <string name="media3_controls_seek_back_description">უკან გადახვევა</string>
     <string name="media3_controls_seek_forward_description">წინ გადახვევა</string>
     <string name="media3_controls_seek_to_next_description">შემდეგ ერთეულზე გადახვევა</string>
     <string name="media3_controls_seek_to_previous_description">წინა ერთეულზე გადახვევა</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string gender="unknown" name="menu_description">მენიუ</string>
     <string gender="unknown" name="menubar_description">მენიუს ზოლი</string>
     <string gender="unknown" name="menuitem_description">მენიუს ერთეული</string>

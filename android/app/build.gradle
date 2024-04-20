@@ -79,6 +79,7 @@ android {
     compileSdk rootProject.ext.compileSdkVersion
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     namespace "com.digitalTn.app"
     defaultConfig {
         applicationId "com.digitalTn.app"
@@ -87,6 +88,11 @@ android {
     defaultConfig {
         applicationId "com.reserver"
 >>>>>>> ab93aef2 (first unit project)
+=======
+    namespace "com.reserver"
+    defaultConfig {
+        applicationId "com.reserver"
+>>>>>>> 9ce4bce8 (rename project)
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

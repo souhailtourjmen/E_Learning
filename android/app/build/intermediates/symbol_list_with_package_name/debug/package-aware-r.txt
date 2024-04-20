@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 com.digitalTn.app
+=======
+com.reserver
+>>>>>>> 9ce4bce8 (rename project)
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -108,7 +112,10 @@ array assume_strong_biometrics_models
 array crypto_fingerprint_fallback_prefixes
 array crypto_fingerprint_fallback_vendors
 array delay_showing_prompt_models
+<<<<<<< HEAD
 array exo_controls_playback_speeds
+=======
+>>>>>>> 9ce4bce8 (rename project)
 array hide_fingerprint_instantly_prefixes
 attr actionBarDivider
 attr actionBarItemBackground
@@ -150,8 +157,11 @@ attr activityChooserViewStyle
 attr actualImageResource
 attr actualImageScaleType
 attr actualImageUri
+<<<<<<< HEAD
 attr ad_marker_color
 attr ad_marker_width
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr addElevationShadow
 attr alertDialogButtonGroupStyle
 attr alertDialogCenterButtons
@@ -165,13 +175,19 @@ attr animateMenuItems
 attr animateNavigationIcon
 attr animate_relativeTo
 attr animationMode
+<<<<<<< HEAD
 attr animation_enabled
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr appBarLayoutStyle
 attr applyMotionScene
 attr arcMode
 attr arrowHeadLength
 attr arrowShaftLength
+<<<<<<< HEAD
 attr artwork_display_mode
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr attributeName
 attr autoCompleteTextViewStyle
 attr autoShowKeyboard
@@ -181,7 +197,10 @@ attr autoSizePresetSizes
 attr autoSizeStepGranularity
 attr autoSizeTextType
 attr autoTransition
+<<<<<<< HEAD
 attr auto_show
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr autofillInlineSuggestionChip
 attr autofillInlineSuggestionEndIconStyle
 attr autofillInlineSuggestionStartIconStyle
@@ -215,8 +234,11 @@ attr badgeWithTextShapeAppearance
 attr badgeWithTextShapeAppearanceOverlay
 attr badgeWithTextWidth
 attr barLength
+<<<<<<< HEAD
 attr bar_gravity
 attr bar_height
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr barrierAllowsGoneWidgets
 attr barrierDirection
 attr barrierMargin
@@ -252,7 +274,10 @@ attr boxStrokeErrorColor
 attr boxStrokeWidth
 attr boxStrokeWidthFocused
 attr brightness
+<<<<<<< HEAD
 attr buffered_color
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr buttonBarButtonStyle
 attr buttonBarNegativeButtonStyle
 attr buttonBarNeutralButtonStyle
@@ -426,7 +451,10 @@ attr contentPaddingTop
 attr contentScrim
 attr contrast
 attr controlBackground
+<<<<<<< HEAD
 attr controller_layout_id
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr coordinatorLayoutStyle
 attr coplanarSiblingViewId
 attr cornerFamily
@@ -467,7 +495,10 @@ attr defaultMarginsEnabled
 attr defaultQueryHint
 attr defaultScrollFlagsEnabled
 attr defaultState
+<<<<<<< HEAD
 attr default_artwork
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr deltaPolarAngle
 attr deltaPolarRadius
 attr deriveConstraintsFrom
@@ -636,8 +667,11 @@ attr hideMotionSpec
 attr hideNavigationIcon
 attr hideOnContentScroll
 attr hideOnScroll
+<<<<<<< HEAD
 attr hide_during_ads
 attr hide_on_touch
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr hintAnimationEnabled
 attr hintEnabled
 attr hintTextAppearance
@@ -700,7 +734,10 @@ attr itemTextAppearanceActive
 attr itemTextAppearanceInactive
 attr itemTextColor
 attr itemVerticalPadding
+<<<<<<< HEAD
 attr keep_content_on_player_reset
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr keyPositionType
 attr keyboardIcon
 attr keylines
@@ -965,9 +1002,12 @@ attr placeholderText
 attr placeholderTextAppearance
 attr placeholderTextColor
 attr placeholder_emptyVisibility
+<<<<<<< HEAD
 attr played_ad_marker_color
 attr played_color
 attr player_layout_id
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr popupMenuBackground
 attr popupMenuStyle
 attr popupTheme
@@ -997,8 +1037,11 @@ attr region_heightMoreThan
 attr region_widthLessThan
 attr region_widthMoreThan
 attr removeEmbeddedFabElevation
+<<<<<<< HEAD
 attr repeat_toggle_modes
 attr resize_mode
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr retryImage
 attr retryImageScaleType
 attr reverseLayout
@@ -1020,6 +1063,7 @@ attr roundingBorderColor
 attr roundingBorderPadding
 attr roundingBorderWidth
 attr saturation
+<<<<<<< HEAD
 attr scrimAnimationDuration
 attr scrimBackground
 attr scrimVisibleHeightTrigger
@@ -1028,6 +1072,12 @@ attr scrubber_disabled_size
 attr scrubber_dragged_size
 attr scrubber_drawable
 attr scrubber_enabled_size
+=======
+attr scalableType
+attr scrimAnimationDuration
+attr scrimBackground
+attr scrimVisibleHeightTrigger
+>>>>>>> 9ce4bce8 (rename project)
 attr searchHintIcon
 attr searchIcon
 attr searchPrefixText
@@ -1058,6 +1108,7 @@ attr showMotionSpec
 attr showPaths
 attr showText
 attr showTitle
+<<<<<<< HEAD
 attr show_buffering
 attr show_fastforward_button
 attr show_next_button
@@ -1069,6 +1120,9 @@ attr show_timeout
 attr show_vr_button
 attr shrinkMotionSpec
 attr shutter_background_color
+=======
+attr shrinkMotionSpec
+>>>>>>> 9ce4bce8 (rename project)
 attr sideSheetDialogTheme
 attr sideSheetModalStyle
 attr simpleItemLayout
@@ -1127,7 +1181,10 @@ attr suffixText
 attr suffixTextAppearance
 attr suffixTextColor
 attr suggestionRowLayout
+<<<<<<< HEAD
 attr surface_type
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr swipeRefreshLayoutProgressSpinnerBackgroundColor
 attr switchMinWidth
 attr switchPadding
@@ -1239,7 +1296,10 @@ attr tickMarkTintMode
 attr tickRadiusActive
 attr tickRadiusInactive
 attr tickVisible
+<<<<<<< HEAD
 attr time_bar_min_update_interval
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr tint
 attr tintMode
 attr tintNavigationIcon
@@ -1271,7 +1331,10 @@ attr topInsetScrimEnabled
 attr touchAnchorId
 attr touchAnchorSide
 attr touchRegionId
+<<<<<<< HEAD
 attr touch_target_height
+=======
+>>>>>>> 9ce4bce8 (rename project)
 attr track
 attr trackColor
 attr trackColorActive
@@ -1293,12 +1356,18 @@ attr triggerId
 attr triggerReceiver
 attr triggerSlack
 attr ttcIndex
+<<<<<<< HEAD
 attr unplayed_color
 attr useCompatPadding
 attr useDrawerArrowDrawable
 attr useMaterialThemeColors
 attr use_artwork
 attr use_controller
+=======
+attr useCompatPadding
+attr useDrawerArrowDrawable
+attr useMaterialThemeColors
+>>>>>>> 9ce4bce8 (rename project)
 attr values
 attr verticalOffset
 attr verticalOffsetWithText
@@ -1420,6 +1489,7 @@ color dim_foreground_material_dark
 color dim_foreground_material_light
 color error_color_material_dark
 color error_color_material_light
+<<<<<<< HEAD
 color exo_black_opacity_60
 color exo_black_opacity_70
 color exo_bottom_bar_background
@@ -1428,6 +1498,8 @@ color exo_error_message_background_color
 color exo_styled_error_message_background
 color exo_white
 color exo_white_opacity_70
+=======
+>>>>>>> 9ce4bce8 (rename project)
 color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
@@ -2225,6 +2297,7 @@ dimen design_tab_text_size_2line
 dimen design_textinput_caption_translate_y
 dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
+<<<<<<< HEAD
 dimen exo_error_message_height
 dimen exo_error_message_margin_bottom
 dimen exo_error_message_text_padding_horizontal
@@ -2260,6 +2333,8 @@ dimen exo_styled_progress_enabled_thumb_size
 dimen exo_styled_progress_layout_height
 dimen exo_styled_progress_margin_bottom
 dimen exo_styled_progress_touch_target_height
+=======
+>>>>>>> 9ce4bce8 (rename project)
 dimen fastscroll_default_thickness
 dimen fastscroll_margin
 dimen fastscroll_minimum_range
@@ -2884,6 +2959,13 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+<<<<<<< HEAD
+=======
+dimen subtitle_corner_radius
+dimen subtitle_outline_width
+dimen subtitle_shadow_offset
+dimen subtitle_shadow_radius
+>>>>>>> 9ce4bce8 (rename project)
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -2987,6 +3069,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+<<<<<<< HEAD
 drawable exo_edit_mode_logo
 drawable exo_ic_audiotrack
 drawable exo_ic_check
@@ -3066,6 +3149,8 @@ drawable exo_styled_controls_speed
 drawable exo_styled_controls_subtitle_off
 drawable exo_styled_controls_subtitle_on
 drawable exo_styled_controls_vr
+=======
+>>>>>>> 9ce4bce8 (rename project)
 drawable fingerprint_dialog_error
 drawable fingerprint_dialog_fp_icon
 drawable ic_arrow_back_black_24
@@ -3101,6 +3186,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+<<<<<<< HEAD
 drawable media3_icon_circular_play
 drawable media3_notification_pause
 drawable media3_notification_play
@@ -3110,6 +3196,8 @@ drawable media3_notification_seek_to_next
 drawable media3_notification_seek_to_previous
 drawable media3_notification_small_icon
 drawable media_session_service_notification_ic_music_note
+=======
+>>>>>>> 9ce4bce8 (rename project)
 drawable mtrl_bottomsheet_drag_handle
 drawable mtrl_checkbox_button
 drawable mtrl_checkbox_button_checked_unchecked
@@ -3165,7 +3253,10 @@ drawable rn_edit_text_material
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+<<<<<<< HEAD
 font roboto_medium_numbers
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -3274,8 +3365,17 @@ id cancel_action
 id cancel_button
 id catalyst_redbox_title
 id center
+<<<<<<< HEAD
 id centerCrop
 id centerInside
+=======
+id centerBottom
+id centerBottomCrop
+id centerCrop
+id centerInside
+id centerTop
+id centerTopCrop
+>>>>>>> 9ce4bce8 (rename project)
 id center_horizontal
 id center_vertical
 id chain
@@ -3335,11 +3435,16 @@ id edit_query
 id elastic
 id embed
 id end
+<<<<<<< HEAD
+=======
+id endInside
+>>>>>>> 9ce4bce8 (rename project)
 id endToStart
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
 id exitUntilCollapsed
+<<<<<<< HEAD
 id exo_ad_overlay
 id exo_artwork
 id exo_audio_track
@@ -3390,6 +3495,8 @@ id exo_text
 id exo_time
 id exo_track_selection_view
 id exo_vr
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id expand_activities_button
 id expanded_menu
 id fade
@@ -3401,7 +3508,10 @@ id fingerprint_description
 id fingerprint_error
 id fingerprint_icon
 id fingerprint_subtitle
+<<<<<<< HEAD
 id fit
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id fitBottomStart
 id fitCenter
 id fitEnd
@@ -3409,8 +3519,11 @@ id fitStart
 id fitToContents
 id fitXY
 id fixed
+<<<<<<< HEAD
 id fixed_height
 id fixed_width
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id flip
 id flipper_skip_empty_view_group_traversal
 id flipper_skip_view_traversal
@@ -3443,7 +3556,10 @@ id info
 id invalidate_transform
 id invisible
 id inward
+<<<<<<< HEAD
 id is_pooling_container_tag
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id italic
 id item_touch_helper_previous_elevation
 id jumpToEnd
@@ -3452,7 +3568,17 @@ id labeled
 id labelled_by
 id layout
 id left
+<<<<<<< HEAD
 id leftToRight
+=======
+id leftBottom
+id leftBottomCrop
+id leftCenter
+id leftCenterCrop
+id leftToRight
+id leftTop
+id leftTopCrop
+>>>>>>> 9ce4bce8 (rename project)
 id legacy
 id line1
 id line3
@@ -3485,7 +3611,10 @@ id material_timepicker_view
 id material_value_index
 id matrix
 id media_actions
+<<<<<<< HEAD
 id media_controller_compat_view_tag
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id message
 id middle
 id mini
@@ -3536,7 +3665,10 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+<<<<<<< HEAD
 id one
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id outline
 id outward
 id packed
@@ -3552,7 +3684,10 @@ id peekHeight
 id percent
 id pin
 id pointer_events
+<<<<<<< HEAD
 id pooling_container_listener_holder_tag
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id position
 id postLayout
 id pressed
@@ -3562,10 +3697,22 @@ id radio
 id ratio
 id react_test_id
 id rectangles
+<<<<<<< HEAD
 id report_drawn
 id reverseSawtooth
 id right
 id rightToLeft
+=======
+id reverseSawtooth
+id right
+id rightBottom
+id rightBottomCrop
+id rightCenter
+id rightCenterCrop
+id rightToLeft
+id rightTop
+id rightTopCrop
+>>>>>>> 9ce4bce8 (rename project)
 id right_icon
 id right_side
 id rn_frame_file
@@ -3630,7 +3777,10 @@ id snap
 id snapMargins
 id spacer
 id special_effects_controller_view_tag
+<<<<<<< HEAD
 id spherical_gl_surface_view
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id spline
 id split_action_bar
 id spread
@@ -3642,6 +3792,10 @@ id src_over
 id standard
 id start
 id startHorizontal
+<<<<<<< HEAD
+=======
+id startInside
+>>>>>>> 9ce4bce8 (rename project)
 id startToEnd
 id startVertical
 id staticLayout
@@ -3651,7 +3805,10 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+<<<<<<< HEAD
 id surface_view
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -3682,7 +3839,10 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+<<<<<<< HEAD
 id texture_view
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id time
 id title
 id titleDividerNoCustom
@@ -3706,7 +3866,10 @@ id uniform
 id unlabeled
 id up
 id useLogo
+<<<<<<< HEAD
 id video_decoder_gl_surface_view
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id view_offset_helper
 id view_tag_instance_handle
 id view_tag_native_id
@@ -3716,13 +3879,19 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+<<<<<<< HEAD
 id when_playing
+=======
+>>>>>>> 9ce4bce8 (rename project)
 id withText
 id with_icon
 id withinBounds
 id wrap
 id wrap_content
+<<<<<<< HEAD
 id zoom
+=======
+>>>>>>> 9ce4bce8 (rename project)
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
 integer app_bar_elevation_anim_duration
@@ -3731,8 +3900,11 @@ integer cancel_button_image_alpha
 integer config_tooltipAnimTime
 integer design_snackbar_text_max_lines
 integer design_tab_indicator_anim_duration_ms
+<<<<<<< HEAD
 integer exo_media_button_opacity_percentage_disabled
 integer exo_media_button_opacity_percentage_enabled
+=======
+>>>>>>> 9ce4bce8 (rename project)
 integer hide_password_duration
 integer m3_btn_anim_delay_ms
 integer m3_btn_anim_duration_ms
@@ -3858,6 +4030,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout dev_loading_view
+<<<<<<< HEAD
 layout exo_legacy_player_control_view
 layout exo_list_divider
 layout exo_player_control_ffwd_button
@@ -3868,6 +4041,8 @@ layout exo_styled_settings_list
 layout exo_styled_settings_list_item
 layout exo_styled_sub_settings_list_item
 layout exo_track_selection_dialog
+=======
+>>>>>>> 9ce4bce8 (rename project)
 layout fingerprint_dialog_layout
 layout fps_view
 layout m3_alert_dialog
@@ -3945,10 +4120,14 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+<<<<<<< HEAD
 plurals exo_controls_fastforward_by_amount_description
 plurals exo_controls_rewind_by_amount_description
 plurals mtrl_badge_content_description
 string API_URL
+=======
+plurals mtrl_badge_content_description
+>>>>>>> 9ce4bce8 (rename project)
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -3980,7 +4159,10 @@ string alert_description
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
+<<<<<<< HEAD
 string authentication_required
+=======
+>>>>>>> 9ce4bce8 (rename project)
 string bottom_sheet_behavior
 string bottomsheet_action_collapse
 string bottomsheet_action_expand
@@ -4021,6 +4203,7 @@ string clear_text_end_icon_content_description
 string combobox_description
 string confirm_device_credential_password
 string default_error_msg
+<<<<<<< HEAD
 string default_notification_channel_name
 string error_a11y_label
 string error_drm_not_supported
@@ -4084,6 +4267,10 @@ string exo_track_surround
 string exo_track_surround_5_point_1
 string exo_track_surround_7_point_1
 string exo_track_unknown
+=======
+string error_a11y_label
+string error_icon_content_description
+>>>>>>> 9ce4bce8 (rename project)
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
@@ -4141,12 +4328,15 @@ string material_timepicker_minute
 string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
+<<<<<<< HEAD
 string media3_controls_pause_description
 string media3_controls_play_description
 string media3_controls_seek_back_description
 string media3_controls_seek_forward_description
 string media3_controls_seek_to_next_description
 string media3_controls_seek_to_previous_description
+=======
+>>>>>>> 9ce4bce8 (rename project)
 string menu_description
 string menubar_description
 string menuitem_description
@@ -4240,7 +4430,10 @@ string summary_description
 string tablist_description
 string timer_description
 string toolbar_description
+<<<<<<< HEAD
 string unrecognized_media_format
+=======
+>>>>>>> 9ce4bce8 (rename project)
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -4532,6 +4725,7 @@ style CardView_Dark
 style CardView_Light
 style DialogAnimationFade
 style DialogAnimationSlide
+<<<<<<< HEAD
 style ExoMediaButton
 style ExoMediaButton_FastForward
 style ExoMediaButton_FullScreen
@@ -4565,6 +4759,8 @@ style ExoStyledControls_TimeText
 style ExoStyledControls_TimeText_Duration
 style ExoStyledControls_TimeText_Position
 style ExoStyledControls_TimeText_Separator
+=======
+>>>>>>> 9ce4bce8 (rename project)
 style MaterialAlertDialog_Material3
 style MaterialAlertDialog_Material3_Animation
 style MaterialAlertDialog_Material3_Body_Text
@@ -5426,7 +5622,10 @@ styleable AppCompatSeekBar android_thumb tickMark tickMarkTint tickMarkTintMode
 styleable AppCompatTextHelper android_textAppearance android_drawableTop android_drawableBottom android_drawableLeft android_drawableRight android_drawableStart android_drawableEnd
 styleable AppCompatTextView android_textAppearance autoSizeMaxTextSize autoSizeMinTextSize autoSizePresetSizes autoSizeStepGranularity autoSizeTextType drawableBottomCompat drawableEndCompat drawableLeftCompat drawableRightCompat drawableStartCompat drawableTint drawableTintMode drawableTopCompat emojiCompatEnabled firstBaselineToTopHeight fontFamily fontVariationSettings lastBaselineToBottomHeight lineHeight textAllCaps textLocale
 styleable AppCompatTheme android_windowIsFloating android_windowAnimationStyle actionBarDivider actionBarItemBackground actionBarPopupTheme actionBarSize actionBarSplitStyle actionBarStyle actionBarTabBarStyle actionBarTabStyle actionBarTabTextStyle actionBarTheme actionBarWidgetTheme actionButtonStyle actionDropDownStyle actionMenuTextAppearance actionMenuTextColor actionModeBackground actionModeCloseButtonStyle actionModeCloseContentDescription actionModeCloseDrawable actionModeCopyDrawable actionModeCutDrawable actionModeFindDrawable actionModePasteDrawable actionModePopupWindowStyle actionModeSelectAllDrawable actionModeShareDrawable actionModeSplitBackground actionModeStyle actionModeTheme actionModeWebSearchDrawable actionOverflowButtonStyle actionOverflowMenuStyle activityChooserViewStyle alertDialogButtonGroupStyle alertDialogCenterButtons alertDialogStyle alertDialogTheme autoCompleteTextViewStyle borderlessButtonStyle buttonBarButtonStyle buttonBarNegativeButtonStyle buttonBarNeutralButtonStyle buttonBarPositiveButtonStyle buttonBarStyle buttonStyle buttonStyleSmall checkboxStyle checkedTextViewStyle colorAccent colorBackgroundFloating colorButtonNormal colorControlActivated colorControlHighlight colorControlNormal colorError colorPrimary colorPrimaryDark colorSwitchThumbNormal controlBackground dialogCornerRadius dialogPreferredPadding dialogTheme dividerHorizontal dividerVertical dropDownListViewStyle dropdownListPreferredItemHeight editTextBackground editTextColor editTextStyle homeAsUpIndicator imageButtonStyle listChoiceBackgroundIndicator listChoiceIndicatorMultipleAnimated listChoiceIndicatorSingleAnimated listDividerAlertDialog listMenuViewStyle listPopupWindowStyle listPreferredItemHeight listPreferredItemHeightLarge listPreferredItemHeightSmall listPreferredItemPaddingEnd listPreferredItemPaddingLeft listPreferredItemPaddingRight listPreferredItemPaddingStart panelBackground panelMenuListTheme panelMenuListWidth popupMenuStyle popupWindowStyle radioButtonStyle ratingBarStyle ratingBarStyleIndicator ratingBarStyleSmall searchViewStyle seekBarStyle selectableItemBackground selectableItemBackgroundBorderless spinnerDropDownItemStyle spinnerStyle switchStyle textAppearanceLargePopupMenu textAppearanceListItem textAppearanceListItemSecondary textAppearanceListItemSmall textAppearancePopupMenuHeader textAppearanceSearchResultSubtitle textAppearanceSearchResultTitle textAppearanceSmallPopupMenu textColorAlertDialogListItem textColorSearchUrl toolbarNavigationButtonStyle toolbarStyle tooltipForegroundColor tooltipFrameBackground viewInflaterClass windowActionBar windowActionBarOverlay windowActionModeOverlay windowFixedHeightMajor windowFixedHeightMinor windowFixedWidthMajor windowFixedWidthMinor windowMinWidthMajor windowMinWidthMinor windowNoTitle
+<<<<<<< HEAD
 styleable AspectRatioFrameLayout resize_mode
+=======
+>>>>>>> 9ce4bce8 (rename project)
 styleable Autofill_InlineSuggestion autofillInlineSuggestionChip autofillInlineSuggestionEndIconStyle autofillInlineSuggestionStartIconStyle autofillInlineSuggestionSubtitle autofillInlineSuggestionTitle isAutofillInlineSuggestionTheme
 styleable Badge backgroundColor badgeGravity badgeHeight badgeRadius badgeShapeAppearance badgeShapeAppearanceOverlay badgeTextAppearance badgeTextColor badgeWidePadding badgeWidth badgeWithTextHeight badgeWithTextRadius badgeWithTextShapeAppearance badgeWithTextShapeAppearanceOverlay badgeWithTextWidth horizontalOffset horizontalOffsetWithText maxCharacterCount number offsetAlignmentMode verticalOffset verticalOffsetWithText
 styleable BaseProgressIndicator android_indeterminate hideAnimationBehavior indicatorColor minHideDelay showAnimationBehavior showDelay trackColor trackCornerRadius trackThickness
@@ -5453,7 +5652,10 @@ styleable ConstraintSet android_orientation android_id android_visibility androi
 styleable CoordinatorLayout keylines statusBarBackground
 styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_anchorGravity layout_behavior layout_dodgeInsetEdges layout_insetEdge layout_keyline
 styleable CustomAttribute attributeName customBoolean customColorDrawableValue customColorValue customDimension customFloatValue customIntegerValue customPixelDimension customStringValue
+<<<<<<< HEAD
 styleable DefaultTimeBar ad_marker_color ad_marker_width bar_gravity bar_height buffered_color played_ad_marker_color played_color scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size touch_target_height unplayed_color
+=======
+>>>>>>> 9ce4bce8 (rename project)
 styleable DrawerArrowToggle arrowHeadLength arrowShaftLength barLength color drawableSize gapBetweenBars spinBars thickness
 styleable DrawerLayout elevation
 styleable ExtendedFloatingActionButton collapsedSize elevation extendMotionSpec extendStrategy hideMotionSpec showMotionSpec shrinkMotionSpec
@@ -5480,7 +5682,10 @@ styleable KeyPosition curveFit drawPath framePosition keyPositionType motionTarg
 styleable KeyTimeCycle android_alpha android_translationX android_translationY android_scaleX android_scaleY android_rotation android_rotationX android_rotationY android_translationZ android_elevation curveFit framePosition motionProgress motionTarget transitionEasing transitionPathRotate waveDecay waveOffset wavePeriod waveShape
 styleable KeyTrigger framePosition motionTarget motion_postLayoutCollision motion_triggerOnCollision onCross onNegativeCross onPositiveCross triggerId triggerReceiver triggerSlack
 styleable Layout android_orientation android_layout_width android_layout_height android_layout_marginLeft android_layout_marginTop android_layout_marginRight android_layout_marginBottom android_layout_marginStart android_layout_marginEnd barrierAllowsGoneWidgets barrierDirection barrierMargin chainUseRtl constraint_referenced_ids layout_constrainedHeight layout_constrainedWidth layout_constraintBaseline_creator layout_constraintBaseline_toBaselineOf layout_constraintBottom_creator layout_constraintBottom_toBottomOf layout_constraintBottom_toTopOf layout_constraintCircle layout_constraintCircleAngle layout_constraintCircleRadius layout_constraintDimensionRatio layout_constraintEnd_toEndOf layout_constraintEnd_toStartOf layout_constraintGuide_begin layout_constraintGuide_end layout_constraintGuide_percent layout_constraintHeight_default layout_constraintHeight_max layout_constraintHeight_min layout_constraintHeight_percent layout_constraintHorizontal_bias layout_constraintHorizontal_chainStyle layout_constraintHorizontal_weight layout_constraintLeft_creator layout_constraintLeft_toLeftOf layout_constraintLeft_toRightOf layout_constraintRight_creator layout_constraintRight_toLeftOf layout_constraintRight_toRightOf layout_constraintStart_toEndOf layout_constraintStart_toStartOf layout_constraintTop_creator layout_constraintTop_toBottomOf layout_constraintTop_toTopOf layout_constraintVertical_bias layout_constraintVertical_chainStyle layout_constraintVertical_weight layout_constraintWidth_default layout_constraintWidth_max layout_constraintWidth_min layout_constraintWidth_percent layout_editor_absoluteX layout_editor_absoluteY layout_goneMarginBottom layout_goneMarginEnd layout_goneMarginLeft layout_goneMarginRight layout_goneMarginStart layout_goneMarginTop maxHeight maxWidth minHeight minWidth
+<<<<<<< HEAD
 styleable LegacyPlayerControlView ad_marker_color ad_marker_width bar_gravity bar_height buffered_color controller_layout_id played_ad_marker_color played_color repeat_toggle_modes scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_fastforward_button show_next_button show_previous_button show_rewind_button show_shuffle_button show_timeout time_bar_min_update_interval touch_target_height unplayed_color
+=======
+>>>>>>> 9ce4bce8 (rename project)
 styleable LinearLayoutCompat android_gravity android_orientation android_baselineAligned android_baselineAlignedChildIndex android_weightSum divider dividerPadding measureWithLargestChild showDividers
 styleable LinearLayoutCompat_Layout android_layout_gravity android_layout_width android_layout_height android_layout_weight
 styleable LinearProgressIndicator indeterminateAnimationType indicatorDirectionLinear
@@ -5518,8 +5723,11 @@ styleable NavigationRailView headerLayout itemMinHeight menuGravity paddingBotto
 styleable NavigationView android_layout_gravity android_background android_fitsSystemWindows android_maxWidth bottomInsetScrimEnabled dividerInsetEnd dividerInsetStart drawerLayoutCornerSize elevation headerLayout itemBackground itemHorizontalPadding itemIconPadding itemIconSize itemIconTint itemMaxLines itemRippleColor itemShapeAppearance itemShapeAppearanceOverlay itemShapeFillColor itemShapeInsetBottom itemShapeInsetEnd itemShapeInsetStart itemShapeInsetTop itemTextAppearance itemTextColor itemVerticalPadding menu shapeAppearance shapeAppearanceOverlay subheaderColor subheaderInsetEnd subheaderInsetStart subheaderTextAppearance topInsetScrimEnabled
 styleable OnClick clickAction targetId
 styleable OnSwipe dragDirection dragScale dragThreshold limitBoundsTo maxAcceleration maxVelocity moveWhenScrollAtTop nestedScrollFlags onTouchUp touchAnchorId touchAnchorSide touchRegionId
+<<<<<<< HEAD
 styleable PlayerControlView ad_marker_color ad_marker_width animation_enabled bar_gravity bar_height buffered_color controller_layout_id played_ad_marker_color played_color repeat_toggle_modes scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_fastforward_button show_next_button show_previous_button show_rewind_button show_shuffle_button show_subtitle_button show_timeout show_vr_button time_bar_min_update_interval touch_target_height unplayed_color
 styleable PlayerView ad_marker_color ad_marker_width animation_enabled artwork_display_mode auto_show bar_gravity bar_height buffered_color controller_layout_id default_artwork hide_during_ads hide_on_touch keep_content_on_player_reset played_ad_marker_color played_color player_layout_id repeat_toggle_modes resize_mode scrubber_color scrubber_disabled_size scrubber_dragged_size scrubber_drawable scrubber_enabled_size show_buffering show_shuffle_button show_subtitle_button show_timeout show_vr_button shutter_background_color surface_type time_bar_min_update_interval touch_target_height unplayed_color use_artwork use_controller
+=======
+>>>>>>> 9ce4bce8 (rename project)
 styleable PopupWindow android_popupBackground android_popupAnimationStyle overlapAnchor
 styleable PopupWindowBackgroundState state_above_anchor
 styleable PropertySet android_visibility android_alpha layout_constraintTag motionProgress visibilityMode
@@ -5561,4 +5769,8 @@ styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewPager2 android_orientation
 styleable ViewStubCompat android_id android_layout android_inflatedId
+<<<<<<< HEAD
+=======
+styleable scaleStyle scalableType
+>>>>>>> 9ce4bce8 (rename project)
 xml rn_dev_preferences

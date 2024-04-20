@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -17,6 +18,8 @@
     <item quantity="one">Spola tillbaka %d sekund</item>
     <item quantity="other">Spola tillbaka %d sekunder</item>
   </plurals>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d ny avisering</item>
     <item quantity="other">%d nya aviseringar</item>
@@ -49,7 +52,10 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Komprimera"</string>
     <string gender="unknown" name="alert_description">Avisering</string>
+<<<<<<< HEAD
     <string name="authentication_required">Autentisering krävs</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string name="bottomsheet_action_collapse">Komprimera arket på nedre delen av skärmen</string>
     <string name="bottomsheet_action_expand">Utöka arket på nedre delen av skärmen</string>
     <string name="bottomsheet_action_expand_halfway">Utöka till hälften</string>
@@ -62,6 +68,7 @@
     <string gender="unknown" name="combobox_description">Kombinationsruta</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Använd lösenord"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Okänt fel"</string>
+<<<<<<< HEAD
     <string name="default_notification_channel_name">Nu spelas</string>
     <string name="error_icon_content_description">Fel</string>
     <string name="exo_controls_cc_disabled_description">Aktivera undertexter</string>
@@ -115,6 +122,9 @@
     <string name="exo_track_surround_5_point_1">5.1-kanaligt surroundljud</string>
     <string name="exo_track_surround_7_point_1">7.1-kanaligt surroundljud</string>
     <string name="exo_track_unknown">Okänt</string>
+=======
+    <string name="error_icon_content_description">Fel</string>
+>>>>>>> 9ce4bce8 (rename project)
     <string name="exposed_dropdown_menu_content_description">Visa rullgardinsmenyn</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Tryck på fingeravtryckssensorn"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Det finns ingen maskinvara för fingeravtryck."</string>
@@ -145,12 +155,15 @@
     <string name="material_timepicker_pm">EM</string>
     <string name="material_timepicker_select_time">Välj tid</string>
     <string name="material_timepicker_text_input_mode_description">Byt till textinmatningsläget och ange tid.</string>
+<<<<<<< HEAD
     <string name="media3_controls_pause_description">Pausa</string>
     <string name="media3_controls_play_description">Spela upp</string>
     <string name="media3_controls_seek_back_description">Hoppa bakåt</string>
     <string name="media3_controls_seek_forward_description">Hoppa framåt</string>
     <string name="media3_controls_seek_to_next_description">Hoppa till nästa objekt</string>
     <string name="media3_controls_seek_to_previous_description">Hoppa till föregående objekt</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
     <string gender="unknown" name="menu_description">Meny</string>
     <string gender="unknown" name="menubar_description">Menyfält</string>
     <string gender="unknown" name="menuitem_description">Menyobjekt</string>
