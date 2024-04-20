@@ -1,0 +1,18 @@
+current directory: /Users/souhail/Documents/freelancer/Reserver/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/souhail/.rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/souhail/Documents/freelancer/Reserver/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240303-66773-ssf5su sitelibdir\=./.gem.20240303-66773-ssf5su clean
+
+current directory: /Users/souhail/Documents/freelancer/Reserver/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240303-66773-ssf5su sitelibdir\=./.gem.20240303-66773-ssf5su
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/souhail/Documents/freelancer/Reserver/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240303-66773-ssf5su sitelibdir\=./.gem.20240303-66773-ssf5su install
+/opt/homebrew/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20240303-66773-ssf5su
+
+current directory: /Users/souhail/Documents/freelancer/Reserver/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240303-66773-ssf5su sitelibdir\=./.gem.20240303-66773-ssf5su clean

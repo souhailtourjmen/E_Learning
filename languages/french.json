@@ -1,0 +1,184 @@
+{
+    "translation": {
+      
+      "login": {
+        "interface": {
+          "SeConnecter": "Se Connecter",
+          "Sinscrire": "S'inscrire",
+          "subTitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "palcholder": {
+            "email": "E-mail",
+            "emailForMPO": "E-mail",
+            "password": "********"
+          },
+          "MDPO": "Mot de passe oublié?",
+          "Ou": "Ou",
+          "Google": "Continue avec Google",
+          "Facebook": "Continue avec Facebook",
+          "EmailRequired": "Adresse e-mail est obligatoire",
+          "PasswordRequired": "Mot de passe est obligatoire",
+          "EmailValid": "Veuillez entrer une adresse e-mail valide",
+          "PassworlValid": "Veuillez entrer une adresse e-mail valide",
+          "ForgetPasswordTitle": "Mot de passe oublié?",
+          "ForgetPasswordSubTitle": "Nous vous enverrons un lien de réinitialisation si un compte existe",
+          "ForgetPasswordTitleSent": "Instructions envoyées",
+          "ForgetPasswordInstruction": "Nous avons envoyé des instructions pour changer votre mot de passe à {{email, string}}, veuillez vérifier votre boîte de réception et votre dossier spam"
+        }
+      },
+      "signUp": {
+        "interface": {
+          "textCodeCheckMail": "Entrez le code à 8 chiffres que nous venons d'envoyer à {{email, formatname}}",
+          "subTextCodeCheckMail": "Cela nous aide à assurer la sécurité de votre compte en vérifiant qu'il s'agit bien de vous.",
+          "placeholder": {
+            "codeCheck": "Code à 8 chiffres",
+            "nom": "Nom",
+            "prenom": "Prenom",
+            "tel": "+33xxxxx",
+            "genre": "Genre",
+            "DtN": "Date de Naissance",
+            "password": "mot de passe"
+          },
+          "radio": {
+            "pushMail": "Promotions via push ou e-mail",
+            "pushMailDescription": "Promos et mises à jour sans sur-sollicitation ni partage de données.",
+            "accessData": "Données requises pour l'utilisation de PlayPro",
+            "accessDataDescription": "PlayPro collecte les données essentielles pour l'application, incluant analyses et stats. Consultez notre politique de confidentialité & CGUV."
+          },
+          "titleInformation": "Entrez vos informations personnelles",
+          "subTextInfromation": "Cela nous aide à assurer la sécurité de votre compte en vérifiant qu'il s'agit bien de vous.",
+          "flelicts": "Félicictations",
+          "subTextFelicits": "Votre profil Playpro a été créé avec succès, vous pouvez commencer à utiliser l'application Playpro",
+          "btns": {
+            "btnVerifier": "Vérifier",
+            "btnRenvoyer": "Renvoyer",
+            "btnContinuer": "Continuer",
+            "btnCommencer": "Commencer"
+          },
+          "gender": [
+            {
+              "name": "Homme"
+            },
+            {
+              "name": "Femme"
+            },
+            {
+              "name": "Non-binaire"
+            }
+          ],
+          "EmailRequired": "Adresse e-mail est obligatoire",
+          "EmailValid": "Veuillez entrer une adresse e-mail valide",
+          "PasswordRequired": "Mot de passe est obligatoire",
+          "FirstNameRequired": "Prénom est obligatoire",
+          "LastNameRequired": "Nom est obligatoire",
+          "PhoneNumberRequired": "Le numéro de téléphone est obligatoire",
+          "GenderRequired": "Genre est obligatoire",
+          "DateRequired": "Le champ d'anniversaire est obligatoire.",
+          "PasswordSmallLettre": "Le mot de passe doit contenir une petite lettre",
+          "PasswordCapitalLettre": "Le mot de passe doit avoir une lettre majuscule",
+          "PasswordNumberCheck": "Le mot de passe doit avoir un numéro",
+          "PasswordSpecialCharacter": "Le mot de passe doit avoir un caractère spécial",
+          "PasswordMatch": "Les mots de passe ne sont pas identiques",
+          "Caps": "Que les lettres majuscules ou minuscules sont autorisées.",
+          "FirstNameShort": "Votre prenom doit contenir minimum 4 caractères",
+          "LastNameShort": "Votre nom doit contenir minimum 4 caractères",
+          "LastNameLong": "Votre nom ne doit pas passer 30 caractères",
+          "FirstNameLong": "Votre nom doit contenir minimum 4 caractères",
+          "FieldRequired": "Champ obligatoire",
+          "PhoneNumber": "Le numéro de téléphone doit commencer par +33 ou 06 ou 07",
+          "PhoneNumberLength": "Le numéro de téléphone doit contenir au moins 8 chiffres",
+          "DateField": "Veuillez entrer une date valide",
+          "signUpErrorTitle": "Erreur d'Inscription",
+          "signUpErrorDesc": "La valeur du champ adresse email est déjà utilisée"
+        }
+      },
+      
+     
+      "Profile": {
+        "interface": {
+          "welcome": "Mon compte",
+          "textBtnUpdateProfile": "Modifier le profil",
+          "subUpdateProfile": "Nom, email, téléphone, lieu, genre, date de naissance",
+          "textBtnVosReservation": "Mes réservations",
+          "textBtnVosCommandes": "Mes commandes",
+          "subTextBtnVosCommandes": "Commandes, réclamation",
+          "order": "Commandes",
+          "reclamation": "Réclamation",
+          "sunTextBtnVosReservation": "Réservations, bon cadeau, forfait",
+          "textBtnPaimentMethode": "Moyens de paiement",
+          "SubtextBtnPaimentMethode": "méthodes de payement",
+          "textBtnSettings": "Paramètres",
+          "SubtextBtnSettings": "Supprimer le compte, les notifications, sécurité",
+          "support": "Support",
+          "Faq": "Faq",
+          "legal": "Information légale",
+          "legalCondition": "CGUV",
+          "legalPolitque": "Politique de confidentialité",
+          "profileReservation": "Mes réservations",
+          "profileUserReservations": "Réservations à venir",
+          "profileUserVouchers": "Bon cadeau",
+          "profileUserOffers": "Offre",
+          "personalInformation": "Informations personnelles",
+          "reclamationTitle": "Réclamation",
+          "reclamationInputObject": "Objet",
+          "reclamationInputOrder": "Liste des commandes",
+          "reclamationInputMessage": "Message",
+          "reclamationText": "Partagez votre avis : Envoyez-nous vos précieux commentaires",
+          "password": "Mot de passe",
+          "updatePasswordHeader": "Changer le mot de passe",
+          "updatePasswordConfirmation": "Confirmer nouveau mot de passe",
+          "updatePasswordSuccess": "Mot de passe mis à jour avec succès",
+          "reclamationSucess": "Votre réclamation étais envoyé avec succsé",
+          "updatePasswordTitle": "Entrez le mot de passe que vous souhaitez définir pour votre compte. Il doit comporter au moins 8 caractères",
+          "treatmentsTitle": "Forfaits",
+          "updateProfileSuccess": "Succès",
+          "updateProfileDescriptionSuccess": "Votre profil a été mis à jour avec succès",
+          "ordersEmpty": "Aucune commande à afficher\n N'hésitez plus et réservez vos activités",
+          "logoutDesc": "Êtes-vous sûr de vouloir vous déconnecter?",
+          "treatmentEmpty": "Aucune offre à afficher.",
+          "treatmentEmptyDesc": "N'hésitez plus et acheter vos offres",
+          "myGiftsEmpty": "Aucun bon cadeau à afficher",
+          "myGiftsEmptyDesc": "N'hésitez plus et achetez vos bons cadeaux.",
+          "myGiftsEmptyBtn": "Acheter un bon cadeau",
+          "myOrdersTitle": "Voulez-vous vraiment annuler cette commande ?",
+          "myOrdersSubTitle": "Si vous confirmez l'annulation, toutes les modifications seront perdues."
+        }
+      },
+
+      "BUTTONS": {
+        "btnSuiv": "Suivant",
+        "btnPres": "Précedent",
+        "btnConf": "Confirmer",
+        "btnAnnule": "Annuler",
+        "btnRéserver": "Réserver",
+        "btnConsulterPanier": "Consulter le panier",
+        "btnPaiement": "Procéder au paiement",
+        "Recharger": "Recharger",
+        "RechargerPortf": "Recharger mon portefeuille",
+        "addToCart": "Ajouter au panier",
+        "retirer": "Retirer",
+        "addToCode": "Ajouter un code",
+        "add": "Ajouter",
+        "addToCreditCard": "Ajouter une carte de crédit",
+        "btnLogout": "Se déconnecter",
+        "btnDelete": "Supprimer",
+        "Confirmer": "Confirmer {{solde, number}} €",
+        "Payer": "Payer {{solde, number}} €",
+        "ContinuePayment": "Continuer le paiement {{solde, number}} €",
+        "Rechercher": "Rechercher",
+        "Google": "continue avec gmail",
+        "Facebook": "continue avec facebook",
+        "Apple": "Continue avec Apple",
+        "ProceedToPayment": "procéder au paiement"
+      },
+      
+      "ROUTES": {
+        "Intro": "Intro"
+        
+      },
+      "message": {
+        "payment": "Paiement effectuée par succès",
+        "notFound": "Nous sommes ravis de vous informer qu'une toute nouvelle fonctionnalité passionnante est sur le point d'arriver! 🚀 Restez à l'écoute, car nous travaillons ardemment en coulisses pour vous offrir une expérience encore meilleure.\nMerci pour votre patience et votre fidélité."
+      }
+     
+    }
+  }
