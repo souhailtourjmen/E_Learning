@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface ReserverTests : XCTestCase
+@interface DigitalTnTests : XCTestCase
 
 @end
 
-@implementation ReserverTests
+@implementation DigitalTnTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

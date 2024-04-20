@@ -6,10 +6,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="API_URL" translatable="false">"http://192.168.1.12:3000"</string>
 =======
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
     <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
 >>>>>>> 4005439c (add Desing Screen course details)
     <string name="app_name">Digital.Tn</string>
@@ -22,7 +25,13 @@
 >>>>>>> 0d945e64 (change name Digital.Tn)
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="app_name">Digital.Tn</string>
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
     <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
         
         <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>

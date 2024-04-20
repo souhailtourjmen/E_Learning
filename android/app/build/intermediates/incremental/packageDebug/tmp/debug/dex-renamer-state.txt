@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -34,6 +35,8 @@
 =======
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
 #Sun May 12 00:16:43 CET 2024
 >>>>>>> 97ed279c (- add dynamic screen details)
 path.4=7/classes.dex
@@ -50,17 +53,25 @@ base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/
 path.4=14/classes.dex
 path.3=1/classes.dex
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
 =======
 #Sat Apr 20 12:39:25 CET 2024
 path.4=7/classes.dex
 path.3=14/classes.dex
+<<<<<<< HEAD
 >>>>>>> 0d945e64 (change name Digital.Tn)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
 path.2=0/classes.dex
 path.1=0/classes.dex
 path.5=classes2.dex
 path.0=classes.dex
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
@@ -75,6 +86,15 @@ base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/
 base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+>>>>>>> a2d98ded (rename project)
+=======
+base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
 base.2=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.1=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
 base.0=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex

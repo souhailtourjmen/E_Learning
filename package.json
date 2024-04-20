@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "digital.tn",
 =======
   "name": "Reserver",
@@ -17,6 +18,8 @@
 =======
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
   "name": "digital.tn",
 =======
   "name": "Reserver",
@@ -27,7 +30,13 @@
 =======
   "name": "Reserver",
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+  "name": "digital.tn",
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
   "version": "0.0.1",
   "private": true,
   "scripts": {

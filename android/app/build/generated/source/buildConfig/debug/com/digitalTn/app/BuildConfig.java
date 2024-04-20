@@ -12,6 +12,7 @@ public final class BuildConfig {
   // Field from default config.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   public static final String API_URL = "http://192.168.1.12:3000";
   // Field from default config.
 =======
@@ -20,6 +21,12 @@ public final class BuildConfig {
   public static final String API_URL = "http://192.168.1.16:3000";
   // Field from default config.
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+  public static final String API_URL = "http://192.168.1.16:3000";
+  // Field from default config.
+=======
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
   public static final boolean IS_HERMES_ENABLED = true;
   // Field from default config.
   public static final boolean IS_NEW_ARCHITECTURE_ENABLED = false;

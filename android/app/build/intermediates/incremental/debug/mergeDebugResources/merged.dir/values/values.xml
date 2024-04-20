@@ -2575,6 +2575,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="app_name">Digital.Tn</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="authentication_required">Authentication required</string>
@@ -2589,11 +2590,16 @@
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
     <string name="app_name">Digital.Tn</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="authentication_required">Authentication required</string>
 =======
     <string name="app_name">Reserver</string>
+=======
+    <string name="app_name">Digital.Tn</string>
+>>>>>>> d795e8b9 (change name Digital.Tn)
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)

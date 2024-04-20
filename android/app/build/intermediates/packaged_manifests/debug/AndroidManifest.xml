@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     package="com.digitalTn.app"
 =======
     package="com.reserver"
@@ -11,11 +12,19 @@
     package="com.digitalTn.app"
 >>>>>>> 0d945e64 (change name Digital.Tn)
 =======
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
     package="com.digitalTn.app"
 =======
     package="com.reserver"
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    package="com.digitalTn.app"
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -53,6 +62,7 @@
 
     <permission
 <<<<<<< HEAD
+<<<<<<< HEAD
         android:name="com.digitalTn.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
@@ -67,14 +77,24 @@
 >>>>>>> 0d945e64 (change name Digital.Tn)
 =======
         android:name="com.reserver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+=======
+        android:name="com.digitalTn.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+>>>>>>> 8ad543a9 (change name Digital.Tn)
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.reserver.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.digitalTn.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
+<<<<<<< HEAD
         android:name="com.reserver.MainApplication"
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+        android:name="com.digitalTn.app.MainApplication"
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
         android:allowBackup="false"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -88,6 +108,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             android:name="com.digitalTn.app.MainActivity"
 =======
             android:name="com.reserver.MainActivity"
@@ -96,11 +117,19 @@
             android:name="com.digitalTn.app.MainActivity"
 >>>>>>> 0d945e64 (change name Digital.Tn)
 =======
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
             android:name="com.digitalTn.app.MainActivity"
 =======
             android:name="com.reserver.MainActivity"
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+            android:name="com.digitalTn.app.MainActivity"
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
             android:exported="true"
             android:label="@string/app_name"
@@ -121,6 +150,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             android:authorities="com.digitalTn.app.androidx-startup"
 =======
             android:authorities="com.reserver.androidx-startup"
@@ -129,11 +159,19 @@
             android:authorities="com.digitalTn.app.androidx-startup"
 >>>>>>> 0d945e64 (change name Digital.Tn)
 =======
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
             android:authorities="com.digitalTn.app.androidx-startup"
 =======
             android:authorities="com.reserver.androidx-startup"
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+            android:authorities="com.digitalTn.app.androidx-startup"
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"
