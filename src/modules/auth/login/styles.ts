@@ -16,7 +16,7 @@ export const styles = StyleSheet.create({
   form: {
     alignItems: 'center',
     alignSelf: 'center',
-    width: 302,
+    width:"90%",
   },
   mdp: {
     marginTop: '2%',
@@ -25,12 +25,14 @@ export const styles = StyleSheet.create({
   },
   BTnSocial: {
     marginTop: '2%',
+    width:"100%",
     alignItems: 'center',
     alignSelf: 'center',
    
     marginBottom: '25%',
   },
   btnSubmit: {
+    
     marginTop: '5%',
     marginBottom: '2%',
     alignItems: 'center',
@@ -45,16 +47,16 @@ export const styles = StyleSheet.create({
     
   },
   styleComponent: {
-    width: 302,
+    width:"100%",
     minHeight: 64,
     borderRadius: 30,
   },
   styleText: {
-    width: 300,
+    width:"100%",
     minHeight: 50,
   },
   styleInput: {
-    width: 300,
+    width:"100%",
     height: 50,
     backgroundColor: '#D3E0EA52',
     borderRadius: 30,

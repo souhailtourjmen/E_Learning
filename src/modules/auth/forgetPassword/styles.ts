@@ -1,13 +1,8 @@
 import { StyleSheet } from 'react-native';
 import { COLORS, FONTFAMILY } from '../../../constant';
 export const styles = StyleSheet.create({
-    container: {
-        backgroundColor: COLORS.background,
-    
-        borderTopLeftRadius: 20, borderTopRightRadius: 20,
-    },
+   
     contentContainer: {
-        backgroundColor: COLORS.background,
         flex: 1,
         padding: 20
     },
