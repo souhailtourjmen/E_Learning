@@ -12,6 +12,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -44,6 +45,8 @@
 =======
 =======
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+>>>>>>> 54475f41 (Create module auth signIn)
 #Sun May 12 00:16:43 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -54,7 +57,13 @@
 =======
 #Sat Apr 20 23:00:32 CET 2024
 >>>>>>> 9c8d4eae (- add new screen onbording)
+<<<<<<< HEAD
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
+#Sun Apr 21 08:18:01 CET 2024
+>>>>>>> 69415541 (Create module auth signIn)
+>>>>>>> 54475f41 (Create module auth signIn)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex

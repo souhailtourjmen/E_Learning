@@ -2,10 +2,15 @@ import React, {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef87bf9c (Create module auth signIn)
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> 69415541 (Create module auth signIn)
+>>>>>>> 54475f41 (Create module auth signIn)
     Dispatch,
     SetStateAction,
     useCallback,
@@ -18,8 +23,11 @@ import useNavigationController from '../../../../navigation/viewController';
 import useSignInModels from '../viewModel';
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+>>>>>>> 54475f41 (Create module auth signIn)
 import { ROUTES } from '../../../../constant';
 import { Credentials, SignUpBody } from '../../../../types';
 import { useLoginMutation, useSignUpMutation } from '../../../../store/services';
@@ -32,6 +40,7 @@ import { useAuth } from '../../../../hooks';
       useSignUpMutation();
 
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> 50fe44b2 (- add WS login implementation)
   const useSignInController = () => {
@@ -41,13 +50,21 @@ import { useAuth } from '../../../../hooks';
       useSignUpMutation();
 
 <<<<<<< HEAD
+=======
+  const useSignInController = () => {
+
+>>>>>>> 54475f41 (Create module auth signIn)
 
 
 
   
+<<<<<<< HEAD
 >>>>>>> ef87bf9c (Create module auth signIn)
 =======
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+>>>>>>> 69415541 (Create module auth signIn)
+>>>>>>> 54475f41 (Create module auth signIn)
     const { handleNavigate,resetNavigation } =
       useNavigationController();
   
@@ -87,10 +104,13 @@ import { useAuth } from '../../../../hooks';
   
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     const onSubmit = async (dataset: Credentials&SignUpBody): Promise<void> => {
       try {
        
 =======
+=======
+>>>>>>> 54475f41 (Create module auth signIn)
     const onSubmit = async (dataset: Credentials | SignUpBody): Promise<void> => {
       try {
 >>>>>>> 50fe44b2 (- add WS login implementation)
@@ -182,6 +202,7 @@ import { useAuth } from '../../../../hooks';
     //     // Optionally, you can handle other unexpected errors during submission
     //   }
     // };
+<<<<<<< HEAD
 =======
 >>>>>>> 50fe44b2 (- add WS login implementation)
   
@@ -198,6 +219,18 @@ import { useAuth } from '../../../../hooks';
 =======
       onSubmit,
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+  
+    const navigateToFPS = () => {
+    //   handleNavigate({
+    //     screen: ROUTES.ForgetPasswordScreen,
+    //   });
+    };
+  
+    return {
+     
+>>>>>>> 69415541 (Create module auth signIn)
+>>>>>>> 54475f41 (Create module auth signIn)
       handleSegment,
       checkedSegment,
       defaultValues,
@@ -209,8 +242,11 @@ import { useAuth } from '../../../../hooks';
   export default useSignInController;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> 54475f41 (Create module auth signIn)
   
 =======
 Dispatch,
@@ -230,4 +266,10 @@ export default useLoginViewController;
 >>>>>>> ef87bf9c (Create module auth signIn)
 =======
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+  
+>>>>>>> 69415541 (Create module auth signIn)
+>>>>>>> 54475f41 (Create module auth signIn)

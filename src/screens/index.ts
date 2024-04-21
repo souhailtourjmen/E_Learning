@@ -43,4 +43,10 @@ export {default as Intro} from './intro'
 export {default as Intro} from './intro'
 export {default as OnboardingScreen} from './onboarding'
 >>>>>>> 9c8d4eae (- add new screen onbording)
+<<<<<<< HEAD
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
+export {default as ForgetPasswordScreen} from './auth/forgetPassword'
+>>>>>>> 69415541 (Create module auth signIn)
+>>>>>>> 54475f41 (Create module auth signIn)
