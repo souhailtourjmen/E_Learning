@@ -1,5 +1,8 @@
 import React, {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef87bf9c (Create module auth signIn)
     Dispatch,
     SetStateAction,
     useCallback,
@@ -10,6 +13,7 @@ import React, {
   import moment from 'moment';
 import useNavigationController from '../../../../navigation/viewController';
 import useSignInModels from '../viewModel';
+<<<<<<< HEAD
 import { ROUTES } from '../../../../constant';
 import { Credentials, SignUpBody } from '../../../../types';
 import { useLoginMutation, useSignUpMutation } from '../../../../store/services';
@@ -20,6 +24,14 @@ import { useAuth } from '../../../../hooks';
     const [SignUp, { isLoading: isLoadingSignUp, error: errorSignUp }] =
       useSignUpMutation();
 
+=======
+  const useSignInController = () => {
+
+
+
+
+  
+>>>>>>> ef87bf9c (Create module auth signIn)
     const { handleNavigate,resetNavigation } =
       useNavigationController();
   
@@ -57,6 +69,7 @@ import { useAuth } from '../../../../hooks';
       [setCheckedSegment],
     );
   
+<<<<<<< HEAD
     const onSubmit = async (dataset: Credentials&SignUpBody): Promise<void> => {
       try {
        
@@ -103,6 +116,34 @@ import { useAuth } from '../../../../hooks';
   
     return {
       onSubmit,
+=======
+    // const onSubmit = async (dataset: Credentials | SignUpBody): Promise<void> => {
+    //   try {
+       
+    //   } catch (error: any) {
+    //     console.error('Error during submission:', error?.message);
+    //     // Optionally, you can handle other unexpected errors during submission
+    //   }
+    // };
+  
+    // const onSubmitSignUp = async (dataset: SignUpBody): Promise<void> => {
+    //   try {
+       
+    //   } catch (error: any) {
+    //     console.log('Error during submission:', error?.message);
+    //     // Optionally, you can handle other unexpected errors during submission
+    //   }
+    // };
+  
+    const navigateToFPS = () => {
+    //   handleNavigate({
+    //     screen: ROUTES.ForgetPasswordScreen,
+    //   });
+    };
+  
+    return {
+     
+>>>>>>> ef87bf9c (Create module auth signIn)
       handleSegment,
       checkedSegment,
       defaultValues,
@@ -112,6 +153,7 @@ import { useAuth } from '../../../../hooks';
     };
   };
   export default useSignInController;
+<<<<<<< HEAD
   
 =======
 Dispatch,
@@ -125,3 +167,6 @@ return {};
 };
 export default useLoginViewController;
 >>>>>>> ab93aef2 (first unit project)
+=======
+  
+>>>>>>> ef87bf9c (Create module auth signIn)

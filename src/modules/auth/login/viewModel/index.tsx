@@ -1,5 +1,8 @@
 import React, {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef87bf9c (Create module auth signIn)
     Dispatch,
     SetStateAction,
     useCallback,
@@ -16,22 +19,35 @@ import { TEXT } from '../../../../constant';
   };
   const useSignInModels = () => {
     const route: any = useRoute();
+<<<<<<< HEAD
     const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.navigationParams.checkedSegment);
+=======
+    const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.checkedSegment);
+>>>>>>> ef87bf9c (Create module auth signIn)
     
     const [pushMail, setPushMail] = useState<boolean>(false);
     const [accessData, setAccessData] = useState<boolean>(false);
     const [defaultValues, setDefaultValues] = useState<DefaultValues>({
+<<<<<<< HEAD
       email:"testNewEleve@gmail.com",
       password:"Azerty1234",
+=======
+      email: Config?.email || '',
+      password: Config?.password || '',
+>>>>>>> ef87bf9c (Create module auth signIn)
     });
     const [gender] = useState(
       i18next.t(TEXT.SignUp.gender, {
         returnObjects: true,
       }),
     );
+<<<<<<< HEAD
     useEffect(() => {
       setCheckedSegment(route?.params?.navigationParams.checkedSegment);
     }, [route?.params?.navigationParams.checkedSegment]);
+=======
+    
+>>>>>>> ef87bf9c (Create module auth signIn)
     return {
       checkedSegment,
       setCheckedSegment,
@@ -45,6 +61,7 @@ import { TEXT } from '../../../../constant';
     };
   };
   export default useSignInModels;
+<<<<<<< HEAD
   
 =======
 Dispatch,
@@ -58,3 +75,6 @@ return {};
 };
 export default useLoginViewModels;
 >>>>>>> ab93aef2 (first unit project)
+=======
+  
+>>>>>>> ef87bf9c (Create module auth signIn)

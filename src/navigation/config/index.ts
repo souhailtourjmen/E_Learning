@@ -1,6 +1,7 @@
 import { ROUTES, TEXT } from "../../constant";
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ProgressionScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
 import i18n from "../../config/mulitLang";
 import { CustomHeader } from "../../components";
@@ -71,6 +72,9 @@ import { Intro } from "../../screens";
 =======
 import { Intro, OnboardingScreen } from "../../screens";
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+import { ForgetPasswordScreen, Intro, LoginScreen, OnboardingScreen } from "../../screens";
+>>>>>>> ef87bf9c (Create module auth signIn)
 import i18n from "../../config/mulitLang";
 export const ARRAYROUTES = [
   {
@@ -79,9 +83,22 @@ export const ARRAYROUTES = [
     component: OnboardingScreen,
   },
   {
+    route: ROUTES.LOGIN,
+    label: ROUTES.LOGIN,
+    component: LoginScreen,
+  },
+  {
     route: ROUTES.INTRO,
     label: i18n.t(TEXT.ROUTES.Intro),
     component: Intro,
   },
+<<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
+=======
+  {
+    route: ROUTES.ForgetPasswordScreen,
+    label: ROUTES.ForgetPasswordScreen,
+    component: ForgetPasswordScreen,
+  },
+>>>>>>> ef87bf9c (Create module auth signIn)
 ];

@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -9,6 +10,9 @@
 =======
 #Sat Apr 20 23:00:32 CET 2024
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+#Sun Apr 21 08:18:01 CET 2024
+>>>>>>> ef87bf9c (Create module auth signIn)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex

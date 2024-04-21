@@ -10,6 +10,7 @@ export const loginValidationSchema = yup.object().shape({
     .matches(/@[a-zA-Z0-9-]+\.[a-zA-Z]{1,}$/, i18next.t(TEXT.SignUp.EmailValid))
     .required(i18next.t(TEXT.Login.EmailRequired)),
   gender: yup.string(),
+<<<<<<< HEAD
   path: yup.string().required(i18next.t(TEXT.SignUp.GenderRequired)),
   password: yup
     .string()
@@ -74,3 +75,22 @@ export const signUpValidationSchema = yup.object().shape({
     .email(i18next.t(TEXT.SignUp.EmailValid)),
 });
 
+=======
+  password: yup
+    .string()
+    .required(i18next.t(TEXT.SignUp.PasswordRequired))
+    // .min(
+    //   8,
+    //   ({min}) => `Le mot de passe doit contenir au moins ${min} caractères`,
+    // )
+    // .matches(/\w*[A-Z]\w*/, i18n.t(TEXT.SignUp.PasswordCapitalLettre))
+    // .matches(/\d/, i18n.t(TEXT.SignUp.PasswordNumberCheck)),
+});
+export const emailValidationSchema = yup.object().shape({
+    email: yup
+      .string()
+      .required(i18next.t(TEXT.SignUp.EmailRequired))
+      .email(i18next.t(TEXT.SignUp.EmailValid))
+      .matches(/@[a-zA-Z0-9-]+\.[a-zA-Z]{1,}$/, i18next.t(TEXT.SignUp.EmailValid)),
+  });
+>>>>>>> ef87bf9c (Create module auth signIn)
