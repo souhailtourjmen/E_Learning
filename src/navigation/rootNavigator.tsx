@@ -7,7 +7,7 @@ const Stack = createNativeStackNavigator();
 export const RootNavigator = () => {
   return (
     <Stack.Navigator
-      initialRouteName={ROUTES.ForgetPasswordScreen}
+      initialRouteName={ROUTES.HomeScreen}
       screenOptions={{
         headerBackTitleVisible: false,
       }}

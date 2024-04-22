@@ -1,5 +1,5 @@
 import { ROUTES, TEXT } from "../../constant";
-import { ForgetPasswordScreen, Intro, LoginScreen, OnboardingScreen } from "../../screens";
+import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen } from "../../screens";
 import i18n from "../../config/mulitLang";
 export const ARRAYROUTES = [
   {
@@ -21,5 +21,10 @@ export const ARRAYROUTES = [
     route: ROUTES.ForgetPasswordScreen,
     label: ROUTES.ForgetPasswordScreen,
     component: ForgetPasswordScreen,
+  },
+  {
+    route: ROUTES.HomeScreen,
+    label: ROUTES.HomeScreen,
+    component: HomeScreen,
   },
 ];
