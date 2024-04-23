@@ -29,7 +29,12 @@ export default {
     },
   
   
-
+    HOME: {
+      welcome: 'HOME.interface.welcome',
+      coursAVenir: 'HOME.interface.coursAVenir',
+      VoirTout: 'HOME.interface.VoirTout',
+      
+    },
     message: {
       payment: 'message.payment',
       notFound: 'message.notFound',

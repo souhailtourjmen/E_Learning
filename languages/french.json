@@ -190,7 +190,15 @@
           "descThree": "L'intégration et la croissance professionnelle dans votre poche.",
           "invited": "Continuer comme invité"
         }
-      }
+      },
      
+      "HOME": {
+        "interface": {
+          "welcome": " Find your favorite Course here!",
+          "VoirTout": "Voir tout",
+          "coursAVenir": "Cours de tendance"
+         
+        }
+      }
     }
   }
