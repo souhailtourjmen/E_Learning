@@ -9,10 +9,12 @@ import { FlatList, Link, Loader, ScrollView, Text, View } from "../../components
 import { i18next } from "../../config";
 import { COLORS, FONTSIZE, TEXT } from "../../constant";
 import { TopNavigationImageTitleShowcase } from "./components/topNavigationImageTitleShowcase";
+<<<<<<< HEAD
 import { Input, Layout, Spinner } from "@ui-kitten/components";
 import RenderIcon from "../../components/renderIcon";
 import RenderItemCategory from "./components/renderItemCategory";
 import NIVEAUX from "../../mockData/NIVEAUX";
+<<<<<<< HEAD
 import BigCardCourse from "../../components/bigCardCourse";
 =======
 import { FlatList, Link, ScrollView, Text, View } from "../../components";
@@ -23,6 +25,14 @@ import { Input, Layout, Spinner } from "@ui-kitten/components";
 import RenderIcon from "../../components/renderIcon";
 import RenderItemCategory from "./components/renderItemCategory";
 import MOCK_DATA from "../../mockData/MOCK_DATA";
+=======
+=======
+import { Input, Spinner } from "@ui-kitten/components";
+import RenderIcon from "../../components/renderIcon";
+import RenderItemCategory from "./components/renderItemCategory";
+import MOCK_DATA from "../../mockData/MOCK_DATA";
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
 import BigCardCourse from "./components/bigCardCourse";
 >>>>>>> c3fc9c43 (screen in progress)
 type HomeProps = {};
@@ -32,7 +42,11 @@ const Home = (): ReactElement => {
 <<<<<<< HEAD
   const {courses}=useHomeViewModels();
 =======
+<<<<<<< HEAD
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
   const renderIcon = (name: string) => {
     return <RenderIcon name={name} />;
   };
@@ -50,7 +64,11 @@ const Home = (): ReactElement => {
         <FlatList
           horizontal
           data={MOCK_DATA}
+<<<<<<< HEAD
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
           renderItem={({ item }) => <RenderItemCategory item={item} />}
           maxToRenderPerBatch={10}
           windowSize={5}
@@ -60,19 +78,30 @@ const Home = (): ReactElement => {
       );
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
     return <Loader />;
+=======
+    return <Spinner />;
+<<<<<<< HEAD
+>>>>>>> 7e2863bb (screen in progress)
   }, [NIVEAUX]);
   const _renderTrender = useMemo(() => {
     if (courses) {
       return (
         
 =======
+<<<<<<< HEAD
     return <Spinner />;
+=======
+>>>>>>> 7e2863bb (screen in progress)
   }, [MOCK_DATA]);
   const _renderTrender = useMemo(() => {
     if (MOCK_DATA) {
       return (
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7e2863bb (screen in progress)
         <View style={{ marginBottom: 5 }}>
           <View
             style={[
@@ -88,10 +117,14 @@ const Home = (): ReactElement => {
             <Text>{i18next.t(TEXT.HOME.coursAVenir)}</Text>
             <Link text={i18next.t(TEXT.HOME.VoirTout)} />
           </View>
+<<<<<<< HEAD
 >>>>>>> c3fc9c43 (screen in progress)
 =======
         
 >>>>>>> 0dd5df8f (- ADD element in screen home)
+=======
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
           <View style={[]}>
             <FlatList
               horizontal
@@ -100,7 +133,11 @@ const Home = (): ReactElement => {
               data={courses}
 =======
               data={MOCK_DATA}
+<<<<<<< HEAD
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
               contentContainerStyle={{
                 paddingLeft: 20,
                 paddingRight: 20,
@@ -112,6 +149,9 @@ const Home = (): ReactElement => {
           </View>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7e2863bb (screen in progress)
        
       );
     }
@@ -123,15 +163,19 @@ const Home = (): ReactElement => {
       <Layout style={{ flex: .8 ,height:height*.52}} level="2">
 =======
         </View>
+<<<<<<< HEAD
 =======
        
 >>>>>>> 0dd5df8f (- ADD element in screen home)
+=======
+>>>>>>> 7e2863bb (screen in progress)
       );
     }
     return <Spinner />;
   }, [MOCK_DATA]);
 
   return (
+<<<<<<< HEAD
 <<<<<<< HEAD
     <>
       <View style={{ flex: .8 }}>
@@ -140,6 +184,11 @@ const Home = (): ReactElement => {
     <ScrollView>
       <Layout style={{ flex: .8 ,height:height*.52}} level="2">
 >>>>>>> 0dd5df8f (- ADD element in screen home)
+=======
+    <>
+      <View style={{ flex: .8 }}>
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
         <View
           style={{
             width: width + 150,
@@ -218,8 +267,11 @@ const Home = (): ReactElement => {
         </View>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 0dd5df8f (- ADD element in screen home)
+=======
+>>>>>>> 7e2863bb (screen in progress)
       </Layout>
       <Layout style={{ flex: 0.7 }} level="2">
       <View style={{ marginBottom: 5 }}>
@@ -260,13 +312,20 @@ const Home = (): ReactElement => {
         </Layout>
     </ScrollView>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7e2863bb (screen in progress)
 =======
       </View>
       <View style={{ flex: 0.7 }}>{_renderTrender}</View>
     </>
+<<<<<<< HEAD
 >>>>>>> c3fc9c43 (screen in progress)
 =======
 >>>>>>> 0dd5df8f (- ADD element in screen home)
+=======
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
   );
 };
 

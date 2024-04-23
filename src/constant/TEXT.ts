@@ -34,6 +34,7 @@ export default {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     HOME: {
       welcome: 'HOME.interface.welcome',
       coursAVenir: 'HOME.interface.coursAVenir',
@@ -53,6 +54,8 @@ export default {
 >>>>>>> 4cdec91b (first unit project)
 =======
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+>>>>>>> 7e2863bb (screen in progress)
     HOME: {
       welcome: 'HOME.interface.welcome',
       coursAVenir: 'HOME.interface.coursAVenir',
@@ -70,7 +73,18 @@ export default {
 =======
 
 >>>>>>> 9c8d4eae (- add new screen onbording)
+<<<<<<< HEAD
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
+    HOME: {
+      welcome: 'HOME.interface.welcome',
+      coursAVenir: 'HOME.interface.coursAVenir',
+      VoirTout: 'HOME.interface.VoirTout',
+      
+    },
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
     message: {
       payment: 'message.payment',
       notFound: 'message.notFound',

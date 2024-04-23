@@ -235,8 +235,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+>>>>>>> 7e2863bb (screen in progress)
       },
      
       "HOME": {
@@ -277,6 +280,21 @@
       }
      
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+      },
+     
+      "HOME": {
+        "interface": {
+          "welcome": " Find your favorite Course here!",
+          "VoirTout": "Voir tout",
+          "coursAVenir": "Cours de tendance"
+         
+        }
+      }
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
     }
   }

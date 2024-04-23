@@ -3,6 +3,11 @@ import React, {
   memo,
   useCallback,
   useEffect,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  useMemo,
+>>>>>>> 7e2863bb (screen in progress)
   useState,
 } from "react";
 import {
@@ -17,6 +22,14 @@ import { Avatar, Layout } from "@ui-kitten/components";
 import { styles } from "./styles";
 import { BORDERRADIUS } from "../../../../constant";
 import useBigCardCourseViewController from "./viewController";
+=======
+  useState,
+} from "react";
+import { StyleSheet, View, useWindowDimensions } from "react-native";
+import { Card, Text } from "../../../../components";
+import { Avatar, Layout } from "@ui-kitten/components";
+import { styles } from "./styles";
+>>>>>>> d32799fd (screen in progress)
 
 type BigCardCourseProps = {
   item: any;
@@ -25,7 +38,10 @@ type BigCardCourseProps = {
 const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
   const { width, height } = useWindowDimensions();
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e2863bb (screen in progress)
   const { handleNavigateToDetatils } = useBigCardCourseViewController();
   const renderContent = useMemo(() => {
     if (item) {
@@ -86,12 +102,18 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
     }
     return renderContent;
   }, [item?.photo, renderContent]);
+<<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+=======
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
   return (
     <Layout
       level="2"
       style={[{ width: width * 0.55, height: height * 0.17 }, styles.container]}
     >
+<<<<<<< HEAD
 <<<<<<< HEAD
       <ImageBackground
         source={{
@@ -134,6 +156,34 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
         {_displayWithImage}
       </TouchableOpacity>
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+      <TouchableOpacity onPress={() => handleNavigateToDetatils(item?.id,item?.titre)}>
+        {_displayWithImage}
+      </TouchableOpacity>
+=======
+      <View
+        style={{ padding: "5%", alignContent: "center", alignItems: "center" }}
+      >
+        {item.image ? (
+          <Avatar
+            size="large"
+            source={{
+              uri: item.image,
+            }}
+          />
+        ) : null}
+        <Text
+          style={{
+            alignSelf: "center",
+            marginTop: "30%",
+          }}
+          numberOfLines={1}
+        >
+          {item?.name}
+        </Text>
+      </View>
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
     </Layout>
   );
 };
