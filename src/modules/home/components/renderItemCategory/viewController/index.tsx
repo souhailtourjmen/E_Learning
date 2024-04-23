@@ -5,6 +5,7 @@ useCallback,
 useEffect,
 useState,
 } from 'react';
+<<<<<<< HEAD
 import useNavigationController from '../../../../../navigation/viewController';
 import { ROUTES } from '../../../../../constant';
 const useRenderItemCategoryViewController = () => {
@@ -18,5 +19,9 @@ const useRenderItemCategoryViewController = () => {
     [handleNavigate]
   );
   return {handleNavigateToScreenFilter};
+=======
+const useRenderItemCategoryViewController = () => {
+return {};
+>>>>>>> c3fc9c43 (screen in progress)
 };
 export default useRenderItemCategoryViewController;

@@ -208,6 +208,7 @@
           "invited": "Continuer comme invité"
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
       },
      
       "HOME": {
@@ -225,5 +226,17 @@
       }
      
 >>>>>>> ab93aef2 (first unit project)
+=======
+      },
+     
+      "HOME": {
+        "interface": {
+          "welcome": " Find your favorite Course here!",
+          "VoirTout": "Voir tout",
+          "coursAVenir": "Cours de tendance"
+         
+        }
+      }
+>>>>>>> c3fc9c43 (screen in progress)
     }
   }

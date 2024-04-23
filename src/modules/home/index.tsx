@@ -4,6 +4,7 @@ import { Platform, useWindowDimensions } from "react-native";
 import useHomeViewModels from "./viewModel";
 import { styles } from "./styles";
 import useHomeViewController from "./viewController";
+<<<<<<< HEAD
 import { FlatList, Link, Loader, ScrollView, Text, View } from "../../components";
 import { i18next } from "../../config";
 import { COLORS, FONTSIZE, TEXT } from "../../constant";
@@ -13,21 +14,43 @@ import RenderIcon from "../../components/renderIcon";
 import RenderItemCategory from "./components/renderItemCategory";
 import NIVEAUX from "../../mockData/NIVEAUX";
 import BigCardCourse from "../../components/bigCardCourse";
+=======
+import { FlatList, Link, ScrollView, Text, View } from "../../components";
+import { i18next } from "../../config";
+import { COLORS, FONTSIZE, TEXT } from "../../constant";
+import { TopNavigationImageTitleShowcase } from "./components/topNavigationImageTitleShowcase";
+import { Input, Spinner } from "@ui-kitten/components";
+import RenderIcon from "../../components/renderIcon";
+import RenderItemCategory from "./components/renderItemCategory";
+import MOCK_DATA from "../../mockData/MOCK_DATA";
+import BigCardCourse from "./components/bigCardCourse";
+>>>>>>> c3fc9c43 (screen in progress)
 type HomeProps = {};
 
 const Home = (): ReactElement => {
   const { height, width } = useWindowDimensions();
+<<<<<<< HEAD
   const {courses}=useHomeViewModels();
+=======
+>>>>>>> c3fc9c43 (screen in progress)
   const renderIcon = (name: string) => {
     return <RenderIcon name={name} />;
   };
 
   const _renderMockData = useMemo(() => {
+<<<<<<< HEAD
     if (NIVEAUX) {
       return (
         <FlatList
           horizontal
           data={NIVEAUX}
+=======
+    if (MOCK_DATA) {
+      return (
+        <FlatList
+          horizontal
+          data={MOCK_DATA}
+>>>>>>> c3fc9c43 (screen in progress)
           renderItem={({ item }) => <RenderItemCategory item={item} />}
           maxToRenderPerBatch={10}
           windowSize={5}
@@ -36,17 +59,44 @@ const Home = (): ReactElement => {
         />
       );
     }
+<<<<<<< HEAD
     return <Loader />;
   }, [NIVEAUX]);
   const _renderTrender = useMemo(() => {
     if (courses) {
       return (
         
+=======
+    return <Spinner />;
+  }, [MOCK_DATA]);
+  const _renderTrender = useMemo(() => {
+    if (MOCK_DATA) {
+      return (
+        <View style={{ marginBottom: 5 }}>
+          <View
+            style={[
+              {
+                flexDirection: "row",
+                justifyContent: "space-between",
+                marginBottom: 15,
+                paddingLeft: 20,
+                paddingRight: 20,
+              },
+            ]}
+          >
+            <Text>{i18next.t(TEXT.HOME.coursAVenir)}</Text>
+            <Link text={i18next.t(TEXT.HOME.VoirTout)} />
+          </View>
+>>>>>>> c3fc9c43 (screen in progress)
           <View style={[]}>
             <FlatList
               horizontal
               showsHorizontalScrollIndicator={false}
+<<<<<<< HEAD
               data={courses}
+=======
+              data={MOCK_DATA}
+>>>>>>> c3fc9c43 (screen in progress)
               contentContainerStyle={{
                 paddingLeft: 20,
                 paddingRight: 20,
@@ -56,6 +106,7 @@ const Home = (): ReactElement => {
               keyExtractor={(item, index) => `${index.toString()}`}
             />
           </View>
+<<<<<<< HEAD
        
       );
     }
@@ -65,6 +116,17 @@ const Home = (): ReactElement => {
   return (
     <ScrollView>
       <Layout style={{ flex: .8 ,height:height*.52}} level="2">
+=======
+        </View>
+      );
+    }
+    return <Spinner />;
+  }, [MOCK_DATA]);
+
+  return (
+    <>
+      <View style={{ flex: .8 }}>
+>>>>>>> c3fc9c43 (screen in progress)
         <View
           style={{
             width: width + 150,
@@ -141,6 +203,7 @@ const Home = (): ReactElement => {
             </View>
           </View>
         </View>
+<<<<<<< HEAD
       </Layout>
       <Layout style={{ flex: 0.7 }} level="2">
       <View style={{ marginBottom: 5 }}>
@@ -180,6 +243,11 @@ const Home = (): ReactElement => {
         
         </Layout>
     </ScrollView>
+=======
+      </View>
+      <View style={{ flex: 0.7 }}>{_renderTrender}</View>
+    </>
+>>>>>>> c3fc9c43 (screen in progress)
   );
 };
 

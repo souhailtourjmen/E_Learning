@@ -31,6 +31,7 @@ export default {
   
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     HOME: {
       welcome: 'HOME.interface.welcome',
       coursAVenir: 'HOME.interface.coursAVenir',
@@ -45,6 +46,14 @@ export default {
 =======
 
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+    HOME: {
+      welcome: 'HOME.interface.welcome',
+      coursAVenir: 'HOME.interface.coursAVenir',
+      VoirTout: 'HOME.interface.VoirTout',
+      
+    },
+>>>>>>> c3fc9c43 (screen in progress)
     message: {
       payment: 'message.payment',
       notFound: 'message.notFound',
