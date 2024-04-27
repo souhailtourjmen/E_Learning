@@ -25,11 +25,20 @@ import useBigCardCourseViewController from "./viewController";
 =======
   useState,
 } from "react";
-import { StyleSheet, View, useWindowDimensions } from "react-native";
+import {
+  ImageBackground,
+  StyleSheet,
+  View,
+  useWindowDimensions,
+} from "react-native";
 import { Card, Text } from "../../../../components";
 import { Avatar, Layout } from "@ui-kitten/components";
 import { styles } from "./styles";
+<<<<<<< HEAD
 >>>>>>> d32799fd (screen in progress)
+=======
+import { BORDERRADIUS } from "../../../../constant";
+>>>>>>> 5bdf0af8 (- ADD element in screen home)
 
 type BigCardCourseProps = {
   item: any;
@@ -115,6 +124,7 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
     >
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <ImageBackground
         source={{
           uri: item.image,
@@ -157,33 +167,63 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
       </TouchableOpacity>
 >>>>>>> 97ed279c (- add dynamic screen details)
 =======
+=======
+>>>>>>> 68f5f074 (- ADD element in screen home)
       <TouchableOpacity onPress={() => handleNavigateToDetatils(item?.id,item?.titre)}>
         {_displayWithImage}
       </TouchableOpacity>
 =======
       <View
         style={{ padding: "5%", alignContent: "center", alignItems: "center" }}
+=======
+      <ImageBackground
+        source={{
+          uri: item.image,
+        }}
+        borderRadius={ BORDERRADIUS.radius_15}
+        style={{width: "100%", height: "100%",}}
+>>>>>>> 5bdf0af8 (- ADD element in screen home)
       >
-        {item.image ? (
-          <Avatar
-            size="large"
-            source={{
-              uri: item.image,
-            }}
-          />
-        ) : null}
-        <Text
+        <View
           style={{
-            alignSelf: "center",
-            marginTop: "30%",
+            padding: "5%",
+            alignContent: "center",
+            alignItems: "center",
           }}
-          numberOfLines={1}
         >
+<<<<<<< HEAD
           {item?.name}
         </Text>
       </View>
 >>>>>>> d32799fd (screen in progress)
+<<<<<<< HEAD
 >>>>>>> 7e2863bb (screen in progress)
+=======
+=======
+          <Text
+          category="h6"
+            style={{
+              alignSelf: "center",
+              marginTop: "30%",
+              color: "white",
+              shadowColor: "#000",
+              shadowOffset: {
+                width: 0,
+                height: 2,
+              },
+              shadowOpacity: 0.25,
+              shadowRadius: 3.84,
+            
+              elevation: 5,
+            }}
+            numberOfLines={1}
+          >
+            {item?.name}
+          </Text>
+        </View>
+      </ImageBackground>
+>>>>>>> 5bdf0af8 (- ADD element in screen home)
+>>>>>>> 68f5f074 (- ADD element in screen home)
     </Layout>
   );
 };

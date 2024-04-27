@@ -14,6 +14,7 @@ export default [
     "name": "Design",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "image": "http://dummyimage.com/233x100.png/ff4444/ffffff",
 >>>>>>> c3fc9c43 (screen in progress)
 =======
@@ -23,6 +24,13 @@ export default [
     "image": "http://dummyimage.com/233x100.png/ff4444/ffffff",
 >>>>>>> d32799fd (screen in progress)
 >>>>>>> 7e2863bb (screen in progress)
+=======
+    "image": "http://dummyimage.com/233x100.png/ff4444/ffffff",
+>>>>>>> d32799fd (screen in progress)
+=======
+    "image": "https://edynamiclearning.com/wp-content/uploads/2019/05/EDL224-Principles_BMF_1b-1.jpg",
+>>>>>>> 5bdf0af8 (- ADD element in screen home)
+>>>>>>> 68f5f074 (- ADD element in screen home)
     "count": 20
   },
   {

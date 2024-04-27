@@ -14,6 +14,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -50,6 +51,8 @@
 >>>>>>> 54475f41 (Create module auth signIn)
 =======
 >>>>>>> 7e2863bb (screen in progress)
+=======
+>>>>>>> 68f5f074 (- ADD element in screen home)
 #Sun May 12 00:16:43 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -72,7 +75,13 @@
 =======
 #Mon Apr 22 19:50:11 CET 2024
 >>>>>>> d32799fd (screen in progress)
+<<<<<<< HEAD
 >>>>>>> 7e2863bb (screen in progress)
+=======
+=======
+#Sat Apr 27 21:07:01 CET 2024
+>>>>>>> 5bdf0af8 (- ADD element in screen home)
+>>>>>>> 68f5f074 (- ADD element in screen home)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex
