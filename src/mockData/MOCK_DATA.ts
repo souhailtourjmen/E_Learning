@@ -6,8 +6,12 @@ export default [
     "image": "https://edynamiclearning.com/wp-content/uploads/2019/05/EDL224-Principles_BMF_1b-1.jpg",
 =======
     "name": "Design",
+<<<<<<< HEAD
     "image": "http://dummyimage.com/233x100.png/ff4444/ffffff",
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+    "image": "https://edynamiclearning.com/wp-content/uploads/2019/05/EDL224-Principles_BMF_1b-1.jpg",
+>>>>>>> 0dd5df8f (- ADD element in screen home)
     "count": 20
   },
   {

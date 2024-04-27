@@ -50,6 +50,7 @@ export default {
     HOME: {
       welcome: 'HOME.interface.welcome',
       coursAVenir: 'HOME.interface.coursAVenir',
+      recommendedForYOU: 'HOME.interface.recommendedForYOU',
       VoirTout: 'HOME.interface.VoirTout',
       
     },

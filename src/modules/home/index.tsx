@@ -19,7 +19,7 @@ import { FlatList, Link, ScrollView, Text, View } from "../../components";
 import { i18next } from "../../config";
 import { COLORS, FONTSIZE, TEXT } from "../../constant";
 import { TopNavigationImageTitleShowcase } from "./components/topNavigationImageTitleShowcase";
-import { Input, Spinner } from "@ui-kitten/components";
+import { Input, Layout, Spinner } from "@ui-kitten/components";
 import RenderIcon from "../../components/renderIcon";
 import RenderItemCategory from "./components/renderItemCategory";
 import MOCK_DATA from "../../mockData/MOCK_DATA";
@@ -72,6 +72,7 @@ const Home = (): ReactElement => {
   const _renderTrender = useMemo(() => {
     if (MOCK_DATA) {
       return (
+<<<<<<< HEAD
         <View style={{ marginBottom: 5 }}>
           <View
             style={[
@@ -88,6 +89,9 @@ const Home = (): ReactElement => {
             <Link text={i18next.t(TEXT.HOME.VoirTout)} />
           </View>
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+        
+>>>>>>> 0dd5df8f (- ADD element in screen home)
           <View style={[]}>
             <FlatList
               horizontal
@@ -107,6 +111,7 @@ const Home = (): ReactElement => {
             />
           </View>
 <<<<<<< HEAD
+<<<<<<< HEAD
        
       );
     }
@@ -118,15 +123,23 @@ const Home = (): ReactElement => {
       <Layout style={{ flex: .8 ,height:height*.52}} level="2">
 =======
         </View>
+=======
+       
+>>>>>>> 0dd5df8f (- ADD element in screen home)
       );
     }
     return <Spinner />;
   }, [MOCK_DATA]);
 
   return (
+<<<<<<< HEAD
     <>
       <View style={{ flex: .8 }}>
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+    <ScrollView>
+      <Layout style={{ flex: .8 ,height:height*.52}} level="2">
+>>>>>>> 0dd5df8f (- ADD element in screen home)
         <View
           style={{
             width: width + 150,
@@ -204,6 +217,9 @@ const Home = (): ReactElement => {
           </View>
         </View>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0dd5df8f (- ADD element in screen home)
       </Layout>
       <Layout style={{ flex: 0.7 }} level="2">
       <View style={{ marginBottom: 5 }}>
@@ -243,11 +259,14 @@ const Home = (): ReactElement => {
         
         </Layout>
     </ScrollView>
+<<<<<<< HEAD
 =======
       </View>
       <View style={{ flex: 0.7 }}>{_renderTrender}</View>
     </>
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+>>>>>>> 0dd5df8f (- ADD element in screen home)
   );
 };
 

@@ -22,6 +22,7 @@ import { useColorScheme } from "./src/hooks";
 import { store } from "./src/store";
 import Navigation from "./src/navigation";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ColorSchemeName, StatusBar } from "react-native";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { ApplicationProvider } from "@ui-kitten/components";
@@ -47,10 +48,14 @@ function App(): JSX.Element {
         </GestureHandlerRootView>
 =======
 import { ColorSchemeName } from "react-native";
+=======
+import { ColorSchemeName, StatusBar } from "react-native";
+>>>>>>> 0dd5df8f (- ADD element in screen home)
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { ApplicationProvider } from "@ui-kitten/components";
 import * as eva from "@eva-design/eva";
-import {default as theme} from './custom-theme.json';
+import { default as theme } from "./custom-theme.json";
+import { COLORS } from "./src/constant";
 function App(): JSX.Element {
   const colorScheme: NonNullable<ColorSchemeName> = useColorScheme();
   const defaultmode: any = colorScheme === "dark" ? eva.dark : eva.light;
@@ -63,6 +68,12 @@ function App(): JSX.Element {
 =======
         <GestureHandlerRootView style={{ flex: 1 }}>
           <ApplicationProvider {...eva} theme={{ ...defaultmode, ...theme }}>
+            <StatusBar
+              animated={true}
+              backgroundColor={COLORS.primary}
+              showHideTransition={'slide'}
+             
+            />
             <Navigation colorScheme={colorScheme} />
           </ApplicationProvider>
         </GestureHandlerRootView>
