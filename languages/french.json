@@ -196,7 +196,8 @@
         "interface": {
           "welcome": " Find your favorite Course here!",
           "VoirTout": "Voir tout",
-          "coursAVenir": "Cours de tendance"
+          "coursAVenir": "Cours de tendance",
+          "recommendedForYOU": "Recommandée pour vous"
          
         }
       }

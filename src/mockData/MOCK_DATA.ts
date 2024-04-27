@@ -2,7 +2,7 @@ export default [
   {
     "id": 1,
     "name": "Design",
-    "image": "http://dummyimage.com/233x100.png/ff4444/ffffff",
+    "image": "https://edynamiclearning.com/wp-content/uploads/2019/05/EDL224-Principles_BMF_1b-1.jpg",
     "count": 20
   },
   {

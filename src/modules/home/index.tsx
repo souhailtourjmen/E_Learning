@@ -8,7 +8,7 @@ import { FlatList, Link, ScrollView, Text, View } from "../../components";
 import { i18next } from "../../config";
 import { COLORS, FONTSIZE, TEXT } from "../../constant";
 import { TopNavigationImageTitleShowcase } from "./components/topNavigationImageTitleShowcase";
-import { Input, Spinner } from "@ui-kitten/components";
+import { Input, Layout, Spinner } from "@ui-kitten/components";
 import RenderIcon from "../../components/renderIcon";
 import RenderItemCategory from "./components/renderItemCategory";
 import MOCK_DATA from "../../mockData/MOCK_DATA";
@@ -40,21 +40,7 @@ const Home = (): ReactElement => {
   const _renderTrender = useMemo(() => {
     if (MOCK_DATA) {
       return (
-        <View style={{ marginBottom: 5 }}>
-          <View
-            style={[
-              {
-                flexDirection: "row",
-                justifyContent: "space-between",
-                marginBottom: 15,
-                paddingLeft: 20,
-                paddingRight: 20,
-              },
-            ]}
-          >
-            <Text>{i18next.t(TEXT.HOME.coursAVenir)}</Text>
-            <Link text={i18next.t(TEXT.HOME.VoirTout)} />
-          </View>
+        
           <View style={[]}>
             <FlatList
               horizontal
@@ -69,15 +55,15 @@ const Home = (): ReactElement => {
               keyExtractor={(item, index) => `${index.toString()}`}
             />
           </View>
-        </View>
+       
       );
     }
     return <Spinner />;
   }, [MOCK_DATA]);
 
   return (
-    <>
-      <View style={{ flex: .8 }}>
+    <ScrollView>
+      <Layout style={{ flex: .8 ,height:height*.52}} level="2">
         <View
           style={{
             width: width + 150,
@@ -154,9 +140,45 @@ const Home = (): ReactElement => {
             </View>
           </View>
         </View>
-      </View>
-      <View style={{ flex: 0.7 }}>{_renderTrender}</View>
-    </>
+      </Layout>
+      <Layout style={{ flex: 0.7 }} level="2">
+      <View style={{ marginBottom: 5 }}>
+          <View
+            style={[
+              {
+                flexDirection: "row",
+                justifyContent: "space-between",
+                marginBottom: 15,
+                paddingLeft: 20,
+                paddingRight: 20,
+              },
+            ]}
+          >
+            <Text>{i18next.t(TEXT.HOME.coursAVenir)}</Text>
+            <Link text={i18next.t(TEXT.HOME.VoirTout)} />
+          </View>
+          {_renderTrender}
+        </View>
+      <View style={{ marginBottom: 5 }}>
+          <View
+            style={[
+              {
+                flexDirection: "row",
+                justifyContent: "space-between",
+                marginBottom: 15,
+                paddingLeft: 20,
+                paddingRight: 20,
+              },
+            ]}
+          >
+            <Text>{i18next.t(TEXT.HOME.recommendedForYOU)}</Text>
+            <Link text={i18next.t(TEXT.HOME.VoirTout)} />
+          </View>
+          {_renderTrender}
+        </View>
+        
+        </Layout>
+    </ScrollView>
   );
 };
 
