@@ -6,7 +6,6 @@ const baseQueryWithAuth = fetchBaseQuery({
   credentials: 'include',
   prepareHeaders: async headers => {
     const token = await getToken();
-    // console.log('%cindex.ts line:10 token', 'color: #007acc;', token);
     if (token) {
       headers.set('Authorization', `Bearer ${token}`);
     }
