@@ -12,15 +12,25 @@ import { apiSlice } from "../../api/";
 export const authApiSlice = apiSlice.injectEndpoints({
   endpoints: (builder: any) => ({
     login: builder.mutation({
+<<<<<<< HEAD
       query: (credentials: Credentials) => ({
         url: `/Login/${credentials?.path}`,
+=======
+      query: (credentials: Credentials, path: string = "eleve") => ({
+        url: `/Login/${path}`,
+>>>>>>> 50fe44b2 (- add WS login implementation)
         method: "POST",
         body: credentials,
       }),
     }),
     SignUp: builder.mutation({
+<<<<<<< HEAD
       query: (credentials: SignUpBody) => ({
         url: `/register/${credentials?.path}`,
+=======
+      query: (credentials: SignUpBody, path: string = "eleve") => ({
+        url: `/register/${path}`,
+>>>>>>> 50fe44b2 (- add WS login implementation)
         method: "POST",
         body: credentials,
       }),
@@ -47,9 +57,13 @@ export const authApiSlice = apiSlice.injectEndpoints({
         body: credentials,
       }),
     }),
+<<<<<<< HEAD
 
   }),
   overrideExisting: true
+=======
+  }),
+>>>>>>> 50fe44b2 (- add WS login implementation)
 });
 
 export const {

@@ -14,10 +14,14 @@ import React, {
 import useNavigationController from '../../../../navigation/viewController';
 import useSignInModels from '../viewModel';
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 50fe44b2 (- add WS login implementation)
 import { ROUTES } from '../../../../constant';
 import { Credentials, SignUpBody } from '../../../../types';
 import { useLoginMutation, useSignUpMutation } from '../../../../store/services';
 import { useAuth } from '../../../../hooks';
+<<<<<<< HEAD
   const useSignInController = () => {
     const {saveAuth}=useAuth()
     const [login, { isLoading, error }] = useLoginMutation();
@@ -25,13 +29,22 @@ import { useAuth } from '../../../../hooks';
       useSignUpMutation();
 
 =======
+=======
+>>>>>>> 50fe44b2 (- add WS login implementation)
   const useSignInController = () => {
+    const {saveAuth}=useAuth()
+    const [login, { isLoading, error }] = useLoginMutation();
+    const [SignUp, { isLoading: isLoadingSignUp, error: errorSignUp }] =
+      useSignUpMutation();
 
+<<<<<<< HEAD
 
 
 
   
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> 50fe44b2 (- add WS login implementation)
     const { handleNavigate,resetNavigation } =
       useNavigationController();
   
@@ -70,15 +83,25 @@ import { useAuth } from '../../../../hooks';
     );
   
 <<<<<<< HEAD
+<<<<<<< HEAD
     const onSubmit = async (dataset: Credentials&SignUpBody): Promise<void> => {
       try {
        
+=======
+    const onSubmit = async (dataset: Credentials | SignUpBody): Promise<void> => {
+      try {
+>>>>>>> 50fe44b2 (- add WS login implementation)
         if (checkedSegment === 1) {
           const result = await login(dataset);
           console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:63 result', result);
           
+<<<<<<< HEAD
           if (result?.data?.token) {
             saveAuth( result?.data?.token,{ nom: result?.data?.nom, prenom: result?.data?.prenom,full_name:result?.data?.full_name});
+=======
+          if (result?.data?.data?.token) {
+            saveAuth( result?.data?.data?.token);
+>>>>>>> 50fe44b2 (- add WS login implementation)
             resetNavigation( ROUTES.HomeScreen);
     
           } else {
@@ -86,6 +109,7 @@ import { useAuth } from '../../../../hooks';
             // Optionally, you can handle the login failure in a way that makes sense for your application
           }
         } else if (checkedSegment === 0) {
+<<<<<<< HEAD
           const dateBirth = new Date(moment(dataset.datenai,'DD/MM/YYYY').format('YYYY-MM-DD')!);
           delete dataset.datenai 
          const result=await SignUp( {...dataset,datenai:dateBirth});
@@ -97,6 +121,10 @@ import { useAuth } from '../../../../hooks';
         } else {
           // Optionally, you can handle the login failure in a way that makes sense for your application
         }
+=======
+          console.log('%cindex.tsx line:85 dataset', 'color: #007acc;', dataset);
+          // onSubmitSignUp(dataset);
+>>>>>>> 50fe44b2 (- add WS login implementation)
         } else {
           console.error('Invalid checkedSegment value:', checkedSegment);
           // Optionally, you can handle the case where checkedSegment has an unexpected value
@@ -107,6 +135,7 @@ import { useAuth } from '../../../../hooks';
       }
     };
  
+<<<<<<< HEAD
   
     const navigateToFPS = () => {
       handleNavigate({
@@ -134,16 +163,22 @@ import { useAuth } from '../../../../hooks';
     //     // Optionally, you can handle other unexpected errors during submission
     //   }
     // };
+=======
+>>>>>>> 50fe44b2 (- add WS login implementation)
   
     const navigateToFPS = () => {
-    //   handleNavigate({
-    //     screen: ROUTES.ForgetPasswordScreen,
-    //   });
+      handleNavigate({
+        screen: ROUTES.ForgetPasswordScreen,
+      });
     };
   
     return {
+<<<<<<< HEAD
      
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+      onSubmit,
+>>>>>>> 50fe44b2 (- add WS login implementation)
       handleSegment,
       checkedSegment,
       defaultValues,

@@ -32,7 +32,11 @@ type propsSignIn = {};
 const SignIn = ({}: propsSignIn): ReactElement => {
   const route: any = useRoute();
   const {} = useSignInModels();
+<<<<<<< HEAD
   const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
+=======
+  const { handleSegment, checkedSegment, accessData, navigateToFPS,onSubmit } =
+>>>>>>> 50fe44b2 (- add WS login implementation)
     useSignInController();
   const {
     reset,
@@ -44,11 +48,18 @@ const SignIn = ({}: propsSignIn): ReactElement => {
     resolver: yupResolver(checkedSegment == 1 ? loginValidationSchema : signUpValidationSchema
       ),
     defaultValues: {
+<<<<<<< HEAD
       email:"tourjmenEleve@gmail.com",
       password:'Azerty1234',
       path: "eleve",
       classe:'7ème',
       gouvernorat:`Gouvernorat de l'Ariana`
+=======
+      // ...defaultValues,
+      email:"Hello@Gmail.Com",
+      password:'Azerty1234',
+      gender: "Homme",
+>>>>>>> 50fe44b2 (- add WS login implementation)
     },
   });
   const { height, width } = useWindowDimensions();

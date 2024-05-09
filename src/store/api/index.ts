@@ -7,10 +7,13 @@ const baseQueryWithAuth = fetchBaseQuery({
   prepareHeaders: async headers => {
     const token = await getToken();
 <<<<<<< HEAD
+<<<<<<< HEAD
     console.log('\x1b[34m%s\x1b[0m', 'src/store/api/index.ts:9 token', token);
 =======
     // console.log('%cindex.ts line:10 token', 'color: #007acc;', token);
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 50fe44b2 (- add WS login implementation)
     if (token) {
       headers.set('Authorization', `Bearer ${token}`);
     }

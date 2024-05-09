@@ -1,14 +1,19 @@
+<<<<<<< HEAD
 
 import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useForgetPasswordMutation } from "./auth";
 import { useFetchAllChatsQuery, useSendMessageMutation } from "./chat";
 import { useFetchAllCourseQuery, useFetchCourseIdQuery } from "./course";
 import { useGetInfoProfileQuery, useUpdateProfileMutation } from "./profile";
 import { useAddVideoMutation, useGetProgressionByMatriculeQuery } from "./progression";
+=======
+import { useForgetPasswordMutation, useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation } from "./auth";
+>>>>>>> 50fe44b2 (- add WS login implementation)
 
 export {
   // auth
   useLoginMutation,
   useSignUpMutation,
+<<<<<<< HEAD
   useUpdateProfileMutation,
   useUpdatePasswordMutation,
   useForgetPasswordMutation,
@@ -26,4 +31,9 @@ export {
 
   useGetProgressionByMatriculeQuery,
   useAddVideoMutation,
+=======
+  useUpdatePasswordMutation,
+  useUpdateProfileMutation,
+  useForgetPasswordMutation,
+>>>>>>> 50fe44b2 (- add WS login implementation)
 };
