@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -18,8 +21,11 @@
     <item quantity="one">%d soniya orqaga</item>
     <item quantity="other">%d soniya orqaga</item>
   </plurals>
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d ta yangi bildirishnoma</item>
     <item quantity="other">%d ta yangi bildirishnoma</item>
@@ -52,9 +58,13 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> orqali ulashish"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Yig‘ish"</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Haqiqiylikni tekshirish talab etiladi</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">Haqiqiylikni tekshirish talab etiladi</string>
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Quyi ekranni yigʻish</string>
     <string name="bottomsheet_action_expand">Quyi ekranni kengaytirish</string>
     <string name="bottomsheet_action_expand_halfway">Yarmiga kengaytirish</string>
@@ -67,6 +77,9 @@
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Paroldan foydalanish"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Notanish xato"</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="default_notification_channel_name">Bu qaysi musiqa</string>
     <string name="error_icon_content_description">Xato</string>
     <string name="exo_controls_cc_disabled_description">Taglavhalarni yoqish</string>
@@ -120,9 +133,12 @@
     <string name="exo_track_surround_5_point_1">5.1 qamrovli ovoz</string>
     <string name="exo_track_surround_7_point_1">7.1 qamrovli ovoz</string>
     <string name="exo_track_unknown">Noaniq</string>
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Xato</string>
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Pastga ochiluvchi menyuni ochish</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Barmoq izi skaneriga tegining"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Barmoq izi skaneri ish holatida emas."</string>
@@ -153,14 +169,20 @@
     <string name="material_timepicker_select_time">Vaqtni tanlang</string>
     <string name="material_timepicker_text_input_mode_description">Vaqtni kiritish uchun matn kiritish rejimiga o‘ting.</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="media3_controls_pause_description">Pauza</string>
     <string name="media3_controls_play_description">Ijro</string>
     <string name="media3_controls_seek_back_description">Orqaga surish</string>
     <string name="media3_controls_seek_forward_description">Oldinga surish</string>
     <string name="media3_controls_seek_to_next_description">Keyingi trekka oʻtish</string>
     <string name="media3_controls_seek_to_previous_description">Avvalgi trekka oʻtish</string>
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Menyu</string>
     <string name="mtrl_badge_numberless_content_description">Yangi bildirishnoma</string>
     <string name="mtrl_chip_close_icon_content_description">Olib tashlash: %1$s</string>

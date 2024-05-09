@@ -2107,6 +2107,7 @@
     metro-runtime "^0.80.3"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 "@react-native/normalize-color@*":
   version "2.1.0"
@@ -2114,6 +2115,8 @@
   integrity sha512-Z1jQI2NpdFJCVgpY+8Dq/Bt3d+YUi1928Q+/CZm/oh66fzM0RUl54vvuXlPJKybH4pdCZey1eDTPaLHkMPNgWA==
 
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
 "@react-native/normalize-colors@0.73.2", "@react-native/normalize-colors@^0.73.0":
   version "0.73.2"
   resolved "https://registry.npmjs.org/@react-native/normalize-colors/-/normalize-colors-0.73.2.tgz"
@@ -3428,6 +3431,7 @@ depd@2.0.0:
   integrity sha512-g7nH6P6dyDioJogAAGprGpCtVImJhpPk/roCzdb3fIh61/s/nPsfR6onyMwkCAR/OlC3yBC0lESvUoQEAssIrw==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 deprecated-react-native-prop-types@^2.2.0:
   version "2.3.0"
@@ -3439,6 +3443,8 @@ deprecated-react-native-prop-types@^2.2.0:
     prop-types "*"
 
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
 deprecated-react-native-prop-types@^5.0.0:
   version "5.0.0"
   resolved "https://registry.npmjs.org/deprecated-react-native-prop-types/-/deprecated-react-native-prop-types-5.0.0.tgz"
@@ -3530,6 +3536,7 @@ electron-to-chromium@^1.4.668:
   integrity sha512-+2OAGjUx68xElQhydpcbqH50hE8Vs2K6TkAeLhICYfndb67CVH0UsZaijmRUE3rHlIxU1u0jxwhgVe6fK3YANA==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 eme-encryption-scheme-polyfill@^2.0.1:
   version "2.1.1"
@@ -3537,6 +3544,8 @@ eme-encryption-scheme-polyfill@^2.0.1:
   integrity sha512-njD17wcUrbqCj0ArpLu5zWXtaiupHb/2fIUQGdInf83GlI+Q6mmqaPGLdrke4savKAu15J/z1Tg/ivDgl14g0g==
 
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
 emittery@^0.13.1:
   version "0.13.1"
   resolved "https://registry.npmjs.org/emittery/-/emittery-0.13.1.tgz"
@@ -4520,10 +4529,14 @@ interpret@^1.0.0:
   integrity sha512-agE4QfB2Lkp9uICn7BAqoscw4SZP9kTE2hxiFI3jBPmXJfdqiahTbUuKGsMoN2GtqL9AxhYioAcVvgsb1HvRbA==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 invariant@^2.2.4:
 =======
 invariant@*, invariant@^2.2.4:
 >>>>>>> ab93aef2 (first unit project)
+=======
+invariant@^2.2.4:
+>>>>>>> 4005439c (add Desing Screen course details)
   version "2.2.4"
   resolved "https://registry.npmjs.org/invariant/-/invariant-2.2.4.tgz"
   integrity sha512-phJfQVBuaJM5raOpJjSfkiD6BpbCE4Ns//LaXl6wGYtUBY83nWS6Rf9tXm2e8VaK60JEjYldbPif/A2B1C2gNA==
@@ -5328,6 +5341,7 @@ jsonfile@^4.0.0:
     object.values "^1.1.6"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 keymirror@^0.1.1:
   version "0.1.1"
@@ -5335,6 +5349,8 @@ keymirror@^0.1.1:
   integrity sha512-vIkZAFWoDijgQT/Nvl2AHCMmnegN2ehgTPYuyy2hWQkQSntI0S7ESYqdLkoSe1HyEBFHHkCgSIvVdSEiWwKvCg==
 
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
 keyv@^4.5.3:
   version "4.5.4"
   resolved "https://registry.npmjs.org/keyv/-/keyv-4.5.4.tgz"
@@ -6307,10 +6323,14 @@ prompts@^2.0.1, prompts@^2.4.2:
     sisteransi "^1.0.5"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 prop-types@15.8.1, prop-types@^15.7.2, prop-types@^15.8.1:
 =======
 prop-types@*, prop-types@^15.7.2, prop-types@^15.8.1:
 >>>>>>> ab93aef2 (first unit project)
+=======
+prop-types@^15.7.2, prop-types@^15.8.1:
+>>>>>>> 4005439c (add Desing Screen course details)
   version "15.8.1"
   resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -6582,10 +6602,14 @@ react-native-vector-icons@^10.0.3:
     yargs "^16.1.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
 react-native-video@^6.0.0-beta.8:
   version "6.0.0-beta.8"
   resolved "https://registry.yarnpkg.com/react-native-video/-/react-native-video-6.0.0-beta.8.tgz#76597ea61d3791beb14731e9e469ddb86e88adf9"
   integrity sha512-pWAJKhP6yt7sIe/u4vi292sWaHNgqSwZbKzauRKBHHEJr2pY/EG7Lis5hDI+rOJlQ0NmsPEurbUPH5TGQsFJFw==
+<<<<<<< HEAD
 =======
 react-native-video@^5.2.1:
   version "5.2.1"
@@ -6597,6 +6621,8 @@ react-native-video@^5.2.1:
     prop-types "^15.7.2"
     shaka-player "^2.5.9"
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
 
 react-native@*, react-native@0.73.5:
   version "0.73.5"
@@ -7066,6 +7092,7 @@ setprototypeof@1.2.0:
   integrity sha512-E5LDX7Wrp85Kil5bhZv46j8jOeboKq5JMmYM3gVGdGH8xFpPWXUMsNrlODCrkoxMEeNi/XZIwuRvY4XNwYMJpw==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 shaka-player@^2.5.9:
   version "2.5.23"
@@ -7075,6 +7102,8 @@ shaka-player@^2.5.9:
     eme-encryption-scheme-polyfill "^2.0.1"
 
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
 shallow-clone@^3.0.0:
   version "3.0.1"
   resolved "https://registry.npmjs.org/shallow-clone/-/shallow-clone-3.0.1.tgz"

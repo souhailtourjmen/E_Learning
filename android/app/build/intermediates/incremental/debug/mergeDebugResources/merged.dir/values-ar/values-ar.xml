@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>أسرع بـ 0.25 مرة</item>
     <item>أسرع بـ 0.5 مرات</item>
@@ -26,8 +29,11 @@
     <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
     <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
   </plurals>
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="zero">%d إشعار جديد</item>
     <item quantity="one">إشعار جديد واحد (%d)</item>
@@ -65,9 +71,13 @@
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
     <string gender="unknown" name="alert_description">تنبيه</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">المصادقة مطلوبة</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">المصادقة مطلوبة</string>
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">تصغير البطاقة السفلية</string>
     <string name="bottomsheet_action_expand">توسيع البطاقة السفلية</string>
     <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
@@ -82,6 +92,9 @@
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"استخدام كلمة المرور"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"خطأ غير معروف"</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="default_notification_channel_name">قيد التشغيل الآن</string>
     <string name="error_icon_content_description">خطأ</string>
     <string name="exo_controls_cc_disabled_description">تفعيل الترجمة</string>
@@ -135,9 +148,12 @@
     <string name="exo_track_surround_5_point_1">صوت مجسّم 5.1</string>
     <string name="exo_track_surround_7_point_1">صوت مجسّم 7.1</string>
     <string name="exo_track_unknown">غير معروف</string>
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">خطأ</string>
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"المس زر استشعار بصمة الإصبع"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"جهاز بصمة الإصبع غير متاح."</string>
@@ -169,14 +185,20 @@
     <string name="material_timepicker_select_time">اختيار الوقت</string>
     <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="media3_controls_pause_description">إيقاف مؤقت</string>
     <string name="media3_controls_play_description">تشغيل</string>
     <string name="media3_controls_seek_back_description">ترجيع</string>
     <string name="media3_controls_seek_forward_description">تقديم</string>
     <string name="media3_controls_seek_to_next_description">تقديم إلى العنصر التالي</string>
     <string name="media3_controls_seek_to_previous_description">ترجيع إلى العنصر السابق</string>
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string gender="unknown" name="menu_description">القائمة</string>
     <string gender="unknown" name="menubar_description">شريط القائمة</string>
     <string gender="unknown" name="menuitem_description">عنصر القائمة</string>

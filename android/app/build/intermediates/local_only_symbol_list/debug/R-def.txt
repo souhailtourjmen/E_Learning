@@ -6,8 +6,12 @@ integer react_native_inspector_proxy_port
 mipmap ic_launcher
 mipmap ic_launcher_round
 <<<<<<< HEAD
+<<<<<<< HEAD
 string API_URL
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+string API_URL
+>>>>>>> 4005439c (add Desing Screen course details)
 string app_name
 style AppTheme

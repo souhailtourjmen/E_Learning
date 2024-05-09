@@ -107,10 +107,14 @@ const CustomButton = ({flatListRef, flatListIndex, dataLength, x}: Props) => {
           flatListRef.current?.scrollToIndex({index: flatListIndex.value + 1});
         } else {
 <<<<<<< HEAD
+<<<<<<< HEAD
         handleGetStarted({screen: ROUTES.HomeScreen});
 =======
           // handleGetStarted({screen: ROUTES.HomeBottom});
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+        handleGetStarted({screen: ROUTES.HomeScreen});
+>>>>>>> 4005439c (add Desing Screen course details)
         }
       }}>
       <Animated.View

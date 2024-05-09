@@ -8,6 +8,7 @@ import React, {
 import RenderIcon from "../renderIcon";
 import { TouchableOpacity } from "react-native";
 import { Text, View } from "..";
+<<<<<<< HEAD
 import { useRoute } from "@react-navigation/native";
 
 type HeaderProps = {
@@ -41,6 +42,35 @@ const CustomHeader = ({ navigation }: HeaderProps) => {
         <View style={{ width: 24 }}></View>
       </View>
     // </TouchableOpacity>
+=======
+
+type HeaderProps = {
+  navigation: any;
+  title: string;
+};
+
+const CustomHeader = ({ navigation, title }: HeaderProps) => {
+  return (
+    <View
+      style={{
+        flexDirection: "row",
+        alignItems: "center",
+        justifyContent: "space-between",
+        paddingHorizontal: 20,
+        height: 60,
+        backgroundColor: "#ffffff",
+        elevation: 4,
+      }}
+    >
+      <TouchableOpacity onPress={() => navigation.goBack()}>
+        <RenderIcon name="arrow-circle-left" sizeIcon={24} color="black" />
+      </TouchableOpacity>
+      <Text style={{ fontSize: 18, fontWeight: "bold", color: "black" }}>
+        {title}
+      </Text>
+      <View style={{ width: 24 }}></View>
+    </View>
+>>>>>>> 4005439c (add Desing Screen course details)
   );
 };
 

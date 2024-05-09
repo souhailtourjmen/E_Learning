@@ -6,6 +6,7 @@ export {default as LoginScreen} from './auth/signin'
 <<<<<<< HEAD
 export {default as ForgetPasswordScreen} from './auth/forgetPassword'
 export {default as HomeScreen} from './home'
+<<<<<<< HEAD
 export {default as ScreenCourseDetails} from './courseDetails'
 export {default as ChatScreen} from './chat'
 export {default as UpdateProfileScreen} from './UpdateProfileScreen'
@@ -20,3 +21,6 @@ export {default as OnboardingScreen} from './onboarding'
 =======
 export {default as ForgetPasswordScreen} from './auth/forgetPassword'
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+export {default as ScreenCourseDetails} from './courseDetails'
+>>>>>>> 4005439c (add Desing Screen course details)

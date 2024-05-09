@@ -26,6 +26,9 @@
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <permission
@@ -104,6 +107,9 @@
                 android:name="androidx.lifecycle.ProcessLifecycleInitializer"
                 android:value="androidx.startup" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
             <meta-data
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"
                 android:value="androidx.startup" />
@@ -129,10 +135,13 @@
             </intent-filter>
         </receiver>
 
+<<<<<<< HEAD
 =======
         </provider>
 
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
         <meta-data
             android:name="com.facebook.soloader.enabled"
             android:value="false" />

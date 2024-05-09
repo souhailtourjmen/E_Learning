@@ -1,4 +1,5 @@
 import React, {
+<<<<<<< HEAD
   Dispatch,
   SetStateAction,
   useCallback,
@@ -48,3 +49,18 @@ const useCourseDetailsViewModels = () => {
   return values;
 };
 export default useCourseDetailsViewModels;
+=======
+Dispatch,
+SetStateAction,
+useCallback,
+useEffect,
+useState,
+useMemo
+} from 'react';
+const useCourseDetailsViewModels = () => {
+const values = useMemo(()=>{return {
+} },[])
+return values;
+};
+export default useCourseDetailsViewModels;
+>>>>>>> 4005439c (add Desing Screen course details)

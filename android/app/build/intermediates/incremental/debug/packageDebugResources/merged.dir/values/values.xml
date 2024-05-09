@@ -4,7 +4,11 @@
     <integer name="react_native_inspector_proxy_port">8081</integer>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="API_URL" translatable="false">"http://192.168.1.12:3000"</string>
+=======
+    <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="app_name">Digital.Tn</string>
 =======
     <string name="app_name">Reserver</string>

@@ -2,6 +2,7 @@ import { ROUTES, TEXT } from "../../constant";
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ProgressionScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
 import i18n from "../../config/mulitLang";
 import { CustomHeader } from "../../components";
@@ -75,22 +76,29 @@ import { Intro, OnboardingScreen } from "../../screens";
 =======
 import { ForgetPasswordScreen, Intro, LoginScreen, OnboardingScreen } from "../../screens";
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
+>>>>>>> 4005439c (add Desing Screen course details)
 import i18n from "../../config/mulitLang";
+import { CustomHeader } from "../../components";
 export const ARRAYROUTES = [
   {
     route: ROUTES.ONBOARDING,
     label: i18n.t(TEXT.ROUTES.ONBOARDING),
     component: OnboardingScreen,
+    options:{ headerShown: false }
   },
   {
     route: ROUTES.LOGIN,
     label: ROUTES.LOGIN,
     component: LoginScreen,
+    options:{ headerShown: false }
   },
   {
     route: ROUTES.INTRO,
     label: i18n.t(TEXT.ROUTES.Intro),
     component: Intro,
+    options:{ headerShown: false }
   },
 <<<<<<< HEAD
 >>>>>>> ab93aef2 (first unit project)
@@ -99,6 +107,19 @@ export const ARRAYROUTES = [
     route: ROUTES.ForgetPasswordScreen,
     label: ROUTES.ForgetPasswordScreen,
     component: ForgetPasswordScreen,
+    options:{ headerShown: false }
   },
+<<<<<<< HEAD
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+  {
+    route: ROUTES.HomeScreen,
+    label: ROUTES.HomeScreen,
+    component: HomeScreen,
+    options:{ headerShown: false }
+    
+  },
+  
+  
+>>>>>>> 4005439c (add Desing Screen course details)
 ];

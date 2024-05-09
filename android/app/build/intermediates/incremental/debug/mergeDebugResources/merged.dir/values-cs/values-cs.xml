@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25×</item>
     <item>0,5×</item>
@@ -22,8 +25,11 @@
     <item quantity="many">Přetočit zpět o %d sekundy</item>
     <item quantity="other">Přetočit zpět o %d sekund</item>
   </plurals>
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d nové oznámení</item>
     <item quantity="few">%d nová oznámení</item>
@@ -59,9 +65,13 @@
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sbalit"</string>
     <string gender="unknown" name="alert_description">Výstraha</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Je vyžadováno ověření</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">Je vyžadováno ověření</string>
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Sbalit spodní tabulku</string>
     <string name="bottomsheet_action_expand">Rozbalit spodní tabulku</string>
     <string name="bottomsheet_action_expand_halfway">Rozbalit napůl</string>
@@ -76,6 +86,9 @@
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Použít heslo"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Neznámá chyba"</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="default_notification_channel_name">Přehrává se</string>
     <string name="error_icon_content_description">Chyba</string>
     <string name="exo_controls_cc_disabled_description">Zapnout titulky</string>
@@ -129,9 +142,12 @@
     <string name="exo_track_surround_5_point_1">Prostorový zvuk 5.1</string>
     <string name="exo_track_surround_7_point_1">Prostorový zvuk 7.1</string>
     <string name="exo_track_unknown">Neznámé</string>
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Chyba</string>
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Dotkněte se snímače otisků prstů"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Není k dispozici hardware ke snímání otisků prstů."</string>
@@ -163,14 +179,20 @@
     <string name="material_timepicker_select_time">Vyberte čas</string>
     <string name="material_timepicker_text_input_mode_description">Chcete-li zadat čas, přepněte na režim textu.</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string name="media3_controls_pause_description">Pozastavit</string>
     <string name="media3_controls_play_description">Přehrát</string>
     <string name="media3_controls_seek_back_description">Posunout zpět</string>
     <string name="media3_controls_seek_forward_description">Posunout vpřed</string>
     <string name="media3_controls_seek_to_next_description">Posunout na další položku</string>
     <string name="media3_controls_seek_to_previous_description">Posunout na předchozí položku</string>
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Nabídka</string>
     <string gender="unknown" name="menubar_description">Panel nabídky</string>
     <string gender="unknown" name="menuitem_description">Položka nabídky</string>

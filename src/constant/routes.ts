@@ -6,6 +6,7 @@ export const ROUTES = {
   ONBOARDING: "OnboardingScreen",
   ForgetPasswordScreen: 'ForgetPasswordScreen',
   HomeScreen: 'HomeScreen',
+<<<<<<< HEAD
   CourseDetails: 'CourseDetails',
   COurseFilter: 'COurseFilter',
   HomeScreenBOTTOM: 'HomeScreenBOTTOM',
@@ -17,6 +18,9 @@ export const ROUTES = {
 =======
   ONBOARDING: "OnboardingScreen",
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+  CourseDetails: 'Course Details',
+>>>>>>> 4005439c (add Desing Screen course details)
 };
 
 =======
