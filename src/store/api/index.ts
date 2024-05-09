@@ -9,6 +9,7 @@ const baseQueryWithAuth = fetchBaseQuery({
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     console.log('\x1b[34m%s\x1b[0m', 'src/store/api/index.ts:9 token', token);
 =======
     // console.log('%cindex.ts line:10 token', 'color: #007acc;', token);
@@ -20,6 +21,13 @@ const baseQueryWithAuth = fetchBaseQuery({
     // console.log('%cindex.ts line:10 token', 'color: #007acc;', token);
 >>>>>>> e6aa837d (first unit project)
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+    // console.log('%cindex.ts line:10 token', 'color: #007acc;', token);
+>>>>>>> e6aa837d (first unit project)
+=======
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
     if (token) {
       headers.set('Authorization', `Bearer ${token}`);
     }

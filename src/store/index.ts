@@ -20,6 +20,7 @@ export const store = configureStore({
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   devTools: false,
 =======
   devTools: true,
@@ -28,11 +29,19 @@ export const store = configureStore({
   devTools: false,
 >>>>>>> 50fe44b2 (- add WS login implementation)
 =======
+=======
+>>>>>>> c662ef07 (- add WS login implementation)
   devTools: false,
 =======
   devTools: true,
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+  devTools: false,
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
 });
 setupListeners(store.dispatch);
 

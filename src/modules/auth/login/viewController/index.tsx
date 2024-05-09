@@ -24,10 +24,15 @@ import useSignInModels from '../viewModel';
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 50fe44b2 (- add WS login implementation)
 =======
 >>>>>>> 54475f41 (Create module auth signIn)
+=======
+=======
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
 import { ROUTES } from '../../../../constant';
 import { Credentials, SignUpBody } from '../../../../types';
 import { useLoginMutation, useSignUpMutation } from '../../../../store/services';
@@ -41,6 +46,7 @@ import { useAuth } from '../../../../hooks';
 
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 50fe44b2 (- add WS login implementation)
   const useSignInController = () => {
@@ -51,9 +57,21 @@ import { useAuth } from '../../../../hooks';
 
 <<<<<<< HEAD
 =======
+=======
+=======
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
   const useSignInController = () => {
+    const {saveAuth}=useAuth()
+    const [login, { isLoading, error }] = useLoginMutation();
+    const [SignUp, { isLoading: isLoadingSignUp, error: errorSignUp }] =
+      useSignUpMutation();
 
+<<<<<<< HEAD
 >>>>>>> 54475f41 (Create module auth signIn)
+=======
+<<<<<<< HEAD
+>>>>>>> c662ef07 (- add WS login implementation)
 
 
 
@@ -64,7 +82,12 @@ import { useAuth } from '../../../../hooks';
 >>>>>>> 50fe44b2 (- add WS login implementation)
 =======
 >>>>>>> 69415541 (Create module auth signIn)
+<<<<<<< HEAD
 >>>>>>> 54475f41 (Create module auth signIn)
+=======
+=======
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
     const { handleNavigate,resetNavigation } =
       useNavigationController();
   
@@ -105,12 +128,17 @@ import { useAuth } from '../../../../hooks';
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     const onSubmit = async (dataset: Credentials&SignUpBody): Promise<void> => {
       try {
        
 =======
 =======
 >>>>>>> 54475f41 (Create module auth signIn)
+=======
+=======
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
     const onSubmit = async (dataset: Credentials | SignUpBody): Promise<void> => {
       try {
 >>>>>>> 50fe44b2 (- add WS login implementation)
@@ -118,6 +146,7 @@ import { useAuth } from '../../../../hooks';
           const result = await login(dataset);
           console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:63 result', result);
           
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           if (result?.data?.token) {
@@ -130,6 +159,14 @@ import { useAuth } from '../../../../hooks';
           if (result?.data?.token) {
             saveAuth( result?.data?.token);
 >>>>>>> 1df81466 (module auth and regsister token done)
+=======
+          if (result?.data?.token) {
+            saveAuth( result?.data?.token);
+=======
+          if (result?.data?.data?.token) {
+            saveAuth( result?.data?.data?.token);
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
             resetNavigation( ROUTES.HomeScreen);
     
           } else {
@@ -139,6 +176,7 @@ import { useAuth } from '../../../../hooks';
         } else if (checkedSegment === 0) {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           const dateBirth = new Date(moment(dataset.datenai,'DD/MM/YYYY').format('YYYY-MM-DD')!);
           delete dataset.datenai 
          const result=await SignUp( {...dataset,datenai:dateBirth});
@@ -146,6 +184,8 @@ import { useAuth } from '../../../../hooks';
          if (result?.data?.token) {
           saveAuth( result?.data?.token,{ nom: result?.data?.nom, prenom: result?.data?.prenom,full_name:result?.data?.full_name});
 =======
+=======
+>>>>>>> c662ef07 (- add WS login implementation)
          
          const result=await SignUp(dataset);
          console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:76 result', result);
@@ -158,12 +198,19 @@ import { useAuth } from '../../../../hooks';
           // Optionally, you can handle the login failure in a way that makes sense for your application
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
           console.log('%cindex.tsx line:85 dataset', 'color: #007acc;', dataset);
           // onSubmitSignUp(dataset);
 >>>>>>> 50fe44b2 (- add WS login implementation)
 =======
 >>>>>>> 1df81466 (module auth and regsister token done)
+=======
+=======
+          console.log('%cindex.tsx line:85 dataset', 'color: #007acc;', dataset);
+          // onSubmitSignUp(dataset);
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
         } else {
           console.error('Invalid checkedSegment value:', checkedSegment);
           // Optionally, you can handle the case where checkedSegment has an unexpected value
@@ -203,6 +250,7 @@ import { useAuth } from '../../../../hooks';
     //   }
     // };
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 50fe44b2 (- add WS login implementation)
   
@@ -220,17 +268,28 @@ import { useAuth } from '../../../../hooks';
       onSubmit,
 >>>>>>> 50fe44b2 (- add WS login implementation)
 =======
+=======
+=======
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
   
     const navigateToFPS = () => {
-    //   handleNavigate({
-    //     screen: ROUTES.ForgetPasswordScreen,
-    //   });
+      handleNavigate({
+        screen: ROUTES.ForgetPasswordScreen,
+      });
     };
   
     return {
+<<<<<<< HEAD
      
 >>>>>>> 69415541 (Create module auth signIn)
+<<<<<<< HEAD
 >>>>>>> 54475f41 (Create module auth signIn)
+=======
+=======
+      onSubmit,
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
       handleSegment,
       checkedSegment,
       defaultValues,

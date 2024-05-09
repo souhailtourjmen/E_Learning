@@ -153,5 +153,44 @@ export interface DefaultValues {
     description?: string;
     image?: string;
   }
+<<<<<<< HEAD
 >>>>>>> 9c8d4eae (- add new screen onbording)
+<<<<<<< HEAD
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
+  export interface Credentials {
+    email: string;
+    password?: string;
+  }
+  export interface ReclamationCredentials {
+    message?: string;
+    order_id?: string;
+    object?: string;
+  }
+  export interface UpdatePasswordCredentials {
+    new_password?: string;
+    confirmation_password: string;
+  }
+  export interface ForgetPasswordCredentials {
+    email?: string;
+  }
+  export interface UpdateProfileCredentials {
+    birthday?: string;
+    email: string;
+    first_name: string;
+    last_name: string;
+    phone_number: string;
+  }
+  export interface SignUpBody {
+    first_name?: string;
+    last_name?: string;
+    email?: string;
+    password?: string;
+    // password_confirmation?: string;
+    gender?: string;
+    phone?: string;
+    birthday?: string;
+  }
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)

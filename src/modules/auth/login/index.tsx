@@ -40,6 +40,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
   const {} = useSignInModels();
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
 =======
   const { handleSegment, checkedSegment, accessData, navigateToFPS,onSubmit } =
@@ -47,6 +48,12 @@ const SignIn = ({}: propsSignIn): ReactElement => {
 =======
   const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
 >>>>>>> 1df81466 (module auth and regsister token done)
+=======
+  const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
+=======
+  const { handleSegment, checkedSegment, accessData, navigateToFPS,onSubmit } =
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
     useSignInController();
   const {
     reset,
@@ -58,6 +65,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
     resolver: yupResolver(checkedSegment == 1 ? loginValidationSchema : signUpValidationSchema
       ),
     defaultValues: {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       email:"tourjmenEleve@gmail.com",
@@ -72,12 +80,23 @@ const SignIn = ({}: propsSignIn): ReactElement => {
       gender: "Homme",
 >>>>>>> 50fe44b2 (- add WS login implementation)
 =======
+=======
+>>>>>>> c662ef07 (- add WS login implementation)
       email:"hello@gmail.com",
       password:'Azerty1234',
       path: "eleve",
       classe:'7ème',
       gouvernorat:`Gouvernorat de l'Ariana`
+<<<<<<< HEAD
 >>>>>>> 1df81466 (module auth and regsister token done)
+=======
+=======
+      // ...defaultValues,
+      email:"Hello@Gmail.Com",
+      password:'Azerty1234',
+      gender: "Homme",
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
     },
   });
   const { height, width } = useWindowDimensions();

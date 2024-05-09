@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useForgetPasswordMutation } from "./auth";
 import { useFetchAllChatsQuery, useSendMessageMutation } from "./chat";
@@ -10,6 +11,8 @@ import { useAddVideoMutation, useGetProgressionByMatriculeQuery } from "./progre
 import { useForgetPasswordMutation, useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation } from "./auth";
 >>>>>>> 50fe44b2 (- add WS login implementation)
 =======
+=======
+>>>>>>> c662ef07 (- add WS login implementation)
 import {
   useForgetPasswordMutation,
   useLoginMutation,
@@ -18,7 +21,13 @@ import {
   useUpdateProfileMutation,
 } from "./auth";
 import { useFetchAllCourseQuery, useFetchCourseIdQuery } from "./course";
+<<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+=======
+import { useForgetPasswordMutation, useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation } from "./auth";
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
 
 export {
   // auth
@@ -47,11 +56,19 @@ export {
   useUpdateProfileMutation,
   useForgetPasswordMutation,
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 50fe44b2 (- add WS login implementation)
 =======
+=======
+>>>>>>> c662ef07 (- add WS login implementation)
   // end auth service
   // course service
   useFetchAllCourseQuery,
   useFetchCourseIdQuery,
+<<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+=======
+>>>>>>> df35d18d (- add WS login implementation)
+>>>>>>> c662ef07 (- add WS login implementation)
 };
