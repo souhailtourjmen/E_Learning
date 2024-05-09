@@ -34,17 +34,20 @@ type propsSignIn = {};
 const SignIn = ({}: propsSignIn): ReactElement => {
   const route: any = useRoute();
   const {} = useSignInModels();
-  const { handleSegment, checkedSegment, accessData, navigateToFPS } =
+  const { handleSegment, checkedSegment, accessData, navigateToFPS,onSubmit } =
     useSignInController();
   const {
     reset,
     control,
     formState: { errors },
+    handleSubmit
   } = useForm({
     mode: "onChange",
     resolver: yupResolver(loginValidationSchema),
     defaultValues: {
       // ...defaultValues,
+      email:"Hello@Gmail.Com",
+      password:'Azerty1234',
       gender: "Homme",
     },
   });
@@ -199,6 +202,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
                     ? COLORS?.darkGray
                     : COLORS?.primary,
               }}
+              onPress={handleSubmit(onSubmit)}
             />
           </View>
           <View style={styles.separator}>

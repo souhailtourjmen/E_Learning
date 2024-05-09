@@ -9,12 +9,16 @@ import React, {
   import moment from 'moment';
 import useNavigationController from '../../../../navigation/viewController';
 import useSignInModels from '../viewModel';
+import { ROUTES } from '../../../../constant';
+import { Credentials, SignUpBody } from '../../../../types';
+import { useLoginMutation, useSignUpMutation } from '../../../../store/services';
+import { useAuth } from '../../../../hooks';
   const useSignInController = () => {
+    const {saveAuth}=useAuth()
+    const [login, { isLoading, error }] = useLoginMutation();
+    const [SignUp, { isLoading: isLoadingSignUp, error: errorSignUp }] =
+      useSignUpMutation();
 
-
-
-
-  
     const { handleNavigate,resetNavigation } =
       useNavigationController();
   
@@ -52,32 +56,42 @@ import useSignInModels from '../viewModel';
       [setCheckedSegment],
     );
   
-    // const onSubmit = async (dataset: Credentials | SignUpBody): Promise<void> => {
-    //   try {
-       
-    //   } catch (error: any) {
-    //     console.error('Error during submission:', error?.message);
-    //     // Optionally, you can handle other unexpected errors during submission
-    //   }
-    // };
-  
-    // const onSubmitSignUp = async (dataset: SignUpBody): Promise<void> => {
-    //   try {
-       
-    //   } catch (error: any) {
-    //     console.log('Error during submission:', error?.message);
-    //     // Optionally, you can handle other unexpected errors during submission
-    //   }
-    // };
+    const onSubmit = async (dataset: Credentials | SignUpBody): Promise<void> => {
+      try {
+        if (checkedSegment === 1) {
+          const result = await login(dataset);
+          console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:63 result', result);
+          
+          if (result?.data?.data?.token) {
+            saveAuth( result?.data?.data?.token);
+            resetNavigation( ROUTES.HomeScreen);
+    
+          } else {
+            
+            // Optionally, you can handle the login failure in a way that makes sense for your application
+          }
+        } else if (checkedSegment === 0) {
+          console.log('%cindex.tsx line:85 dataset', 'color: #007acc;', dataset);
+          // onSubmitSignUp(dataset);
+        } else {
+          console.error('Invalid checkedSegment value:', checkedSegment);
+          // Optionally, you can handle the case where checkedSegment has an unexpected value
+        }
+      } catch (error: any) {
+        console.error('Error during submission:', error?.message);
+        // Optionally, you can handle other unexpected errors during submission
+      }
+    };
+ 
   
     const navigateToFPS = () => {
-    //   handleNavigate({
-    //     screen: ROUTES.ForgetPasswordScreen,
-    //   });
+      handleNavigate({
+        screen: ROUTES.ForgetPasswordScreen,
+      });
     };
   
     return {
-     
+      onSubmit,
       handleSegment,
       checkedSegment,
       defaultValues,
