@@ -5,4 +5,5 @@ export { default as ModalCustom } from "./modalCustom";
 export { default as SegmentComponent } from "./segmentComponent";
 export { default as Link } from "./link";
 export { default as GoBackButton } from "./GoBackButton";
+export { default as CustomHeader } from "./header";
 export * from "./themes"
