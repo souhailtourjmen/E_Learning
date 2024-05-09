@@ -9,12 +9,18 @@ useMemo
 const useHeaderViewController = () => {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
     
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+    
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 const values = useMemo(()=>{return {
 } },[])
 return values;

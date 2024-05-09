@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -26,6 +31,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -34,6 +40,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d nouvelle notification</item>
     <item quantity="other">%d nouvelles notifications</item>
@@ -69,6 +81,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Authentification requise</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -80,6 +93,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Authentification requise</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Authentification requise</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Réduire la zone de contenu dans le bas de l\'écran</string>
     <string name="bottomsheet_action_expand">Développer la zone de contenu dans le bas de l\'écran</string>
     <string name="bottomsheet_action_expand_halfway">Développer à moitié</string>
@@ -95,10 +116,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">En cours de lecture</string>
     <string name="error_icon_content_description">Erreur</string>
     <string name="exo_controls_cc_disabled_description">Activer les sous-titres</string>
@@ -154,6 +180,7 @@
     <string name="exo_track_unknown">Inconnu</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Erreur</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -164,6 +191,13 @@
     <string name="error_icon_content_description">Erreur</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Erreur</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Touch. capteur empr. digitales"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Le matériel de lecture d\'empreintes digitales n\'est pas accessible."</string>
@@ -196,16 +230,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Pause</string>
     <string name="media3_controls_play_description">Lire</string>
     <string name="media3_controls_seek_back_description">Rechercher vers l\'arrière</string>
     <string name="media3_controls_seek_forward_description">Rechercher vers l\'avant</string>
     <string name="media3_controls_seek_to_next_description">Rechercher vers l\'élément suivant</string>
     <string name="media3_controls_seek_to_previous_description">Rechercher vers l\'élément précédent</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -216,6 +256,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menubar_description">Barre de menu</string>
     <string gender="unknown" name="menuitem_description">Option de menu</string>
     <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>

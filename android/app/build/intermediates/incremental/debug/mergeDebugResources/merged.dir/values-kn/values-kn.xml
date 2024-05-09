@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0.25 ಪಟ್ಟು</item>
     <item>0.5 ಪಟ್ಟು</item>
@@ -26,6 +31,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -34,6 +40,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
     <item quantity="other">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
@@ -69,6 +81,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -80,6 +93,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">ಕೆಳಭಾಗದ ಶೀಟ್ ಅನ್ನು ಕುಗ್ಗಿಸಿ</string>
     <string name="bottomsheet_action_expand">ಕೆಳಭಾಗದ ಶೀಟ್ ಅನ್ನು ವಿಸ್ತರಿಸಿ</string>
     <string name="bottomsheet_action_expand_halfway">ಅರ್ಧದಷ್ಟು ವಿಸ್ತರಿಸಿ</string>
@@ -96,10 +117,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">ಇದೀಗ ಪ್ಲೇ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
     <string name="error_icon_content_description">ದೋಷ</string>
     <string name="exo_controls_cc_disabled_description">ಸಬ್‌ಟೈಟಲ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
@@ -155,6 +181,7 @@
     <string name="exo_track_unknown">ಅಪರಿಚಿತ</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">ದೋಷ</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -165,6 +192,13 @@
     <string name="error_icon_content_description">ದೋಷ</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">ದೋಷ</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">ಡ್ರಾಪ್‌ಡೌನ್ ಮೆನು ತೋರಿಸಿ</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್‌‌ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಹಾರ್ಡ್‌ವೇರ್‌ ಲಭ್ಯವಿಲ್ಲ."</string>
@@ -198,16 +232,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">ವಿರಾಮಗೊಳಿಸಿ</string>
     <string name="media3_controls_play_description">ಪ್ಲೇ ಮಾಡಿ</string>
     <string name="media3_controls_seek_back_description">ಹಿಂದಕ್ಕೆ ಸೀಕ್ ಮಾಡಿ</string>
     <string name="media3_controls_seek_forward_description">ಮುಂದಕ್ಕೆ ಸೀಕ್ ಮಾಡಿ</string>
     <string name="media3_controls_seek_to_next_description">ಮುಂದಿನ ಐಟಂಗೆ ಸೀಕ್ ಮಾಡಿ</string>
     <string name="media3_controls_seek_to_previous_description">ಹಿಂದಿನ ಐಟಂಗೆ ಸೀಕ್ ಮಾಡಿ</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -218,6 +258,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">ಮೆನು</string>
     <string gender="unknown" name="menubar_description">ಮೆನು ಬಾರ್</string>
     <string gender="unknown" name="menuitem_description">ಮೆನು ಐಟಂ</string>

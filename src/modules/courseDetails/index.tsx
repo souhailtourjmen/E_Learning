@@ -9,10 +9,14 @@ import React, {
 } from "react";
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 import { View, useWindowDimensions } from "react-native";
 import Video, { VideoRef } from "react-native-video";
 import { styles } from "./styles";
 import { Layout, Spinner } from "@ui-kitten/components";
+<<<<<<< HEAD
 import { Text } from "../../components";
 import RenderIcon from "../../components/renderIcon";
 import { COLORS } from "../../constant";
@@ -43,18 +47,30 @@ import { View, useWindowDimensions } from "react-native";
 import Video, { VideoRef } from "react-native-video";
 import { styles } from "./styles";
 import { Layout, Spinner } from "@ui-kitten/components";
+=======
+=======
+import { Platform, StyleSheet, View, useWindowDimensions } from "react-native";
+import Video, { VideoRef } from "react-native-video";
+import { styles } from "./styles";
+import { Spinner } from "@ui-kitten/components";
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 import { FlatList, Text } from "../../components";
 import RenderIcon from "../../components/renderIcon";
 import { COLORS } from "../../constant";
 import MoreLessText from "../../components/moreLessText";
+<<<<<<< HEAD
 import useCourseDetailsViewModels from "./viewModel";
 import useCourseDetailsViewController from "./viewController";
 import { ListVideos } from "./component";
 import CourseDetailsValueProvider from "./context";
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
 import mediaData from "../../mockData/mediaData";
 type CourseDetailsProps = {};
 
 const CourseDetails = (): ReactElement => {
+<<<<<<< HEAD
   const { course, handleChargeVideo, sourceVideo } =
     useCourseDetailsViewController();
   const videoRef = useRef<VideoRef>(null);
@@ -69,7 +85,22 @@ const CourseDetails = (): ReactElement => {
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
             uri: sourceVideo.sources,
+<<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+=======
+  const videoRef = useRef<VideoRef>(null);
+  const { height, width } = useWindowDimensions();
+  
+  
+  return (
+    <View style={{ height, width }}>
+      <View style={{ height, width }}>
+        <Video
+          source={{
+            uri: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
           }}
           ref={videoRef}
           controls
@@ -159,6 +190,7 @@ const CourseDetails = (): ReactElement => {
                 </View>
 =======
         />
+<<<<<<< HEAD
       );
     }
     return null;
@@ -252,12 +284,75 @@ const CourseDetails = (): ReactElement => {
                 <View style={{ width: "100%" }}>
                   <ListVideos />
                 </View>
+<<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+=======
+        <View style={styles.containerDetails}>
+          <Text category="h5" style={{}}>
+            Camera Settings for Beginner
+          </Text>
+          <View style={styles.detailsInfo}>
+            <View
+              style={{
+                flexDirection: "row",
+                justifyContent: "space-around",
+              }}
+            >
+              <View
+                style={{
+                  flexDirection: "row",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "30%",
+                  marginTop: "2%",
+                }}
+              >
+                <RenderIcon name="clock" sizeIcon={25} />
+                <View style={{ padding: "2%" }}>
+                  <Text category="label">Total Diration</Text>
+                  <Text style={{ color: COLORS.primary }} category="h6">
+                    5:30 hr
+                  </Text>
+                </View>
+              </View>
+
+              <View
+                style={{
+                  flexDirection: "row",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "30%",
+                  marginTop: "2%",
+                }}
+              >
+                <RenderIcon name="clock" sizeIcon={25} />
+                <View style={{ padding: "2%" }}>
+                  <Text category="label">Total Students</Text>
+                  <Text style={{ color: COLORS.primary }} category="h6">
+                    300 Students
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View style={{ marginBottom: "10%" }}>
+              <View style={{ width: "95%" }}>
+                <MoreLessText
+                  children={`By the end of this project, you will learn how to create an Excel Spreadsheet by using a free version of Microsoft Office Excel.  
+
+                Excel is a spreadsheet that works like a database. It consists of individual cells that can be used to build functions, formulas, tables, and graphs that easily organize and analyze large amounts of information and data. Excel is organized into rows (represented by numbers) and columns (represented by letters) that contain your information. This format allows you to present large amounts of information and data in a concise and easy to follow format. Microsoft Excel is the most widely used software within the business community. Whether it is bankers or accountants or business analysts or marketing professionals or scientists or entrepreneurs, almost all professionals use Excel on a consistent basis. 
+                
+                You will learn what an Excel Spreadsheet is, why we use it and the most important keyboard shortcuts, functions, and basic formulas.`}
+                  numberOfLines={2}
+                />
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
               </View>
             </View>
           </View>
         </View>
       </View>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     </CourseDetailsValueProvider>
@@ -267,6 +362,12 @@ const CourseDetails = (): ReactElement => {
 =======
     </CourseDetailsValueProvider>
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+    </CourseDetailsValueProvider>
+=======
+    </View>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
   );
 };
 

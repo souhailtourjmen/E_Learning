@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25</item>
     <item>0,5</item>
@@ -30,6 +35,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -38,6 +44,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d новое уведомление</item>
     <item quantity="few">%d новых уведомления</item>
@@ -75,6 +87,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Требуется аутентификация</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -86,6 +99,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Требуется аутентификация</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Требуется аутентификация</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Свернуть нижний экран</string>
     <string name="bottomsheet_action_expand">Развернуть нижний экран</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
@@ -102,10 +123,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Играет сейчас</string>
     <string name="error_icon_content_description">Ошибка</string>
     <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
@@ -161,6 +187,7 @@
     <string name="exo_track_unknown">Неизвестный трек</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Ошибка</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -171,6 +198,13 @@
     <string name="error_icon_content_description">Ошибка</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Ошибка</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Коснитесь сканера отпечатков."</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Сканер отпечатков пальцев недоступен."</string>
@@ -204,16 +238,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Приостановить</string>
     <string name="media3_controls_play_description">Воспроизвести</string>
     <string name="media3_controls_seek_back_description">Перемотать назад</string>
     <string name="media3_controls_seek_forward_description">Перемотать вперед</string>
     <string name="media3_controls_seek_to_next_description">К следующему файлу</string>
     <string name="media3_controls_seek_to_previous_description">К предыдущему файлу</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -224,6 +264,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Меню</string>
     <string gender="unknown" name="menubar_description">Панель меню</string>
     <string gender="unknown" name="menuitem_description">Элемент меню</string>

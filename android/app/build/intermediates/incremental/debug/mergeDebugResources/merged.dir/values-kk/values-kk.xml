@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -26,6 +31,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -34,6 +40,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d жаңа хабарландыру</item>
     <item quantity="other">%d жаңа хабарландыру</item>
@@ -68,6 +80,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Аутентификация қажет</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -79,6 +92,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Аутентификация қажет</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Аутентификация қажет</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Төменгі парақшаны жию</string>
     <string name="bottomsheet_action_expand">Төменгі парақшаны жаю</string>
     <string name="bottomsheet_action_expand_halfway">Жартылай кеңейту</string>
@@ -93,10 +114,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Қазір ойнап тұр</string>
     <string name="error_icon_content_description">Қате</string>
     <string name="exo_controls_cc_disabled_description">Субтитрді қосу</string>
@@ -152,6 +178,7 @@
     <string name="exo_track_unknown">Белгісіз</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Қате</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -162,6 +189,13 @@
     <string name="error_icon_content_description">Қате</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Қате</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Ашылмалы мәзірді көрсету</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Саусақ ізін оқу сканерін түртіңіз"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Саусақ ізі жабдығы қолжетімді емес."</string>
@@ -194,16 +228,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Кідірту</string>
     <string name="media3_controls_play_description">Ойнату</string>
     <string name="media3_controls_seek_back_description">Артқа айналдыру</string>
     <string name="media3_controls_seek_forward_description">Алға айналдыру</string>
     <string name="media3_controls_seek_to_next_description">Келесі контентке өту</string>
     <string name="media3_controls_seek_to_previous_description">Алдыңғы контентке өту</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -214,6 +254,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="mtrl_badge_numberless_content_description">Жаңа хабарландыру</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s мазмұнын өшіру</string>
     <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d санынан көп жаңа хабарландыру</string>

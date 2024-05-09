@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25×</item>
     <item>0,5×</item>
@@ -26,6 +31,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -34,6 +40,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d új értesítés</item>
     <item quantity="other">%d új értesítés</item>
@@ -69,6 +81,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Hitelesítés szükséges</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -80,6 +93,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Hitelesítés szükséges</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Hitelesítés szükséges</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Az alsó lap összecsukása</string>
     <string name="bottomsheet_action_expand">Az alsó lap kibontása</string>
     <string name="bottomsheet_action_expand_halfway">Kibontás félig</string>
@@ -96,10 +117,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Most játszott tartalom</string>
     <string name="error_icon_content_description">Hiba</string>
     <string name="exo_controls_cc_disabled_description">Feliratok bekapcsolása</string>
@@ -155,6 +181,7 @@
     <string name="exo_track_unknown">Ismeretlen</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Hiba</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -165,6 +192,13 @@
     <string name="error_icon_content_description">Hiba</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Hiba</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Legördülő menü megjelenítése</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Érintse meg az ujjlenyomat-érzékelőt"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Az ujjlenyomathoz szükséges hardverhez nem lehet hozzáférni."</string>
@@ -198,16 +232,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Szüneteltetés</string>
     <string name="media3_controls_play_description">Lejátszás</string>
     <string name="media3_controls_seek_back_description">Ugrás vissza</string>
     <string name="media3_controls_seek_forward_description">Ugrás előre</string>
     <string name="media3_controls_seek_to_next_description">Ugrás a következő elemre</string>
     <string name="media3_controls_seek_to_previous_description">Ugrás az előző elemre</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -218,6 +258,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Menü</string>
     <string gender="unknown" name="menubar_description">Menüsor</string>
     <string gender="unknown" name="menuitem_description">Menüelem</string>

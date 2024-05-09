@@ -109,6 +109,7 @@ const CustomButton = ({flatListRef, flatListIndex, dataLength, x}: Props) => {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         handleGetStarted({screen: ROUTES.HomeScreen});
 =======
           // handleGetStarted({screen: ROUTES.HomeBottom});
@@ -117,11 +118,19 @@ const CustomButton = ({flatListRef, flatListIndex, dataLength, x}: Props) => {
         handleGetStarted({screen: ROUTES.HomeScreen});
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
         handleGetStarted({screen: ROUTES.HomeScreen});
 =======
           // handleGetStarted({screen: ROUTES.HomeBottom});
 >>>>>>> 9c8d4eae (- add new screen onbording)
+<<<<<<< HEAD
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
+        handleGetStarted({screen: ROUTES.HomeScreen});
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
         }
       }}>
       <Animated.View

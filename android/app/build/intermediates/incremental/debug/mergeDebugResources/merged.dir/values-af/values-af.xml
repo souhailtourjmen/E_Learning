@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -26,6 +31,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -34,6 +40,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d nuwe kennisgewing</item>
     <item quantity="other">%d nuwe kennisgewings</item>
@@ -69,6 +81,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Stawing word vereis</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -80,6 +93,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Stawing word vereis</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Stawing word vereis</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Vou die onderste blad in</string>
     <string name="bottomsheet_action_expand">Vou die onderste blad uit</string>
     <string name="bottomsheet_action_expand_halfway">Vou halfpad uit</string>
@@ -96,10 +117,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Speel tans</string>
     <string name="error_icon_content_description">Fout</string>
     <string name="exo_controls_cc_disabled_description">Aktiveer onderskrifte</string>
@@ -155,6 +181,7 @@
     <string name="exo_track_unknown">Onbekend</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Fout</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -165,6 +192,13 @@
     <string name="error_icon_content_description">Fout</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Fout</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Wys aftrekkieslys</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Raak die vingerafdruksensor"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Vingerafdrukhardeware is nie beskikbaar nie."</string>
@@ -198,16 +232,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Onderbreek</string>
     <string name="media3_controls_play_description">Speel</string>
     <string name="media3_controls_seek_back_description">Soek agtertoe</string>
     <string name="media3_controls_seek_forward_description">Soek vorentoe</string>
     <string name="media3_controls_seek_to_next_description">Soek tot by volgende item</string>
     <string name="media3_controls_seek_to_previous_description">Soek tot by vorige item</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -218,6 +258,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Kieslys</string>
     <string gender="unknown" name="menubar_description">Kieslysbalk</string>
     <string gender="unknown" name="menuitem_description">Kieslysitem</string>

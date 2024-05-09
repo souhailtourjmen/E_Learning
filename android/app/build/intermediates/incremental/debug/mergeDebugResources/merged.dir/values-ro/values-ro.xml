@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -28,6 +33,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -36,6 +42,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d notificare nouă</item>
     <item quantity="few">%d notificări noi</item>
@@ -72,6 +84,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Autentificarea este obligatorie</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -83,6 +96,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Autentificarea este obligatorie</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Autentificarea este obligatorie</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Restrângeți foaia din partea de jos</string>
     <string name="bottomsheet_action_expand">Extindeți foaia din partea de jos</string>
     <string name="bottomsheet_action_expand_halfway">Extinde pe ecran complet</string>
@@ -99,10 +120,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Se redă acum</string>
     <string name="error_icon_content_description">Eroare</string>
     <string name="exo_controls_cc_disabled_description">Activează subtitrările</string>
@@ -158,6 +184,7 @@
     <string name="exo_track_unknown">Necunoscut</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Eroare</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -168,6 +195,13 @@
     <string name="error_icon_content_description">Eroare</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Eroare</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Afișați meniul drop-down</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Atingeți senzorul de amprentă"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Hardware-ul pentru amprentă nu este disponibil."</string>
@@ -200,16 +234,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Întrerupe</string>
     <string name="media3_controls_play_description">Redă</string>
     <string name="media3_controls_seek_back_description">Derulează înapoi</string>
     <string name="media3_controls_seek_forward_description">Derulează înainte</string>
     <string name="media3_controls_seek_to_next_description">Treci la elementul următor</string>
     <string name="media3_controls_seek_to_previous_description">Treci la elementul anterior</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -220,6 +260,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Meniu</string>
     <string gender="unknown" name="menubar_description">Bară meniu</string>
     <string gender="unknown" name="menuitem_description">Element din meniu</string>

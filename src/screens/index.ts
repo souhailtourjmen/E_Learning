@@ -14,6 +14,7 @@ export {default as ForgetPasswordScreen} from './auth/forgetPassword'
 export {default as HomeScreen} from './home'
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 export {default as ScreenCourseDetails} from './courseDetails'
 export {default as ChatScreen} from './chat'
 export {default as UpdateProfileScreen} from './UpdateProfileScreen'
@@ -32,6 +33,8 @@ export {default as ForgetPasswordScreen} from './auth/forgetPassword'
 export {default as ScreenCourseDetails} from './courseDetails'
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 export {default as ScreenCourseDetails} from './courseDetails'
 =======
 export {default as Intro} from './intro'
@@ -49,4 +52,10 @@ export {default as OnboardingScreen} from './onboarding'
 =======
 export {default as ForgetPasswordScreen} from './auth/forgetPassword'
 >>>>>>> 69415541 (Create module auth signIn)
+<<<<<<< HEAD
 >>>>>>> 54475f41 (Create module auth signIn)
+=======
+=======
+export {default as ScreenCourseDetails} from './courseDetails'
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)

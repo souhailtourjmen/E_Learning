@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0.25x</item>
     <item>0.5x</item>
@@ -26,6 +31,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -34,6 +40,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d yeni bildiriş</item>
     <item quantity="other">%d yeni bildiriş</item>
@@ -68,6 +80,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Doğrulanma tələb olunur</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -79,6 +92,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Doğrulanma tələb olunur</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Doğrulanma tələb olunur</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Aşağıdakı vərəqi yığcamlaşdırın</string>
     <string name="bottomsheet_action_expand">Aşağıdakı vərəqi genişləndirin</string>
     <string name="bottomsheet_action_expand_halfway">Tam genişləndirin</string>
@@ -93,10 +114,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">İndi oxudulur</string>
     <string name="error_icon_content_description">Xəta</string>
     <string name="exo_controls_cc_disabled_description">Subtitrləri aktiv edin</string>
@@ -152,6 +178,7 @@
     <string name="exo_track_unknown">Naməlum</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Xəta</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -162,6 +189,13 @@
     <string name="error_icon_content_description">Xəta</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Xəta</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstərin</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Barmaq izi sensoruna klikləyin"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Barmaq izi avadanlığı əlçatan deyil."</string>
@@ -194,16 +228,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Durdurun</string>
     <string name="media3_controls_play_description">Oxudun</string>
     <string name="media3_controls_seek_back_description">Geri keçin</string>
     <string name="media3_controls_seek_forward_description">İrəli keçin</string>
     <string name="media3_controls_seek_to_next_description">Növbəti elementə keçin</string>
     <string name="media3_controls_seek_to_previous_description">Əvvəlki elementə keçin</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -214,6 +254,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Menyu</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s silin</string>

@@ -16,10 +16,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0.25x</item>
     <item>0.5x</item>
@@ -31,6 +36,7 @@
   </string-array>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -39,6 +45,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="hide_fingerprint_instantly_prefixes">
         <item>SM-A50</item> 
         <item>SM-G973</item> 
@@ -61,14 +73,20 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="color" name="ad_marker_color"/>
     <attr format="dimension" name="ad_marker_width"/>
     <attr format="reference" name="animate_relativeTo"/>
     <attr format="boolean" name="animation_enabled"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -81,6 +99,13 @@
     <attr format="reference" name="animate_relativeTo"/>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <attr format="reference" name="animate_relativeTo"/>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="reference" name="appBarLayoutStyle"/>
     <attr format="enum" name="arcMode">
         <enum name="startVertical" value="0"/>
@@ -90,10 +115,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="enum" name="artwork_display_mode">
     <enum name="off" value="0"/>
     <enum name="fit" value="1"/>
@@ -109,6 +139,7 @@
     <attr format="dimension" name="bar_height"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <attr format="reference" name="badgeStyle"/>
 >>>>>>> 9ce4bce8 (rename project)
@@ -119,6 +150,13 @@
     <attr format="reference" name="badgeStyle"/>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <attr format="reference" name="badgeStyle"/>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="boolean" name="barrierAllowsGoneWidgets"/>
     <attr format="enum" name="barrierDirection">
         <enum name="left" value="0"/>
@@ -138,6 +176,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <attr format="color" name="buffered_color"/>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -149,6 +188,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <attr format="color" name="buffered_color"/>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <attr format="color" name="buffered_color"/>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="reference" name="cardViewStyle"/>
     <attr format="boolean" name="chainUseRtl"/>
     <attr format="reference" name="checkedIcon"/>
@@ -220,6 +267,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <attr format="reference" name="controller_layout_id"/>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -231,6 +279,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <attr format="reference" name="controller_layout_id"/>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <attr format="reference" name="controller_layout_id"/>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="reference" name="coordinatorLayoutStyle"/>
     <attr format="enum" name="curveFit">
         <enum name="spline" value="0"/>
@@ -240,6 +296,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <attr format="reference" name="default_artwork"/>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -251,6 +308,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <attr format="reference" name="default_artwork"/>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <attr format="reference" name="default_artwork"/>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="float" name="deltaPolarAngle"/>
     <attr format="float" name="deltaPolarRadius"/>
     <attr format="dimension" name="dividerInsetEnd"/>
@@ -365,6 +430,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <attr format="boolean" name="hide_during_ads"/>
     <attr format="boolean" name="hide_on_touch"/>
 =======
@@ -374,11 +440,20 @@
     <attr format="boolean" name="hide_on_touch"/>
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="boolean" name="hide_during_ads"/>
     <attr format="boolean" name="hide_on_touch"/>
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <attr format="boolean" name="hide_during_ads"/>
+    <attr format="boolean" name="hide_on_touch"/>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="boolean" name="isLightTheme"/>
     <attr format="boolean" name="isMaterial3DynamicColorApplied"/>
     <attr format="boolean" name="isMaterial3Theme"/>
@@ -390,6 +465,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <attr format="boolean" name="keep_content_on_player_reset"/>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -401,6 +477,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <attr format="boolean" name="keep_content_on_player_reset"/>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <attr format="boolean" name="keep_content_on_player_reset"/>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="reference" name="keyboardIcon"/>
     <attr format="reference" name="layoutDescription"/>
     <attr format="enum" name="layoutDuringTransition">
@@ -619,8 +703,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="color" name="played_ad_marker_color"/>
     <attr format="color" name="played_color"/>
     <attr format="reference" name="player_layout_id"/>
@@ -647,10 +734,14 @@
     <attr format="dimension" name="scrubber_enabled_size"/>
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 =======
     <attr format="color" name="played_ad_marker_color"/>
     <attr format="color" name="played_color"/>
     <attr format="reference" name="player_layout_id"/>
+<<<<<<< HEAD
 >>>>>>> 4005439c (add Desing Screen course details)
     <attr format="reference" name="popupMenuBackground"/>
     <attr format="reference" name="recyclerViewStyle"/>
@@ -678,12 +769,38 @@
     <attr format="dimension" name="scrubber_enabled_size"/>
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="reference" name="popupMenuBackground"/>
     <attr format="reference" name="recyclerViewStyle"/>
+    <attr name="repeat_toggle_modes">
+    <flag name="none" value="0"/>
+    <flag name="one" value="1"/>
+    <flag name="all" value="2"/>
+  </attr>
+    <attr format="enum" name="resize_mode">
+    <enum name="fit" value="0"/>
+    <enum name="fixed_width" value="1"/>
+    <enum name="fixed_height" value="2"/>
+    <enum name="fill" value="3"/>
+    <enum name="zoom" value="4"/>
+  </attr>
     <attr format="color" name="rippleColor"/>
     <attr format="color|reference" name="scrimBackground"/>
+<<<<<<< HEAD
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <attr format="color" name="scrubber_color"/>
+    <attr format="dimension" name="scrubber_disabled_size"/>
+    <attr format="dimension" name="scrubber_dragged_size"/>
+    <attr format="reference" name="scrubber_drawable"/>
+    <attr format="dimension" name="scrubber_enabled_size"/>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="boolean" name="selectionRequired"/>
     <attr format="reference" name="shapeAppearanceCornerExtraLarge"/>
     <attr format="reference" name="shapeAppearanceCornerExtraSmall"/>
@@ -701,10 +818,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="enum" name="show_buffering">
     <enum name="never" value="0"/>
     <enum name="when_playing" value="1"/>
@@ -721,6 +843,7 @@
     <attr format="color" name="shutter_background_color"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -729,6 +852,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="reference" name="sideSheetDialogTheme"/>
     <attr format="reference" name="sideSheetModalStyle"/>
     <attr format="boolean" name="singleSelection"/>
@@ -740,10 +869,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="enum" name="surface_type">
     <enum name="none" value="0"/>
     <enum name="surface_view" value="1"/>
@@ -751,6 +885,7 @@
     <enum name="spherical_gl_surface_view" value="3"/>
     <enum name="video_decoder_gl_surface_view" value="4"/>
   </attr>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -761,6 +896,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="reference" name="tabSecondaryStyle"/>
     <attr format="reference" name="tabStyle"/>
     <attr format="reference" name="targetId"/>
@@ -803,6 +944,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <attr format="integer" name="time_bar_min_update_interval"/>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -814,6 +956,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <attr format="integer" name="time_bar_min_update_interval"/>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <attr format="integer" name="time_bar_min_update_interval"/>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="string" name="title"/>
     <attr format="reference" name="toolbarSurfaceStyle"/>
     <attr format="reference" name="tooltipStyle"/>
@@ -830,6 +980,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <attr format="dimension" name="touch_target_height"/>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -841,6 +992,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <attr format="dimension" name="touch_target_height"/>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <attr format="dimension" name="touch_target_height"/>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="color" name="trackColor"/>
     <attr format="string|enum" name="transitionEasing">
         <enum name="standard" value="0"/>
@@ -853,14 +1012,20 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="color" name="unplayed_color"/>
     <attr format="boolean" name="useMaterialThemeColors"/>
     <attr format="boolean" name="use_artwork"/>
     <attr format="boolean" name="use_controller"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -873,6 +1038,13 @@
     <attr format="boolean" name="useMaterialThemeColors"/>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <attr format="boolean" name="useMaterialThemeColors"/>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <attr format="enum" name="visibilityMode">
         <enum name="normal" value="0"/>
         <enum name="ignore" value="1"/>
@@ -968,10 +1140,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <color name="exo_black_opacity_60">#98000000</color>
     <color name="exo_black_opacity_70">#B3000000</color>
     <color name="exo_bottom_bar_background">#b0000000</color>
@@ -982,6 +1159,7 @@
     <color name="exo_white_opacity_70">#B3ffffff</color>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -990,6 +1168,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
@@ -1402,10 +1586,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <dimen name="exo_error_message_height">32dp</dimen>
     <dimen name="exo_error_message_margin_bottom">64dp</dimen>
     <dimen name="exo_error_message_text_padding_horizontal">12dp</dimen>
@@ -1443,6 +1632,7 @@
     <dimen name="exo_styled_progress_touch_target_height">48dp</dimen>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -1451,6 +1641,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <dimen name="fastscroll_default_thickness">8dp</dimen>
     <dimen name="fastscroll_margin">0dp</dimen>
     <dimen name="fastscroll_minimum_range">50dp</dimen>
@@ -2078,8 +2274,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 =======
     <dimen name="subtitle_corner_radius">2dp</dimen>
     <dimen name="subtitle_outline_width">2dp</dimen>
@@ -2091,7 +2290,12 @@
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <dimen name="tooltip_corner_radius">2dp</dimen>
     <dimen name="tooltip_horizontal_padding">16dp</dimen>
     <dimen name="tooltip_margin">8dp</dimen>
@@ -2103,10 +2307,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <drawable name="exo_legacy_controls_fastforward">@drawable/exo_icon_fastforward</drawable>
     <drawable name="exo_legacy_controls_fullscreen_enter">@drawable/exo_icon_fullscreen_enter</drawable>
     <drawable name="exo_legacy_controls_fullscreen_exit">@drawable/exo_icon_fullscreen_exit</drawable>
@@ -2162,6 +2371,7 @@
     <drawable name="media3_notification_small_icon">@drawable/media3_icon_circular_play</drawable>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <item name="material_ic_keyboard_arrow_next_black_24dp" type="drawable">@drawable/material_ic_keyboard_arrow_right_black_24dp</item>
     <item name="material_ic_keyboard_arrow_previous_black_24dp" type="drawable">@drawable/material_ic_keyboard_arrow_left_black_24dp</item>
@@ -2170,10 +2380,17 @@
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 =======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
     <item name="material_ic_keyboard_arrow_next_black_24dp" type="drawable">@drawable/material_ic_keyboard_arrow_right_black_24dp</item>
     <item name="material_ic_keyboard_arrow_previous_black_24dp" type="drawable">@drawable/material_ic_keyboard_arrow_left_black_24dp</item>
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
     <item name="accessibility_action_clickable_span" type="id"/>
@@ -2226,10 +2443,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <item name="exo_ad_overlay" type="id"/>
     <item name="exo_artwork" type="id"/>
     <item name="exo_audio_track" type="id"/>
@@ -2274,6 +2496,7 @@
     <item name="exo_vr" type="id"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -2282,6 +2505,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <item name="flipper_skip_empty_view_group_traversal" type="id"/>
     <item name="flipper_skip_view_traversal" type="id"/>
     <item name="fragment_container_view_tag" type="id"/>
@@ -2292,6 +2521,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <item name="is_pooling_container_tag" type="id"/>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -2303,6 +2533,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <item name="is_pooling_container_tag" type="id"/>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <item name="is_pooling_container_tag" type="id"/>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <item name="item_touch_helper_previous_elevation" type="id"/>
     <item name="labelled_by" type="id"/>
     <item name="line1" type="id"/>
@@ -2313,6 +2551,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <item name="media_controller_compat_view_tag" type="id"/>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -2324,6 +2563,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <item name="media_controller_compat_view_tag" type="id"/>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <item name="media_controller_compat_view_tag" type="id"/>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <item name="motion_base" type="id"/>
     <item name="mtrl_anchor_parent" type="id"/>
     <item name="mtrl_card_checked_layer_id" type="id"/>
@@ -2342,10 +2589,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <item name="pooling_container_listener_holder_tag" type="id"/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
@@ -2353,8 +2605,11 @@
     <item name="report_drawn" type="id"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 =======
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
@@ -2365,7 +2620,12 @@
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <item name="role" type="id"/>
     <item name="row_index_key" type="id"/>
     <item name="save_non_transition_alpha" type="id"/>
@@ -2425,6 +2685,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <integer name="exo_media_button_opacity_percentage_disabled">33</integer>
     <integer name="exo_media_button_opacity_percentage_enabled">100</integer>
 =======
@@ -2434,11 +2695,20 @@
     <integer name="exo_media_button_opacity_percentage_enabled">100</integer>
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <integer name="exo_media_button_opacity_percentage_disabled">33</integer>
     <integer name="exo_media_button_opacity_percentage_enabled">100</integer>
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <integer name="exo_media_button_opacity_percentage_disabled">33</integer>
+    <integer name="exo_media_button_opacity_percentage_enabled">100</integer>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <integer name="hide_password_duration">320</integer>
     <integer name="m3_btn_anim_delay_ms">100</integer>
     <integer name="m3_btn_anim_duration_ms">100</integer>
@@ -2503,10 +2773,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="exo_controls_fastforward_by_amount_description">
     <item quantity="one">Fast forward <ns2:g example="1" id="fastforward_amount">%d</ns2:g> second</item>
     <item quantity="other">Fast forward <ns2:g example="30" id="fastforward_amount">%d</ns2:g> seconds</item>
@@ -2517,6 +2792,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -2525,10 +2801,17 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals description="Plural form content description for number of new notifications [CHAR_LIMIT=NONE]" name="mtrl_badge_content_description">
     <item quantity="one"><ns2:g id="count">%d</ns2:g> new notification</item>
     <item quantity="other"><ns2:g id="count">%d</ns2:g> new notifications</item>
   </plurals>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2543,6 +2826,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -2595,6 +2886,7 @@
     <string name="app_name">Digital.Tn</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="authentication_required">Authentication required</string>
+<<<<<<< HEAD
 =======
     <string name="app_name">Reserver</string>
 =======
@@ -2602,7 +2894,12 @@
 >>>>>>> d795e8b9 (change name Digital.Tn)
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string description="A description of an accessibility action to collapse the bottom sheet [CHAR LIMIT=NONE]" name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
     <string description="A description of an accessibility action to expand the bottom sheet [CHAR LIMIT=NONE]" name="bottomsheet_action_expand">Expand the bottom sheet</string>
@@ -2646,8 +2943,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Now playing</string>
     <string description="Screen reader announcement for when a checkbox is on error. [CHAR LIMIT=NONE]" name="error_a11y_label">
     Error: invalid
@@ -2714,6 +3014,7 @@
     <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
     <string name="exo_track_unknown">Unknown</string>
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     <string name="default_notification_channel_name">Now playing</string>
@@ -2787,12 +3088,83 @@
     <string name="exo_track_unknown">Unknown</string>
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
+=======
+=======
+    <string name="default_notification_channel_name">Now playing</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string description="Screen reader announcement for when a checkbox is on error. [CHAR LIMIT=NONE]" name="error_a11y_label">
     Error: invalid
   </string>
+    <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
+    <string name="error_drm_unknown">An unknown DRM error occurred</string>
+    <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
     <string name="error_icon_content_description">Error</string>
+<<<<<<< HEAD
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_instantiating_decoder">Unable to instantiate decoder <ns2:g id="decoder_name">%1$s</ns2:g></string>
+    <string name="error_no_decoder">This device does not provide a decoder for <ns2:g id="mime_type">%1$s</ns2:g></string>
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for <ns2:g id="mime_type">%1$s</ns2:g></string>
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+    <string name="exo_controls_cc_disabled_description">Enable subtitles</string>
+    <string name="exo_controls_cc_enabled_description">Disable subtitles</string>
+    <string name="exo_controls_custom_playback_speed" translatable="false"><ns2:g example="1.05" id="playback_speed">%1$.2f</ns2:g>x</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_fullscreen_enter_description">Enter fullscreen</string>
+    <string name="exo_controls_fullscreen_exit_description">Exit fullscreen</string>
+    <string name="exo_controls_hide">Hide player controls</string>
+    <string name="exo_controls_next_description">Next</string>
+    <string name="exo_controls_overflow_hide_description">Hide additional settings</string>
+    <string name="exo_controls_overflow_show_description">Show additional settings</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_playback_speed">Speed</string>
+    <string name="exo_controls_previous_description">Previous</string>
+    <string name="exo_controls_repeat_all_description">Current mode: Repeat all. Toggle repeat mode.</string>
+    <string name="exo_controls_repeat_off_description">Current mode: Repeat none. Toggle repeat mode.</string>
+    <string name="exo_controls_repeat_one_description">Current mode: Repeat one. Toggle repeat mode.</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_seek_bar_description">Playback progress</string>
+    <string name="exo_controls_settings_description">Settings</string>
+    <string name="exo_controls_show">Show player controls</string>
+    <string name="exo_controls_shuffle_off_description">Enable shuffle mode</string>
+    <string name="exo_controls_shuffle_on_description">Disable shuffle mode</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_time_placeholder" translatable="false">00:00:00</string>
+    <string name="exo_controls_vr_description">VR mode</string>
+    <string name="exo_download_completed">Download completed</string>
+    <string name="exo_download_description">Download</string>
+    <string name="exo_download_downloading">Downloading</string>
+    <string name="exo_download_failed">Download failed</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads paused</string>
+    <string name="exo_download_paused_for_network">Downloads waiting for network</string>
+    <string name="exo_download_paused_for_wifi">Downloads waiting for WiFi</string>
+    <string name="exo_download_removing">Removing downloads</string>
+    <string name="exo_item_list"><ns2:g example="apple, pear" id="list">%1$s</ns2:g>, <ns2:g example="banana" id="item">%2$s</ns2:g></string>
+    <string name="exo_track_bitrate"><ns2:g example="5.2" id="bitrate">%1$.2f</ns2:g> Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution"><ns2:g example="1024" id="width">%1$d</ns2:g> × <ns2:g example="768" id="height">%2$d</ns2:g></string>
+    <string name="exo_track_role_alternate">Alternate</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Commentary</string>
+    <string name="exo_track_role_supplementary">Supplementary</string>
+    <string name="exo_track_selection_auto">Auto</string>
+    <string name="exo_track_selection_none">None</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround sound</string>
+    <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
+    <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
+    <string name="exo_track_unknown">Unknown</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
@@ -2853,16 +3225,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Pause</string>
     <string name="media3_controls_play_description">Play</string>
     <string name="media3_controls_seek_back_description">Seek back</string>
     <string name="media3_controls_seek_forward_description">Seek forward</string>
     <string name="media3_controls_seek_to_next_description">Seek to next item</string>
     <string name="media3_controls_seek_to_previous_description">Seek to previous item</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -2873,6 +3251,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string description="offers a list of choices to the user" name="menu_description">Menu</string>
     <string description="presentation of menu that usually remains visible and is usually presented horizontally" name="menubar_description">Menu Bar</string>
     <string description="an option in a set of choices contained by a menu or menubar" name="menuitem_description">Menu Item</string>
@@ -2977,6 +3361,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="unrecognized_media_format">Unrecognized media format</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -2988,6 +3373,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="unrecognized_media_format">Unrecognized media format</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="unrecognized_media_format">Unrecognized media format</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -6386,10 +6779,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <style name="ExoMediaButton">
     <item name="android:background">?android:attr/selectableItemBackground</item>
     <item name="android:layout_width">@dimen/exo_media_button_width</item>
@@ -6558,6 +6956,7 @@
   </style>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -6566,6 +6965,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <style name="MaterialAlertDialog.Material3" parent="MaterialAlertDialog.MaterialComponents">
     <item name="enforceMaterialTheme">true</item>
     <item name="android:layout">@layout/m3_alert_dialog</item>
@@ -10975,8 +11380,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <declare-styleable name="AspectRatioFrameLayout">
     <attr name="resize_mode"/>
   </declare-styleable>
@@ -10990,7 +11398,15 @@
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <declare-styleable name="AspectRatioFrameLayout">
+    <attr name="resize_mode"/>
+  </declare-styleable>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <declare-styleable name="Autofill.InlineSuggestion">
         
         <attr format="boolean" name="isAutofillInlineSuggestionTheme"/>
@@ -11719,10 +12135,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <declare-styleable name="DefaultTimeBar">
     <attr name="bar_height"/>
     <attr name="bar_gravity"/>
@@ -11741,6 +12162,7 @@
   </declare-styleable>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -11749,6 +12171,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <declare-styleable name="DrawerArrowToggle">
         
         <attr format="color" name="color"/>
@@ -12123,10 +12551,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <declare-styleable name="LegacyPlayerControlView">
     <attr name="show_timeout"/>
     <attr name="repeat_toggle_modes"/>
@@ -12155,6 +12588,7 @@
   </declare-styleable>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -12163,6 +12597,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <declare-styleable name="LinearLayoutCompat">
         
         <attr name="android:orientation"/>
@@ -12906,10 +13346,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <declare-styleable name="PlayerControlView">
     <attr name="show_timeout"/>
     <attr name="repeat_toggle_modes"/>
@@ -12981,6 +13426,7 @@
   </declare-styleable>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -12989,6 +13435,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <declare-styleable name="PopupWindow">
         
         <attr format="boolean" name="overlapAnchor"/>
@@ -13968,8 +14420,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 =======
     <declare-styleable name="scaleStyle">
         <attr name="scalableType">
@@ -14011,7 +14466,12 @@
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <macro name="m3_comp_assist_chip_container_shape">?attr/shapeAppearanceCornerSmall</macro>
     <macro name="m3_comp_assist_chip_label_text_type">?attr/textAppearanceLabelLarge</macro>
     <macro name="m3_comp_badge_color">?attr/colorError</macro>

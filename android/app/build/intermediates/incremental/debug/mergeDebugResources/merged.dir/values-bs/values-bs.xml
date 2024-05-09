@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25 x</item>
     <item>0,5 x</item>
@@ -28,6 +33,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -36,6 +42,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d novo obavještenje</item>
     <item quantity="few">%d nova obavještenja</item>
@@ -72,6 +84,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Potrebna je autentifikacija</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -83,6 +96,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Potrebna je autentifikacija</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Potrebna je autentifikacija</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Sužavanje donje tabele</string>
     <string name="bottomsheet_action_expand">Proširivanje donje tabele</string>
     <string name="bottomsheet_action_expand_halfway">Proširivanje dopola</string>
@@ -98,10 +119,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Trenutno se reproducira</string>
     <string name="error_icon_content_description">Greška</string>
     <string name="exo_controls_cc_disabled_description">Omogućavanje titlova</string>
@@ -157,6 +183,7 @@
     <string name="exo_track_unknown">Nepoznato</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Greška</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -167,6 +194,13 @@
     <string name="error_icon_content_description">Greška</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Greška</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Prikaži padajući meni</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Dodirnite senzor za otisak prsta"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Hardver za otisak prsta nije dostupan."</string>
@@ -200,16 +234,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Pauziranje</string>
     <string name="media3_controls_play_description">Reproduciranje</string>
     <string name="media3_controls_seek_back_description">Pomicanje nazad</string>
     <string name="media3_controls_seek_forward_description">Pomicanje naprijed</string>
     <string name="media3_controls_seek_to_next_description">Pomicanje na sljedeću stavku</string>
     <string name="media3_controls_seek_to_previous_description">Pomicanje na prethodnu stavku</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -220,6 +260,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Meni</string>
     <string gender="unknown" name="menubar_description">Traka menija</string>
     <string gender="unknown" name="menuitem_description">Stavka menija</string>

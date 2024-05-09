@@ -54,10 +54,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 20-->[androidx.media3:media3-common:1.1.1] /Users/souhail/.gradle/caches/transforms-3/914c6c6e915f3328d068c8637100f83a/transformed/jetified-media3-common-1.1.1/AndroidManifest.xml:24:5-79
 20-->[androidx.media3:media3-common:1.1.1] /Users/souhail/.gradle/caches/transforms-3/914c6c6e915f3328d068c8637100f83a/transformed/jetified-media3-common-1.1.1/AndroidManifest.xml:24:22-76
@@ -202,8 +207,11 @@
 96</manifest>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 =======
 20
 21    <permission
@@ -346,4 +354,9 @@
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)

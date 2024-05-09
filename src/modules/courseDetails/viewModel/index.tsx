@@ -1,8 +1,11 @@
 import React, {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
   Dispatch,
   SetStateAction,
   useCallback,
@@ -99,6 +102,24 @@ const useCourseDetailsViewModels = () => {
 };
 export default useCourseDetailsViewModels;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+=======
+Dispatch,
+SetStateAction,
+useCallback,
+useEffect,
+useState,
+useMemo
+} from 'react';
+const useCourseDetailsViewModels = () => {
+const values = useMemo(()=>{return {
+} },[])
+return values;
+};
+export default useCourseDetailsViewModels;
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)

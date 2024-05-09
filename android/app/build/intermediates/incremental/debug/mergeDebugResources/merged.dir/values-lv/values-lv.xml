@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -28,6 +33,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -36,6 +42,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="zero">%d jaunu paziņojumu</item>
     <item quantity="one">%d jauns paziņojums</item>
@@ -72,6 +84,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Nepieciešama autentificēšana</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -83,6 +96,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Nepieciešama autentificēšana</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Nepieciešama autentificēšana</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Sakļaut ekrāna apakšdaļas lapu</string>
     <string name="bottomsheet_action_expand">Izvērst ekrāna apakšdaļas lapu</string>
     <string name="bottomsheet_action_expand_halfway">Izvērst līdz pusei</string>
@@ -99,10 +120,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Tagad atskaņo</string>
     <string name="error_icon_content_description">Kļūda</string>
     <string name="exo_controls_cc_disabled_description">Iespējot subtitrus</string>
@@ -158,6 +184,7 @@
     <string name="exo_track_unknown">Nezināms</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Kļūda</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -168,6 +195,13 @@
     <string name="error_icon_content_description">Kļūda</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Kļūda</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Rādīt nolaižamo izvēlni</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Pieskarieties pirksta nospieduma sensoram"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Pirksta nospieduma aparatūra nav pieejama."</string>
@@ -201,16 +235,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Apturēt</string>
     <string name="media3_controls_play_description">Atskaņot</string>
     <string name="media3_controls_seek_back_description">Pāriet atpakaļ</string>
     <string name="media3_controls_seek_forward_description">Pāriet uz priekšu</string>
     <string name="media3_controls_seek_to_next_description">Pāriet uz nākamo vienumu</string>
     <string name="media3_controls_seek_to_previous_description">Pāriet uz iepriekšējo vienumu</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -221,6 +261,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Izvēlne</string>
     <string gender="unknown" name="menubar_description">Izvēļņu josla</string>
     <string gender="unknown" name="menuitem_description">Izvēlnes opcija</string>

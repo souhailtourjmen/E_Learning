@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0.25x</item>
     <item>0.5x</item>
@@ -28,6 +33,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -36,6 +42,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">התראה חדשה אחת (%d)</item>
     <item quantity="two">%d התראות חדשות</item>
@@ -73,6 +85,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">נדרש אימות</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -84,6 +97,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">נדרש אימות</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">נדרש אימות</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">כיווץ הגיליון התחתון</string>
     <string name="bottomsheet_action_expand">הרחבת הגיליון התחתון</string>
     <string name="bottomsheet_action_expand_halfway">הרחבה עד האמצע</string>
@@ -100,10 +121,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">הפריט שמופעל עכשיו</string>
     <string name="error_icon_content_description">שגיאה</string>
     <string name="exo_controls_cc_disabled_description">הפעלת כתוביות</string>
@@ -159,6 +185,7 @@
     <string name="exo_track_unknown">לא ידוע</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">שגיאה</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -169,6 +196,13 @@
     <string name="error_icon_content_description">שגיאה</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">שגיאה</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">הצגת התפריט הנפתח</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"יש לגעת בחיישן טביעות האצבע"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"החומרה בשביל טביעת אצבע אינה זמינה."</string>
@@ -202,16 +236,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">השהיה</string>
     <string name="media3_controls_play_description">הפעלה</string>
     <string name="media3_controls_seek_back_description">דילוג אחורה</string>
     <string name="media3_controls_seek_forward_description">דילוג קדימה</string>
     <string name="media3_controls_seek_to_next_description">דילוג לפריט הבא</string>
     <string name="media3_controls_seek_to_previous_description">דילוג לפריט הקודם</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -222,6 +262,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">תפריט</string>
     <string gender="unknown" name="menubar_description">סרגל תפריטים</string>
     <string gender="unknown" name="menuitem_description">פריט בתפריט</string>

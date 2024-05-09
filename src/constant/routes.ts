@@ -32,7 +32,13 @@ export const ROUTES = {
 =======
   ONBOARDING: "OnboardingScreen",
 >>>>>>> 9c8d4eae (- add new screen onbording)
+<<<<<<< HEAD
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
+  CourseDetails: 'Course Details',
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 };
 
 =======

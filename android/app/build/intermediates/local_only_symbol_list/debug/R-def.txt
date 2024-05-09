@@ -8,6 +8,7 @@ mipmap ic_launcher_round
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 string API_URL
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -19,5 +20,13 @@ string API_URL
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+string API_URL
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+string API_URL
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 string app_name
 style AppTheme

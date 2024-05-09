@@ -60,6 +60,7 @@ useEffect,
 useState,
 useMemo
 } from 'react';
+<<<<<<< HEAD
 import useCourseDetailsViewModels from '../viewModel';
 import { Video } from '../../../types';
 const useCourseDetailsViewController = () => {
@@ -79,6 +80,11 @@ const useCourseDetailsViewController = () => {
 const values = useMemo(()=>{return {
     course,sourceVideo, handleChargeVideo,mediaData 
 } },[course,sourceVideo, handleChargeVideo,mediaData ])
+=======
+const useCourseDetailsViewController = () => {
+const values = useMemo(()=>{return {
+} },[])
+>>>>>>> feaa7651 (add Desing Screen course details)
 return values;
 };
 export default useCourseDetailsViewController;

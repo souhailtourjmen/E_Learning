@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -28,6 +33,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -36,6 +42,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d ново обавештење</item>
     <item quantity="few">%d нова обавештења</item>
@@ -72,6 +84,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Потребна је потврда идентитета</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -83,6 +96,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Потребна је потврда идентитета</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Потребна је потврда идентитета</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Скупите доњу табелу</string>
     <string name="bottomsheet_action_expand">Проширите доњу табелу</string>
     <string name="bottomsheet_action_expand_halfway">Проширите до пола</string>
@@ -99,10 +120,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Тренутно свира</string>
     <string name="error_icon_content_description">Грешка</string>
     <string name="exo_controls_cc_disabled_description">Омогући титлове</string>
@@ -158,6 +184,7 @@
     <string name="exo_track_unknown">Непознато</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Грешка</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -168,6 +195,13 @@
     <string name="error_icon_content_description">Грешка</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Грешка</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Прикажи падајући мени</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Додирн. сензор за отисак прста"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Хардвер за отиске прстију није доступан."</string>
@@ -201,16 +235,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Паузирај</string>
     <string name="media3_controls_play_description">Пусти</string>
     <string name="media3_controls_seek_back_description">Премотај уназад</string>
     <string name="media3_controls_seek_forward_description">Премотај унапред</string>
     <string name="media3_controls_seek_to_next_description">Премотај на следећу ставку</string>
     <string name="media3_controls_seek_to_previous_description">Премотај на претходну ставку</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -221,6 +261,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Мени</string>
     <string gender="unknown" name="menubar_description">Трака са менијем</string>
     <string gender="unknown" name="menuitem_description">Ставка из менија</string>

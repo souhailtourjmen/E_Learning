@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -26,6 +31,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -34,6 +40,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d notificación nueva</item>
     <item quantity="other">%d notificaciones nuevas</item>
@@ -69,6 +81,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Autenticación obligatoria</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -80,6 +93,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Autenticación obligatoria</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Autenticación obligatoria</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Ocultar la hoja inferior</string>
     <string name="bottomsheet_action_expand">Mostrar la hoja inferior</string>
     <string name="bottomsheet_action_expand_halfway">Desplegar hasta la mitad</string>
@@ -96,10 +117,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Está sonando</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exo_controls_cc_disabled_description">Habilitar subtítulos</string>
@@ -155,6 +181,7 @@
     <string name="exo_track_unknown">Desconocido</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">Error</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -165,6 +192,13 @@
     <string name="error_icon_content_description">Error</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Error</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Toca sensor huellas digitales"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"El hardware de huella digital no está disponible."</string>
@@ -198,16 +232,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Pausar</string>
     <string name="media3_controls_play_description">Reproducir</string>
     <string name="media3_controls_seek_back_description">Volver</string>
     <string name="media3_controls_seek_forward_description">Avanzar</string>
     <string name="media3_controls_seek_to_next_description">Ir al elemento siguiente</string>
     <string name="media3_controls_seek_to_previous_description">Ir al elemento anterior</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -218,6 +258,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Menú</string>
     <string gender="unknown" name="menubar_description">Barra de menús</string>
     <string gender="unknown" name="menuitem_description">Opción del menú</string>

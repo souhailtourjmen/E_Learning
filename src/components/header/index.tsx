@@ -10,6 +10,9 @@ import { TouchableOpacity } from "react-native";
 import { Text, View } from "..";
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 import { useRoute } from "@react-navigation/native";
 
 type HeaderProps = {
@@ -44,6 +47,7 @@ const CustomHeader = ({ navigation }: HeaderProps) => {
       </View>
     // </TouchableOpacity>
 =======
+<<<<<<< HEAD
 =======
 import { useRoute } from "@react-navigation/native";
 >>>>>>> 97ed279c (- add dynamic screen details)
@@ -56,6 +60,16 @@ const CustomHeader = ({ navigation }: HeaderProps) => {
   const route:any=useRoute()
   return (
 <<<<<<< HEAD
+=======
+
+type HeaderProps = {
+  navigation: any;
+  title: string;
+};
+
+const CustomHeader = ({ navigation, title }: HeaderProps) => {
+  return (
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <View
       style={{
         flexDirection: "row",
@@ -75,6 +89,7 @@ const CustomHeader = ({ navigation }: HeaderProps) => {
       </Text>
       <View style={{ width: 24 }}></View>
     </View>
+<<<<<<< HEAD
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
     // <TouchableOpacity onPress={() => navigation.goBack()}>
@@ -102,6 +117,9 @@ const CustomHeader = ({ navigation }: HeaderProps) => {
       </View>
     // </TouchableOpacity>
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
   );
 };
 

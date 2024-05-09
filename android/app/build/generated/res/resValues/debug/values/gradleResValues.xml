@@ -10,6 +10,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <!-- Value from default config. -->
     <string name="API_URL" translatable="false">"http://192.168.1.12:3000"</string>
 =======
@@ -19,10 +20,19 @@
     <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <!-- Value from default config. -->
     <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <!-- Value from default config. -->
+    <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 
 </resources>

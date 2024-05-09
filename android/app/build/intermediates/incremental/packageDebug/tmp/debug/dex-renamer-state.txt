@@ -15,6 +15,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -53,6 +54,8 @@
 >>>>>>> 7e2863bb (screen in progress)
 =======
 >>>>>>> 68f5f074 (- ADD element in screen home)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 #Sun May 12 00:16:43 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -81,7 +84,13 @@
 =======
 #Sat Apr 27 21:07:01 CET 2024
 >>>>>>> 5bdf0af8 (- ADD element in screen home)
+<<<<<<< HEAD
 >>>>>>> 68f5f074 (- ADD element in screen home)
+=======
+=======
+#Thu May 09 22:30:31 CET 2024
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex
@@ -148,8 +157,11 @@ renamed.0=classes.dex
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 renamed.6=classes7.dex
 renamed.5=classes6.dex
 base.6=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
@@ -164,6 +176,14 @@ base.6=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+renamed.6=classes7.dex
+renamed.5=classes6.dex
+base.6=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 renamed.4=classes5.dex
 base.5=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex

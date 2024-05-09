@@ -3,10 +3,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0.25x</item>
     <item>0.5x</item>
@@ -26,6 +31,7 @@
   </plurals>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9ce4bce8 (rename project)
 =======
@@ -34,6 +40,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
     <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
@@ -68,6 +80,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">ማረጋገጥ ያስፈልጋል</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -79,6 +92,14 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">ማረጋገጥ ያስፈልጋል</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">ማረጋገጥ ያስፈልጋል</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">የግርጌ ሉሁን ይሰብስቡ</string>
     <string name="bottomsheet_action_expand">የግርጌ ሉሁን ይዘርጉ</string>
     <string name="bottomsheet_action_expand_halfway">ግማሽ መንገድ ዘርጋ</string>
@@ -92,10 +113,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">አሁን እየተጫወተ ያለ</string>
     <string name="error_icon_content_description">ስህተት</string>
     <string name="exo_controls_cc_disabled_description">የግርጌ ጽሑፎችን አንቃ</string>
@@ -151,6 +177,7 @@
     <string name="exo_track_unknown">ያልታወቀ</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <string name="error_icon_content_description">ስህተት</string>
 >>>>>>> 9ce4bce8 (rename project)
@@ -161,6 +188,13 @@
     <string name="error_icon_content_description">ስህተት</string>
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">ስህተት</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">ተቆልቋይ ምናሌን አሳይ</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"የጣት አሻራ ዳሳሹን ይንኩ"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"የጣት አሻራ ሃርድዌር የለም።"</string>
@@ -190,16 +224,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">ባለበት አቁም</string>
     <string name="media3_controls_play_description">አጫውት</string>
     <string name="media3_controls_seek_back_description">ወደኋላ ፈልግ</string>
     <string name="media3_controls_seek_forward_description">ወደፊት ፈልግ</string>
     <string name="media3_controls_seek_to_next_description">ወደ ቀጣዩ ንጥል ፈልግ</string>
     <string name="media3_controls_seek_to_previous_description">ወደ ቀዳሚው ንጥል ፈልግ</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -210,6 +250,12 @@
 =======
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="mtrl_badge_numberless_content_description">አዲስ ማሳወቂያ</string>
     <string name="mtrl_chip_close_icon_content_description">%1$sን አስወግድ</string>
     <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">ከ%1$d በላይ አዲስ ማሳወቂያዎች</string>
