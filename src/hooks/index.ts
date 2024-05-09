@@ -1,3 +1,4 @@
+import useAuth from "./useAuth";
 import useColorScheme from "./useColor";
 
-export {useColorScheme}
+export {useColorScheme,useAuth}
