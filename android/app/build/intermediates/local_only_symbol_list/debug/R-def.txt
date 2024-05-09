@@ -5,5 +5,6 @@ integer react_native_dev_server_port
 integer react_native_inspector_proxy_port
 mipmap ic_launcher
 mipmap ic_launcher_round
+string API_URL
 string app_name
 style AppTheme

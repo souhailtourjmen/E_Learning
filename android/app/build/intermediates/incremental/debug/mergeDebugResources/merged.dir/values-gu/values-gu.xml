@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0.25x</item>
+    <item>0.5x</item>
+    <item>0.75x</item>
+    <item>સામાન્ય</item>
+    <item>1.25x</item>
+    <item>1.5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">%d સેકન્ડ ફાસ્ટ ફૉરવર્ડ કરો</item>
+    <item quantity="other">%d સેકન્ડ ફાસ્ટ ફૉરવર્ડ કરો</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">%d સેકન્ડ રિવાઇન્ડ કરો</item>
+    <item quantity="other">%d સેકન્ડ રિવાઇન્ડ કરો</item>
+  </plurals>
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d નવું નોટિફિકેશન</item>
     <item quantity="other">%d નવા નોટિફિકેશન</item>
@@ -32,6 +49,7 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>ની સાથે શેર કરો"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"સંકુચિત કરો"</string>
     <string gender="unknown" name="alert_description">એલર્ટ</string>
+    <string name="authentication_required">પ્રમાણીકરણ આવશ્યક છે</string>
     <string name="bottomsheet_action_collapse">બોટમ શીટ નાની કરો</string>
     <string name="bottomsheet_action_expand">બોટમ શીટ મોટી કરો</string>
     <string name="bottomsheet_action_expand_halfway">અડધે સુધી મોટું કરો</string>
@@ -45,7 +63,59 @@
     <string gender="unknown" name="combobox_description">કોમ્બો બોક્સ</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"પાસવર્ડનો ઉપયોગ કરો"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"અજાણી ભૂલ"</string>
+    <string name="default_notification_channel_name">હાલમાં ચાલી રહી છે</string>
     <string name="error_icon_content_description">ભૂલ</string>
+    <string name="exo_controls_cc_disabled_description">સબટાઇટલ ચાલુ કરો</string>
+    <string name="exo_controls_cc_enabled_description">સબટાઇટલ બંધ કરો</string>
+    <string name="exo_controls_fastforward_description">ફાસ્ટ ફૉરવર્ડ કરો</string>
+    <string name="exo_controls_fullscreen_enter_description">પૂર્ણસ્ક્રીન મોડમાં દાખલ થાઓ</string>
+    <string name="exo_controls_fullscreen_exit_description">પૂર્ણસ્ક્રીન મોડમાંથી બહાર નીકળો</string>
+    <string name="exo_controls_hide">પ્લેયર માટેના નિયંત્રણો છુપાવો</string>
+    <string name="exo_controls_next_description">આગળ</string>
+    <string name="exo_controls_overflow_hide_description">વધારાના સેટિંગ છુપાવો</string>
+    <string name="exo_controls_overflow_show_description">વધારાના સેટિંગ બતાવો</string>
+    <string name="exo_controls_pause_description">થોભો</string>
+    <string name="exo_controls_play_description">ચલાવો</string>
+    <string name="exo_controls_playback_speed">ઝડપ</string>
+    <string name="exo_controls_previous_description">પાછળ</string>
+    <string name="exo_controls_repeat_all_description">વર્તમાન મોડ: બધું રિપીટ કરો. રિપીટ મોડ ટૉગલ કરો.</string>
+    <string name="exo_controls_repeat_off_description">વર્તમાન મોડ: કંઈ રિપીટ ન કરો. રિપીટ મોડ ટૉગલ કરો.</string>
+    <string name="exo_controls_repeat_one_description">વર્તમાન મોડ: એક રિપીટ કરો. રિપીટ મોડ ટૉગલ કરો.</string>
+    <string name="exo_controls_rewind_description">રિવાઇન્ડ કરો</string>
+    <string name="exo_controls_seek_bar_description">પ્લેબૅક ચાલુ છે</string>
+    <string name="exo_controls_settings_description">સેટિંગ</string>
+    <string name="exo_controls_show">પ્લેયર માટેના નિયંત્રણો બતાવો</string>
+    <string name="exo_controls_shuffle_off_description">શફલ મોડ ચાલુ કરો</string>
+    <string name="exo_controls_shuffle_on_description">શફલ મોડ બંધ કરો</string>
+    <string name="exo_controls_stop_description">રોકો</string>
+    <string name="exo_controls_vr_description">VR મોડ</string>
+    <string name="exo_download_completed">ડાઉનલોડ પૂર્ણ થયું</string>
+    <string name="exo_download_description">ડાઉનલોડ કરો</string>
+    <string name="exo_download_downloading">ડાઉનલોડ કરી રહ્યાં છીએ</string>
+    <string name="exo_download_failed">ડાઉનલોડ નિષ્ફળ થયું</string>
+    <string name="exo_download_notification_channel_name">ડાઉનલોડ</string>
+    <string name="exo_download_paused">ડાઉનલોડ થોભાવ્યા છે</string>
+    <string name="exo_download_paused_for_network">ડાઉનલોડ થવા નેટવર્કની રાહ જોવાઈ રહી છે</string>
+    <string name="exo_download_paused_for_wifi">ડાઉનલોડ થવા વાઇ-ફાઇની રાહ જોવાઈ રહી છે</string>
+    <string name="exo_download_removing">ડાઉનલોડ કાઢી નાખી રહ્યાં છીએ</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">મૉનો</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">વૈકલ્પિક</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">કોમેન્ટ્રી</string>
+    <string name="exo_track_role_supplementary">પૂરક</string>
+    <string name="exo_track_selection_auto">ઑટોમૅટિક રીતે</string>
+    <string name="exo_track_selection_none">એકપણ નહીં</string>
+    <string name="exo_track_selection_title_audio">ઑડિયો</string>
+    <string name="exo_track_selection_title_text">ટેક્સ્ટ</string>
+    <string name="exo_track_selection_title_video">વીડિયો</string>
+    <string name="exo_track_stereo">સ્ટીરિઓ</string>
+    <string name="exo_track_surround">સરાઉન્ડ સાઉન્ડ</string>
+    <string name="exo_track_surround_5_point_1">5.1 સરાઉન્ડ સાઉન્ડ</string>
+    <string name="exo_track_surround_7_point_1">7.1 સરાઉન્ડ સાઉન્ડ</string>
+    <string name="exo_track_unknown">અજાણ્યો</string>
     <string name="exposed_dropdown_menu_content_description">ડ્રૉપડાઉન મેનૂ બતાવો</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"ફિંગરપ્રિન્ટના સેન્સરને સ્પર્શ કરો"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"ફિંગરપ્રિન્ટ હાર્ડવેર ઉપલબ્ધ નથી."</string>
@@ -76,6 +146,12 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">સમય પસંદ કરો</string>
     <string name="material_timepicker_text_input_mode_description">સમય દાખલ કરવા માટે ટેક્સ્ટ ઇનપુટ મોડમાં સ્વિચ કરો.</string>
+    <string name="media3_controls_pause_description">થોભાવો</string>
+    <string name="media3_controls_play_description">ચલાવો</string>
+    <string name="media3_controls_seek_back_description">પાછળ લઈ જાઓ</string>
+    <string name="media3_controls_seek_forward_description">આગળ લઈ જાઓ</string>
+    <string name="media3_controls_seek_to_next_description">આગલી આઇટમ શોધો</string>
+    <string name="media3_controls_seek_to_previous_description">પાછલી આઇટમ શોધો</string>
     <string gender="unknown" name="menu_description">મેનૂ</string>
     <string gender="unknown" name="menubar_description">મેનૂ બાર</string>
     <string gender="unknown" name="menuitem_description">મેનૂ આઇટમ</string>
