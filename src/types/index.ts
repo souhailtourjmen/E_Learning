@@ -14,6 +14,7 @@ export interface NavigationParamsType {
   export interface Credentials {
     email: string;
     password?: string;
+    path?:string;
   }
   export interface ReclamationCredentials {
     message?: string;
@@ -35,12 +36,14 @@ export interface NavigationParamsType {
     phone_number: string;
   }
   export interface SignUpBody {
-    first_name?: string;
-    last_name?: string;
+    prenom?: string;
+    nom?: string;
     email?: string;
     password?: string;
-    // password_confirmation?: string;
-    gender?: string;
-    phone?: string;
-    birthday?: string;
+    path?: string;
+    numero?: string;
+    datenai?: string;
+    gouvernorat?: string;
+    classe?: string;
+    matricule?: string;
   }
