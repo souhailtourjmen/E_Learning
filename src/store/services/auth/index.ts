@@ -13,12 +13,17 @@ export const authApiSlice = apiSlice.injectEndpoints({
   endpoints: (builder: any) => ({
     login: builder.mutation({
 <<<<<<< HEAD
+<<<<<<< HEAD
       query: (credentials: Credentials) => ({
         url: `/Login/${credentials?.path}`,
 =======
       query: (credentials: Credentials, path: string = "eleve") => ({
         url: `/Login/${path}`,
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+      query: (credentials: Credentials) => ({
+        url: `/Login/${credentials?.path}`,
+>>>>>>> 1df81466 (module auth and regsister token done)
         method: "POST",
         body: credentials,
       }),
@@ -29,8 +34,12 @@ export const authApiSlice = apiSlice.injectEndpoints({
         url: `/register/${credentials?.path}`,
 =======
       query: (credentials: SignUpBody, path: string = "eleve") => ({
+<<<<<<< HEAD
         url: `/register/${path}`,
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+        url: `/register/${credentials?.path}`,
+>>>>>>> 1df81466 (module auth and regsister token done)
         method: "POST",
         body: credentials,
       }),
@@ -58,12 +67,18 @@ export const authApiSlice = apiSlice.injectEndpoints({
       }),
     }),
 <<<<<<< HEAD
+<<<<<<< HEAD
 
   }),
   overrideExisting: true
 =======
   }),
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+
+  }),
+  overrideExisting: true
+>>>>>>> 1df81466 (module auth and regsister token done)
 });
 
 export const {

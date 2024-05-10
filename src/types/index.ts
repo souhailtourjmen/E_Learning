@@ -83,6 +83,7 @@ export interface DefaultValues {
   export interface Credentials {
     email: string;
     password?: string;
+    path?:string;
   }
   export interface ReclamationCredentials {
     message?: string;
@@ -104,13 +105,23 @@ export interface DefaultValues {
     phone_number: string;
   }
   export interface SignUpBody {
-    first_name?: string;
-    last_name?: string;
+    prenom?: string;
+    nom?: string;
     email?: string;
     password?: string;
+<<<<<<< HEAD
     // password_confirmation?: string;
     gender?: string;
     phone?: string;
     birthday?: string;
   }
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+    path?: string;
+    numero?: string;
+    datenai?: string;
+    gouvernorat?: string;
+    classe?: string;
+    matricule?: string;
+  }
+>>>>>>> 1df81466 (module auth and regsister token done)

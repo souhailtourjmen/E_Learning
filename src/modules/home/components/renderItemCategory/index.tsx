@@ -111,7 +111,7 @@ const RenderItemCategory = ({
       </View>
       <View style={styles.containerFooter}>
         <Text style={{ color: COLORS.background, textAlign: "center" }}>
-          {item?.count}
+          {item?.count}%
         </Text>
       </View>
     </View>

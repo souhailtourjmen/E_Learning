@@ -96,12 +96,17 @@ import { useAuth } from '../../../../hooks';
           console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:63 result', result);
           
 <<<<<<< HEAD
+<<<<<<< HEAD
           if (result?.data?.token) {
             saveAuth( result?.data?.token,{ nom: result?.data?.nom, prenom: result?.data?.prenom,full_name:result?.data?.full_name});
 =======
           if (result?.data?.data?.token) {
             saveAuth( result?.data?.data?.token);
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+          if (result?.data?.token) {
+            saveAuth( result?.data?.token);
+>>>>>>> 1df81466 (module auth and regsister token done)
             resetNavigation( ROUTES.HomeScreen);
     
           } else {
@@ -110,21 +115,32 @@ import { useAuth } from '../../../../hooks';
           }
         } else if (checkedSegment === 0) {
 <<<<<<< HEAD
+<<<<<<< HEAD
           const dateBirth = new Date(moment(dataset.datenai,'DD/MM/YYYY').format('YYYY-MM-DD')!);
           delete dataset.datenai 
          const result=await SignUp( {...dataset,datenai:dateBirth});
          console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:76 result', result);
          if (result?.data?.token) {
           saveAuth( result?.data?.token,{ nom: result?.data?.nom, prenom: result?.data?.prenom,full_name:result?.data?.full_name});
+=======
+         
+         const result=await SignUp(dataset);
+         console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:76 result', result);
+         if (result?.data?.token) {
+          saveAuth( result?.data?.token);
+>>>>>>> 1df81466 (module auth and regsister token done)
           resetNavigation( ROUTES.HomeScreen);
   
         } else {
           // Optionally, you can handle the login failure in a way that makes sense for your application
         }
+<<<<<<< HEAD
 =======
           console.log('%cindex.tsx line:85 dataset', 'color: #007acc;', dataset);
           // onSubmitSignUp(dataset);
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+>>>>>>> 1df81466 (module auth and regsister token done)
         } else {
           console.error('Invalid checkedSegment value:', checkedSegment);
           // Optionally, you can handle the case where checkedSegment has an unexpected value

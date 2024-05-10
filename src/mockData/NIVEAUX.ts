@@ -1,4 +1,5 @@
 export default [
+<<<<<<< HEAD
   {
     name: "7éme",
     image:
@@ -37,3 +38,13 @@ export default [
   },
   { name: "Baccalauréat" },
 ];
+=======
+    { name: "7ème" },
+    { name: "8ème" },
+    { name: "9ème" },
+    { name: "1ère année secondaire" },
+    { name: "2ème année secondaire" },
+    { name: "3ème année secondaire" },
+    { name: "Baccalauréat" }
+  ];
+>>>>>>> 1df81466 (module auth and regsister token done)

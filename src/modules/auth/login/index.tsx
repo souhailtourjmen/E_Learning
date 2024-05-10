@@ -33,10 +33,14 @@ const SignIn = ({}: propsSignIn): ReactElement => {
   const route: any = useRoute();
   const {} = useSignInModels();
 <<<<<<< HEAD
+<<<<<<< HEAD
   const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
 =======
   const { handleSegment, checkedSegment, accessData, navigateToFPS,onSubmit } =
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+  const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
+>>>>>>> 1df81466 (module auth and regsister token done)
     useSignInController();
   const {
     reset,
@@ -49,6 +53,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
       ),
     defaultValues: {
 <<<<<<< HEAD
+<<<<<<< HEAD
       email:"tourjmenEleve@gmail.com",
       password:'Azerty1234',
       path: "eleve",
@@ -60,6 +65,13 @@ const SignIn = ({}: propsSignIn): ReactElement => {
       password:'Azerty1234',
       gender: "Homme",
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+      email:"hello@gmail.com",
+      password:'Azerty1234',
+      path: "eleve",
+      classe:'7ème',
+      gouvernorat:`Gouvernorat de l'Ariana`
+>>>>>>> 1df81466 (module auth and regsister token done)
     },
   });
   const { height, width } = useWindowDimensions();
@@ -205,6 +217,10 @@ const SignIn = ({}: propsSignIn): ReactElement => {
 
             <SelectForm  control={control} items={NIVEAUX} name={"classe"}  style={styles.styleComponent}/>
 
+<<<<<<< HEAD
+=======
+            <SelectForm  control={control} items={[{ name: 'eleve' }, { name: 'parent' }]} name={"path"}  style={styles.styleComponent}/>
+>>>>>>> 1df81466 (module auth and regsister token done)
           </View>
           <View style={[styles.btnSubmit,{ width:"90%"},]}>
             {/* {isLoading && <Spinner />} */}
