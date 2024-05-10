@@ -21,20 +21,16 @@ import { CustomInputForm, DateForm } from "../../../components/form";
 import { yupResolver } from "@hookform/resolvers/yup";
 import useSignInModels from "./viewModel";
 import useSignInController from "./viewController";
-import { loginValidationSchema } from "../../../validation/formSignin";
+import { loginValidationSchema, signUpValidationSchema } from "../../../validation/formSignin";
 import { LayoutAnimated } from "../../../layouts";
-import Animated, {
-  FadeInUp,
-  FadeOutUp,
-  useAnimatedStyle,
-  useSharedValue,
-  withTiming,
-} from "react-native-reanimated";
+import Gouvernorats from "../../../mockData/Gouvernorats"
+import NIVEAUX from "../../../mockData/NIVEAUX"
+import SelectForm from "../../../components/form/SelectForm";
 type propsSignIn = {};
 const SignIn = ({}: propsSignIn): ReactElement => {
   const route: any = useRoute();
   const {} = useSignInModels();
-  const { handleSegment, checkedSegment, accessData, navigateToFPS,onSubmit } =
+  const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
     useSignInController();
   const {
     reset,
@@ -43,12 +39,14 @@ const SignIn = ({}: propsSignIn): ReactElement => {
     handleSubmit
   } = useForm({
     mode: "onChange",
-    resolver: yupResolver(loginValidationSchema),
+    resolver: yupResolver(checkedSegment == 1 ? loginValidationSchema : signUpValidationSchema
+      ),
     defaultValues: {
-      // ...defaultValues,
-      email:"Hello@Gmail.Com",
+      email:"hello@gmail.com",
       password:'Azerty1234',
-      gender: "Homme",
+      path: "eleve",
+      classe:'7ème',
+      gouvernorat:`Gouvernorat de l'Ariana`
     },
   });
   const { height, width } = useWindowDimensions();
@@ -128,7 +126,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
               styleComponent={styles.styleComponent}
               textStyle={styles.styleText}
               styleInput={styles.styleInput}
-              name="last_name"
+              name="nom"
               control={control}
               placeholder={i18next.t(TEXT.SignUp.placeholder.nom)}
             />
@@ -136,14 +134,14 @@ const SignIn = ({}: propsSignIn): ReactElement => {
               styleComponent={styles.styleComponent}
               textStyle={styles.styleText}
               styleInput={styles.styleInput}
-              name="first_name"
+              name="prenom"
               control={control}
               placeholder={i18next.t(TEXT.SignUp.placeholder.prenom)}
             />
             <View style={{ width:"100%",}}>
             <DateForm
               control={control}
-              name="birthday"
+              name="datenai"
               styleComponent={styles.styleComponent}
             />
 
@@ -152,7 +150,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
               styleComponent={styles.styleComponent}
               textStyle={styles.styleText}
               styleInput={styles.styleInput}
-              name="phone"
+              name="numero"
               control={control}
               placeholder={i18next.t(TEXT.SignUp.placeholder.tel)}
               keyboardType="number-pad"
@@ -163,12 +161,23 @@ const SignIn = ({}: propsSignIn): ReactElement => {
               styleComponent={styles.styleComponent}
               textStyle={styles.styleText}
               styleInput={styles.styleInput}
+              name="matricule"
+              control={control}
+              placeholder={'matricule'}
+              keyboardType="number-pad"
+              inputMode="numeric"
+              maxLength={12}
+              
+            />
+            <CustomInputForm
+              styleComponent={styles.styleComponent}
+              textStyle={styles.styleText}
+              styleInput={styles.styleInput}
               name="email"
               control={control}
               placeholder={i18next.t(TEXT.Login.palcholder.email)}
               keyboardType="email-address"
             />
-
             <CustomInputForm
               styleComponent={styles.styleComponent}
               textStyle={styles.styleText}
@@ -178,6 +187,11 @@ const SignIn = ({}: propsSignIn): ReactElement => {
               placeholder={i18next.t(TEXT.SignUp.placeholder.password)}
               secureTextEntry={true}
             />
+            <SelectForm  control={control} items={Gouvernorats} name={"gouvernorat"}  style={styles.styleComponent}/>
+
+            <SelectForm  control={control} items={NIVEAUX} name={"classe"}  style={styles.styleComponent}/>
+
+            <SelectForm  control={control} items={[{ name: 'eleve' }, { name: 'parent' }]} name={"path"}  style={styles.styleComponent}/>
           </View>
           <View style={[styles.btnSubmit,{ width:"90%"},]}>
             {/* {isLoading && <Spinner />} */}
@@ -190,17 +204,12 @@ const SignIn = ({}: propsSignIn): ReactElement => {
               }
                fullWidth
               rounded
-              disabled={
-                checkedSegment == 1 ? false : !accessData ? true : false
-              }
+             
               style={{
                 minHeight: 50,
                 backgroundColor:
-                  checkedSegment == 1
-                    ? COLORS?.primary
-                    : !accessData
-                    ? COLORS?.darkGray
-                    : COLORS?.primary,
+                 COLORS?.primary
+                   
               }}
               onPress={handleSubmit(onSubmit)}
             />
