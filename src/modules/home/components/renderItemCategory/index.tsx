@@ -112,10 +112,14 @@ const RenderItemCategory = ({
       <View style={styles.containerFooter}>
         <Text style={{ color: COLORS.background, textAlign: "center" }}>
 <<<<<<< HEAD
+<<<<<<< HEAD
           {item?.count}%
 =======
           {item?.count}
 >>>>>>> d32799fd (screen in progress)
+=======
+          {item?.count}%
+>>>>>>> 30639760 (module auth and regsister token done)
         </Text>
       </View>
     </View>

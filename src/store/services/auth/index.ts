@@ -15,8 +15,11 @@ export const authApiSlice = apiSlice.injectEndpoints({
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+>>>>>>> 67e6b12f (module auth and regsister token done)
       query: (credentials: Credentials) => ({
         url: `/Login/${credentials?.path}`,
 =======
@@ -30,7 +33,14 @@ export const authApiSlice = apiSlice.injectEndpoints({
 >>>>>>> 1df81466 (module auth and regsister token done)
 =======
 >>>>>>> df35d18d (- add WS login implementation)
+<<<<<<< HEAD
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+      query: (credentials: Credentials) => ({
+        url: `/Login/${credentials?.path}`,
+>>>>>>> 30639760 (module auth and regsister token done)
+>>>>>>> 67e6b12f (module auth and regsister token done)
         method: "POST",
         body: credentials,
       }),
@@ -51,11 +61,18 @@ export const authApiSlice = apiSlice.injectEndpoints({
 =======
       query: (credentials: SignUpBody, path: string = "eleve") => ({
 <<<<<<< HEAD
+<<<<<<< HEAD
         url: `/register/${credentials?.path}`,
 =======
         url: `/register/${path}`,
 >>>>>>> df35d18d (- add WS login implementation)
+<<<<<<< HEAD
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+        url: `/register/${credentials?.path}`,
+>>>>>>> 30639760 (module auth and regsister token done)
+>>>>>>> 67e6b12f (module auth and regsister token done)
         method: "POST",
         body: credentials,
       }),
@@ -85,8 +102,11 @@ export const authApiSlice = apiSlice.injectEndpoints({
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+>>>>>>> 67e6b12f (module auth and regsister token done)
 
   }),
   overrideExisting: true
@@ -101,7 +121,15 @@ export const authApiSlice = apiSlice.injectEndpoints({
 >>>>>>> 1df81466 (module auth and regsister token done)
 =======
 >>>>>>> df35d18d (- add WS login implementation)
+<<<<<<< HEAD
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+
+  }),
+  overrideExisting: true
+>>>>>>> 30639760 (module auth and regsister token done)
+>>>>>>> 67e6b12f (module auth and regsister token done)
 });
 
 export const {

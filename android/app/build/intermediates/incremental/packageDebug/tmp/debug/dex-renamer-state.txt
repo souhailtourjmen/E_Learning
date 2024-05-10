@@ -16,6 +16,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -56,6 +57,8 @@
 >>>>>>> 68f5f074 (- ADD element in screen home)
 =======
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+>>>>>>> 67e6b12f (module auth and regsister token done)
 #Sun May 12 00:16:43 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -90,7 +93,13 @@
 =======
 #Thu May 09 22:30:31 CET 2024
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+#Fri May 10 22:30:11 CET 2024
+>>>>>>> 30639760 (module auth and regsister token done)
+>>>>>>> 67e6b12f (module auth and regsister token done)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex

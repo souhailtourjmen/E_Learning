@@ -149,6 +149,7 @@ import { useAuth } from '../../../../hooks';
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           if (result?.data?.token) {
             saveAuth( result?.data?.token,{ nom: result?.data?.nom, prenom: result?.data?.prenom,full_name:result?.data?.full_name});
 =======
@@ -160,13 +161,22 @@ import { useAuth } from '../../../../hooks';
             saveAuth( result?.data?.token);
 >>>>>>> 1df81466 (module auth and regsister token done)
 =======
+=======
+>>>>>>> 67e6b12f (module auth and regsister token done)
           if (result?.data?.token) {
             saveAuth( result?.data?.token);
 =======
           if (result?.data?.data?.token) {
             saveAuth( result?.data?.data?.token);
 >>>>>>> df35d18d (- add WS login implementation)
+<<<<<<< HEAD
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+          if (result?.data?.token) {
+            saveAuth( result?.data?.token);
+>>>>>>> 30639760 (module auth and regsister token done)
+>>>>>>> 67e6b12f (module auth and regsister token done)
             resetNavigation( ROUTES.HomeScreen);
     
           } else {
@@ -174,6 +184,7 @@ import { useAuth } from '../../../../hooks';
             // Optionally, you can handle the login failure in a way that makes sense for your application
           }
         } else if (checkedSegment === 0) {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -186,6 +197,10 @@ import { useAuth } from '../../../../hooks';
 =======
 =======
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+>>>>>>> 30639760 (module auth and regsister token done)
+>>>>>>> 67e6b12f (module auth and regsister token done)
          
          const result=await SignUp(dataset);
          console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:76 result', result);
@@ -199,6 +214,7 @@ import { useAuth } from '../../../../hooks';
         }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
           console.log('%cindex.tsx line:85 dataset', 'color: #007acc;', dataset);
           // onSubmitSignUp(dataset);
@@ -207,10 +223,17 @@ import { useAuth } from '../../../../hooks';
 >>>>>>> 1df81466 (module auth and regsister token done)
 =======
 =======
+>>>>>>> 67e6b12f (module auth and regsister token done)
+=======
           console.log('%cindex.tsx line:85 dataset', 'color: #007acc;', dataset);
           // onSubmitSignUp(dataset);
 >>>>>>> df35d18d (- add WS login implementation)
+<<<<<<< HEAD
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+>>>>>>> 30639760 (module auth and regsister token done)
+>>>>>>> 67e6b12f (module auth and regsister token done)
         } else {
           console.error('Invalid checkedSegment value:', checkedSegment);
           // Optionally, you can handle the case where checkedSegment has an unexpected value

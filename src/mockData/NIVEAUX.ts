@@ -47,4 +47,8 @@ export default [
     { name: "3ème année secondaire" },
     { name: "Baccalauréat" }
   ];
+<<<<<<< HEAD
 >>>>>>> 1df81466 (module auth and regsister token done)
+=======
+>>>>>>> 30639760 (module auth and regsister token done)
+>>>>>>> 67e6b12f (module auth and regsister token done)

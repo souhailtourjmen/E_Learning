@@ -41,6 +41,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
 =======
   const { handleSegment, checkedSegment, accessData, navigateToFPS,onSubmit } =
@@ -49,11 +50,19 @@ const SignIn = ({}: propsSignIn): ReactElement => {
   const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
 >>>>>>> 1df81466 (module auth and regsister token done)
 =======
+=======
+>>>>>>> 67e6b12f (module auth and regsister token done)
   const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
 =======
   const { handleSegment, checkedSegment, accessData, navigateToFPS,onSubmit } =
 >>>>>>> df35d18d (- add WS login implementation)
+<<<<<<< HEAD
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+  const { handleSegment, checkedSegment, navigateToFPS,onSubmit } =
+>>>>>>> 30639760 (module auth and regsister token done)
+>>>>>>> 67e6b12f (module auth and regsister token done)
     useSignInController();
   const {
     reset,
@@ -68,7 +77,11 @@ const SignIn = ({}: propsSignIn): ReactElement => {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       email:"tourjmenEleve@gmail.com",
+=======
+      email:"hello@gmail.com",
+>>>>>>> 67e6b12f (module auth and regsister token done)
       password:'Azerty1234',
       path: "eleve",
       classe:'7ème',
@@ -96,7 +109,17 @@ const SignIn = ({}: propsSignIn): ReactElement => {
       password:'Azerty1234',
       gender: "Homme",
 >>>>>>> df35d18d (- add WS login implementation)
+<<<<<<< HEAD
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+      email:"hello@gmail.com",
+      password:'Azerty1234',
+      path: "eleve",
+      classe:'7ème',
+      gouvernorat:`Gouvernorat de l'Ariana`
+>>>>>>> 30639760 (module auth and regsister token done)
+>>>>>>> 67e6b12f (module auth and regsister token done)
     },
   });
   const { height, width } = useWindowDimensions();
