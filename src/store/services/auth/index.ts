@@ -12,15 +12,15 @@ import { apiSlice } from "../../api/";
 export const authApiSlice = apiSlice.injectEndpoints({
   endpoints: (builder: any) => ({
     login: builder.mutation({
-      query: (credentials: Credentials, path: string = "eleve") => ({
-        url: `/Login/${path}`,
+      query: (credentials: Credentials) => ({
+        url: `/Login/${credentials?.path}`,
         method: "POST",
         body: credentials,
       }),
     }),
     SignUp: builder.mutation({
       query: (credentials: SignUpBody, path: string = "eleve") => ({
-        url: `/register/${path}`,
+        url: `/register/${credentials?.path}`,
         method: "POST",
         body: credentials,
       }),
@@ -47,7 +47,9 @@ export const authApiSlice = apiSlice.injectEndpoints({
         body: credentials,
       }),
     }),
+
   }),
+  overrideExisting: true
 });
 
 export const {

@@ -62,8 +62,8 @@ import { useAuth } from '../../../../hooks';
           const result = await login(dataset);
           console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:63 result', result);
           
-          if (result?.data?.data?.token) {
-            saveAuth( result?.data?.data?.token);
+          if (result?.data?.token) {
+            saveAuth( result?.data?.token);
             resetNavigation( ROUTES.HomeScreen);
     
           } else {
@@ -71,8 +71,16 @@ import { useAuth } from '../../../../hooks';
             // Optionally, you can handle the login failure in a way that makes sense for your application
           }
         } else if (checkedSegment === 0) {
-          console.log('%cindex.tsx line:85 dataset', 'color: #007acc;', dataset);
-          // onSubmitSignUp(dataset);
+         
+         const result=await SignUp(dataset);
+         console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:76 result', result);
+         if (result?.data?.token) {
+          saveAuth( result?.data?.token);
+          resetNavigation( ROUTES.HomeScreen);
+  
+        } else {
+          // Optionally, you can handle the login failure in a way that makes sense for your application
+        }
         } else {
           console.error('Invalid checkedSegment value:', checkedSegment);
           // Optionally, you can handle the case where checkedSegment has an unexpected value
