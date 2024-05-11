@@ -35,7 +35,7 @@ import {
         // const routes = navigation.getState();
         // console.log('%cindex.tsx line:48 routes', 'color: #007acc;', routes);
         if (item && item.screen) {
-          navigation.navigate(item.screen, item?.navigationParams);
+          navigation.navigate(item.screen, {...item});
         }
       },
       [navigation],

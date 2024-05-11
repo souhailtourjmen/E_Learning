@@ -1,16 +1,9 @@
 export interface NavigationParamsType {
     screen: string | {};
     name?: string;
-    navigationParams?: NavigationItemType | any;
+    params?: any;
   }
-  export interface NavigationItemType {
-    screen: string;
-    id?: string;
-    slug?: string;
-    title?: string;
-    description?: string;
-    image?: string;
-  }
+
   export interface Credentials {
     email: string;
     password?: string;
@@ -47,3 +40,10 @@ export interface NavigationParamsType {
     classe?: string;
     matricule?: string;
   }
+  export interface Video {
+    description: string;
+    sources: string;
+    subtitle: string;
+    thumb: string;
+    title: string;
+}

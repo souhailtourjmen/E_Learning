@@ -38,7 +38,7 @@ export const RootNavigator = () => {
             component={ScreenCourseDetails}
             options={({ navigation }) => ({
               header: () => (
-                <CustomHeader navigation={navigation} title={ROUTES.CourseDetails}  />
+                <CustomHeader navigation={navigation}   />
               ),
             })}
           />
