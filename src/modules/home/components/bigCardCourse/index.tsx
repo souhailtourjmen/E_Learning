@@ -3,6 +3,7 @@ import React, {
   memo,
   useCallback,
   useEffect,
+  useMemo,
   useState,
 } from "react";
 import {
@@ -21,48 +22,77 @@ type BigCardCourseProps = {
 };
 
 const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
+  console.log(
+    "\x1b[34m%s\x1b[0m",
+    "src/modules/home/components/bigCardCourse/index.tsx:25 item",
+    item
+  );
   const { width, height } = useWindowDimensions();
-  return (
-    <Layout
-      level="2"
-      style={[{ width: width * 0.55, height: height * 0.17 }, styles.container]}
-    >
-      <ImageBackground
-        source={{
-          uri: item.image,
-        }}
-        borderRadius={ BORDERRADIUS.radius_15}
-        style={{width: "100%", height: "100%",}}
-      >
+  const renderContent = useMemo(() => {
+    if (item) {
+      return (
         <View
           style={{
             padding: "5%",
             alignContent: "center",
             alignItems: "center",
+            flex: 1,
+            flexDirection: "column",
+            justifyContent: "space-between",
           }}
         >
           <Text
-          category="h6"
+            category="h5"
             style={{
               alignSelf: "center",
-              marginTop: "30%",
-              color: "white",
               shadowColor: "#000",
               shadowOffset: {
-                width: 0,
+                width: 2,
                 height: 2,
               },
               shadowOpacity: 0.25,
               shadowRadius: 3.84,
-            
+
               elevation: 5,
             }}
             numberOfLines={1}
           >
-            {item?.name}
+            {item?.matiere}
           </Text>
+          <View style={{ alignItems: "center" }}>
+            <Text category="p1">{item?.niveau}</Text>
+          </View>
+          <View style={{ alignItems: "flex-end" }}>
+            <Text category="h6">{item?.titre}</Text>
+          </View>
         </View>
-      </ImageBackground>
+      );
+    }
+    return null;
+  }, [item]);
+
+  const _displayWithImage = useMemo(() => {
+    if (item?.image) {
+      return (
+        <ImageBackground
+          source={{
+            uri: item?.image,
+          }}
+          borderRadius={BORDERRADIUS.radius_15}
+          style={{ width: "100%", height: "100%" }}
+        >
+          {renderContent}
+        </ImageBackground>
+      );
+    }
+    return renderContent;
+  }, [item?.image, renderContent]);
+  return (
+    <Layout
+      level="2"
+      style={[{ width: width * 0.55, height: height * 0.17 }, styles.container]}
+    >
+      {_displayWithImage}
     </Layout>
   );
 };
