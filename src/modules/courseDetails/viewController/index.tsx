@@ -61,6 +61,7 @@ useState,
 useMemo
 } from 'react';
 <<<<<<< HEAD
+<<<<<<< HEAD
 import useCourseDetailsViewModels from '../viewModel';
 import { Video } from '../../../types';
 const useCourseDetailsViewController = () => {
@@ -81,10 +82,32 @@ const values = useMemo(()=>{return {
     course,sourceVideo, handleChargeVideo,mediaData 
 } },[course,sourceVideo, handleChargeVideo,mediaData ])
 =======
+=======
+import useCourseDetailsViewModels from '../viewModel';
+import { Video } from '../../../types';
+>>>>>>> 343adf8e (- add dynamic screen details)
 const useCourseDetailsViewController = () => {
+    const { course,sourceVideo, setSourceVideo,mediaData } = useCourseDetailsViewModels();
+
+    const handleChargeVideo=useCallback((video:Video)=>{
+        if (video && video?.sources) {
+            setSourceVideo({
+              description: video.description,
+              sources: video?.sources,
+              subtitle: video.subtitle,
+              thumb: video.thumb,
+              title: video.title,
+            });
+          }
+    },[setSourceVideo]);
 const values = useMemo(()=>{return {
+<<<<<<< HEAD
 } },[])
 >>>>>>> feaa7651 (add Desing Screen course details)
+=======
+    course,sourceVideo, handleChargeVideo,mediaData 
+} },[course,sourceVideo, handleChargeVideo,mediaData ])
+>>>>>>> 343adf8e (- add dynamic screen details)
 return values;
 };
 export default useCourseDetailsViewController;

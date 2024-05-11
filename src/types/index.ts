@@ -4,10 +4,15 @@ export interface NavigationParamsType {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 97ed279c (- add dynamic screen details)
 =======
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
     params?: any;
   }
 
@@ -55,6 +60,7 @@ export interface NavigationParamsType {
     subtitle: string;
     thumb: string;
     title: string;
+<<<<<<< HEAD
 }
   
   export interface POSTMessage {
@@ -207,4 +213,10 @@ export interface DefaultValues {
     matricule?: string;
   }
 >>>>>>> 30639760 (module auth and regsister token done)
+<<<<<<< HEAD
 >>>>>>> 67e6b12f (module auth and regsister token done)
+=======
+=======
+}
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)

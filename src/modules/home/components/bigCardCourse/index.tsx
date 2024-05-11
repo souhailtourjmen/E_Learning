@@ -14,6 +14,7 @@ import {
   ImageBackground,
   StyleSheet,
   TouchableOpacity,
+<<<<<<< HEAD
   View,
   useWindowDimensions,
 } from "react-native";
@@ -28,6 +29,8 @@ import useBigCardCourseViewController from "./viewController";
 import {
   ImageBackground,
   StyleSheet,
+=======
+>>>>>>> 343adf8e (- add dynamic screen details)
   View,
   useWindowDimensions,
 } from "react-native";
@@ -38,7 +41,11 @@ import { styles } from "./styles";
 >>>>>>> d32799fd (screen in progress)
 =======
 import { BORDERRADIUS } from "../../../../constant";
+<<<<<<< HEAD
 >>>>>>> 5bdf0af8 (- ADD element in screen home)
+=======
+import useBigCardCourseViewController from "./viewController";
+>>>>>>> 343adf8e (- add dynamic screen details)
 
 type BigCardCourseProps = {
   item: any;
@@ -49,8 +56,12 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> 7e2863bb (screen in progress)
+=======
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
   const { handleNavigateToDetatils } = useBigCardCourseViewController();
   const renderContent = useMemo(() => {
     if (item) {
@@ -112,16 +123,24 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
     return renderContent;
   }, [item?.photo, renderContent]);
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
 =======
 =======
 >>>>>>> d32799fd (screen in progress)
 >>>>>>> 7e2863bb (screen in progress)
+=======
+=======
+>>>>>>> d32799fd (screen in progress)
+=======
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
   return (
     <Layout
       level="2"
       style={[{ width: width * 0.55, height: height * 0.17 }, styles.container]}
     >
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -169,6 +188,8 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
 =======
 =======
 >>>>>>> 68f5f074 (- ADD element in screen home)
+=======
+>>>>>>> 11b8c648 (- add dynamic screen details)
       <TouchableOpacity onPress={() => handleNavigateToDetatils(item?.id,item?.titre)}>
         {_displayWithImage}
       </TouchableOpacity>
@@ -223,7 +244,15 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
         </View>
       </ImageBackground>
 >>>>>>> 5bdf0af8 (- ADD element in screen home)
+<<<<<<< HEAD
 >>>>>>> 68f5f074 (- ADD element in screen home)
+=======
+=======
+      <TouchableOpacity onPress={() => handleNavigateToDetatils(item?.id,item?.titre)}>
+        {_displayWithImage}
+      </TouchableOpacity>
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
     </Layout>
   );
 };

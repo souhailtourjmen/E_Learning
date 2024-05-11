@@ -22,12 +22,20 @@ import {
 } from "./auth";
 import { useFetchAllCourseQuery, useFetchCourseIdQuery } from "./course";
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
 =======
 =======
 import { useForgetPasswordMutation, useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation } from "./auth";
 >>>>>>> df35d18d (- add WS login implementation)
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+import { useForgetPasswordMutation, useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation } from "./auth";
+>>>>>>> df35d18d (- add WS login implementation)
+=======
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
 
 export {
   // auth
@@ -66,9 +74,16 @@ export {
   useFetchAllCourseQuery,
   useFetchCourseIdQuery,
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
 =======
 =======
 >>>>>>> df35d18d (- add WS login implementation)
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+>>>>>>> df35d18d (- add WS login implementation)
+=======
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
 };

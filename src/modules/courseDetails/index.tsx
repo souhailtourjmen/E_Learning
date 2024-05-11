@@ -10,8 +10,11 @@ import React, {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+>>>>>>> 11b8c648 (- add dynamic screen details)
 import { View, useWindowDimensions } from "react-native";
 import Video, { VideoRef } from "react-native-video";
 import { styles } from "./styles";
@@ -54,22 +57,38 @@ import Video, { VideoRef } from "react-native-video";
 import { styles } from "./styles";
 import { Spinner } from "@ui-kitten/components";
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+import { View, useWindowDimensions } from "react-native";
+import Video, { VideoRef } from "react-native-video";
+import { styles } from "./styles";
+import { Layout, Spinner } from "@ui-kitten/components";
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
 import { FlatList, Text } from "../../components";
 import RenderIcon from "../../components/renderIcon";
 import { COLORS } from "../../constant";
 import MoreLessText from "../../components/moreLessText";
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 343adf8e (- add dynamic screen details)
 import useCourseDetailsViewModels from "./viewModel";
 import useCourseDetailsViewController from "./viewController";
 import { ListVideos } from "./component";
 import CourseDetailsValueProvider from "./context";
+<<<<<<< HEAD
 =======
 >>>>>>> feaa7651 (add Desing Screen course details)
+=======
+>>>>>>> 343adf8e (- add dynamic screen details)
 import mediaData from "../../mockData/mediaData";
 type CourseDetailsProps = {};
 
 const CourseDetails = (): ReactElement => {
+<<<<<<< HEAD
 <<<<<<< HEAD
   const { course, handleChargeVideo, sourceVideo } =
     useCourseDetailsViewController();
@@ -89,18 +108,27 @@ const CourseDetails = (): ReactElement => {
 >>>>>>> 97ed279c (- add dynamic screen details)
 =======
 =======
+=======
+  const { course, handleChargeVideo, sourceVideo } =
+    useCourseDetailsViewController();
+>>>>>>> 343adf8e (- add dynamic screen details)
   const videoRef = useRef<VideoRef>(null);
   const { height, width } = useWindowDimensions();
-  
-  
-  return (
-    <View style={{ height, width }}>
-      <View style={{ height, width }}>
+  const _renderImages = useMemo(() => {
+    if (sourceVideo?.sources) {
+      return (
         <Video
           source={{
+<<<<<<< HEAD
             uri: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+            uri: sourceVideo.sources,
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
           }}
           ref={videoRef}
           controls
@@ -191,6 +219,9 @@ const CourseDetails = (): ReactElement => {
 =======
         />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 343adf8e (- add dynamic screen details)
       );
     }
     return null;
@@ -221,6 +252,7 @@ const CourseDetails = (): ReactElement => {
           <View style={styles.containerDetails}>
             <View style={styles.detailsInfo}>
               {_renderTtile}
+<<<<<<< HEAD
               <View
                 style={{
                   flexDirection: "row",
@@ -299,41 +331,54 @@ const CourseDetails = (): ReactElement => {
                 justifyContent: "space-around",
               }}
             >
+=======
+>>>>>>> 343adf8e (- add dynamic screen details)
               <View
                 style={{
                   flexDirection: "row",
-                  alignItems: "center",
-                  justifyContent: "space-between",
-                  width: "30%",
-                  marginTop: "2%",
+                  justifyContent: "space-around",
                 }}
               >
-                <RenderIcon name="clock" sizeIcon={25} />
-                <View style={{ padding: "2%" }}>
-                  <Text category="label">Total Diration</Text>
-                  <Text style={{ color: COLORS.primary }} category="h6">
-                    5:30 hr
-                  </Text>
+                <View
+                  style={{
+                    flexDirection: "row",
+                    alignItems: "center",
+                    justifyContent: "space-between",
+                    width: "30%",
+                    marginTop: "2%",
+                  }}
+                >
+                  <RenderIcon name="clock" sizeIcon={25} />
+                  <View style={{ padding: "2%" }}>
+                    <Text category="label">Total Diration</Text>
+                    <Text style={{ color: COLORS.primary }} category="h6">
+                      5:30 hr
+                    </Text>
+                  </View>
                 </View>
-              </View>
 
-              <View
-                style={{
-                  flexDirection: "row",
-                  alignItems: "center",
-                  justifyContent: "space-between",
-                  width: "30%",
-                  marginTop: "2%",
-                }}
-              >
-                <RenderIcon name="clock" sizeIcon={25} />
-                <View style={{ padding: "2%" }}>
-                  <Text category="label">Total Students</Text>
-                  <Text style={{ color: COLORS.primary }} category="h6">
-                    300 Students
-                  </Text>
+                <View
+                  style={{
+                    flexDirection: "row",
+                    alignItems: "center",
+                    justifyContent: "space-between",
+                    width: "30%",
+                    marginTop: "2%",
+                  }}
+                >
+                  <RenderIcon name="clock" sizeIcon={25} />
+                  <View style={{ padding: "2%" }}>
+                    <Text category="label">Total Students</Text>
+                    <Text style={{ color: COLORS.primary }} category="h6">
+                      300 Students
+                    </Text>
+                  </View>
                 </View>
               </View>
+              <View style={{ marginBottom: "5%" }}>
+                <View style={{ width: "95%" }}>{_renderDescription}</View>
+              </View>
+<<<<<<< HEAD
             </View>
             <View style={{ marginBottom: "10%" }}>
               <View style={{ width: "95%" }}>
@@ -346,12 +391,22 @@ const CourseDetails = (): ReactElement => {
                   numberOfLines={2}
                 />
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+              <View style={{ marginBottom: "10%" }}>
+                <View style={{ width: "100%" }}>
+                  <ListVideos />
+                </View>
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
               </View>
             </View>
           </View>
         </View>
       </View>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -363,11 +418,19 @@ const CourseDetails = (): ReactElement => {
     </CourseDetailsValueProvider>
 >>>>>>> 97ed279c (- add dynamic screen details)
 =======
+=======
+>>>>>>> 11b8c648 (- add dynamic screen details)
     </CourseDetailsValueProvider>
 =======
     </View>
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+    </CourseDetailsValueProvider>
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
   );
 };
 

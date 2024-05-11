@@ -50,6 +50,7 @@ import {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           navigation.navigate(item.screen, {...item});
 =======
           navigation.navigate(item.screen, item?.navigationParams);
@@ -58,11 +59,19 @@ import {
           navigation.navigate(item.screen, {...item});
 >>>>>>> 97ed279c (- add dynamic screen details)
 =======
+=======
+>>>>>>> 11b8c648 (- add dynamic screen details)
           navigation.navigate(item.screen, {...item});
 =======
           navigation.navigate(item.screen, item?.navigationParams);
 >>>>>>> 9c8d4eae (- add new screen onbording)
+<<<<<<< HEAD
 >>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
+          navigation.navigate(item.screen, {...item});
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
         }
       },
       [navigation],

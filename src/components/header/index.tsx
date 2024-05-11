@@ -11,8 +11,11 @@ import { Text, View } from "..";
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+>>>>>>> 11b8c648 (- add dynamic screen details)
 import { useRoute } from "@react-navigation/native";
 
 type HeaderProps = {
@@ -48,6 +51,7 @@ const CustomHeader = ({ navigation }: HeaderProps) => {
     // </TouchableOpacity>
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 import { useRoute } from "@react-navigation/native";
 >>>>>>> 97ed279c (- add dynamic screen details)
@@ -61,15 +65,24 @@ const CustomHeader = ({ navigation }: HeaderProps) => {
   return (
 <<<<<<< HEAD
 =======
+=======
+=======
+import { useRoute } from "@react-navigation/native";
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
 
 type HeaderProps = {
   navigation: any;
-  title: string;
 };
 
-const CustomHeader = ({ navigation, title }: HeaderProps) => {
+const CustomHeader = ({ navigation }: HeaderProps) => {
+  const route:any=useRoute()
   return (
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+<<<<<<< HEAD
+>>>>>>> 11b8c648 (- add dynamic screen details)
     <View
       style={{
         flexDirection: "row",
@@ -119,7 +132,36 @@ const CustomHeader = ({ navigation, title }: HeaderProps) => {
 >>>>>>> 97ed279c (- add dynamic screen details)
 =======
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+    // <TouchableOpacity onPress={() => navigation.goBack()}>
+      <View
+        style={{
+          flexDirection: "row",
+          alignItems: "center",
+          justifyContent: "space-between",
+          paddingHorizontal: 20,
+          height: 60,
+          backgroundColor: "#ffffff",
+          elevation: 4,
+        }}
+      >
+        <RenderIcon
+          name="arrow-circle-left"
+          sizeIcon={24}
+          color="black"
+          onPress={() => navigation.goBack()}
+        />
+        <Text style={{ fontSize: 18, fontWeight: "bold", color: "black" }}>
+          {route?.params?.name}
+        </Text>
+        <View style={{ width: 24 }}></View>
+      </View>
+    // </TouchableOpacity>
+>>>>>>> 343adf8e (- add dynamic screen details)
+>>>>>>> 11b8c648 (- add dynamic screen details)
   );
 };
 
