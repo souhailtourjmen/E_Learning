@@ -5,7 +5,7 @@ import {
   useUpdatePasswordMutation,
   useUpdateProfileMutation,
 } from "./auth";
-import { useFetchAllCourseQuery } from "./course";
+import { useFetchAllCourseQuery, useFetchCourseIdQuery } from "./course";
 
 export {
   // auth
@@ -17,4 +17,5 @@ export {
   // end auth service
   // course service
   useFetchAllCourseQuery,
+  useFetchCourseIdQuery,
 };
