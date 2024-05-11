@@ -39,7 +39,7 @@ import React, {
     Foundation,
     EvilIcons,
   };
-  type propsRenderIcon = {
+  type propsRenderIcon =TouchableWithoutFeedback['props']& {
     name: string;
     styleIcon?: ViewStyle | TextStyle;
     color?: string;

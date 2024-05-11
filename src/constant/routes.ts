@@ -4,5 +4,10 @@ export const ROUTES = {
   ONBOARDING: "OnboardingScreen",
   ForgetPasswordScreen: 'ForgetPasswordScreen',
   HomeScreen: 'HomeScreen',
-  CourseDetails: 'Course Details',
+  CourseDetails: 'CourseDetails',
+  HomeScreenBOTTOM: 'HomeScreenBOTTOM',
+  MESSAGESCREENBOTTOM: 'MESSAGESCREEN',
+  MYCOURSESCREENBOTTOM: 'MYCOURSESCREEN',
+  PROFILESCREENBOTTOM: 'PROFILESCREEN',
 };
+
