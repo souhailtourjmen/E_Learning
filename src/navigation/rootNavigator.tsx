@@ -4,6 +4,7 @@ import { ARRAYROUTES } from "./config";
 import { ROUTES } from "../constant";
 import { CustomHeader } from "../components";
 import { ScreenCourseDetails } from "../screens";
+import { MyTabs } from "./bottomTab";
 
 const Stack = createNativeStackNavigator();
 export const RootNavigator = () => {
@@ -25,6 +26,12 @@ export const RootNavigator = () => {
           />
         );
       })}
+       <Stack.Screen
+            key={idStack}
+            name={ROUTES.HomeScreen}
+            component={MyTabs}
+            options={{ headerShown: false}}
+          />
        <Stack.Screen
             key={idStack}
             name={ROUTES.CourseDetails}

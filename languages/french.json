@@ -173,7 +173,11 @@
       
       "ROUTES": {
         "Intro": "Intro",
-        "ONBOARDING": "ONBOARDING"
+        "ONBOARDING": "ONBOARDING",
+        "home": "Home",
+        "message": "Messages",
+        "myCourse": "My Course",
+        "profile": "Profile"
         
       },
       "message": {

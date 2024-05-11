@@ -130,6 +130,10 @@ export default {
     ROUTES: {
       Intro: 'ROUTES.Intro',
       ONBOARDING: 'ROUTES.ONBOARDING',
+      home: 'ROUTES.home',
+      message: 'ROUTES.message',
+      myCourse: 'ROUTES.myCourse',
+      profile: 'ROUTES.profile',
     },
   };
   
