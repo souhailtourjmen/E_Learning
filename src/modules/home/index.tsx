@@ -11,22 +11,23 @@ import { TopNavigationImageTitleShowcase } from "./components/topNavigationImage
 import { Input, Layout, Spinner } from "@ui-kitten/components";
 import RenderIcon from "../../components/renderIcon";
 import RenderItemCategory from "./components/renderItemCategory";
-import MOCK_DATA from "../../mockData/MOCK_DATA";
+import NIVEAUX from "../../mockData/NIVEAUX";
 import BigCardCourse from "./components/bigCardCourse";
 type HomeProps = {};
 
 const Home = (): ReactElement => {
   const { height, width } = useWindowDimensions();
+  const {courses}=useHomeViewModels();
   const renderIcon = (name: string) => {
     return <RenderIcon name={name} />;
   };
 
   const _renderMockData = useMemo(() => {
-    if (MOCK_DATA) {
+    if (NIVEAUX) {
       return (
         <FlatList
           horizontal
-          data={MOCK_DATA}
+          data={NIVEAUX}
           renderItem={({ item }) => <RenderItemCategory item={item} />}
           maxToRenderPerBatch={10}
           windowSize={5}
@@ -36,16 +37,16 @@ const Home = (): ReactElement => {
       );
     }
     return <Spinner />;
-  }, [MOCK_DATA]);
+  }, [NIVEAUX]);
   const _renderTrender = useMemo(() => {
-    if (MOCK_DATA) {
+    if (courses) {
       return (
         
           <View style={[]}>
             <FlatList
               horizontal
               showsHorizontalScrollIndicator={false}
-              data={MOCK_DATA}
+              data={courses}
               contentContainerStyle={{
                 paddingLeft: 20,
                 paddingRight: 20,
@@ -59,7 +60,7 @@ const Home = (): ReactElement => {
       );
     }
     return <Spinner />;
-  }, [MOCK_DATA]);
+  }, [courses]);
 
   return (
     <ScrollView>

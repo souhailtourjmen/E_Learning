@@ -1,4 +1,11 @@
-import { useForgetPasswordMutation, useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation } from "./auth";
+import {
+  useForgetPasswordMutation,
+  useLoginMutation,
+  useSignUpMutation,
+  useUpdatePasswordMutation,
+  useUpdateProfileMutation,
+} from "./auth";
+import { useFetchAllCourseQuery } from "./course";
 
 export {
   // auth
@@ -7,4 +14,7 @@ export {
   useUpdatePasswordMutation,
   useUpdateProfileMutation,
   useForgetPasswordMutation,
+  // end auth service
+  // course service
+  useFetchAllCourseQuery,
 };
