@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -29,6 +30,9 @@
 =======
 #Fri May 10 22:30:11 CET 2024
 >>>>>>> 1df81466 (module auth and regsister token done)
+=======
+#Sun May 12 00:16:43 CET 2024
+>>>>>>> 97ed279c (- add dynamic screen details)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex

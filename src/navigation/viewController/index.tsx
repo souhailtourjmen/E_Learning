@@ -40,10 +40,14 @@ import {
         // console.log('%cindex.tsx line:48 routes', 'color: #007acc;', routes);
         if (item && item.screen) {
 <<<<<<< HEAD
+<<<<<<< HEAD
           navigation.navigate(item.screen, {...item});
 =======
           navigation.navigate(item.screen, item?.navigationParams);
 >>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+          navigation.navigate(item.screen, {...item});
+>>>>>>> 97ed279c (- add dynamic screen details)
         }
       },
       [navigation],

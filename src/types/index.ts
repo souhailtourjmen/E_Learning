@@ -2,6 +2,9 @@ export interface NavigationParamsType {
     screen: string | {};
     name?: string;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 97ed279c (- add dynamic screen details)
     params?: any;
   }
 
@@ -42,6 +45,7 @@ export interface NavigationParamsType {
     matricule?: string;
   }
   export interface Video {
+<<<<<<< HEAD
     _id: string;
     description: string;
     url: string;
@@ -125,3 +129,11 @@ export interface DefaultValues {
     matricule?: string;
   }
 >>>>>>> 1df81466 (module auth and regsister token done)
+=======
+    description: string;
+    sources: string;
+    subtitle: string;
+    thumb: string;
+    title: string;
+}
+>>>>>>> 97ed279c (- add dynamic screen details)

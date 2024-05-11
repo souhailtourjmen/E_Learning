@@ -70,6 +70,7 @@ export const RootNavigator = () => {
             options={({ navigation }) => ({
               header: () => (
                 <CustomHeader navigation={navigation}   />
+<<<<<<< HEAD
               ),
             })}
           />
@@ -104,6 +105,8 @@ export const RootNavigator = () => {
             options={({ navigation }) => ({
               header: () => (
                 <CustomHeader navigation={navigation} title={ROUTES.CourseDetails}  />
+=======
+>>>>>>> 97ed279c (- add dynamic screen details)
               ),
             })}
           />

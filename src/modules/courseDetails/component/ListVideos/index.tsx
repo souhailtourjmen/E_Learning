@@ -11,6 +11,7 @@ import {
 } from "@ui-kitten/components";
 import { styles } from "./styles";
 import useListVideosViewModels from "./viewModel";
+<<<<<<< HEAD
 import { COLORS, IMGS } from "../../../../constant";
 var pkg = require("../../../../../package.json");
 const THUMB="https://edynamiclearning.com/wp-content/uploads/2019/05/EDL224-Principles_BMF_1b-1.jpg"
@@ -33,6 +34,25 @@ const ListVideos = (): React.ReactElement => {
 
 
   )};
+=======
+import { COLORS } from "../../../../constant";
+var pkg = require("../../../../../package.json");
+const ListVideos = (): React.ReactElement => {
+  const { palyList, handleChargeVideo,selectIndex, setselectIndex } = useListVideosViewModels();
+  const renderItemIcon = (image: string): any => (
+    <Avatar shape="square" source={{ uri: image }} />
+  );
+  const renderItemAccessory = (): React.ReactElement => (
+    <CheckBox
+        status='success' 
+        // style={styles.checkbox}
+        disabled={true}
+        checked
+      />
+
+
+  );
+>>>>>>> 97ed279c (- add dynamic screen details)
   const renderItem = (info: any): React.ReactElement => (
     <Card
       style={[styles.item,selectIndex===info.index?{borderColor:COLORS.primary}:{borderColor:COLORS.lightGray}]}
@@ -41,6 +61,7 @@ const ListVideos = (): React.ReactElement => {
     >
       <ListItem
         disabled
+<<<<<<< HEAD
         title={`${info?.item?.title||"Video"} ${info?.index + 1}`}
         // description={`${info?.item.description} ${info?.index + 1}`}
         accessoryLeft={() => renderItemIcon(info?.item?.thumb)}
@@ -48,6 +69,16 @@ const ListVideos = (): React.ReactElement => {
       />
     </Card>
   );
+=======
+        title={`${info?.item.title} ${info?.index + 1}`}
+        // description={`${info?.item.description} ${info?.index + 1}`}
+        accessoryLeft={() => renderItemIcon(info?.item?.thumb)}
+        accessoryRight={renderItemAccessory}
+      />
+    </Card>
+  );
+
+>>>>>>> 97ed279c (- add dynamic screen details)
   return (
     <List
       style={styles.container}

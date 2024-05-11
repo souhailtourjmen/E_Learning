@@ -13,6 +13,7 @@
           }),
         fetchCourseId: builder.query({
             query: (id:string) => `/getCour/${id}`,
+<<<<<<< HEAD
             providesTags: (result: any) => {
               return [{type: 'course'}];
             },
@@ -22,6 +23,9 @@
             providesTags: (result: any) => {
                 return [{type: 'coursesFiltre'}];
               },
+=======
+           
+>>>>>>> 97ed279c (- add dynamic screen details)
           }),
         
     }),
@@ -30,7 +34,11 @@
   
   export const {
     useFetchAllCourseQuery,
+<<<<<<< HEAD
     useFetchCourseIdQuery,
     useFetchCourseByNiveauQuery
+=======
+    useFetchCourseIdQuery
+>>>>>>> 97ed279c (- add dynamic screen details)
   } = courseApiSlice;
   
