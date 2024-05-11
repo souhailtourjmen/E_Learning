@@ -9,6 +9,7 @@ import React, {
 import {
   ImageBackground,
   StyleSheet,
+  TouchableOpacity,
   View,
   useWindowDimensions,
 } from "react-native";
@@ -16,18 +17,15 @@ import { Card, Text } from "../../../../components";
 import { Avatar, Layout } from "@ui-kitten/components";
 import { styles } from "./styles";
 import { BORDERRADIUS } from "../../../../constant";
+import useBigCardCourseViewController from "./viewController";
 
 type BigCardCourseProps = {
   item: any;
 };
 
 const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
-  console.log(
-    "\x1b[34m%s\x1b[0m",
-    "src/modules/home/components/bigCardCourse/index.tsx:25 item",
-    item
-  );
   const { width, height } = useWindowDimensions();
+  const { handleNavigateToDetatils } = useBigCardCourseViewController();
   const renderContent = useMemo(() => {
     if (item) {
       return (
@@ -70,13 +68,13 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
     }
     return null;
   }, [item]);
-
+  
   const _displayWithImage = useMemo(() => {
-    if (item?.image) {
+    if (item?.photo) {
       return (
         <ImageBackground
           source={{
-            uri: item?.image,
+            uri: item?.photo,
           }}
           borderRadius={BORDERRADIUS.radius_15}
           style={{ width: "100%", height: "100%" }}
@@ -86,13 +84,15 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
       );
     }
     return renderContent;
-  }, [item?.image, renderContent]);
+  }, [item?.photo, renderContent]);
   return (
     <Layout
       level="2"
       style={[{ width: width * 0.55, height: height * 0.17 }, styles.container]}
     >
-      {_displayWithImage}
+      <TouchableOpacity onPress={() => handleNavigateToDetatils(item?.id,item?.titre)}>
+        {_displayWithImage}
+      </TouchableOpacity>
     </Layout>
   );
 };

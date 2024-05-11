@@ -11,12 +11,17 @@
               return [{type: 'courses'}];
             },
           }),
+        fetchCourseId: builder.query({
+            query: (id:string) => `/getCour/${id}`,
+           
+          }),
         
     }),
     overrideExisting: true
   });
   
   export const {
-    useFetchAllCourseQuery
+    useFetchAllCourseQuery,
+    useFetchCourseIdQuery
   } = courseApiSlice;
   
