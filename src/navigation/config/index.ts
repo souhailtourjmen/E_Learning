@@ -1,5 +1,5 @@
 import { ROUTES, TEXT } from "../../constant";
-import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
+import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
 import i18n from "../../config/mulitLang";
 import { CustomHeader } from "../../components";
 export const ARRAYROUTES = [
@@ -42,7 +42,7 @@ export const BottomRoutes = [
   {
     route: ROUTES.MESSAGESCREENBOTTOM,
     label: i18n.t(TEXT.ROUTES.message),
-    component: HomeScreen,
+    component: ChatScreen,
     options:{ headerShown: false ,icon:'comments'}
     
   },

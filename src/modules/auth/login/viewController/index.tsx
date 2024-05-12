@@ -63,7 +63,7 @@ import { useAuth } from '../../../../hooks';
           console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:63 result', result);
           
           if (result?.data?.token) {
-            saveAuth( result?.data?.token);
+            saveAuth( result?.data?.token,{ nom: result?.data?.nom, prenom: result?.data?.prenom,full_name:result?.data?.full_name});
             resetNavigation( ROUTES.HomeScreen);
     
           } else {
@@ -75,7 +75,7 @@ import { useAuth } from '../../../../hooks';
          const result=await SignUp(dataset);
          console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:76 result', result);
          if (result?.data?.token) {
-          saveAuth( result?.data?.token);
+          saveAuth( result?.data?.token,{ nom: result?.data?.nom, prenom: result?.data?.prenom,full_name:result?.data?.full_name});
           resetNavigation( ROUTES.HomeScreen);
   
         } else {

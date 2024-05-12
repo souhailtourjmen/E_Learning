@@ -15,7 +15,8 @@ import { TEXT } from '../../../../constant';
   };
   const useSignInModels = () => {
     const route: any = useRoute();
-    const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.checkedSegment);
+    console.log(route)
+    const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.navigationParams.checkedSegment);
     
     const [pushMail, setPushMail] = useState<boolean>(false);
     const [accessData, setAccessData] = useState<boolean>(false);
@@ -28,7 +29,9 @@ import { TEXT } from '../../../../constant';
         returnObjects: true,
       }),
     );
-    
+    useEffect(() => {
+      setCheckedSegment(route?.params?.navigationParams.checkedSegment);
+    }, [route?.params?.navigationParams.checkedSegment]);
     return {
       checkedSegment,
       setCheckedSegment,

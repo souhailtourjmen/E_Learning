@@ -11,6 +11,8 @@ import com.facebook.react.shell.MainReactPackage;
 import java.util.Arrays;
 import java.util.ArrayList;
 
+// @shopify/flash-list
+import com.shopify.reactnative.flash_list.ReactNativeFlashListPackage;
 // react-native-config
 import com.lugg.RNCConfig.RNCConfigPackage;
 // react-native-gesture-handler
@@ -78,6 +80,7 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
+      new ReactNativeFlashListPackage(),
       new RNCConfigPackage(),
       new RNGestureHandlerPackage(),
       new KeychainPackage(),
