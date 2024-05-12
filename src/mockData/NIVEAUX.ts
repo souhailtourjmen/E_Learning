@@ -1,6 +1,6 @@
 export default [
   {
-    name: "7ème",
+    name: "7éme",
     image:
       "https://edynamiclearning.com/wp-content/uploads/2019/05/EDL224-Principles_BMF_1b-1.jpg",
     count: 20,

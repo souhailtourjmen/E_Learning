@@ -5,6 +5,7 @@ export const ROUTES = {
   ForgetPasswordScreen: 'ForgetPasswordScreen',
   HomeScreen: 'HomeScreen',
   CourseDetails: 'CourseDetails',
+  COurseFilter: 'COurseFilter',
   HomeScreenBOTTOM: 'HomeScreenBOTTOM',
   MESSAGESCREENBOTTOM: 'MESSAGESCREEN',
   MYCOURSESCREENBOTTOM: 'MYCOURSESCREEN',
