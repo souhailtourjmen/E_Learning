@@ -10,6 +10,7 @@ export const loginValidationSchema = yup.object().shape({
     .matches(/@[a-zA-Z0-9-]+\.[a-zA-Z]{1,}$/, i18next.t(TEXT.SignUp.EmailValid))
     .required(i18next.t(TEXT.Login.EmailRequired)),
   gender: yup.string(),
+  path: yup.string().required(i18next.t(TEXT.SignUp.GenderRequired)),
   password: yup
     .string()
     .required(i18next.t(TEXT.SignUp.PasswordRequired))

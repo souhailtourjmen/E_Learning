@@ -12,16 +12,16 @@ import {
 import { COLORS, ICONS } from "../../../../constant";
 import RenderIcon from "../../../../components/renderIcon";
 import { Text } from "../../../../components";
+import useTopNavigationImageTitleShowcaseViewModels from "./viewModel";
 
 
 
 export const TopNavigationImageTitleShowcase = (): React.ReactElement => {
-  const [menuVisible, setMenuVisible] = React.useState(false);
-
+ 
+  const {menuVisible, setMenuVisible,user}=useTopNavigationImageTitleShowcaseViewModels()
   const toggleMenu = (): void => {
     setMenuVisible(!menuVisible);
   };
-
   const renderMenuAction = (): React.ReactElement => (
     <TopNavigationAction icon={MenuIcon} />
   );
@@ -50,7 +50,7 @@ export const TopNavigationImageTitleShowcase = (): React.ReactElement => {
   const renderTitle = (props: any): React.ReactElement => (
     <View style={styles.titleContainer}>
       <Avatar style={styles.logo} source={ICONS.reservationProfileMenuIcon} />
-      <Text {...props} style={{color:COLORS.background}}>Hi , Alan</Text>
+      <Text {...props} style={{color:COLORS.background}}>{user?.full_name}</Text>
     </View>
   );
 

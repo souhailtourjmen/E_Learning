@@ -42,7 +42,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
     resolver: yupResolver(checkedSegment == 1 ? loginValidationSchema : signUpValidationSchema
       ),
     defaultValues: {
-      email:"hello@gmail.com",
+      email:"testMobile@gmail.com",
       password:'Azerty1234',
       path: "eleve",
       classe:'7ème',
@@ -69,7 +69,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
       <ScrollView style={styles.container} showsVerticalScrollIndicator={false}>
         <View style={styles.container}>
           <SegmentComponent
-            CheckedSegment={route?.params?.checkedSegment}
+            CheckedSegment={checkedSegment}
             handleSegment={(item: any) => handleSegment(item)}
           />
 
@@ -105,6 +105,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
                 color={COLORS.primary}
               />
             </View>
+          <SelectForm  control={control} items={[{ name: 'eleve' }, { name: 'parent' }]} name={"path"}  style={styles.styleComponent}/>
           </View>
 
           <View
@@ -191,7 +192,6 @@ const SignIn = ({}: propsSignIn): ReactElement => {
 
             <SelectForm  control={control} items={NIVEAUX} name={"classe"}  style={styles.styleComponent}/>
 
-            <SelectForm  control={control} items={[{ name: 'eleve' }, { name: 'parent' }]} name={"path"}  style={styles.styleComponent}/>
           </View>
           <View style={[styles.btnSubmit,{ width:"90%"},]}>
             {/* {isLoading && <Spinner />} */}

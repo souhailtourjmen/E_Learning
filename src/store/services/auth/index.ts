@@ -19,7 +19,7 @@ export const authApiSlice = apiSlice.injectEndpoints({
       }),
     }),
     SignUp: builder.mutation({
-      query: (credentials: SignUpBody, path: string = "eleve") => ({
+      query: (credentials: SignUpBody) => ({
         url: `/register/${credentials?.path}`,
         method: "POST",
         body: credentials,

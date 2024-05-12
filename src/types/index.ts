@@ -47,3 +47,10 @@ export interface NavigationParamsType {
     thumb: string;
     title: string;
 }
+  
+  export interface POSTMessage {
+    nom: string;
+    prenom: string;
+    photo?: string;
+    contenu: string;
+}
