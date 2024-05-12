@@ -5,6 +5,7 @@ import { ROUTES } from "../constant";
 import { CustomHeader } from "../components";
 import { ScreenCourseDetails } from "../screens";
 import { MyTabs } from "./bottomTab";
+import ScreenFilter from "../screens/screenFilter";
 
 const Stack = createNativeStackNavigator();
 export const RootNavigator = () => {
@@ -36,6 +37,16 @@ export const RootNavigator = () => {
             key={idStack}
             name={ROUTES.CourseDetails}
             component={ScreenCourseDetails}
+            options={({ navigation }) => ({
+              header: () => (
+                <CustomHeader navigation={navigation}   />
+              ),
+            })}
+          />
+       <Stack.Screen
+            key={idStack}
+            name={ROUTES.COurseFilter}
+            component={ScreenFilter}
             options={({ navigation }) => ({
               header: () => (
                 <CustomHeader navigation={navigation}   />

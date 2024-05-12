@@ -1,10 +1,5 @@
-import {
-  useForgetPasswordMutation,
-  useLoginMutation,
-  useSignUpMutation,
-  useUpdatePasswordMutation,
-  useUpdateProfileMutation,
-} from "./auth";
+
+import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation, useForgetPasswordMutation } from "./auth";
 import { useFetchAllCourseQuery, useFetchCourseIdQuery } from "./course";
 
 export {

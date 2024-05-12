@@ -5,8 +5,8 @@ import React, {
   useEffect,
   useState,
 } from "react";
-import useNavigationController from "../../../../../navigation/viewController";
-import { ROUTES } from "../../../../../constant";
+import useNavigationController from "../../../navigation/viewController";
+import { ROUTES } from "../../../constant";
 const useBigCardCourseViewController = () => {
   const { handleNavigate } = useNavigationController();
   const handleNavigateToDetatils = useCallback(

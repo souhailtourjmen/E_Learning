@@ -12,7 +12,7 @@ import { Input, Layout, Spinner } from "@ui-kitten/components";
 import RenderIcon from "../../components/renderIcon";
 import RenderItemCategory from "./components/renderItemCategory";
 import NIVEAUX from "../../mockData/NIVEAUX";
-import BigCardCourse from "./components/bigCardCourse";
+import BigCardCourse from "../../components/bigCardCourse";
 type HomeProps = {};
 
 const Home = (): ReactElement => {

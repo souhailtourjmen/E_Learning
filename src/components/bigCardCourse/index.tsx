@@ -13,17 +13,21 @@ import {
   View,
   useWindowDimensions,
 } from "react-native";
-import { Card, Text } from "../../../../components";
+import { Card, Text } from "..";
 import { Avatar, Layout } from "@ui-kitten/components";
 import { styles } from "./styles";
-import { BORDERRADIUS } from "../../../../constant";
+import { BORDERRADIUS } from "../../constant";
 import useBigCardCourseViewController from "./viewController";
 
 type BigCardCourseProps = {
   item: any;
+  widthHard?: any;
 };
 
-const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
+const BigCardCourse = ({
+  item,
+  widthHard,
+}: BigCardCourseProps): ReactElement => {
   const { width, height } = useWindowDimensions();
   const { handleNavigateToDetatils } = useBigCardCourseViewController();
   const renderContent = useMemo(() => {
@@ -68,7 +72,7 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
     }
     return null;
   }, [item]);
-  
+
   const _displayWithImage = useMemo(() => {
     if (item?.photo) {
       return (
@@ -88,9 +92,14 @@ const BigCardCourse = ({ item }: BigCardCourseProps): ReactElement => {
   return (
     <Layout
       level="2"
-      style={[{ width: width * 0.55, height: height * 0.17 }, styles.container]}
+      style={[
+        { width: widthHard ? widthHard : width * 0.55, height: height * 0.17 },
+        styles.container,
+      ]}
     >
-      <TouchableOpacity onPress={() => handleNavigateToDetatils(item?.id,item?.titre)}>
+      <TouchableOpacity
+        onPress={() => handleNavigateToDetatils(item?.id, item?.titre)}
+      >
         {_displayWithImage}
       </TouchableOpacity>
     </Layout>
