@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useForgetPasswordMutation } from "./auth";
 import { useFetchAllChatsQuery, useSendMessageMutation } from "./chat";
@@ -13,6 +14,8 @@ import { useForgetPasswordMutation, useLoginMutation, useSignUpMutation, useUpda
 =======
 =======
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+>>>>>>> 2960beef (Add screen filter for course by niveau)
 import {
   useForgetPasswordMutation,
   useLoginMutation,
@@ -20,6 +23,10 @@ import {
   useUpdatePasswordMutation,
   useUpdateProfileMutation,
 } from "./auth";
+=======
+
+import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation, useForgetPasswordMutation } from "./auth";
+>>>>>>> 525059d7 (Add screen filter for course by niveau)
 import { useFetchAllCourseQuery, useFetchCourseIdQuery } from "./course";
 <<<<<<< HEAD
 <<<<<<< HEAD

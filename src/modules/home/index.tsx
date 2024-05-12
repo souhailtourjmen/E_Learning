@@ -16,6 +16,7 @@ import RenderIcon from "../../components/renderIcon";
 import RenderItemCategory from "./components/renderItemCategory";
 import NIVEAUX from "../../mockData/NIVEAUX";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import BigCardCourse from "../../components/bigCardCourse";
 =======
 import { FlatList, Link, ScrollView, Text, View } from "../../components";
@@ -28,6 +29,8 @@ import RenderItemCategory from "./components/renderItemCategory";
 import MOCK_DATA from "../../mockData/MOCK_DATA";
 =======
 =======
+>>>>>>> 2960beef (Add screen filter for course by niveau)
+=======
 import { Input, Spinner } from "@ui-kitten/components";
 =======
 import { Input, Layout, Spinner } from "@ui-kitten/components";
@@ -38,7 +41,13 @@ import MOCK_DATA from "../../mockData/MOCK_DATA";
 >>>>>>> d32799fd (screen in progress)
 >>>>>>> 7e2863bb (screen in progress)
 import BigCardCourse from "./components/bigCardCourse";
+<<<<<<< HEAD
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+=======
+import BigCardCourse from "../../components/bigCardCourse";
+>>>>>>> 525059d7 (Add screen filter for course by niveau)
+>>>>>>> 2960beef (Add screen filter for course by niveau)
 type HomeProps = {};
 
 const Home = (): ReactElement => {

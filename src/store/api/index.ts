@@ -57,6 +57,7 @@ export const apiSlice: any = createApi({
   tagTypes: [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
    "courses",
    "course",
    "coursesFiltre",
@@ -68,11 +69,20 @@ export const apiSlice: any = createApi({
    
 >>>>>>> ab93aef2 (first unit project)
 =======
+=======
+>>>>>>> 2960beef (Add screen filter for course by niveau)
    "courses"
 =======
    
 >>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
 >>>>>>> 4cdec91b (first unit project)
+=======
+=======
+   "courses",
+   "coursesFiltre"
+>>>>>>> 525059d7 (Add screen filter for course by niveau)
+>>>>>>> 2960beef (Add screen filter for course by niveau)
   ],
   endpoints: builder => ({}),
 });

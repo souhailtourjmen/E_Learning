@@ -27,6 +27,12 @@
            
 >>>>>>> 97ed279c (- add dynamic screen details)
           }),
+        fetchCourseByNiveau: builder.query({
+            query: (niveau:string) => `cours/${decodeURI(niveau)}/`,
+            providesTags: (result: any) => {
+                return [{type: 'coursesFiltre'}];
+              },
+          }),
         
     }),
     overrideExisting: true
@@ -35,10 +41,15 @@
   export const {
     useFetchAllCourseQuery,
 <<<<<<< HEAD
+<<<<<<< HEAD
     useFetchCourseIdQuery,
     useFetchCourseByNiveauQuery
 =======
     useFetchCourseIdQuery
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+    useFetchCourseIdQuery,
+    useFetchCourseByNiveauQuery
+>>>>>>> 2960beef (Add screen filter for course by niveau)
   } = courseApiSlice;
   

@@ -6,19 +6,28 @@ import React, {
   useState,
 } from "react";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { View, useWindowDimensions } from "react-native";
 =======
 import {  View, useWindowDimensions } from "react-native";
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+import { View, useWindowDimensions } from "react-native";
+>>>>>>> 2960beef (Add screen filter for course by niveau)
 import { Text } from "../../../../components";
 import { COLORS } from "../../../../constant";
 import { Avatar } from "@ui-kitten/components";
 import { styles } from "./styles";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import useRenderItemCategoryViewController from "./viewController";
 import { TouchableOpacity } from "react-native";
 =======
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+import useRenderItemCategoryViewController from "./viewController";
+import { TouchableOpacity } from "react-native";
+>>>>>>> 2960beef (Add screen filter for course by niveau)
 
 type RenderItemCategoryProps = {
   item: {
@@ -33,6 +42,7 @@ const RenderItemCategory = ({
   item,
 }: RenderItemCategoryProps): ReactElement => {
   const { height, width } = useWindowDimensions();
+<<<<<<< HEAD
 <<<<<<< HEAD
   const { handleNavigateToScreenFilter } =
     useRenderItemCategoryViewController();
@@ -84,31 +94,56 @@ const RenderItemCategory = ({
     </TouchableOpacity>
 =======
 
+=======
+  const { handleNavigateToScreenFilter } =
+    useRenderItemCategoryViewController();
+>>>>>>> 2960beef (Add screen filter for course by niveau)
   return (
-    <View
-      style={[{ width: width * 0.25, height: height * 0.17 }, styles.container]}
+    <TouchableOpacity 
+      onPress={() => {
+        handleNavigateToScreenFilter(item?.name!, item?.name!);
+      }}
+      activeOpacity={0.8}
+      style={{}}
     >
       <View
-        style={{ padding: "5%", alignContent: "center", alignItems: "center" }}
+        style={[
+          { width: width * 0.25, height: height * 0.17 },
+          styles.container,
+        ]}
       >
-        {item.image ? (
-          <Avatar
-            size="large"
-            source={{
-              uri: item.image,
-            }}
-          />
-        ) : null}
-        <Text
+        <View
           style={{
-            alignSelf: "center",
-            marginTop: "30%",
+            padding: "5%",
+            alignContent: "center",
+            alignItems: "center",
           }}
-          numberOfLines={1}
         >
-          {item?.name}
-        </Text>
+          {item.image ? (
+            <Avatar
+              size="large"
+              source={{
+                uri: item.image,
+              }}
+            />
+          ) : null}
+          <Text
+            style={{
+              alignSelf: "center",
+              marginTop: "30%",
+            }}
+            numberOfLines={1}
+          >
+            {item?.name}
+          </Text>
+        </View>
+        <View style={styles.containerFooter}>
+          <Text style={{ color: COLORS.background, textAlign: "center" }}>
+            {item?.count} course
+          </Text>
+        </View>
       </View>
+<<<<<<< HEAD
       <View style={styles.containerFooter}>
         <Text style={{ color: COLORS.background, textAlign: "center" }}>
 <<<<<<< HEAD
@@ -123,7 +158,13 @@ const RenderItemCategory = ({
         </Text>
       </View>
     </View>
+<<<<<<< HEAD
 >>>>>>> c3fc9c43 (screen in progress)
+=======
+=======
+    </TouchableOpacity>
+>>>>>>> 525059d7 (Add screen filter for course by niveau)
+>>>>>>> 2960beef (Add screen filter for course by niveau)
   );
 };
 

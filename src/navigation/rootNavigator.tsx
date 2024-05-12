@@ -123,6 +123,7 @@ export const RootNavigator = () => {
             })}
           />
 <<<<<<< HEAD
+<<<<<<< HEAD
        <Stack.Screen
             key={idStack}
             name={ROUTES.COurseFilter}
@@ -162,6 +163,8 @@ export const RootNavigator = () => {
 >>>>>>> 50fe44b2 (- add WS login implementation)
 =======
 =======
+>>>>>>> 2960beef (Add screen filter for course by niveau)
+=======
             key={index?.toString()}
 =======
             key={idStack}
@@ -191,7 +194,22 @@ export const RootNavigator = () => {
             })}
           />
 >>>>>>> df35d18d (- add WS login implementation)
+<<<<<<< HEAD
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+       <Stack.Screen
+            key={idStack}
+            name={ROUTES.COurseFilter}
+            component={ScreenFilter}
+            options={({ navigation }) => ({
+              header: () => (
+                <CustomHeader navigation={navigation}   />
+              ),
+            })}
+          />
+>>>>>>> 525059d7 (Add screen filter for course by niveau)
+>>>>>>> 2960beef (Add screen filter for course by niveau)
     </Stack.Navigator>
   );
 };
