@@ -61,6 +61,7 @@ export interface NavigationParamsType {
     thumb: string;
     title: string;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
   
   export interface POSTMessage {
@@ -219,4 +220,17 @@ export interface DefaultValues {
 =======
 }
 >>>>>>> 343adf8e (- add dynamic screen details)
+<<<<<<< HEAD
 >>>>>>> 11b8c648 (- add dynamic screen details)
+=======
+=======
+}
+  
+  export interface POSTMessage {
+    nom: string;
+    prenom: string;
+    photo?: string;
+    contenu: string;
+}
+>>>>>>> 248b181a (add feature chat module)
+>>>>>>> 3179387e (add feature chat module)

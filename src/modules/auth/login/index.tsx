@@ -78,10 +78,17 @@ const SignIn = ({}: propsSignIn): ReactElement => {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       email:"tourjmenEleve@gmail.com",
 =======
       email:"hello@gmail.com",
 >>>>>>> 67e6b12f (module auth and regsister token done)
+=======
+      email:"hello@gmail.com",
+=======
+      email:"testMobile@gmail.com",
+>>>>>>> 248b181a (add feature chat module)
+>>>>>>> 3179387e (add feature chat module)
       password:'Azerty1234',
       path: "eleve",
       classe:'7ème',
@@ -266,9 +273,12 @@ const SignIn = ({}: propsSignIn): ReactElement => {
             <SelectForm  control={control} items={NIVEAUX} name={"classe"}  style={styles.styleComponent}/>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
             <SelectForm  control={control} items={[{ name: 'eleve' }, { name: 'parent' }]} name={"path"}  style={styles.styleComponent}/>
 >>>>>>> 1df81466 (module auth and regsister token done)
+=======
+>>>>>>> 3179387e (add feature chat module)
           </View>
           <View style={[styles.btnSubmit,{ width:"90%"},]}>
             {/* {isLoading && <Spinner />} */}

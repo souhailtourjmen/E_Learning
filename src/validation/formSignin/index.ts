@@ -11,6 +11,9 @@ export const loginValidationSchema = yup.object().shape({
     .required(i18next.t(TEXT.Login.EmailRequired)),
   gender: yup.string(),
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3179387e (add feature chat module)
   path: yup.string().required(i18next.t(TEXT.SignUp.GenderRequired)),
   password: yup
     .string()

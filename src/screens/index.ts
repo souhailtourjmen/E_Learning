@@ -15,6 +15,7 @@ export {default as HomeScreen} from './home'
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 export {default as ScreenCourseDetails} from './courseDetails'
 export {default as ChatScreen} from './chat'
 export {default as UpdateProfileScreen} from './UpdateProfileScreen'
@@ -35,6 +36,8 @@ export {default as ScreenCourseDetails} from './courseDetails'
 =======
 =======
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+>>>>>>> 3179387e (add feature chat module)
 export {default as ScreenCourseDetails} from './courseDetails'
 =======
 export {default as Intro} from './intro'
@@ -58,4 +61,11 @@ export {default as ForgetPasswordScreen} from './auth/forgetPassword'
 =======
 export {default as ScreenCourseDetails} from './courseDetails'
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+export {default as ScreenCourseDetails} from './courseDetails'
+export {default as ChatScreen} from './chat'
+>>>>>>> 248b181a (add feature chat module)
+>>>>>>> 3179387e (add feature chat module)

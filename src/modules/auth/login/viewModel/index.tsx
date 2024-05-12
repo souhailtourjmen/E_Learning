@@ -28,10 +28,15 @@ import { TEXT } from '../../../../constant';
   const useSignInModels = () => {
     const route: any = useRoute();
 <<<<<<< HEAD
+<<<<<<< HEAD
     const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.navigationParams.checkedSegment);
 =======
     const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.checkedSegment);
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+    console.log(route)
+    const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.navigationParams.checkedSegment);
+>>>>>>> 3179387e (add feature chat module)
     
     const [pushMail, setPushMail] = useState<boolean>(false);
     const [accessData, setAccessData] = useState<boolean>(false);
@@ -50,12 +55,18 @@ import { TEXT } from '../../../../constant';
       }),
     );
 <<<<<<< HEAD
+<<<<<<< HEAD
     useEffect(() => {
       setCheckedSegment(route?.params?.navigationParams.checkedSegment);
     }, [route?.params?.navigationParams.checkedSegment]);
 =======
     
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+    useEffect(() => {
+      setCheckedSegment(route?.params?.navigationParams.checkedSegment);
+    }, [route?.params?.navigationParams.checkedSegment]);
+>>>>>>> 3179387e (add feature chat module)
     return {
       checkedSegment,
       setCheckedSegment,

@@ -12,6 +12,9 @@ import java.util.Arrays;
 import java.util.ArrayList;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3179387e (add feature chat module)
 // @shopify/flash-list
 import com.shopify.reactnative.flash_list.ReactNativeFlashListPackage;
 // react-native-config
@@ -153,6 +156,9 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3179387e (add feature chat module)
       new ReactNativeFlashListPackage(),
       new RNCConfigPackage(),
 <<<<<<< HEAD

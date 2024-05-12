@@ -7,6 +7,7 @@ import { ROUTES, TEXT } from "../../constant";
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ProgressionScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
 =======
 =======
@@ -17,6 +18,12 @@ import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, Onboa
 >>>>>>> 9cfb1182 (add Desing Screen course details)
 import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
 >>>>>>> 4cdec91b (first unit project)
+=======
+import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
+=======
+import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
+>>>>>>> 248b181a (add feature chat module)
+>>>>>>> 3179387e (add feature chat module)
 import i18n from "../../config/mulitLang";
 import { CustomHeader } from "../../components";
 export const ARRAYROUTES = [

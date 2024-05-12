@@ -48,6 +48,7 @@ export const authApiSlice = apiSlice.injectEndpoints({
     SignUp: builder.mutation({
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       query: (credentials: SignUpBody) => ({
         url: `/register/${credentials?.path}`,
 =======
@@ -59,9 +60,14 @@ export const authApiSlice = apiSlice.injectEndpoints({
         url: `/register/${credentials?.path}`,
 >>>>>>> 1df81466 (module auth and regsister token done)
 =======
+=======
+>>>>>>> 3179387e (add feature chat module)
       query: (credentials: SignUpBody, path: string = "eleve") => ({
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+      query: (credentials: SignUpBody) => ({
+>>>>>>> 248b181a (add feature chat module)
         url: `/register/${credentials?.path}`,
 =======
         url: `/register/${path}`,

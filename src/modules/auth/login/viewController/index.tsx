@@ -164,6 +164,7 @@ import { useAuth } from '../../../../hooks';
 =======
 >>>>>>> 67e6b12f (module auth and regsister token done)
           if (result?.data?.token) {
+<<<<<<< HEAD
             saveAuth( result?.data?.token);
 =======
           if (result?.data?.data?.token) {
@@ -176,7 +177,13 @@ import { useAuth } from '../../../../hooks';
           if (result?.data?.token) {
             saveAuth( result?.data?.token);
 >>>>>>> 30639760 (module auth and regsister token done)
+<<<<<<< HEAD
 >>>>>>> 67e6b12f (module auth and regsister token done)
+=======
+=======
+            saveAuth( result?.data?.token,{ nom: result?.data?.nom, prenom: result?.data?.prenom,full_name:result?.data?.full_name});
+>>>>>>> 248b181a (add feature chat module)
+>>>>>>> 3179387e (add feature chat module)
             resetNavigation( ROUTES.HomeScreen);
     
           } else {
@@ -205,8 +212,12 @@ import { useAuth } from '../../../../hooks';
          const result=await SignUp(dataset);
          console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:76 result', result);
          if (result?.data?.token) {
+<<<<<<< HEAD
           saveAuth( result?.data?.token);
 >>>>>>> 1df81466 (module auth and regsister token done)
+=======
+          saveAuth( result?.data?.token,{ nom: result?.data?.nom, prenom: result?.data?.prenom,full_name:result?.data?.full_name});
+>>>>>>> 3179387e (add feature chat module)
           resetNavigation( ROUTES.HomeScreen);
   
         } else {

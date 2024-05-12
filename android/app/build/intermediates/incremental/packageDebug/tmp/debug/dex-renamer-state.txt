@@ -18,6 +18,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -62,6 +63,8 @@
 >>>>>>> 67e6b12f (module auth and regsister token done)
 =======
 >>>>>>> 11b8c648 (- add dynamic screen details)
+=======
+>>>>>>> 3179387e (add feature chat module)
 #Sun May 12 00:16:43 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -108,7 +111,13 @@
 =======
 #Sun May 12 00:16:43 CET 2024
 >>>>>>> 343adf8e (- add dynamic screen details)
+<<<<<<< HEAD
 >>>>>>> 11b8c648 (- add dynamic screen details)
+=======
+=======
+#Sun May 12 16:53:14 CET 2024
+>>>>>>> 248b181a (add feature chat module)
+>>>>>>> 3179387e (add feature chat module)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex

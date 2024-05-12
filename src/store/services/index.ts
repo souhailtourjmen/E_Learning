@@ -26,7 +26,11 @@ import {
 =======
 
 import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation, useForgetPasswordMutation } from "./auth";
+<<<<<<< HEAD
 >>>>>>> 525059d7 (Add screen filter for course by niveau)
+=======
+import { useFetchAllChatsQuery, useSendMessageMutation } from "./chat";
+>>>>>>> 248b181a (add feature chat module)
 import { useFetchAllCourseQuery, useFetchCourseIdQuery } from "./course";
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -82,6 +86,7 @@ export {
   useFetchCourseIdQuery,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
 =======
 =======
@@ -89,8 +94,19 @@ export {
 >>>>>>> c662ef07 (- add WS login implementation)
 =======
 =======
+>>>>>>> 3179387e (add feature chat module)
+=======
 >>>>>>> df35d18d (- add WS login implementation)
 =======
 >>>>>>> 343adf8e (- add dynamic screen details)
+<<<<<<< HEAD
 >>>>>>> 11b8c648 (- add dynamic screen details)
+=======
+=======
+  // end course service
+  // chat service 
+  useFetchAllChatsQuery,
+  useSendMessageMutation
+>>>>>>> 248b181a (add feature chat module)
+>>>>>>> 3179387e (add feature chat module)
 };

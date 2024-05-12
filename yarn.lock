@@ -2540,6 +2540,9 @@
     reselect "^5.0.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3179387e (add feature chat module)
 "@shopify/flash-list@^1.6.4":
   version "1.6.4"
   resolved "https://registry.yarnpkg.com/@shopify/flash-list/-/flash-list-1.6.4.tgz#2844ae7334f314c06c62b649bc9c5de2480800b4"
@@ -2548,8 +2551,11 @@
     recyclerlistview "4.2.0"
     tslib "2.4.0"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 3179387e (add feature chat module)
 "@sideway/address@^4.1.5":
   version "4.1.5"
   resolved "https://registry.npmjs.org/@sideway/address/-/address-4.1.5.tgz"
@@ -4811,6 +4817,7 @@ hermes-profile-transformer@^0.0.6:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hex-to-rgba@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/hex-to-rgba/-/hex-to-rgba-2.0.1.tgz#4176977882a1cb32b83ce5ab1db6828ab84d5a13"
@@ -4824,6 +4831,17 @@ hex-to-rgba@^2.0.1:
 =======
 >>>>>>> 1b7ac40d (- add ui kitten)
 >>>>>>> 214ba539 (- add ui kitten)
+=======
+=======
+>>>>>>> 1b7ac40d (- add ui kitten)
+=======
+hex-to-rgba@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/hex-to-rgba/-/hex-to-rgba-2.0.1.tgz#4176977882a1cb32b83ce5ab1db6828ab84d5a13"
+  integrity sha512-5XqPJBpsEUMsseJUi2w2Hl7cHFFi3+OO10M2pzAvKB1zL6fc+koGMhmBqoDOCB4GemiRM/zvDMRIhVw6EkB8dQ==
+
+>>>>>>> 248b181a (add feature chat module)
+>>>>>>> 3179387e (add feature chat module)
 hoist-non-react-statics@^3.2.1, hoist-non-react-statics@^3.3.0:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-3.3.2.tgz#ece0acaf71d62c2969c2ec59feff42a4b1a85b45"
@@ -5901,10 +5919,14 @@ locate-path@^6.0.0:
     p-locate "^5.0.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 lodash.debounce@4.0.8, lodash.debounce@^4.0.8:
 =======
 lodash.debounce@^4.0.8:
 >>>>>>> ab93aef2 (first unit project)
+=======
+lodash.debounce@4.0.8, lodash.debounce@^4.0.8:
+>>>>>>> 3179387e (add feature chat module)
   version "4.0.8"
   resolved "https://registry.npmjs.org/lodash.debounce/-/lodash.debounce-4.0.8.tgz"
   integrity sha512-FT1yDzDYEoYWhnSGnpE/4Kj1fLZkDFyqRb7fNt6FdYOSxlUWAtp42Eh6Wb0rGIv/m9Bgo7x4GhQbm5Ys4SG5ow==
@@ -6866,6 +6888,7 @@ prompts@^2.0.1, prompts@^2.4.2:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 prop-types@15.8.1, prop-types@^15.7.2, prop-types@^15.8.1:
 =======
 prop-types@*, prop-types@^15.7.2, prop-types@^15.8.1:
@@ -6876,6 +6899,8 @@ prop-types@^15.7.2, prop-types@^15.8.1:
 =======
 =======
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+>>>>>>> 3179387e (add feature chat module)
 prop-types@^15.7.2, prop-types@^15.8.1:
 =======
 prop-types@*, prop-types@^15.7.2, prop-types@^15.8.1:
@@ -6886,7 +6911,13 @@ prop-types@*, prop-types@^15.7.2, prop-types@^15.8.1:
 =======
 prop-types@^15.7.2, prop-types@^15.8.1:
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+prop-types@15.8.1, prop-types@^15.7.2, prop-types@^15.8.1:
+>>>>>>> 248b181a (add feature chat module)
+>>>>>>> 3179387e (add feature chat module)
   version "15.8.1"
   resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -7089,6 +7120,7 @@ react-native-config@^1.5.1:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 react-native-easy-content-loader@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/react-native-easy-content-loader/-/react-native-easy-content-loader-0.3.2.tgz#5c0dcd69c84c5370365153162b21fe82098459c3"
@@ -7104,6 +7136,19 @@ react-native-easy-content-loader@^0.3.2:
 =======
 >>>>>>> 1b7ac40d (- add ui kitten)
 >>>>>>> 214ba539 (- add ui kitten)
+=======
+=======
+>>>>>>> 1b7ac40d (- add ui kitten)
+=======
+react-native-easy-content-loader@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/react-native-easy-content-loader/-/react-native-easy-content-loader-0.3.2.tgz#5c0dcd69c84c5370365153162b21fe82098459c3"
+  integrity sha512-gLlfEVjOgflWKWoB255GFMgvIkSv5ScVbCvkCGj6KDelFenqMuePnW3yqDvkSGl1xAds76NpqO+JgOuYq7gXMw==
+  dependencies:
+    hex-to-rgba "^2.0.1"
+
+>>>>>>> 248b181a (add feature chat module)
+>>>>>>> 3179387e (add feature chat module)
 react-native-gesture-handler@^2.16.0:
   version "2.16.0"
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.16.0.tgz#45a00b5988e74ebc58f130c8d1443319c8e678db"
@@ -7450,6 +7495,9 @@ rechoir@^0.6.2:
     resolve "^1.1.6"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3179387e (add feature chat module)
 recyclerlistview@4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/recyclerlistview/-/recyclerlistview-4.2.0.tgz#a140149aaa470c9787a1426452651934240d69ef"
@@ -7459,8 +7507,11 @@ recyclerlistview@4.2.0:
     prop-types "15.8.1"
     ts-object-utils "0.0.5"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 3179387e (add feature chat module)
 redux-thunk@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/redux-thunk/-/redux-thunk-3.1.0.tgz#94aa6e04977c30e14e892eae84978c1af6058ff3"
@@ -8269,6 +8320,9 @@ tr46@~0.0.3:
   integrity sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3179387e (add feature chat module)
 ts-object-utils@0.0.5:
   version "0.0.5"
   resolved "https://registry.yarnpkg.com/ts-object-utils/-/ts-object-utils-0.0.5.tgz#95361cdecd7e52167cfc5e634c76345e90a26077"
@@ -8279,8 +8333,11 @@ tslib@2.4.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.0.tgz#7cecaa7f073ce680a05847aa77be941098f36dc3"
   integrity sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 3179387e (add feature chat module)
 tslib@^1.8.1:
   version "1.14.1"
   resolved "https://registry.npmjs.org/tslib/-/tslib-1.14.1.tgz"
