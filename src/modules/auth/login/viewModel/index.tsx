@@ -15,14 +15,13 @@ import { TEXT } from '../../../../constant';
   };
   const useSignInModels = () => {
     const route: any = useRoute();
-    console.log(route)
     const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.navigationParams.checkedSegment);
     
     const [pushMail, setPushMail] = useState<boolean>(false);
     const [accessData, setAccessData] = useState<boolean>(false);
     const [defaultValues, setDefaultValues] = useState<DefaultValues>({
-      email: Config?.email || '',
-      password: Config?.password || '',
+      email:"testNewEleve@gmail.com",
+      password:"Azerty1234",
     });
     const [gender] = useState(
       i18next.t(TEXT.SignUp.gender, {

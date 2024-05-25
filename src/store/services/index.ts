@@ -1,16 +1,20 @@
 
-import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation, useForgetPasswordMutation } from "./auth";
+import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useForgetPasswordMutation } from "./auth";
 import { useFetchAllChatsQuery, useSendMessageMutation } from "./chat";
 import { useFetchAllCourseQuery, useFetchCourseIdQuery } from "./course";
+import { useGetInfoProfileQuery, useUpdateProfileMutation } from "./profile";
 
 export {
   // auth
   useLoginMutation,
   useSignUpMutation,
-  useUpdatePasswordMutation,
   useUpdateProfileMutation,
+  useUpdatePasswordMutation,
   useForgetPasswordMutation,
   // end auth service
+  // profile service
+  useGetInfoProfileQuery,
+  // end profile service
   // course service
   useFetchAllCourseQuery,
   useFetchCourseIdQuery,

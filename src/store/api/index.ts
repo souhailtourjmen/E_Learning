@@ -35,7 +35,8 @@ export const apiSlice: any = createApi({
   tagTypes: [
    "courses",
    "coursesFiltre",
-   'chats'
+   'chats',
+   'profile'
   ],
   endpoints: builder => ({}),
 });

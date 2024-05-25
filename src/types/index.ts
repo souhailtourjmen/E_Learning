@@ -54,3 +54,13 @@ export interface NavigationParamsType {
     photo?: string;
     contenu: string;
 }
+export interface DefaultValues {
+  classe: string;
+  datenai: string;
+  email: string;
+  gouvernorat: string;
+  matricule: string;
+  nom: string;
+  numero: string;
+  prenom: string;
+}

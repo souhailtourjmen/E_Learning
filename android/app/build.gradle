@@ -54,7 +54,7 @@ react {
 /**
  * Set this to true to Run Proguard on Release builds to minify the Java bytecode.
  */
-def enableProguardInReleaseBuilds = false
+def enableProguardInReleaseBuilds = true
 
 /**
  * The preferred build flavor of JavaScriptCore (JSC)
@@ -81,7 +81,16 @@ android {
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
+        multiDexEnabled true
     }
+    signingConfigs {
+    release {
+      storeFile file('digitalTn.keystore')
+      storePassword 'digitalTn'
+      keyAlias 'digitalTn'
+      keyPassword 'digitalTn'
+    }
+  }
     signingConfigs {
         debug {
             storeFile file('debug.keystore')
@@ -91,10 +100,12 @@ android {
         }
     }
     buildTypes {
+
         debug {
             signingConfig signingConfigs.debug
         }
         release {
+             signingConfig signingConfigs.release
             // Caution! In production, you need to generate your own keystore file.
             // see https://reactnative.dev/docs/signed-apk-android.
             signingConfig signingConfigs.debug
@@ -110,6 +121,7 @@ dependencies {
     implementation("com.facebook.react:flipper-integration")
     implementation project(':react-native-vector-icons')
     implementation project(':react-native-config')
+     implementation 'com.android.support:multidex:1.0.3'
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")
     } else {

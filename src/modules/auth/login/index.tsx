@@ -42,7 +42,7 @@ const SignIn = ({}: propsSignIn): ReactElement => {
     resolver: yupResolver(checkedSegment == 1 ? loginValidationSchema : signUpValidationSchema
       ),
     defaultValues: {
-      email:"testMobile@gmail.com",
+      email:"tourjmenEleve@gmail.com",
       password:'Azerty1234',
       path: "eleve",
       classe:'7ème',
