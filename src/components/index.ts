@@ -6,4 +6,5 @@ export { default as SegmentComponent } from "./segmentComponent";
 export { default as Link } from "./link";
 export { default as GoBackButton } from "./GoBackButton";
 export { default as CustomHeader } from "./header";
+export { default as Loader } from "./loader";
 export * from "./themes"

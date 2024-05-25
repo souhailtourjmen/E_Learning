@@ -24,7 +24,7 @@ const data: OnboardingData[] = [
   },
   {
     id: 2,
-    img: require('../../../../assets/app_images/OnboardingImg2.png'),
+    img: require('../../../../assets/app_images/OnboardingImg2.jpeg'),
     text: i18next.t(TEXT.ONBOARDING.titleTwo),
     desc: i18next.t(TEXT.ONBOARDING.descTwo),
     textColor: COLORS.primary,

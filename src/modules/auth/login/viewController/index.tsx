@@ -56,8 +56,9 @@ import { useAuth } from '../../../../hooks';
       [setCheckedSegment],
     );
   
-    const onSubmit = async (dataset: Credentials | SignUpBody): Promise<void> => {
+    const onSubmit = async (dataset: Credentials&SignUpBody): Promise<void> => {
       try {
+       
         if (checkedSegment === 1) {
           const result = await login(dataset);
           console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:63 result', result);
@@ -71,8 +72,9 @@ import { useAuth } from '../../../../hooks';
             // Optionally, you can handle the login failure in a way that makes sense for your application
           }
         } else if (checkedSegment === 0) {
-         
-         const result=await SignUp(dataset);
+          const dateBirth = new Date(moment(dataset.datenai,'DD/MM/YYYY').format('YYYY-MM-DD')!);
+          delete dataset.datenai 
+         const result=await SignUp( {...dataset,datenai:dateBirth});
          console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:76 result', result);
          if (result?.data?.token) {
           saveAuth( result?.data?.token,{ nom: result?.data?.nom, prenom: result?.data?.prenom,full_name:result?.data?.full_name});

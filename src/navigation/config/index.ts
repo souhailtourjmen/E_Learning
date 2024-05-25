@@ -1,5 +1,5 @@
 import { ROUTES, TEXT } from "../../constant";
-import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
+import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
 import i18n from "../../config/mulitLang";
 import { CustomHeader } from "../../components";
 export const ARRAYROUTES = [
@@ -53,10 +53,11 @@ export const BottomRoutes = [
     options:{ headerShown: false ,icon:'book'}
     
   },
+
   {
-    route: ROUTES.PROFILESCREENBOTTOM,
+    route: ROUTES.UpdateProfile,
     label: i18n.t(TEXT.ROUTES.profile),
-    component: HomeScreen,
+    component: UpdateProfileScreen,
     options:{ headerShown: false ,icon:'user'}    
   },
   
