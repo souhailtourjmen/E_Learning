@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="API_URL" translatable="false">"http://192.168.1.12:3000"</string>
 =======
 =======
@@ -16,10 +17,18 @@
 >>>>>>> 8ad543a9 (change name Digital.Tn)
 =======
 =======
+>>>>>>> 00287c65 (-add new service profile)
+=======
 >>>>>>> feaa7651 (add Desing Screen course details)
 >>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
+<<<<<<< HEAD
 >>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="API_URL" translatable="false">"http://192.168.1.12:3000"</string>
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
     <string name="app_name">Digital.Tn</string>
 =======
     <string name="app_name">Reserver</string>

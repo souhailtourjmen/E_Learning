@@ -2815,6 +2815,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="API_URL" translatable="false">"http://192.168.1.12:3000"</string>
 =======
 >>>>>>> 9ce4bce8 (rename project)
@@ -2827,13 +2828,21 @@
 >>>>>>> a2d98ded (rename project)
 >>>>>>> b980ea3d (rename project)
 =======
+=======
+>>>>>>> 00287c65 (-add new service profile)
     <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
 =======
 >>>>>>> a2d98ded (rename project)
 =======
     <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+    <string name="API_URL" translatable="false">"http://192.168.1.12:3000"</string>
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>

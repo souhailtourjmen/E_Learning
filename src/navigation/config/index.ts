@@ -8,6 +8,7 @@ import { ROUTES, TEXT } from "../../constant";
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ProgressionScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
 =======
 =======
@@ -19,11 +20,19 @@ import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, Onboa
 import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
 >>>>>>> 4cdec91b (first unit project)
 =======
+=======
+>>>>>>> 00287c65 (-add new service profile)
 import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
 =======
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
 >>>>>>> 248b181a (add feature chat module)
+<<<<<<< HEAD
 >>>>>>> 3179387e (add feature chat module)
+=======
+=======
+import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
 import i18n from "../../config/mulitLang";
 import { CustomHeader } from "../../components";
 export const ARRAYROUTES = [
@@ -82,6 +91,7 @@ export const BottomRoutes = [
     route: ROUTES.UpdateProfile,
     label: i18n.t(TEXT.ROUTES.profile),
     component: UpdateProfileScreen,
+<<<<<<< HEAD
     options:{ headerShown: true ,icon:'user'}    
   },
   
@@ -138,6 +148,9 @@ export const ARRAYROUTES = [
     component: HomeScreen,
     options:{ headerShown: false }
     
+=======
+    options:{ headerShown: false ,icon:'user'}    
+>>>>>>> 00287c65 (-add new service profile)
   },
   
   

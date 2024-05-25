@@ -14,6 +14,7 @@ public final class BuildConfig {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   public static final String API_URL = "http://192.168.1.12:3000";
   // Field from default config.
 =======
@@ -25,7 +26,12 @@ public final class BuildConfig {
 =======
 =======
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+>>>>>>> 00287c65 (-add new service profile)
   public static final String API_URL = "http://192.168.1.16:3000";
+=======
+  public static final String API_URL = "http://192.168.1.12:3000";
+>>>>>>> 7c70e1dc (-add new service profile)
   // Field from default config.
 =======
 >>>>>>> d795e8b9 (change name Digital.Tn)

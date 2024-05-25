@@ -79,16 +79,25 @@ const SignIn = ({}: propsSignIn): ReactElement => {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       email:"tourjmenEleve@gmail.com",
 =======
       email:"hello@gmail.com",
 >>>>>>> 67e6b12f (module auth and regsister token done)
 =======
+=======
+>>>>>>> 00287c65 (-add new service profile)
       email:"hello@gmail.com",
 =======
       email:"testMobile@gmail.com",
 >>>>>>> 248b181a (add feature chat module)
+<<<<<<< HEAD
 >>>>>>> 3179387e (add feature chat module)
+=======
+=======
+      email:"tourjmenEleve@gmail.com",
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
       password:'Azerty1234',
       path: "eleve",
       classe:'7ème',

@@ -17,6 +17,7 @@ export { default as CustomHeader } from "./header";
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 export { default as Loader } from "./loader";
 =======
 >>>>>>> ab93aef2 (first unit project)
@@ -28,6 +29,8 @@ export { default as Button } from "./button";
 =======
 =======
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+>>>>>>> 00287c65 (-add new service profile)
 =======
 >>>>>>> e6aa837d (first unit project)
 <<<<<<< HEAD
@@ -41,5 +44,11 @@ export { default as Button } from "./button";
 =======
 =======
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+export { default as Loader } from "./loader";
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
 export * from "./themes"

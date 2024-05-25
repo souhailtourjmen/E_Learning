@@ -23,6 +23,7 @@
 =======
 >>>>>>> 9cfb1182 (add Desing Screen course details)
     <!-- Value from default config. -->
+<<<<<<< HEAD
     <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
 =======
 >>>>>>> a2d98ded (rename project)
@@ -33,6 +34,12 @@
     <!-- Value from default config. -->
     <string name="API_URL" translatable="false">"http://192.168.1.16:3000"</string>
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+    <string name="API_URL" translatable="false">"http://192.168.1.12:3000"</string>
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
 
 </resources>

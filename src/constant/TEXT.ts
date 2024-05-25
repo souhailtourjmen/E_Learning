@@ -189,6 +189,9 @@ export default {
       signUpErrorDesc: 'signUp.interface.signUpErrorDesc',
     },  
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00287c65 (-add new service profile)
     Profile: {
       welcome: 'Profile.interface.welcome',
       textBtnUpdateProfile: 'Profile.interface.textBtnUpdateProfile',

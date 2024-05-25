@@ -55,10 +55,14 @@ react {
  * Set this to true to Run Proguard on Release builds to minify the Java bytecode.
  */
 <<<<<<< HEAD
+<<<<<<< HEAD
 def enableProguardInReleaseBuilds = true
 =======
 def enableProguardInReleaseBuilds = false
 >>>>>>> ab93aef2 (first unit project)
+=======
+def enableProguardInReleaseBuilds = true
+>>>>>>> 00287c65 (-add new service profile)
 
 /**
  * The preferred build flavor of JavaScriptCore (JSC)
@@ -133,6 +137,9 @@ android {
         versionCode 1
         versionName "1.0"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00287c65 (-add new service profile)
         multiDexEnabled true
     }
     signingConfigs {
@@ -144,10 +151,13 @@ android {
     }
   }
     signingConfigs {
+<<<<<<< HEAD
 =======
     }
     signingConfigs {
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> 00287c65 (-add new service profile)
         debug {
             storeFile file('debug.keystore')
             storePassword 'android'
@@ -157,17 +167,25 @@ android {
     }
     buildTypes {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+
+>>>>>>> 00287c65 (-add new service profile)
         debug {
             signingConfig signingConfigs.debug
         }
         release {
 <<<<<<< HEAD
+<<<<<<< HEAD
              signingConfig signingConfigs.release
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+             signingConfig signingConfigs.release
+>>>>>>> 00287c65 (-add new service profile)
             // Caution! In production, you need to generate your own keystore file.
             // see https://reactnative.dev/docs/signed-apk-android.
             signingConfig signingConfigs.debug
@@ -184,9 +202,13 @@ dependencies {
     implementation project(':react-native-vector-icons')
     implementation project(':react-native-config')
 <<<<<<< HEAD
+<<<<<<< HEAD
      implementation 'com.android.support:multidex:1.0.3'
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+     implementation 'com.android.support:multidex:1.0.3'
+>>>>>>> 00287c65 (-add new service profile)
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")
     } else {

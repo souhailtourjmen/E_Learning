@@ -29,12 +29,15 @@ import { TEXT } from '../../../../constant';
     const route: any = useRoute();
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.navigationParams.checkedSegment);
 =======
     const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.checkedSegment);
 >>>>>>> ef87bf9c (Create module auth signIn)
 =======
     console.log(route)
+=======
+>>>>>>> 00287c65 (-add new service profile)
     const [checkedSegment, setCheckedSegment] = useState<number>(route?.params?.navigationParams.checkedSegment);
 >>>>>>> 3179387e (add feature chat module)
     
@@ -42,12 +45,17 @@ import { TEXT } from '../../../../constant';
     const [accessData, setAccessData] = useState<boolean>(false);
     const [defaultValues, setDefaultValues] = useState<DefaultValues>({
 <<<<<<< HEAD
+<<<<<<< HEAD
       email:"testNewEleve@gmail.com",
       password:"Azerty1234",
 =======
       email: Config?.email || '',
       password: Config?.password || '',
 >>>>>>> ef87bf9c (Create module auth signIn)
+=======
+      email:"testNewEleve@gmail.com",
+      password:"Azerty1234",
+>>>>>>> 00287c65 (-add new service profile)
     });
     const [gender] = useState(
       i18next.t(TEXT.SignUp.gender, {

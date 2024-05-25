@@ -20,6 +20,7 @@ export const ROUTES = {
   MYCOURSESCREENBOTTOM: 'MYCOURSESCREEN',
   PROFILESCREENBOTTOM: 'PROFILESCREEN',
 <<<<<<< HEAD
+<<<<<<< HEAD
   UpdateProfile: 'UpdateProfile',
   ProgressionScreen: 'Progression',
 =======
@@ -30,6 +31,8 @@ export const ROUTES = {
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
 =======
+>>>>>>> 00287c65 (-add new service profile)
+=======
   ONBOARDING: "OnboardingScreen",
 >>>>>>> 9c8d4eae (- add new screen onbording)
 <<<<<<< HEAD
@@ -38,7 +41,13 @@ export const ROUTES = {
 =======
   CourseDetails: 'Course Details',
 >>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
 >>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+  UpdateProfile: 'UpdateProfile',
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
 };
 
 =======

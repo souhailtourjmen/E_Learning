@@ -129,6 +129,7 @@ import { useAuth } from '../../../../hooks';
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     const onSubmit = async (dataset: Credentials&SignUpBody): Promise<void> => {
       try {
        
@@ -137,11 +138,20 @@ import { useAuth } from '../../../../hooks';
 >>>>>>> 54475f41 (Create module auth signIn)
 =======
 =======
+>>>>>>> 00287c65 (-add new service profile)
+=======
 >>>>>>> df35d18d (- add WS login implementation)
 >>>>>>> c662ef07 (- add WS login implementation)
     const onSubmit = async (dataset: Credentials | SignUpBody): Promise<void> => {
+=======
+    const onSubmit = async (dataset: Credentials&SignUpBody): Promise<void> => {
+>>>>>>> 7c70e1dc (-add new service profile)
       try {
+<<<<<<< HEAD
 >>>>>>> 50fe44b2 (- add WS login implementation)
+=======
+       
+>>>>>>> 00287c65 (-add new service profile)
         if (checkedSegment === 1) {
           const result = await login(dataset);
           console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:63 result', result);
@@ -195,6 +205,7 @@ import { useAuth } from '../../../../hooks';
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           const dateBirth = new Date(moment(dataset.datenai,'DD/MM/YYYY').format('YYYY-MM-DD')!);
           delete dataset.datenai 
          const result=await SignUp( {...dataset,datenai:dateBirth});
@@ -206,10 +217,17 @@ import { useAuth } from '../../../../hooks';
 >>>>>>> c662ef07 (- add WS login implementation)
 =======
 =======
+>>>>>>> 00287c65 (-add new service profile)
+=======
 >>>>>>> 30639760 (module auth and regsister token done)
 >>>>>>> 67e6b12f (module auth and regsister token done)
          
          const result=await SignUp(dataset);
+=======
+          const dateBirth = new Date(moment(dataset.datenai,'DD/MM/YYYY').format('YYYY-MM-DD')!);
+          delete dataset.datenai 
+         const result=await SignUp( {...dataset,datenai:dateBirth});
+>>>>>>> 7c70e1dc (-add new service profile)
          console.log('\x1b[34m%s\x1b[0m', 'src/modules/auth/login/viewController/index.tsx:76 result', result);
          if (result?.data?.token) {
 <<<<<<< HEAD

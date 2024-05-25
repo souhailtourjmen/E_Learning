@@ -1,6 +1,9 @@
 export const VIDEO= {
     // videos
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00287c65 (-add new service profile)
 }
 export const IMGS= {
     // videos

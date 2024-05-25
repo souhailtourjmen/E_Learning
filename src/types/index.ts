@@ -232,5 +232,21 @@ export interface DefaultValues {
     photo?: string;
     contenu: string;
 }
+<<<<<<< HEAD
 >>>>>>> 248b181a (add feature chat module)
+<<<<<<< HEAD
 >>>>>>> 3179387e (add feature chat module)
+=======
+=======
+export interface DefaultValues {
+  classe: string;
+  datenai: string;
+  email: string;
+  gouvernorat: string;
+  matricule: string;
+  nom: string;
+  numero: string;
+  prenom: string;
+}
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)

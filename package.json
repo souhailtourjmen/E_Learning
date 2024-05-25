@@ -63,6 +63,7 @@
     "dev": "cd android/ && ./gradlew clean && react-native start --reset-cache",
     "build-staging": "cp ./.env.staging ./.env && npx react-native run-android",
     "build-prod": "cp ./.env.prod ./.env && npx react-native run-android",
+<<<<<<< HEAD
     "release": "cd android && ./gradlew assembleRelease && cd ../",
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -76,7 +77,13 @@
 >>>>>>> e6aa837d (first unit project)
 =======
 >>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
 >>>>>>> b980ea3d (rename project)
+=======
+=======
+    "release": "cd android && ./gradlew clean && ./gradlew assembleRelease && cd ../",
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
     "start": "react-native start",
     "test": "jest"
   },

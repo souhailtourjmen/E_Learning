@@ -19,6 +19,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -65,6 +66,8 @@
 >>>>>>> 11b8c648 (- add dynamic screen details)
 =======
 >>>>>>> 3179387e (add feature chat module)
+=======
+>>>>>>> 00287c65 (-add new service profile)
 #Sun May 12 00:16:43 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -117,7 +120,13 @@
 =======
 #Sun May 12 16:53:14 CET 2024
 >>>>>>> 248b181a (add feature chat module)
+<<<<<<< HEAD
 >>>>>>> 3179387e (add feature chat module)
+=======
+=======
+#Sat May 25 17:18:59 CET 2024
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex

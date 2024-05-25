@@ -25,13 +25,18 @@ import {
 } from "./auth";
 =======
 
+<<<<<<< HEAD
 import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation, useForgetPasswordMutation } from "./auth";
 <<<<<<< HEAD
 >>>>>>> 525059d7 (Add screen filter for course by niveau)
 =======
+=======
+import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useForgetPasswordMutation } from "./auth";
+>>>>>>> 7c70e1dc (-add new service profile)
 import { useFetchAllChatsQuery, useSendMessageMutation } from "./chat";
 >>>>>>> 248b181a (add feature chat module)
 import { useFetchAllCourseQuery, useFetchCourseIdQuery } from "./course";
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
@@ -42,16 +47,25 @@ import { useForgetPasswordMutation, useLoginMutation, useSignUpMutation, useUpda
 >>>>>>> c662ef07 (- add WS login implementation)
 =======
 =======
+>>>>>>> 00287c65 (-add new service profile)
+=======
 import { useForgetPasswordMutation, useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useUpdateProfileMutation } from "./auth";
 >>>>>>> df35d18d (- add WS login implementation)
 =======
 >>>>>>> 343adf8e (- add dynamic screen details)
+<<<<<<< HEAD
 >>>>>>> 11b8c648 (- add dynamic screen details)
+=======
+=======
+import { useGetInfoProfileQuery, useUpdateProfileMutation } from "./profile";
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
 
 export {
   // auth
   useLoginMutation,
   useSignUpMutation,
+<<<<<<< HEAD
 <<<<<<< HEAD
   useUpdateProfileMutation,
   useUpdatePasswordMutation,
@@ -72,7 +86,10 @@ export {
   useAddVideoMutation,
 =======
   useUpdatePasswordMutation,
+=======
+>>>>>>> 00287c65 (-add new service profile)
   useUpdateProfileMutation,
+  useUpdatePasswordMutation,
   useForgetPasswordMutation,
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -81,6 +98,9 @@ export {
 =======
 >>>>>>> c662ef07 (- add WS login implementation)
   // end auth service
+  // profile service
+  useGetInfoProfileQuery,
+  // end profile service
   // course service
   useFetchAllCourseQuery,
   useFetchCourseIdQuery,

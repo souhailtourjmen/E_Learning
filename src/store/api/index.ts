@@ -88,9 +88,17 @@ export const apiSlice: any = createApi({
 =======
 =======
    "coursesFiltre",
+<<<<<<< HEAD
    'chats'
 >>>>>>> 248b181a (add feature chat module)
+<<<<<<< HEAD
 >>>>>>> 3179387e (add feature chat module)
+=======
+=======
+   'chats',
+   'profile'
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
   ],
   endpoints: builder => ({}),
 });
