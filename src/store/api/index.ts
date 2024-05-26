@@ -6,6 +6,7 @@ const baseQueryWithAuth = fetchBaseQuery({
   credentials: 'include',
   prepareHeaders: async headers => {
     const token = await getToken();
+    console.log('\x1b[34m%s\x1b[0m', 'src/store/api/index.ts:9 token', token);
     if (token) {
       headers.set('Authorization', `Bearer ${token}`);
     }
@@ -36,7 +37,8 @@ export const apiSlice: any = createApi({
    "courses",
    "coursesFiltre",
    'chats',
-   'profile'
+   'profile',
+   'Progression'
   ],
   endpoints: builder => ({}),
 });

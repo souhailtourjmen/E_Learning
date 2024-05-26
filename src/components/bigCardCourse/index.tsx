@@ -72,7 +72,6 @@ const BigCardCourse = ({
     }
     return null;
   }, [item]);
-
   const _displayWithImage = useMemo(() => {
     if (item?.photo) {
       return (
@@ -83,13 +82,16 @@ const BigCardCourse = ({
           borderRadius={BORDERRADIUS.radius_15}
           style={{ width: "100%", height: "100%" }}
         >
-          {renderContent}
+          {/* {renderContent} */}
         </ImageBackground>
       );
     }
     return renderContent;
   }, [item?.photo, renderContent]);
   return (
+    <TouchableOpacity
+      onPress={() => handleNavigateToDetatils(item?.id, item?.titre)}
+    >
     <Layout
       level="2"
       style={[
@@ -97,13 +99,10 @@ const BigCardCourse = ({
         styles.container,
       ]}
     >
-      <TouchableOpacity
-        onPress={() => handleNavigateToDetatils(item?.id, item?.titre)}
-      >
         {_displayWithImage}
-      </TouchableOpacity>
     </Layout>
+      </TouchableOpacity>
   );
 };
 
-export default BigCardCourse;
+export default memo(BigCardCourse);
