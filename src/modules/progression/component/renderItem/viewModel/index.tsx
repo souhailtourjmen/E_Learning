@@ -6,6 +6,7 @@ useEffect,
 useState,
 useMemo
 } from 'react';
+<<<<<<< HEAD
 import { RenderItemProps } from '..';
 const useRenderItemViewModels = ( item : any) => {
     // Assurez-vous que item, playList, et idCourse existent avant de les utiliser
@@ -20,6 +21,11 @@ const clampedPercentage = Math.min(Math.max(percentage, 0), 100);
 const values = useMemo(()=>{return {
     clampedPercentage
 } },[clampedPercentage])
+=======
+const useRenderItemViewModels = () => {
+const values = useMemo(()=>{return {
+} },[])
+>>>>>>> f69bf6ed (- add design progression)
 return values;
 };
 export default useRenderItemViewModels;

@@ -171,6 +171,7 @@
     "react-hook-form": "^7.51.3",
     "react-i18next": "^14.0.5",
     "react-native": "0.73.5",
+    "react-native-circular-progress-indicator": "^4.4.2",
     "react-native-config": "^1.5.1",
     "react-native-easy-content-loader": "^0.3.2",
     "react-native-gesture-handler": "^2.16.0",

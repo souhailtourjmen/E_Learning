@@ -5,6 +5,9 @@ import useHomeViewModels from "./viewModel";
 import { styles } from "./styles";
 import useHomeViewController from "./viewController";
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f69bf6ed (- add design progression)
 import { FlatList, Link, Loader, ScrollView, Text, View } from "../../components";
 import { i18next } from "../../config";
 import { COLORS, FONTSIZE, TEXT } from "../../constant";
@@ -92,11 +95,19 @@ const Home = (): ReactElement => {
     }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     return <Loader />;
 =======
     return <Spinner />;
 <<<<<<< HEAD
 >>>>>>> 7e2863bb (screen in progress)
+=======
+    return <Spinner />;
+<<<<<<< HEAD
+=======
+    return <Loader />;
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
   }, [NIVEAUX]);
   const _renderTrender = useMemo(() => {
     if (courses) {

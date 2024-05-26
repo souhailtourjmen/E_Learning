@@ -20,6 +20,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -68,6 +69,8 @@
 >>>>>>> 3179387e (add feature chat module)
 =======
 >>>>>>> 00287c65 (-add new service profile)
+=======
+>>>>>>> f69bf6ed (- add design progression)
 #Sun May 12 00:16:43 CET 2024
 =======
 #Sat Apr 20 22:04:21 CET 2024
@@ -126,7 +129,13 @@
 =======
 #Sat May 25 17:18:59 CET 2024
 >>>>>>> 7c70e1dc (-add new service profile)
+<<<<<<< HEAD
 >>>>>>> 00287c65 (-add new service profile)
+=======
+=======
+#Sun May 26 01:22:58 CET 2024
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex

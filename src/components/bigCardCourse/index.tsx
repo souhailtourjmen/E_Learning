@@ -123,9 +123,12 @@ const BigCardCourse = ({
     return null;
   }, [item]);
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 2960beef (Add screen filter for course by niveau)
+=======
+>>>>>>> f69bf6ed (- add design progression)
   const _displayWithImage = useMemo(() => {
     if (item?.photo) {
       return (
@@ -137,10 +140,14 @@ const BigCardCourse = ({
           style={{ width: "100%", height: "100%" }}
         >
 <<<<<<< HEAD
+<<<<<<< HEAD
           {/* {renderContent} */}
 =======
           {renderContent}
 >>>>>>> 2960beef (Add screen filter for course by niveau)
+=======
+          {/* {renderContent} */}
+>>>>>>> f69bf6ed (- add design progression)
         </ImageBackground>
       );
     }
@@ -166,7 +173,13 @@ const BigCardCourse = ({
 >>>>>>> 343adf8e (- add dynamic screen details)
 >>>>>>> 11b8c648 (- add dynamic screen details)
   return (
+<<<<<<< HEAD
 >>>>>>> 2960beef (Add screen filter for course by niveau)
+=======
+    <TouchableOpacity
+      onPress={() => handleNavigateToDetatils(item?.id, item?.titre)}
+    >
+>>>>>>> f69bf6ed (- add design progression)
     <Layout
       level="2"
       style={[
@@ -174,6 +187,7 @@ const BigCardCourse = ({
         styles.container,
       ]}
     >
+<<<<<<< HEAD
 <<<<<<< HEAD
         {_displayWithImage}
     </Layout>
@@ -183,6 +197,8 @@ const BigCardCourse = ({
 
 export default memo(BigCardCourse);
 =======
+=======
+>>>>>>> f69bf6ed (- add design progression)
 <<<<<<< HEAD:src/modules/home/components/bigCardCourse/index.tsx
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -301,10 +317,21 @@ export default memo(BigCardCourse);
         {_displayWithImage}
       </TouchableOpacity>
 >>>>>>> 343adf8e (- add dynamic screen details)
+<<<<<<< HEAD
 >>>>>>> 11b8c648 (- add dynamic screen details)
+=======
+=======
+        {_displayWithImage}
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
     </Layout>
+      </TouchableOpacity>
   );
 };
 
+<<<<<<< HEAD
 export default BigCardCourse;
 >>>>>>> 2960beef (Add screen filter for course by niveau)
+=======
+export default memo(BigCardCourse);
+>>>>>>> f69bf6ed (- add design progression)

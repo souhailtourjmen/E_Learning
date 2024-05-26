@@ -58,8 +58,15 @@ import { useForgetPasswordMutation, useLoginMutation, useSignUpMutation, useUpda
 =======
 =======
 import { useGetInfoProfileQuery, useUpdateProfileMutation } from "./profile";
+<<<<<<< HEAD
 >>>>>>> 7c70e1dc (-add new service profile)
+<<<<<<< HEAD
 >>>>>>> 00287c65 (-add new service profile)
+=======
+=======
+import { useAddVideoMutation, useGetProgressionByMatriculeQuery } from "./progression";
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
 
 export {
   // auth
@@ -126,7 +133,17 @@ export {
   // end course service
   // chat service 
   useFetchAllChatsQuery,
+<<<<<<< HEAD
   useSendMessageMutation
 >>>>>>> 248b181a (add feature chat module)
+<<<<<<< HEAD
 >>>>>>> 3179387e (add feature chat module)
+=======
+=======
+  useSendMessageMutation,
+
+  useGetProgressionByMatriculeQuery,
+  useAddVideoMutation,
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
 };

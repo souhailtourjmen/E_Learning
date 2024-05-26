@@ -20,6 +20,7 @@ import Video, { VideoRef } from "react-native-video";
 import { styles } from "./styles";
 import { Layout, Spinner } from "@ui-kitten/components";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { Text } from "../../components";
 import RenderIcon from "../../components/renderIcon";
 import { COLORS } from "../../constant";
@@ -52,6 +53,8 @@ import { styles } from "./styles";
 import { Layout, Spinner } from "@ui-kitten/components";
 =======
 =======
+>>>>>>> f69bf6ed (- add design progression)
+=======
 import { Platform, StyleSheet, View, useWindowDimensions } from "react-native";
 import Video, { VideoRef } from "react-native-video";
 import { styles } from "./styles";
@@ -68,6 +71,9 @@ import { Layout, Spinner } from "@ui-kitten/components";
 >>>>>>> 343adf8e (- add dynamic screen details)
 >>>>>>> 11b8c648 (- add dynamic screen details)
 import { FlatList, Text } from "../../components";
+=======
+import { Text } from "../../components";
+>>>>>>> 1d913c27 (- add design progression)
 import RenderIcon from "../../components/renderIcon";
 import { COLORS } from "../../constant";
 import MoreLessText from "../../components/moreLessText";
@@ -90,8 +96,13 @@ type CourseDetailsProps = {};
 const CourseDetails = (): ReactElement => {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   const { course, handleChargeVideo, sourceVideo } =
+=======
+  const { course, handleChargeVideo, sourceVideo,handleEnd } =
+>>>>>>> 1d913c27 (- add design progression)
     useCourseDetailsViewController();
+    console.log('\x1b[34m%s\x1b[0m', 'src/modules/courseDetails/index.tsx:28 course', course);
   const videoRef = useRef<VideoRef>(null);
   const { height, width } = useWindowDimensions();
   const _renderImages = useMemo(() => {
@@ -134,6 +145,7 @@ const CourseDetails = (): ReactElement => {
           controls
           onLoad={() => <Spinner />}
           style={styles.containerVideo}
+<<<<<<< HEAD
 <<<<<<< HEAD
           onEnd={()=>handleEnd({videoId:sourceVideo?._id!,courseId:course?._id})}
         />
@@ -217,6 +229,9 @@ const CourseDetails = (): ReactElement => {
                   <ListVideos />
                 </View>
 =======
+=======
+          onEnd={()=>handleEnd({videoId:sourceVideo.id!,courseId:course.id})}
+>>>>>>> f69bf6ed (- add design progression)
         />
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -225,7 +240,7 @@ const CourseDetails = (): ReactElement => {
       );
     }
     return null;
-  }, [sourceVideo]);
+  }, [sourceVideo,]);
 
   const _renderTtile = useMemo(() => {
     if (sourceVideo)

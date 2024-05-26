@@ -10,6 +10,7 @@ const baseQueryWithAuth = fetchBaseQuery({
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     console.log('\x1b[34m%s\x1b[0m', 'src/store/api/index.ts:9 token', token);
 =======
     // console.log('%cindex.ts line:10 token', 'color: #007acc;', token);
@@ -23,11 +24,19 @@ const baseQueryWithAuth = fetchBaseQuery({
 >>>>>>> 4cdec91b (first unit project)
 =======
 =======
+>>>>>>> f69bf6ed (- add design progression)
+=======
     // console.log('%cindex.ts line:10 token', 'color: #007acc;', token);
 >>>>>>> e6aa837d (first unit project)
 =======
 >>>>>>> df35d18d (- add WS login implementation)
+<<<<<<< HEAD
 >>>>>>> c662ef07 (- add WS login implementation)
+=======
+=======
+    console.log('\x1b[34m%s\x1b[0m', 'src/store/api/index.ts:9 token', token);
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
     if (token) {
       headers.set('Authorization', `Bearer ${token}`);
     }
@@ -96,9 +105,17 @@ export const apiSlice: any = createApi({
 =======
 =======
    'chats',
+<<<<<<< HEAD
    'profile'
 >>>>>>> 7c70e1dc (-add new service profile)
+<<<<<<< HEAD
 >>>>>>> 00287c65 (-add new service profile)
+=======
+=======
+   'profile',
+   'Progression'
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
   ],
   endpoints: builder => ({}),
 });

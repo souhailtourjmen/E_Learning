@@ -30,9 +30,13 @@ const useBigCardCourseViewController = () => {
   const handleNavigateToDetatils = useCallback(
     (id: string,title:string) => {
 <<<<<<< HEAD
+<<<<<<< HEAD
       console.log('\x1b[34m%s\x1b[0m', 'src/components/bigCardCourse/viewController/index.tsx:14 id', id);
 =======
 >>>>>>> 2960beef (Add screen filter for course by niveau)
+=======
+      console.log('\x1b[34m%s\x1b[0m', 'src/components/bigCardCourse/viewController/index.tsx:14 id', id);
+>>>>>>> f69bf6ed (- add design progression)
       if (id) {
         handleNavigate({ screen: ROUTES.CourseDetails,name:title, params: { id } });
       }

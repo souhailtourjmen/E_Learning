@@ -9,6 +9,7 @@ import { ROUTES, TEXT } from "../../constant";
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ProgressionScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
 =======
 =======
@@ -22,6 +23,8 @@ import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen,
 =======
 =======
 >>>>>>> 00287c65 (-add new service profile)
+=======
+>>>>>>> f69bf6ed (- add design progression)
 import { ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
 =======
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails } from "../../screens";
@@ -32,7 +35,13 @@ import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, Onboa
 =======
 import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
 >>>>>>> 7c70e1dc (-add new service profile)
+<<<<<<< HEAD
 >>>>>>> 00287c65 (-add new service profile)
+=======
+=======
+import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ProgressionScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
 import i18n from "../../config/mulitLang";
 import { CustomHeader } from "../../components";
 export const ARRAYROUTES = [
@@ -91,6 +100,7 @@ export const BottomRoutes = [
     route: ROUTES.UpdateProfile,
     label: i18n.t(TEXT.ROUTES.profile),
     component: UpdateProfileScreen,
+<<<<<<< HEAD
 <<<<<<< HEAD
     options:{ headerShown: true ,icon:'user'}    
   },
@@ -151,7 +161,12 @@ export const ARRAYROUTES = [
 =======
     options:{ headerShown: false ,icon:'user'}    
 >>>>>>> 00287c65 (-add new service profile)
+=======
+    options:{ headerShown: true ,icon:'user'}    
+>>>>>>> f69bf6ed (- add design progression)
   },
+  
+
   
   
 <<<<<<< HEAD

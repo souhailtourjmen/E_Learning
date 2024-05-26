@@ -68,6 +68,7 @@ export {default as ScreenCourseDetails} from './courseDetails'
 =======
 export {default as ScreenCourseDetails} from './courseDetails'
 export {default as ChatScreen} from './chat'
+<<<<<<< HEAD
 >>>>>>> 248b181a (add feature chat module)
 <<<<<<< HEAD
 >>>>>>> 3179387e (add feature chat module)
@@ -76,4 +77,11 @@ export {default as ChatScreen} from './chat'
 export {default as ChatScreen} from './chat'
 export {default as UpdateProfileScreen} from './UpdateProfileScreen'
 >>>>>>> 7c70e1dc (-add new service profile)
+<<<<<<< HEAD
 >>>>>>> 00287c65 (-add new service profile)
+=======
+=======
+export {default as UpdateProfileScreen} from './UpdateProfileScreen'
+export {default as ProgressionScreen} from './ProgressionScreen'
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)

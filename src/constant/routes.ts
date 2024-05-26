@@ -46,8 +46,15 @@ export const ROUTES = {
 =======
 =======
   UpdateProfile: 'UpdateProfile',
+<<<<<<< HEAD
 >>>>>>> 7c70e1dc (-add new service profile)
+<<<<<<< HEAD
 >>>>>>> 00287c65 (-add new service profile)
+=======
+=======
+  ProgressionScreen: 'Progression',
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
 };
 
 =======

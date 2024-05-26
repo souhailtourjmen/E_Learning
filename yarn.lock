@@ -2917,13 +2917,19 @@ abort-controller@^3.0.0:
     event-target-shim "^5.0.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f69bf6ed (- add design progression)
 abs-svg-path@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/abs-svg-path/-/abs-svg-path-0.1.1.tgz#df601c8e8d2ba10d4a76d625e236a9a39c2723bf"
   integrity sha512-d8XPSGjfyzlXC3Xx891DJRyZfqk5JU0BJrDQcsWomFIV1/BIzPW5HDH5iDdWpqWaav0YVIEzT1RHTwWr0FFshA==
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> f69bf6ed (- add design progression)
 accepts@^1.3.7, accepts@~1.3.5, accepts@~1.3.7:
   version "1.3.8"
   resolved "https://registry.npmjs.org/accepts/-/accepts-1.3.8.tgz"
@@ -6498,6 +6504,9 @@ normalize-path@^3.0.0:
   integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f69bf6ed (- add design progression)
 normalize-svg-path@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/normalize-svg-path/-/normalize-svg-path-1.1.0.tgz#0e614eca23c39f0cffe821d6be6cd17e569a766c"
@@ -6505,8 +6514,11 @@ normalize-svg-path@^1.0.1:
   dependencies:
     svg-arc-to-cubic-bezier "^3.0.0"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> f69bf6ed (- add design progression)
 npm-run-path@^4.0.1:
   version "4.0.1"
   resolved "https://registry.npmjs.org/npm-run-path/-/npm-run-path-4.0.1.tgz"
@@ -6732,13 +6744,19 @@ parse-json@^5.2.0:
     lines-and-columns "^1.1.6"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f69bf6ed (- add design progression)
 parse-svg-path@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/parse-svg-path/-/parse-svg-path-0.1.2.tgz#7a7ec0d1eb06fa5325c7d3e009b859a09b5d49eb"
   integrity sha512-JyPSBnkTJ0AI8GGJLfMXvKq42cj5c006fnLz6fXy6zfoVjJizi8BNTpu8on8ziI1cKy9d9DGNuY17Ce7wuejpQ==
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> f69bf6ed (- add design progression)
 parse5-htmlparser2-tree-adapter@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/parse5-htmlparser2-tree-adapter/-/parse5-htmlparser2-tree-adapter-7.0.0.tgz#23c2cc233bcf09bb7beba8b8a69d46b08c62c2f1"
@@ -7102,6 +7120,9 @@ react-is@^17.0.1:
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f69bf6ed (- add design progression)
 react-native-circular-progress-indicator@^4.4.2:
   version "4.4.2"
   resolved "https://registry.yarnpkg.com/react-native-circular-progress-indicator/-/react-native-circular-progress-indicator-4.4.2.tgz#5475d045950e6fcc622e54fb63863b274790fb8e"
@@ -7109,8 +7130,11 @@ react-native-circular-progress-indicator@^4.4.2:
   dependencies:
     react-native-redash "*"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> f69bf6ed (- add design progression)
 react-native-config@^1.5.1:
   version "1.5.1"
   resolved "https://registry.yarnpkg.com/react-native-config/-/react-native-config-1.5.1.tgz#73c94f511493e9b7ff9350cdf351d203a1b05acc"
@@ -7221,6 +7245,7 @@ react-native-reanimated@^3.8.1:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 react-native-redash@*:
   version "18.1.3"
   resolved "https://registry.yarnpkg.com/react-native-redash/-/react-native-redash-18.1.3.tgz#725c3efc1908425f1579d8103c27ded94d03e8f6"
@@ -7240,10 +7265,26 @@ react-native-redash@*:
 >>>>>>> 4cdec91b (first unit project)
 =======
 =======
+>>>>>>> f69bf6ed (- add design progression)
+=======
 >>>>>>> e6aa837d (first unit project)
 =======
 >>>>>>> 1b7ac40d (- add ui kitten)
+<<<<<<< HEAD
 >>>>>>> 214ba539 (- add ui kitten)
+=======
+=======
+react-native-redash@*:
+  version "18.1.3"
+  resolved "https://registry.yarnpkg.com/react-native-redash/-/react-native-redash-18.1.3.tgz#725c3efc1908425f1579d8103c27ded94d03e8f6"
+  integrity sha512-RKdmAjs87iwA8iD7UOQ11rlQL+tZh56O5+5cV1M37Jk+4uH1Fvs22G3Q5v/wGx+0ncwz3wMolLLCezONOodTlA==
+  dependencies:
+    abs-svg-path "^0.1.1"
+    normalize-svg-path "^1.0.1"
+    parse-svg-path "^0.1.2"
+
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
 react-native-rename@^3.2.14:
   version "3.2.14"
   resolved "https://registry.yarnpkg.com/react-native-rename/-/react-native-rename-3.2.14.tgz#9c368ee1bc8e3d6b93d64c669a4a2fed76894cb2"
@@ -8168,13 +8209,19 @@ supports-preserve-symlinks-flag@^1.0.0:
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f69bf6ed (- add design progression)
 svg-arc-to-cubic-bezier@^3.0.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/svg-arc-to-cubic-bezier/-/svg-arc-to-cubic-bezier-3.2.0.tgz#390c450035ae1c4a0104d90650304c3bc814abe6"
   integrity sha512-djbJ/vZKZO+gPoSDThGNpKDO+o+bAeA4XQKovvkNCqnIS2t+S4qnLAGQhyyrulhCFRl1WWzAp0wUDV8PpTVU3g==
 
+<<<<<<< HEAD
 =======
 >>>>>>> ab93aef2 (first unit project)
+=======
+>>>>>>> f69bf6ed (- add design progression)
 temp-dir@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/temp-dir/-/temp-dir-2.0.0.tgz"
