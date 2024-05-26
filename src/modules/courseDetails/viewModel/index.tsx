@@ -77,19 +77,19 @@ useMemo
 const useCourseDetailsViewModels = () => {
   const routes: any = useRoute()?.params;
   const [sourceVideo, setSourceVideo] = useState<Video | null>(null);
-  const { data, isLoading } = useFetchCourseIdQuery(routes?.params?.id, {
+  const { data, isLoading,refetch } = useFetchCourseIdQuery(routes?.params?.id, {
     skip: !routes?.params?.id,
   });
   const handleUnitVideo = useCallback(
     (course: any) => {
       if (course && course?.videoUrl) {
         setSourceVideo({
-          id:"djdj",
-          description: mediaData[0]?.description,
-          sources: course?.videoUrl,
-          subtitle: mediaData[0]?.subtitle,
-          thumb: mediaData[0]?.thumb,
-          title: mediaData[0]?.title,
+          _id: course?.playList[0]?._id,
+          description: course?.playList[0]?.description,
+          url: course?.playList[0]?.url,
+          subtitle: course?.playList[0]?.description,
+          thumb: course?.playList[0]?.thumb,
+          title: course?.playList[0]?.title,
         });
       }
     },
@@ -97,16 +97,18 @@ const useCourseDetailsViewModels = () => {
   );
 
   useEffect(() => {
-    handleUnitVideo(data);
-  }, [data, mediaData]);
+    handleUnitVideo(data?.cours);
+  }, [data]);
   const values = useMemo(() => {
     return {
-      course: data,
+      course: data?.cours,
       sourceVideo,
       setSourceVideo,
-      mediaData,
+      mediaData: data?.cours?.playList|| [],
+      progression: data?.progression|| [""],
+      refetch
     };
-  }, [data, sourceVideo, setSourceVideo, mediaData]);
+  }, [data, sourceVideo, setSourceVideo,refetch]);
   return values;
 };
 export default useCourseDetailsViewModels;

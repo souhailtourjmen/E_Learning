@@ -14,6 +14,7 @@
         fetchCourseId: builder.query({
             query: (id:string) => `/getCour/${id}`,
 <<<<<<< HEAD
+<<<<<<< HEAD
             providesTags: (result: any) => {
               return [{type: 'course'}];
             },
@@ -26,6 +27,11 @@
 =======
            
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+            providesTags: (result: any) => {
+              return [{type: 'course'}];
+            },
+>>>>>>> 413519c4 (- fixed Progression)
           }),
         fetchCourseByNiveau: builder.query({
             query: (niveau:string) => `getCourByNiveau/${decodeURI(niveau)}/`,

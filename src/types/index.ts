@@ -55,10 +55,14 @@ export interface NavigationParamsType {
   export interface Video {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     _id: string;
 =======
     id?: string;
 >>>>>>> f69bf6ed (- add design progression)
+=======
+    _id: string;
+>>>>>>> 413519c4 (- fixed Progression)
     description: string;
     url: string;
     subtitle: string;

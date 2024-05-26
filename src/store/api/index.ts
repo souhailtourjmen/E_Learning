@@ -90,12 +90,16 @@ export const apiSlice: any = createApi({
 =======
    "courses",
 <<<<<<< HEAD
+<<<<<<< HEAD
    "coursesFiltre"
 >>>>>>> 525059d7 (Add screen filter for course by niveau)
 <<<<<<< HEAD
 >>>>>>> 2960beef (Add screen filter for course by niveau)
 =======
 =======
+=======
+   "course",
+>>>>>>> f3dd575d (- fixed Progression)
    "coursesFiltre",
 <<<<<<< HEAD
    'chats'
@@ -114,8 +118,15 @@ export const apiSlice: any = createApi({
 =======
    'profile',
    'Progression'
+<<<<<<< HEAD
 >>>>>>> 1d913c27 (- add design progression)
+<<<<<<< HEAD
 >>>>>>> f69bf6ed (- add design progression)
+=======
+=======
+
+>>>>>>> f3dd575d (- fixed Progression)
+>>>>>>> 413519c4 (- fixed Progression)
   ],
   endpoints: builder => ({}),
 });

@@ -4,9 +4,13 @@ import React, {
   useCallback,
   useEffect,
 <<<<<<< HEAD
+<<<<<<< HEAD
   useMemo,
 =======
 >>>>>>> f69bf6ed (- add design progression)
+=======
+  useMemo,
+>>>>>>> 413519c4 (- fixed Progression)
   useState,
 } from "react";
 import { StyleSheet, View } from "react-native";
@@ -15,6 +19,7 @@ import { BORDERRADIUS, COLORS } from "../../../../constant";
 import { Layout } from "@ui-kitten/components";
 import { Card, Text } from "../../../../components";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import useRenderItemViewModels from "./viewModel";
 
 export type RenderItemProps = {
@@ -22,11 +27,19 @@ export type RenderItemProps = {
 
 type RenderItemProps = {
 >>>>>>> f69bf6ed (- add design progression)
+=======
+import useRenderItemViewModels from "./viewModel";
+
+export type RenderItemProps = {
+>>>>>>> 413519c4 (- fixed Progression)
   item: any;
 };
 
 const RenderItem = ({ item }: RenderItemProps): ReactElement => {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 413519c4 (- fixed Progression)
 
   const {clampedPercentage}=useRenderItemViewModels(item)
   const _renderProgressionItem=useMemo(()=>{
@@ -43,6 +56,7 @@ const RenderItem = ({ item }: RenderItemProps): ReactElement => {
     />
     )
   },[clampedPercentage,item])
+<<<<<<< HEAD
 =======
   console.log(
     "\x1b[34m%s\x1b[0m",
@@ -50,6 +64,8 @@ const RenderItem = ({ item }: RenderItemProps): ReactElement => {
     item
   );
 >>>>>>> f69bf6ed (- add design progression)
+=======
+>>>>>>> 413519c4 (- fixed Progression)
   return (
     <Card
       disabled
@@ -86,6 +102,7 @@ const RenderItem = ({ item }: RenderItemProps): ReactElement => {
         </Layout>
         <Layout>
 <<<<<<< HEAD
+<<<<<<< HEAD
          {_renderProgressionItem}
 =======
           <CircularProgress
@@ -99,6 +116,9 @@ const RenderItem = ({ item }: RenderItemProps): ReactElement => {
             titleStyle={{ fontWeight: "bold" }}
           />
 >>>>>>> f69bf6ed (- add design progression)
+=======
+         {_renderProgressionItem}
+>>>>>>> 413519c4 (- fixed Progression)
         </Layout>
       </Layout>
     </Card>

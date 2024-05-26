@@ -86,6 +86,7 @@ import useCourseDetailsViewController from "./viewController";
 import { ListVideos } from "./component";
 import CourseDetailsValueProvider from "./context";
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> feaa7651 (add Desing Screen course details)
 =======
@@ -101,19 +102,28 @@ const CourseDetails = (): ReactElement => {
 =======
   const { course, handleChargeVideo, sourceVideo,handleEnd } =
 >>>>>>> 1d913c27 (- add design progression)
+=======
+
+type CourseDetailsProps = {};
+
+const CourseDetails = (): ReactElement => {
+  const { course, handleChargeVideo, sourceVideo,handleEnd,mediaData,progression } =
+>>>>>>> f3dd575d (- fixed Progression)
     useCourseDetailsViewController();
-    console.log('\x1b[34m%s\x1b[0m', 'src/modules/courseDetails/index.tsx:28 course', course);
   const videoRef = useRef<VideoRef>(null);
   const { height, width } = useWindowDimensions();
   const _renderImages = useMemo(() => {
-    if (sourceVideo?.sources) {
+    if (sourceVideo?.url) {
       return (
         <Video
           source={{
 <<<<<<< HEAD
+<<<<<<< HEAD
             uri: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
 >>>>>>> 4005439c (add Desing Screen course details)
 =======
+=======
+>>>>>>> 413519c4 (- fixed Progression)
             uri: sourceVideo.sources,
 <<<<<<< HEAD
 >>>>>>> 97ed279c (- add dynamic screen details)
@@ -139,12 +149,19 @@ const CourseDetails = (): ReactElement => {
 =======
             uri: sourceVideo.sources,
 >>>>>>> 343adf8e (- add dynamic screen details)
+<<<<<<< HEAD
 >>>>>>> 11b8c648 (- add dynamic screen details)
+=======
+=======
+            uri: sourceVideo.url,
+>>>>>>> f3dd575d (- fixed Progression)
+>>>>>>> 413519c4 (- fixed Progression)
           }}
           ref={videoRef}
           controls
           onLoad={() => <Spinner />}
           style={styles.containerVideo}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           onEnd={()=>handleEnd({videoId:sourceVideo?._id!,courseId:course?._id})}
@@ -232,6 +249,9 @@ const CourseDetails = (): ReactElement => {
 =======
           onEnd={()=>handleEnd({videoId:sourceVideo.id!,courseId:course.id})}
 >>>>>>> f69bf6ed (- add design progression)
+=======
+          onEnd={()=>handleEnd({videoId:sourceVideo?._id!,courseId:course?._id})}
+>>>>>>> 413519c4 (- fixed Progression)
         />
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -240,7 +260,7 @@ const CourseDetails = (): ReactElement => {
       );
     }
     return null;
-  }, [sourceVideo,]);
+  }, [sourceVideo,course]);
 
   const _renderTtile = useMemo(() => {
     if (sourceVideo)
@@ -260,7 +280,7 @@ const CourseDetails = (): ReactElement => {
   }, [sourceVideo]);
 
   return (
-    <CourseDetailsValueProvider palyList={mediaData} handleChargeVideo={handleChargeVideo}>
+    <CourseDetailsValueProvider palyList={mediaData}progression={progression} handleChargeVideo={handleChargeVideo}>
       <View style={{ height, width }}>
         <View style={{ height, width }}>
           {_renderImages}

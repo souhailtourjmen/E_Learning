@@ -4,18 +4,26 @@ import { Video } from "../../../types";
 interface CourseDetailsValue {
   palyList: Video[];
 <<<<<<< HEAD
+<<<<<<< HEAD
   progression: string[];
 =======
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+  progression: string[];
+>>>>>>> 413519c4 (- fixed Progression)
   handleChargeVideo: (video: Video) => void;
 }
 type CourseDetailsPrpos = {
   children: React.ReactNode;
   palyList: Video[];
 <<<<<<< HEAD
+<<<<<<< HEAD
   progression: string[];
 =======
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+  progression: string[];
+>>>>>>> 413519c4 (- fixed Progression)
   handleChargeVideo: (video: Video) => void;
 };
 
@@ -25,10 +33,14 @@ const CourseDetailsValueContext = React.createContext<
 
 const CourseDetailsValueProvider: React.FC<CourseDetailsPrpos> = (props) => {
 <<<<<<< HEAD
+<<<<<<< HEAD
   const { children, palyList, handleChargeVideo,progression } = props;
 =======
   const { children, palyList, handleChargeVideo } = props;
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+  const { children, palyList, handleChargeVideo,progression } = props;
+>>>>>>> 413519c4 (- fixed Progression)
   /**
    * hook state for open modal
    */
@@ -38,6 +50,7 @@ const CourseDetailsValueProvider: React.FC<CourseDetailsPrpos> = (props) => {
       palyList,
       handleChargeVideo,
 <<<<<<< HEAD
+<<<<<<< HEAD
       progression
     };
   }, [palyList, handleChargeVideo,progression]);
@@ -45,6 +58,11 @@ const CourseDetailsValueProvider: React.FC<CourseDetailsPrpos> = (props) => {
     };
   }, [palyList, handleChargeVideo]);
 >>>>>>> 97ed279c (- add dynamic screen details)
+=======
+      progression
+    };
+  }, [palyList, handleChargeVideo,progression]);
+>>>>>>> 413519c4 (- fixed Progression)
 
   return (
     <CourseDetailsValueContext.Provider value={value}>
