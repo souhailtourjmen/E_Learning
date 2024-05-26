@@ -3,6 +3,7 @@ import { useLoginMutation, useSignUpMutation, useUpdatePasswordMutation, useForg
 import { useFetchAllChatsQuery, useSendMessageMutation } from "./chat";
 import { useFetchAllCourseQuery, useFetchCourseIdQuery } from "./course";
 import { useGetInfoProfileQuery, useUpdateProfileMutation } from "./profile";
+import { useAddVideoMutation, useGetProgressionByMatriculeQuery } from "./progression";
 
 export {
   // auth
@@ -21,5 +22,8 @@ export {
   // end course service
   // chat service 
   useFetchAllChatsQuery,
-  useSendMessageMutation
+  useSendMessageMutation,
+
+  useGetProgressionByMatriculeQuery,
+  useAddVideoMutation,
 };

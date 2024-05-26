@@ -1,5 +1,5 @@
 import { ROUTES, TEXT } from "../../constant";
-import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
+import { ChatScreen, ForgetPasswordScreen, HomeScreen, Intro, LoginScreen, OnboardingScreen, ProgressionScreen, ScreenCourseDetails, UpdateProfileScreen } from "../../screens";
 import i18n from "../../config/mulitLang";
 import { CustomHeader } from "../../components";
 export const ARRAYROUTES = [
@@ -49,7 +49,7 @@ export const BottomRoutes = [
   {
     route: ROUTES.MYCOURSESCREENBOTTOM,
     label: i18n.t(TEXT.ROUTES.myCourse),
-    component: HomeScreen,
+    component: ProgressionScreen,
     options:{ headerShown: false ,icon:'book'}
     
   },
@@ -58,8 +58,10 @@ export const BottomRoutes = [
     route: ROUTES.UpdateProfile,
     label: i18n.t(TEXT.ROUTES.profile),
     component: UpdateProfileScreen,
-    options:{ headerShown: false ,icon:'user'}    
+    options:{ headerShown: true ,icon:'user'}    
   },
+  
+
   
   
 ];

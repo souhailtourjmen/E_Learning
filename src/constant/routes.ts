@@ -11,5 +11,6 @@ export const ROUTES = {
   MYCOURSESCREENBOTTOM: 'MYCOURSESCREEN',
   PROFILESCREENBOTTOM: 'PROFILESCREEN',
   UpdateProfile: 'UpdateProfile',
+  ProgressionScreen: 'Progression',
 };
 

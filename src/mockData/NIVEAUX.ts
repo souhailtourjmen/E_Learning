@@ -6,13 +6,13 @@ export default [
     count: 20,
   },
   {
-    name: "8ème",
+    name: "8éme",
     image:
       "https://edynamiclearning.com/wp-content/uploads/2019/05/EDL224-Principles_BMF_1b-1.jpg",
     count: 10,
   },
   {
-    name: "9ème",
+    name: "9éme",
     image:
       "https://edynamiclearning.com/wp-content/uploads/2019/05/EDL224-Principles_BMF_1b-1.jpg",
     count: 5,
@@ -24,13 +24,13 @@ export default [
     count: 30,
   },
   {
-    name: "2ème année secondaire",
+    name: "2éme année secondaire",
     image:
       "https://edynamiclearning.com/wp-content/uploads/2019/05/EDL224-Principles_BMF_1b-1.jpg",
     count: 15,
   },
   {
-    name: "3ème année secondaire",
+    name: "3éme année secondaire",
     image:
       "https://edynamiclearning.com/wp-content/uploads/2019/05/EDL224-Principles_BMF_1b-1.jpg",
     count: 2,

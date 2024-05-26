@@ -4,7 +4,7 @@ import { Platform, useWindowDimensions } from "react-native";
 import useHomeViewModels from "./viewModel";
 import { styles } from "./styles";
 import useHomeViewController from "./viewController";
-import { FlatList, Link, ScrollView, Text, View } from "../../components";
+import { FlatList, Link, Loader, ScrollView, Text, View } from "../../components";
 import { i18next } from "../../config";
 import { COLORS, FONTSIZE, TEXT } from "../../constant";
 import { TopNavigationImageTitleShowcase } from "./components/topNavigationImageTitleShowcase";
@@ -36,7 +36,7 @@ const Home = (): ReactElement => {
         />
       );
     }
-    return <Spinner />;
+    return <Loader />;
   }, [NIVEAUX]);
   const _renderTrender = useMemo(() => {
     if (courses) {
@@ -59,7 +59,7 @@ const Home = (): ReactElement => {
        
       );
     }
-    return <Spinner />;
+    return <Loader />;
   }, [courses]);
 
   return (

@@ -16,7 +16,7 @@
            
           }),
         fetchCourseByNiveau: builder.query({
-            query: (niveau:string) => `cours/${decodeURI(niveau)}/`,
+            query: (niveau:string) => `getCourByNiveau/${decodeURI(niveau)}/`,
             providesTags: (result: any) => {
                 return [{type: 'coursesFiltre'}];
               },

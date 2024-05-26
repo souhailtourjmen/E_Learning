@@ -20,6 +20,7 @@ const useCourseDetailsViewModels = () => {
     (course: any) => {
       if (course && course?.videoUrl) {
         setSourceVideo({
+          id:"djdj",
           description: mediaData[0]?.description,
           sources: course?.videoUrl,
           subtitle: mediaData[0]?.subtitle,
@@ -32,11 +33,11 @@ const useCourseDetailsViewModels = () => {
   );
 
   useEffect(() => {
-    handleUnitVideo(data?.cours);
+    handleUnitVideo(data);
   }, [data, mediaData]);
   const values = useMemo(() => {
     return {
-      course: data?.cours,
+      course: data,
       sourceVideo,
       setSourceVideo,
       mediaData,

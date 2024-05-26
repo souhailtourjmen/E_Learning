@@ -11,7 +11,7 @@ import { View, useWindowDimensions } from "react-native";
 import Video, { VideoRef } from "react-native-video";
 import { styles } from "./styles";
 import { Layout, Spinner } from "@ui-kitten/components";
-import { FlatList, Text } from "../../components";
+import { Text } from "../../components";
 import RenderIcon from "../../components/renderIcon";
 import { COLORS } from "../../constant";
 import MoreLessText from "../../components/moreLessText";
@@ -23,8 +23,9 @@ import mediaData from "../../mockData/mediaData";
 type CourseDetailsProps = {};
 
 const CourseDetails = (): ReactElement => {
-  const { course, handleChargeVideo, sourceVideo } =
+  const { course, handleChargeVideo, sourceVideo,handleEnd } =
     useCourseDetailsViewController();
+    console.log('\x1b[34m%s\x1b[0m', 'src/modules/courseDetails/index.tsx:28 course', course);
   const videoRef = useRef<VideoRef>(null);
   const { height, width } = useWindowDimensions();
   const _renderImages = useMemo(() => {
@@ -38,11 +39,12 @@ const CourseDetails = (): ReactElement => {
           controls
           onLoad={() => <Spinner />}
           style={styles.containerVideo}
+          onEnd={()=>handleEnd({videoId:sourceVideo.id!,courseId:course.id})}
         />
       );
     }
     return null;
-  }, [sourceVideo]);
+  }, [sourceVideo,]);
 
   const _renderTtile = useMemo(() => {
     if (sourceVideo)
