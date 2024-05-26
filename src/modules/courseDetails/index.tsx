@@ -19,32 +19,31 @@ import useCourseDetailsViewModels from "./viewModel";
 import useCourseDetailsViewController from "./viewController";
 import { ListVideos } from "./component";
 import CourseDetailsValueProvider from "./context";
-import mediaData from "../../mockData/mediaData";
+
 type CourseDetailsProps = {};
 
 const CourseDetails = (): ReactElement => {
-  const { course, handleChargeVideo, sourceVideo,handleEnd } =
+  const { course, handleChargeVideo, sourceVideo,handleEnd,mediaData,progression } =
     useCourseDetailsViewController();
-    console.log('\x1b[34m%s\x1b[0m', 'src/modules/courseDetails/index.tsx:28 course', course);
   const videoRef = useRef<VideoRef>(null);
   const { height, width } = useWindowDimensions();
   const _renderImages = useMemo(() => {
-    if (sourceVideo?.sources) {
+    if (sourceVideo?.url) {
       return (
         <Video
           source={{
-            uri: sourceVideo.sources,
+            uri: sourceVideo.url,
           }}
           ref={videoRef}
           controls
           onLoad={() => <Spinner />}
           style={styles.containerVideo}
-          onEnd={()=>handleEnd({videoId:sourceVideo.id!,courseId:course.id})}
+          onEnd={()=>handleEnd({videoId:sourceVideo?._id!,courseId:course?._id})}
         />
       );
     }
     return null;
-  }, [sourceVideo,]);
+  }, [sourceVideo,course]);
 
   const _renderTtile = useMemo(() => {
     if (sourceVideo)
@@ -64,7 +63,7 @@ const CourseDetails = (): ReactElement => {
   }, [sourceVideo]);
 
   return (
-    <CourseDetailsValueProvider palyList={mediaData} handleChargeVideo={handleChargeVideo}>
+    <CourseDetailsValueProvider palyList={mediaData}progression={progression} handleChargeVideo={handleChargeVideo}>
       <View style={{ height, width }}>
         <View style={{ height, width }}>
           {_renderImages}

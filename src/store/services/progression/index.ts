@@ -13,11 +13,11 @@ export const progressionApiSlice = apiSlice.injectEndpoints({
         }),
         addVideo: builder.mutation({
             query: ({ videoId, courseId }: { videoId: string, courseId: string }) => ({
-                url: `/api/profile/updateProfileController/${courseId}`,
+                url: `/api/progresion/addVideo/${courseId}`,
                 method: "PUT",
                 body: { videoId },
             }),
-            invalidatesTags: ['Progression',],
+            invalidatesTags: ['Progression',"course"],
         }),
 
     }),

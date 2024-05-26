@@ -41,9 +41,9 @@ export interface NavigationParamsType {
     matricule?: string;
   }
   export interface Video {
-    id?: string;
+    _id: string;
     description: string;
-    sources: string;
+    url: string;
     subtitle: string;
     thumb: string;
     title: string;

@@ -8,11 +8,19 @@ import React, {
 } from "react";
 import { useCourseDetailsValueContext } from "../../../context";
 const useListVideosViewModels = () => {
-  const { palyList,handleChargeVideo } = useCourseDetailsValueContext();
+  const { palyList, handleChargeVideo, progression } =
+    useCourseDetailsValueContext();
   const [selectIndex, setselectIndex] = useState<number>(0);
   const values = useMemo(() => {
-    return { palyList,handleChargeVideo ,selectIndex, setselectIndex};
-  }, [palyList,handleChargeVideo,selectIndex, setselectIndex]);
+    return {
+      palyList,
+      handleChargeVideo,
+      selectIndex,
+      setselectIndex,
+      progression,
+    };
+  }, [palyList, handleChargeVideo, selectIndex, setselectIndex, progression]);
+  
   return values;
 };
 export default useListVideosViewModels;

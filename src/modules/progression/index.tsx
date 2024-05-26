@@ -8,7 +8,7 @@ import React, {
 } from "react";
 import { FlatList, GoBackButton, Loader, Text, View } from "../../components";
 import { styles } from "./styles";
-import { FONTFAMILY, TEXT } from "../../constant";
+import { COLORS, FONTFAMILY, TEXT } from "../../constant";
 import i18next from "i18next";
 import useProgressionViewModels from "./viewModel";
 import { Platform } from "react-native";
@@ -19,7 +19,7 @@ type ProgressionProps = {};
 const Progression = ({}: ProgressionProps): ReactElement => {
   const { courses, isLoading } = useProgressionViewModels();
   const _renderTrender = useMemo(() => {
-    if (courses) {
+    if (Array.isArray(courses)) {
       return (
         <View style={[]}>
           <FlatList
@@ -44,10 +44,18 @@ const Progression = ({}: ProgressionProps): ReactElement => {
     return <Loader />;
   }, [courses]);
   return (
-    <View >
+    <View>
       <View style={styles.titleContainer}>
         <GoBackButton
-          style={{ borderRadius: 50, width: 40, height: 40, padding: 10 }}
+          style={{
+            borderRadius: 50,
+            width: 30,
+            height: 30,
+            paddingHorizontal: "2%",
+            paddingVertical: "2%",
+            alignSelf: "center",
+            backgroundColor: COLORS.lightGray,
+          }}
         />
         <View style={styles.titleTextContainer}>
           <Text category="h5" style={{ fontFamily: FONTFAMILY?.poppins_bold }}>

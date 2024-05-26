@@ -35,10 +35,12 @@ export const apiSlice: any = createApi({
   baseQuery: baseQueryWithReauth,
   tagTypes: [
    "courses",
+   "course",
    "coursesFiltre",
    'chats',
    'profile',
    'Progression'
+
   ],
   endpoints: builder => ({}),
 });

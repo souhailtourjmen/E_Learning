@@ -3,11 +3,13 @@ import { Video } from "../../../types";
 
 interface CourseDetailsValue {
   palyList: Video[];
+  progression: string[];
   handleChargeVideo: (video: Video) => void;
 }
 type CourseDetailsPrpos = {
   children: React.ReactNode;
   palyList: Video[];
+  progression: string[];
   handleChargeVideo: (video: Video) => void;
 };
 
@@ -16,7 +18,7 @@ const CourseDetailsValueContext = React.createContext<
 >(undefined);
 
 const CourseDetailsValueProvider: React.FC<CourseDetailsPrpos> = (props) => {
-  const { children, palyList, handleChargeVideo } = props;
+  const { children, palyList, handleChargeVideo,progression } = props;
   /**
    * hook state for open modal
    */
@@ -25,8 +27,9 @@ const CourseDetailsValueProvider: React.FC<CourseDetailsPrpos> = (props) => {
     return {
       palyList,
       handleChargeVideo,
+      progression
     };
-  }, [palyList, handleChargeVideo]);
+  }, [palyList, handleChargeVideo,progression]);
 
   return (
     <CourseDetailsValueContext.Provider value={value}>

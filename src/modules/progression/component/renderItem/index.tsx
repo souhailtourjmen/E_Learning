@@ -3,6 +3,7 @@ import React, {
   memo,
   useCallback,
   useEffect,
+  useMemo,
   useState,
 } from "react";
 import { StyleSheet, View } from "react-native";
@@ -10,17 +11,29 @@ import CircularProgress from "react-native-circular-progress-indicator";
 import { BORDERRADIUS, COLORS } from "../../../../constant";
 import { Layout } from "@ui-kitten/components";
 import { Card, Text } from "../../../../components";
+import useRenderItemViewModels from "./viewModel";
 
-type RenderItemProps = {
+export type RenderItemProps = {
   item: any;
 };
 
 const RenderItem = ({ item }: RenderItemProps): ReactElement => {
-  console.log(
-    "\x1b[34m%s\x1b[0m",
-    "src/modules/progression/component/renderItem/index.tsx:18 item",
-    item
-  );
+
+  const {clampedPercentage}=useRenderItemViewModels(item)
+  const _renderProgressionItem=useMemo(()=>{
+    return(
+      <CircularProgress
+      value={clampedPercentage||0}
+      radius={60}
+      duration={2000}
+      progressValueColor={COLORS.primary}
+      maxValue={100}
+      title={`${item?.playList.length}/${item?.idCourse?.numeroVideo}`}
+      titleColor={COLORS.primary}
+      titleStyle={{ fontWeight: "bold" }}
+    />
+    )
+  },[clampedPercentage,item])
   return (
     <Card
       disabled
@@ -56,16 +69,7 @@ const RenderItem = ({ item }: RenderItemProps): ReactElement => {
           </View>
         </Layout>
         <Layout>
-          <CircularProgress
-            value={(item?.playList?.length / item?.idCourse?.numeroVideo) * 100}
-            radius={60}
-            duration={2000}
-            progressValueColor={COLORS.primary}
-            maxValue={200}
-            title={`${item?.playList.length}/${item?.idCourse?.numeroVideo}`}
-            titleColor={COLORS.primary}
-            titleStyle={{ fontWeight: "bold" }}
-          />
+         {_renderProgressionItem}
         </Layout>
       </Layout>
     </Card>
