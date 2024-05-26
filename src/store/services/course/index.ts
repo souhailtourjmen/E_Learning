@@ -13,7 +13,9 @@
           }),
         fetchCourseId: builder.query({
             query: (id:string) => `/getCour/${id}`,
-           
+            providesTags: (result: any) => {
+              return [{type: 'course'}];
+            },
           }),
         fetchCourseByNiveau: builder.query({
             query: (niveau:string) => `getCourByNiveau/${decodeURI(niveau)}/`,

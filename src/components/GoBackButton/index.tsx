@@ -1,4 +1,4 @@
-import { Image, TouchableHighlight } from "react-native";
+import { Image, Pressable, TouchableHighlight } from "react-native";
 
 import { useNavigation } from "@react-navigation/native";
 import { useCallback } from "react";
@@ -9,7 +9,7 @@ import useNavigationController from "../../navigation/viewController";
 export default function GoBackButton(props: TouchableHighlight["props"]&{color?: string}) {
   const { HandleBack } = useNavigationController();
   return (
-    <TouchableHighlight
+    <Pressable
       onPress={() => {
         HandleBack();
       }}
@@ -27,7 +27,7 @@ export default function GoBackButton(props: TouchableHighlight["props"]&{color?:
       underlayColor={COLORS.lightGray}
       {...props}
     >
-      <RenderIcon name={"chevron-left"}color={props?.color||COLORS.primary}/>
-    </TouchableHighlight>
+      <RenderIcon disabled name={"chevron-left"}color={props?.color||COLORS.primary}/>
+    </Pressable>
   );
 }

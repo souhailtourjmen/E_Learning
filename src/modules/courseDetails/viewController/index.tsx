@@ -9,20 +9,22 @@ import React, {
 import useCourseDetailsViewModels from "../viewModel";
 import { Video } from "../../../types";
 import { useAddVideoMutation } from "../../../store/services";
+import { Alert } from "react-native";
+import { AlertC } from "../../../helper/Alert";
 const useCourseDetailsViewController = () => {
-  const { course, sourceVideo, setSourceVideo, mediaData } =
+  const { course, sourceVideo, setSourceVideo,refetch, mediaData,progression } =
     useCourseDetailsViewModels();
   const [addVideo, { isLoading }] = useAddVideoMutation();
   const handleChargeVideo = useCallback(
     (video: Video) => {
-      if (video && video?.sources) {
+      if (video && video?.url) {
         setSourceVideo({
-          id: video.id,
+          _id: video?._id,
           description: video.description,
-          sources: video?.sources,
-          subtitle: video.subtitle,
-          thumb: video.thumb,
-          title: video.title,
+          url: video?.url,
+          subtitle: video?.subtitle||"",
+          thumb: video?.thumb||"",
+          title: video?.title||"",
         });
       }
     },
@@ -43,8 +45,9 @@ const useCourseDetailsViewController = () => {
       handleChargeVideo,
       mediaData,
       handleEnd,
+      progression
     };
-  }, [course, sourceVideo, handleChargeVideo, mediaData, handleEnd]);
+  }, [course, sourceVideo, handleChargeVideo, mediaData, handleEnd,progression]);
   return values;
 };
 export default useCourseDetailsViewController;
