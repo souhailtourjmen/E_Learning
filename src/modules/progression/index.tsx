@@ -32,7 +32,7 @@ const Progression = ({}: ProgressionProps): ReactElement => {
             }}
             ListEmptyComponent={() => (
               <View style={{ alignSelf: "center", marginVertical: "90%" }}>
-                <Text>Aucun cours trouvé pour ce niveau et cette matière.</Text>
+                <Text>{i18next.t(TEXT.message.notFoundCourse)}</Text>
               </View>
             )}
             renderItem={({ item }) => <RenderItem item={item} />}

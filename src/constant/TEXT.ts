@@ -39,6 +39,7 @@ export default {
     message: {
       payment: 'message.payment',
       notFound: 'message.notFound',
+      notFoundCourse: 'message.notFoundCourse',
     },
     ONBOARDING: {
       titleOne: 'OnBoarding.interface.titleOne',
