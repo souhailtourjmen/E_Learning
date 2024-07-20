@@ -1,4 +1,4 @@
-E-Learning Mobile Application
+**E-Learning Mobile Application**
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -30,7 +30,7 @@ RTK Query RTK Query is provided as an optional addon within the @reduxjs/toolkit
 UI Kitten - UI Kitten is a customizable React Native UI Library based on Eva Design System specifications, with 30+ UI components,
 node.js - version 18.18.0
 Installation
-Playpro requires Node.js v18+ to run.
+E-Learning Mobile Application requires Node.js v18+ to run.
 
 clone the repository
 # using SSH
@@ -98,9 +98,9 @@ Plugin	README
 Development
 Want to contribute? Great!
 
-Playpro uses MVVM patern for a clear separation of concerns, making it easier to develop, test, and maintain software applications. NOTE: If you don't know what MVVM is, you can either google it or read along anyway. Make a change in your file and instantaneously see your updates!
+E-Learning Mobile Application uses MVVM patern for a clear separation of concerns, making it easier to develop, test, and maintain software applications. NOTE: If you don't know what MVVM is, you can either google it or read along anyway. Make a change in your file and instantaneously see your updates!
 
-Playpro Project Tree
+E-Learning Mobile Application Project Tree
 Project Root
 📁 android: Android project files.
 📁 ios: iOS project files.
