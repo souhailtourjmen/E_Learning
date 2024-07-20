@@ -128,37 +128,36 @@ E-Learning Mobile Application uses MVVM patern for a clear separation of concern
 E-Learning Mobile Application Project Tree
 Project Root
 
-    📁 android: Android project files.
-
-📁 ios: iOS project files.
-📁src:source code .
-📁 src:assets: Static assets (images, fonts,etc.).
-📁 src:assets:img: Image assets.
-📁 src:assets:fonts: Custom fonts.
-📁 src:components: Reusable components.
-📁 src:config: Configuration files.
-📁 src:constants: Custom constants file.
-📁 src:helpers: Custom helpers functions.
-📁 src:hooks: Custom hooks for all hooks project.
-📁 /language: language file for all languages files in the project
-english.json: Custom language file for english
-french.json: Custom language file for French .
-📁 src:models: Data models and view models.
-📁 src:modules: Definition of the Module
-📁 src:navigation: Navigation setup..
-📁 src:navigation:viewController : View controller for navigation
-📁 src:screens: Application screens.
-📁 src:storage: AsyncStorage
-📁 src:store: sore redux global state management.
-📁 src:store:api:
-📁 src:store:services:
-📁 src:store:slices: index.ts: Index store redux global state management
-📁 src:types: Global types .index.ts: Definition types
-📁 src:utils: Global functions for consumers webServices .
-📄 package.tson: Project dependencies and scripts.
-📄 README.md: Project documentation.
-📄 app.json: App configuration.
-📄 App.ts: Main application entry point.
+    📁 android: Android project files.  
+    📁 ios: iOS project files.
+    📁src:source code .
+    📁 src:assets: Static assets (images, fonts,etc.).
+    📁 src:assets:img: Image assets.
+    📁 src:assets:fonts: Custom fonts.
+    📁 src:components: Reusable components.
+    📁 src:config: Configuration files.
+    📁 src:constants: Custom constants file.
+    📁 src:helpers: Custom helpers functions.
+    📁 src:hooks: Custom hooks for all hooks project.
+    📁 /language: language file for all languages files in the project
+          english.json: Custom language file for english
+          french.json: Custom language file for French .
+    📁 src:models: Data models and view models.
+    📁 src:modules: Definition of the Module
+    📁 src:navigation: Navigation setup..
+    📁 src:navigation:viewController : View controller for navigation
+    📁 src:screens: Application screens.
+    📁 src:storage: AsyncStorage
+    📁 src:store: sore redux global state management.
+    📁 src:store:api:
+    📁 src:store:services:
+    📁 src:store:slices: index.ts: Index store redux global state management
+    📁 src:types: Global types .index.ts: Definition types
+    📁 src:utils: Global functions for consumers webServices .
+    📄 package.tson: Project dependencies and scripts.
+    📄 README.md: Project documentation.
+    📄 app.json: App configuration.
+    📄 App.ts: Main application entry point.
 
 Building for source
 For production release :
