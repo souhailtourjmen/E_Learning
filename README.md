@@ -1,8 +1,8 @@
 E-Learning Mobile Application
 
-N|Solid
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-Build Status
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://playprosite.itside.co/)
 
 E-Learning Mobile Application,
 # Project description:
