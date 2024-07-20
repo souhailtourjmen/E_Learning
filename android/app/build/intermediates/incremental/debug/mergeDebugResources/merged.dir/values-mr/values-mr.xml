@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>०.२५x</item>
     <item>०.५x</item>
@@ -17,6 +29,23 @@
     <item quantity="one">%d सेकंद रिवाइंड करा</item>
     <item quantity="other">%d सेकंद रिवाइंड करा</item>
   </plurals>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d नवीन सूचना</item>
     <item quantity="other">%d नवीन सूचना</item>
@@ -49,7 +78,29 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> सह शेअर करा"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"कोलॅप्स करा"</string>
     <string gender="unknown" name="alert_description">अलर्ट</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">ऑथेंटिकेशन आवश्यक आहे</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">ऑथेंटिकेशन आवश्यक आहे</string>
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">ऑथेंटिकेशन आवश्यक आहे</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">ऑथेंटिकेशन आवश्यक आहे</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">ऑथेंटिकेशन आवश्यक आहे</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">तळाशी असलेली शीट कोलॅप्स करा</string>
     <string name="bottomsheet_action_expand">तळाशी असलेल्या शीटचा विस्तार करा</string>
     <string name="bottomsheet_action_expand_halfway">पूर्णपणे विस्तृत करा</string>
@@ -63,6 +114,18 @@
     <string gender="unknown" name="combobox_description">कॉम्बो बॉक्स</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"पासवर्ड वापरा"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"अज्ञात एरर"</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">आता प्ले करत आहे</string>
     <string name="error_icon_content_description">एरर</string>
     <string name="exo_controls_cc_disabled_description">सबटायटल सुरू करा</string>
@@ -116,6 +179,26 @@
     <string name="exo_track_surround_5_point_1">५.१ सराउंड साउंड</string>
     <string name="exo_track_surround_7_point_1">७.१ सराउंड साउंड</string>
     <string name="exo_track_unknown">अज्ञात</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <string name="error_icon_content_description">एरर</string>
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">एरर</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">एरर</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">ड्रॉपडाउन मेनू दाखवा</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"फिंगरप्रिंट सेन्सरला स्पर्श करा"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"फिंगरप्रिंट हार्डवेअर उपलब्‍ध नाही."</string>
@@ -146,12 +229,41 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">वेळ निवडा</string>
     <string name="material_timepicker_text_input_mode_description">वेळ इनपुटसाठी मजकूर इनपुट मोडवर स्विच करा.</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">थांबवा</string>
     <string name="media3_controls_play_description">प्ले करा</string>
     <string name="media3_controls_seek_back_description">मागे जा</string>
     <string name="media3_controls_seek_forward_description">पुढे जा</string>
     <string name="media3_controls_seek_to_next_description">पुढील आयटमवर जा</string>
     <string name="media3_controls_seek_to_previous_description">मागील आयटम वर जा</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">मेनू</string>
     <string gender="unknown" name="menubar_description">मेनू बार</string>
     <string gender="unknown" name="menuitem_description">मेनू आयटम</string>

@@ -29,6 +29,54 @@ export default {
     },
   
   
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    HOME: {
+      welcome: 'HOME.interface.welcome',
+      coursAVenir: 'HOME.interface.coursAVenir',
+      recommendedForYOU: 'HOME.interface.recommendedForYOU',
+      VoirTout: 'HOME.interface.VoirTout',
+      
+=======
+    ROUTES: {
+      Intro: 'ROUTES.Intro',
+>>>>>>> ab93aef2 (first unit project)
+    },
+=======
+
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+=======
+>>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> af751c6f (- add new screen onbording)
+=======
+>>>>>>> 7e2863bb (screen in progress)
+    HOME: {
+      welcome: 'HOME.interface.welcome',
+      coursAVenir: 'HOME.interface.coursAVenir',
+      recommendedForYOU: 'HOME.interface.recommendedForYOU',
+      VoirTout: 'HOME.interface.VoirTout',
+      
+=======
+    ROUTES: {
+      Intro: 'ROUTES.Intro',
+>>>>>>> e6aa837d (first unit project)
+    },
+<<<<<<< HEAD
+>>>>>>> c3fc9c43 (screen in progress)
+=======
+=======
+
+>>>>>>> 9c8d4eae (- add new screen onbording)
+<<<<<<< HEAD
+>>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
     HOME: {
       welcome: 'HOME.interface.welcome',
       coursAVenir: 'HOME.interface.coursAVenir',
@@ -36,6 +84,8 @@ export default {
       VoirTout: 'HOME.interface.VoirTout',
       
     },
+>>>>>>> d32799fd (screen in progress)
+>>>>>>> 7e2863bb (screen in progress)
     message: {
       payment: 'message.payment',
       notFound: 'message.notFound',
@@ -50,6 +100,18 @@ export default {
       descTwo: 'OnBoarding.interface.descTwo',
       descThree: 'OnBoarding.interface.descThree',
       invited: 'OnBoarding.interface.invited',
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+>>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
     },
     Login: {
       SeConnecter: 'login.interface.SeConnecter',
@@ -128,6 +190,10 @@ export default {
       signUpErrorTitle: 'signUp.interface.signUpErrorTitle',
       signUpErrorDesc: 'signUp.interface.signUpErrorDesc',
     },  
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00287c65 (-add new service profile)
     Profile: {
       welcome: 'Profile.interface.welcome',
       textBtnUpdateProfile: 'Profile.interface.textBtnUpdateProfile',
@@ -181,10 +247,31 @@ export default {
     ROUTES: {
       Intro: 'ROUTES.Intro',
       ONBOARDING: 'ROUTES.ONBOARDING',
+<<<<<<< HEAD
       home: 'ROUTES.home',
       message: 'ROUTES.message',
       myCourse: 'ROUTES.myCourse',
       profile: 'ROUTES.profile',
     },
+=======
+    }
+<<<<<<< HEAD
+>>>>>>> ab93aef2 (first unit project)
+=======
+    
+    ROUTES: {
+      Intro: 'ROUTES.Intro',
+      ONBOARDING: 'ROUTES.ONBOARDING',
+    },
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+>>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
+>>>>>>> 4cdec91b (first unit project)
+=======
+=======
+    },
+>>>>>>> 9c8d4eae (- add new screen onbording)
+>>>>>>> af751c6f (- add new screen onbording)
   };
   

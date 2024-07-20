@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0.25x</item>
     <item>0.5x</item>
@@ -17,6 +29,23 @@
     <item quantity="one">Rewind %d second</item>
     <item quantity="other">Rewind %d seconds</item>
   </plurals>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d new notification</item>
     <item quantity="other">%d new notifications</item>
@@ -48,7 +77,29 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Share with"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Share with <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Collapse"</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Authentication required</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">Authentication required</string>
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">Authentication required</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Authentication required</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Authentication required</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
     <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
@@ -61,6 +112,18 @@
     <string gender="unknown" name="combobox_description">Combo box</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Use password"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Unknown error"</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Now playing</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exo_controls_cc_disabled_description">Enable subtitles</string>
@@ -114,6 +177,26 @@
     <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
     <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
     <string name="exo_track_unknown">Unknown</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <string name="error_icon_content_description">Error</string>
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">Error</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Error</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Show drop-down menu</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Touch the fingerprint sensor"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Fingerprint hardware not available."</string>
@@ -141,12 +224,41 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Select time</string>
     <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Pause</string>
     <string name="media3_controls_play_description">Play</string>
     <string name="media3_controls_seek_back_description">Rewind</string>
     <string name="media3_controls_seek_forward_description">Fast forward</string>
     <string name="media3_controls_seek_to_next_description">Forward to next item</string>
     <string name="media3_controls_seek_to_previous_description">Rewind to previous item</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menubar_description">Menu bar</string>
     <string gender="unknown" name="menuitem_description">Menu item</string>
     <string name="mtrl_badge_numberless_content_description">New notification</string>

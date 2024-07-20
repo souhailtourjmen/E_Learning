@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0.25 ಪಟ್ಟು</item>
     <item>0.5 ಪಟ್ಟು</item>
@@ -17,6 +29,23 @@
     <item quantity="one">%d ಸೆಕೆಂಡ್‌ಗಳಷ್ಟು ರಿವೈಂಡ್ ಮಾಡಿ</item>
     <item quantity="other">%d ಸೆಕೆಂಡ್‌ಗಳಷ್ಟು ರಿವೈಂಡ್ ಮಾಡಿ</item>
   </plurals>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
     <item quantity="other">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
@@ -49,7 +78,29 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ಕುಗ್ಗಿಸಿ"</string>
     <string gender="unknown" name="alert_description">ಎಚ್ಚರಿಕೆ</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ</string>
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">ಕೆಳಭಾಗದ ಶೀಟ್ ಅನ್ನು ಕುಗ್ಗಿಸಿ</string>
     <string name="bottomsheet_action_expand">ಕೆಳಭಾಗದ ಶೀಟ್ ಅನ್ನು ವಿಸ್ತರಿಸಿ</string>
     <string name="bottomsheet_action_expand_halfway">ಅರ್ಧದಷ್ಟು ವಿಸ್ತರಿಸಿ</string>
@@ -63,6 +114,18 @@
     <string gender="unknown" name="combobox_description">ಕೊಂಬೊ ಬಾಕ್ಸ್</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"ಅಪರಿಚಿತ ದೋಷ"</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">ಇದೀಗ ಪ್ಲೇ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
     <string name="error_icon_content_description">ದೋಷ</string>
     <string name="exo_controls_cc_disabled_description">ಸಬ್‌ಟೈಟಲ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
@@ -116,6 +179,26 @@
     <string name="exo_track_surround_5_point_1">5.1 ಸರೌಂಡ್ ಶಬ್ದ</string>
     <string name="exo_track_surround_7_point_1">7.1 ಸರೌಂಡ್ ಶಬ್ದ</string>
     <string name="exo_track_unknown">ಅಪರಿಚಿತ</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <string name="error_icon_content_description">ದೋಷ</string>
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">ದೋಷ</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">ದೋಷ</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">ಡ್ರಾಪ್‌ಡೌನ್ ಮೆನು ತೋರಿಸಿ</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್‌‌ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಹಾರ್ಡ್‌ವೇರ್‌ ಲಭ್ಯವಿಲ್ಲ."</string>
@@ -146,12 +229,41 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">ಸಮಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
     <string name="material_timepicker_text_input_mode_description">ಸಮಯವನ್ನು ನಮೂದಿಸಲು ಪಠ್ಯದ ನಮೂನೆಗೆ ಬದಲಿಸಿ.</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">ವಿರಾಮಗೊಳಿಸಿ</string>
     <string name="media3_controls_play_description">ಪ್ಲೇ ಮಾಡಿ</string>
     <string name="media3_controls_seek_back_description">ಹಿಂದಕ್ಕೆ ಸೀಕ್ ಮಾಡಿ</string>
     <string name="media3_controls_seek_forward_description">ಮುಂದಕ್ಕೆ ಸೀಕ್ ಮಾಡಿ</string>
     <string name="media3_controls_seek_to_next_description">ಮುಂದಿನ ಐಟಂಗೆ ಸೀಕ್ ಮಾಡಿ</string>
     <string name="media3_controls_seek_to_previous_description">ಹಿಂದಿನ ಐಟಂಗೆ ಸೀಕ್ ಮಾಡಿ</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">ಮೆನು</string>
     <string gender="unknown" name="menubar_description">ಮೆನು ಬಾರ್</string>
     <string gender="unknown" name="menuitem_description">ಮೆನು ಐಟಂ</string>

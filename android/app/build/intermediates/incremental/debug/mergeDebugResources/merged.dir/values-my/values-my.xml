@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>၀.၂၅ ဆ</item>
     <item>၀.၅ ဆ</item>
@@ -17,6 +29,23 @@
     <item quantity="one">နောက်သို့ %d စက္ကန့်ရစ်ရန်</item>
     <item quantity="other">နောက်သို့ %d စက္ကန့်ရစ်ရန်</item>
   </plurals>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">အကြောင်းကြားချက်အသစ် %d ခု</item>
     <item quantity="other">အကြောင်းကြားချက်အသစ် %d ခု</item>
@@ -49,7 +78,29 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ဖြင့် မျှဝေရန်"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"လျှော့ပြရန်"</string>
     <string gender="unknown" name="alert_description">သတိပေးချက်</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">အထောက်အထားစိစစ်ခြင်း လိုအပ်သည်</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">အထောက်အထားစိစစ်ခြင်း လိုအပ်သည်</string>
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">အထောက်အထားစိစစ်ခြင်း လိုအပ်သည်</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">အထောက်အထားစိစစ်ခြင်း လိုအပ်သည်</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">အထောက်အထားစိစစ်ခြင်း လိုအပ်သည်</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">အောက်ခြေအပိုဆောင်း စာမျက်နှာကို ပိတ်နိုင်သည်</string>
     <string name="bottomsheet_action_expand">အောက်ခြေအပိုဆောင်း စာမျက်နှာကို ချဲ့နိုင်သည်</string>
     <string name="bottomsheet_action_expand_halfway">တစ်ဝက်ချဲ့ရန်</string>
@@ -63,6 +114,18 @@
     <string gender="unknown" name="combobox_description">ရွေးရန်အကွက်</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"စကားဝှက်သုံးရန်"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"အမျိုးအမည်မသိ အမှား"</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">ယခု ဖွင့်နေသည်</string>
     <string name="error_icon_content_description">အမှား</string>
     <string name="exo_controls_cc_disabled_description">စာတန်းထိုး ဖွင့်ပါ</string>
@@ -116,6 +179,26 @@
     <string name="exo_track_surround_5_point_1">5.1 ပတ်လည် အသံစနစ်</string>
     <string name="exo_track_surround_7_point_1">7.1 ပတ်လည် အသံစနစ်</string>
     <string name="exo_track_unknown">အမည်မသိ</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <string name="error_icon_content_description">အမှား</string>
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">အမှား</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">အမှား</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">ဆွဲချမီနူးကို ပြရန်</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"လက်ဗွေအာရုံခံကိရိယာကို တို့ပါ"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"လက်ဗွေစက်ပစ္စည်း မရနိုင်ပါ။"</string>
@@ -146,12 +229,41 @@
     <string name="material_timepicker_pm">ညနေ</string>
     <string name="material_timepicker_select_time">အချိန်ရွေးပါ</string>
     <string name="material_timepicker_text_input_mode_description">အချိန်ထည့်သွင်းရန် စာသားထည့်သွင်းမှုမုဒ်သို့ ပြောင်းပါ။</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">ခဏရပ်ရန်</string>
     <string name="media3_controls_play_description">ဖွင့်ရန်</string>
     <string name="media3_controls_seek_back_description">နောက်သို့ ရစ်ရန်</string>
     <string name="media3_controls_seek_forward_description">ရှေ့သို့ ရစ်ရန်</string>
     <string name="media3_controls_seek_to_next_description">ရှေ့တစ်ခုသို့ ရစ်ရန်</string>
     <string name="media3_controls_seek_to_previous_description">ယခင်တစ်ခုသို့ ရစ်ရန်</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">မီနူး</string>
     <string gender="unknown" name="menubar_description">မီနူး ဘားတန်း</string>
     <string gender="unknown" name="menuitem_description">မီနူး အကြောင်းအရာ</string>

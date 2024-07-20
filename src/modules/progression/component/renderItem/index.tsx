@@ -3,7 +3,14 @@ import React, {
   memo,
   useCallback,
   useEffect,
+<<<<<<< HEAD
+<<<<<<< HEAD
   useMemo,
+=======
+>>>>>>> f69bf6ed (- add design progression)
+=======
+  useMemo,
+>>>>>>> 413519c4 (- fixed Progression)
   useState,
 } from "react";
 import { StyleSheet, View } from "react-native";
@@ -11,13 +18,28 @@ import CircularProgress from "react-native-circular-progress-indicator";
 import { BORDERRADIUS, COLORS } from "../../../../constant";
 import { Layout } from "@ui-kitten/components";
 import { Card, Text } from "../../../../components";
+<<<<<<< HEAD
+<<<<<<< HEAD
 import useRenderItemViewModels from "./viewModel";
 
 export type RenderItemProps = {
+=======
+
+type RenderItemProps = {
+>>>>>>> f69bf6ed (- add design progression)
+=======
+import useRenderItemViewModels from "./viewModel";
+
+export type RenderItemProps = {
+>>>>>>> 413519c4 (- fixed Progression)
   item: any;
 };
 
 const RenderItem = ({ item }: RenderItemProps): ReactElement => {
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 413519c4 (- fixed Progression)
 
   const {clampedPercentage}=useRenderItemViewModels(item)
   const _renderProgressionItem=useMemo(()=>{
@@ -34,6 +56,16 @@ const RenderItem = ({ item }: RenderItemProps): ReactElement => {
     />
     )
   },[clampedPercentage,item])
+<<<<<<< HEAD
+=======
+  console.log(
+    "\x1b[34m%s\x1b[0m",
+    "src/modules/progression/component/renderItem/index.tsx:18 item",
+    item
+  );
+>>>>>>> f69bf6ed (- add design progression)
+=======
+>>>>>>> 413519c4 (- fixed Progression)
   return (
     <Card
       disabled
@@ -69,7 +101,24 @@ const RenderItem = ({ item }: RenderItemProps): ReactElement => {
           </View>
         </Layout>
         <Layout>
+<<<<<<< HEAD
+<<<<<<< HEAD
          {_renderProgressionItem}
+=======
+          <CircularProgress
+            value={(item?.playList?.length / item?.idCourse?.numeroVideo) * 100}
+            radius={60}
+            duration={2000}
+            progressValueColor={COLORS.primary}
+            maxValue={200}
+            title={`${item?.playList.length}/${item?.idCourse?.numeroVideo}`}
+            titleColor={COLORS.primary}
+            titleStyle={{ fontWeight: "bold" }}
+          />
+>>>>>>> f69bf6ed (- add design progression)
+=======
+         {_renderProgressionItem}
+>>>>>>> 413519c4 (- fixed Progression)
         </Layout>
       </Layout>
     </Card>

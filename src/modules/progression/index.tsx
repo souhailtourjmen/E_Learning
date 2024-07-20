@@ -8,7 +8,15 @@ import React, {
 } from "react";
 import { FlatList, GoBackButton, Loader, Text, View } from "../../components";
 import { styles } from "./styles";
+<<<<<<< HEAD
+<<<<<<< HEAD
 import { COLORS, FONTFAMILY, TEXT } from "../../constant";
+=======
+import { FONTFAMILY, TEXT } from "../../constant";
+>>>>>>> f69bf6ed (- add design progression)
+=======
+import { COLORS, FONTFAMILY, TEXT } from "../../constant";
+>>>>>>> 413519c4 (- fixed Progression)
 import i18next from "i18next";
 import useProgressionViewModels from "./viewModel";
 import { Platform } from "react-native";
@@ -19,7 +27,15 @@ type ProgressionProps = {};
 const Progression = ({}: ProgressionProps): ReactElement => {
   const { courses, isLoading } = useProgressionViewModels();
   const _renderTrender = useMemo(() => {
+<<<<<<< HEAD
+<<<<<<< HEAD
     if (Array.isArray(courses)) {
+=======
+    if (courses) {
+>>>>>>> f69bf6ed (- add design progression)
+=======
+    if (Array.isArray(courses)) {
+>>>>>>> 413519c4 (- fixed Progression)
       return (
         <View style={[]}>
           <FlatList
@@ -44,6 +60,8 @@ const Progression = ({}: ProgressionProps): ReactElement => {
     return <Loader />;
   }, [courses]);
   return (
+<<<<<<< HEAD
+<<<<<<< HEAD
     <View>
       <View style={styles.titleContainer}>
         <GoBackButton
@@ -56,6 +74,26 @@ const Progression = ({}: ProgressionProps): ReactElement => {
             alignSelf: "center",
             backgroundColor: COLORS.lightGray,
           }}
+=======
+    <View >
+      <View style={styles.titleContainer}>
+        <GoBackButton
+          style={{ borderRadius: 50, width: 40, height: 40, padding: 10 }}
+>>>>>>> f69bf6ed (- add design progression)
+=======
+    <View>
+      <View style={styles.titleContainer}>
+        <GoBackButton
+          style={{
+            borderRadius: 50,
+            width: 30,
+            height: 30,
+            paddingHorizontal: "2%",
+            paddingVertical: "2%",
+            alignSelf: "center",
+            backgroundColor: COLORS.lightGray,
+          }}
+>>>>>>> 413519c4 (- fixed Progression)
         />
         <View style={styles.titleTextContainer}>
           <Text category="h5" style={{ fontFamily: FONTFAMILY?.poppins_bold }}>

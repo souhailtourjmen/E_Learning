@@ -106,7 +106,31 @@ const CustomButton = ({flatListRef, flatListIndex, dataLength, x}: Props) => {
         if (flatListIndex.value < dataLength - 1) {
           flatListRef.current?.scrollToIndex({index: flatListIndex.value + 1});
         } else {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
         handleGetStarted({screen: ROUTES.HomeScreen});
+=======
+          // handleGetStarted({screen: ROUTES.HomeBottom});
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+        handleGetStarted({screen: ROUTES.HomeScreen});
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
+        handleGetStarted({screen: ROUTES.HomeScreen});
+=======
+          // handleGetStarted({screen: ROUTES.HomeBottom});
+>>>>>>> 9c8d4eae (- add new screen onbording)
+<<<<<<< HEAD
+>>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
+        handleGetStarted({screen: ROUTES.HomeScreen});
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
         }
       }}>
       <Animated.View

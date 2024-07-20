@@ -25,7 +25,44 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 target 'DigitalTn' do
+=======
+target 'Reserver' do
+>>>>>>> ab93aef2 (first unit project)
+=======
+target 'Reserver' do
+>>>>>>> 9ce4bce8 (rename project)
+=======
+target 'DigitalTn' do
+>>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
+target 'DigitalTn' do
+=======
+target 'Reserver' do
+>>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
+>>>>>>> 4cdec91b (first unit project)
+=======
+=======
+target 'Reserver' do
+>>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+target 'DigitalTn' do
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
   config = use_native_modules!
 
   use_react_native!(
@@ -39,7 +76,44 @@ target 'DigitalTn' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   target 'DigitalTnTests' do
+=======
+  target 'ReserverTests' do
+>>>>>>> ab93aef2 (first unit project)
+=======
+  target 'ReserverTests' do
+>>>>>>> 9ce4bce8 (rename project)
+=======
+  target 'DigitalTnTests' do
+>>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
+  target 'DigitalTnTests' do
+=======
+  target 'ReserverTests' do
+>>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
+>>>>>>> 4cdec91b (first unit project)
+=======
+=======
+  target 'ReserverTests' do
+>>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+  target 'DigitalTnTests' do
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
     inherit! :complete
     # Pods for testing
   end

@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25-kordne</item>
     <item>0,5-kordne</item>
@@ -17,6 +29,23 @@
     <item quantity="one">Keri %d sekund tagasi</item>
     <item quantity="other">Keri %d sekundit tagasi</item>
   </plurals>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d uus märguanne</item>
     <item quantity="other">%d uut märguannet</item>
@@ -49,7 +78,29 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Jagamine rakendusega <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ahendamine"</string>
     <string gender="unknown" name="alert_description">Hoiatus</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Vajalik on autentimine</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">Vajalik on autentimine</string>
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">Vajalik on autentimine</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Vajalik on autentimine</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Vajalik on autentimine</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Alumise lehe ahendamine</string>
     <string name="bottomsheet_action_expand">Alumise lehe laiendamine</string>
     <string name="bottomsheet_action_expand_halfway">Laiendamine poolenisti</string>
@@ -63,6 +114,18 @@
     <string gender="unknown" name="combobox_description">Liitboks</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Kasuta parooli"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Tundmatu viga"</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Hetkel mängimas</string>
     <string name="error_icon_content_description">Viga</string>
     <string name="exo_controls_cc_disabled_description">Luba subtiitrid</string>
@@ -116,6 +179,26 @@
     <string name="exo_track_surround_5_point_1">Ruumiline heli 5.1</string>
     <string name="exo_track_surround_7_point_1">Ruumiline heli 7.1</string>
     <string name="exo_track_unknown">Teadmata</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <string name="error_icon_content_description">Viga</string>
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">Viga</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Viga</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Kuva rippmenüü</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Puudutage sõrmejäljeandurit"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Sõrmejälje riistvara pole saadaval."</string>
@@ -145,12 +228,41 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Aja valimine</string>
     <string name="material_timepicker_text_input_mode_description">Aktiveerige kellaaja sisestamiseks tekstisisestusrežiim.</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Peatamine</string>
     <string name="media3_controls_play_description">Esitamine</string>
     <string name="media3_controls_seek_back_description">Tagasikerimine</string>
     <string name="media3_controls_seek_forward_description">Edasikerimine</string>
     <string name="media3_controls_seek_to_next_description">Järgmise üksuse juurde liikumine</string>
     <string name="media3_controls_seek_to_previous_description">Eelmise üksuse juurde liikumine</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Menüü</string>
     <string gender="unknown" name="menubar_description">Menüüriba</string>
     <string gender="unknown" name="menuitem_description">Menüü-üksus</string>

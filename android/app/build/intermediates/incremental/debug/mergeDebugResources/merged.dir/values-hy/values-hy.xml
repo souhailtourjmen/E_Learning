@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0,25x</item>
     <item>0,5x</item>
@@ -17,6 +29,23 @@
     <item quantity="one">%d վայրկյան հետ տալ</item>
     <item quantity="other">%d վայրկյան հետ տալ</item>
   </plurals>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d նոր ծանուցում</item>
     <item quantity="other">%d նոր ծանուցում</item>
@@ -48,7 +77,29 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Կիսվել…"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Կիսվել <ns1:g id="APPLICATION_NAME">%s</ns1:g> հավելվածի միջոցով"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ծալել"</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">Պահանջվում է նույնականացում</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">Պահանջվում է նույնականացում</string>
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">Պահանջվում է նույնականացում</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">Պահանջվում է նույնականացում</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">Պահանջվում է նույնականացում</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">Ծալել ներքևի էկրանը</string>
     <string name="bottomsheet_action_expand">Ծավալել ներքևի էկրանը</string>
     <string name="bottomsheet_action_expand_halfway">Ծավալել կիսով չափ</string>
@@ -60,6 +111,18 @@
     <string gender="unknown" name="combobox_description">Կոմբո արկղ</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"Օգտագործել գաղտնաբառ"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"Անհայտ սխալ"</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">Այժմ նվագարկվում է</string>
     <string name="error_icon_content_description">Սխալ</string>
     <string name="exo_controls_cc_disabled_description">Միացնել ենթագրերը</string>
@@ -113,6 +176,26 @@
     <string name="exo_track_surround_5_point_1">5․1 ծավալային ձայն</string>
     <string name="exo_track_surround_7_point_1">7․1 ծավալային ձայն</string>
     <string name="exo_track_unknown">Անհայտ</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <string name="error_icon_content_description">Սխալ</string>
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">Սխալ</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">Սխալ</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">Ցույց տալ իջնող ընտրացանկը</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Հպեք մատնահետքի սկաներին"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Մատնահետքերի սարքն անհասանելի է:"</string>
@@ -142,12 +225,41 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Ժամանակի ընտրություն</string>
     <string name="material_timepicker_text_input_mode_description">Ժամը մուտքագրելու համար միացրեք տեքստի մուտքագրման ռեժիմը:</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">Դադարեցնել</string>
     <string name="media3_controls_play_description">Նվագարկել</string>
     <string name="media3_controls_seek_back_description">Հետ գնալ</string>
     <string name="media3_controls_seek_forward_description">Առաջ գնալ</string>
     <string name="media3_controls_seek_to_next_description">Անցնել հաջորդ տարրին</string>
     <string name="media3_controls_seek_to_previous_description">Անցնել նախորդ տարրին</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">Ընտրացանկ</string>
     <string name="mtrl_badge_numberless_content_description">Նոր ծանուցում</string>
     <string name="mtrl_chip_close_icon_content_description">Հեռացնել (%1$s)</string>

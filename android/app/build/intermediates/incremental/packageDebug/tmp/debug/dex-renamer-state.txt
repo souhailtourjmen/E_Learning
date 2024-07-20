@@ -1,4 +1,141 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 #Sun May 26 01:22:58 CET 2024
+=======
+#Sat Apr 20 22:04:21 CET 2024
+>>>>>>> 38206cac (- add ui kitten)
+=======
+#Sat Apr 20 23:00:32 CET 2024
+>>>>>>> 5c6f7ff1 (- add new screen onbording)
+=======
+#Sun Apr 21 08:18:01 CET 2024
+>>>>>>> ef87bf9c (Create module auth signIn)
+=======
+#Mon Apr 22 19:50:11 CET 2024
+>>>>>>> c3fc9c43 (screen in progress)
+=======
+#Sat Apr 27 21:07:01 CET 2024
+>>>>>>> 0dd5df8f (- ADD element in screen home)
+=======
+#Thu May 09 22:30:31 CET 2024
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+#Fri May 10 22:30:11 CET 2024
+>>>>>>> 1df81466 (module auth and regsister token done)
+=======
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
+#Sun May 12 00:16:43 CET 2024
+>>>>>>> 97ed279c (- add dynamic screen details)
+=======
+=======
+>>>>>>> af751c6f (- add new screen onbording)
+=======
+>>>>>>> 54475f41 (Create module auth signIn)
+=======
+>>>>>>> 7e2863bb (screen in progress)
+=======
+>>>>>>> 68f5f074 (- ADD element in screen home)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+>>>>>>> 67e6b12f (module auth and regsister token done)
+=======
+>>>>>>> 11b8c648 (- add dynamic screen details)
+=======
+>>>>>>> 3179387e (add feature chat module)
+=======
+>>>>>>> 00287c65 (-add new service profile)
+=======
+>>>>>>> f69bf6ed (- add design progression)
+#Sun May 12 00:16:43 CET 2024
+=======
+#Sat Apr 20 22:04:21 CET 2024
+>>>>>>> 1b7ac40d (- add ui kitten)
+<<<<<<< HEAD
+>>>>>>> 214ba539 (- add ui kitten)
+=======
+=======
+#Sat Apr 20 23:00:32 CET 2024
+>>>>>>> 9c8d4eae (- add new screen onbording)
+<<<<<<< HEAD
+>>>>>>> af751c6f (- add new screen onbording)
+=======
+=======
+#Sun Apr 21 08:18:01 CET 2024
+>>>>>>> 69415541 (Create module auth signIn)
+<<<<<<< HEAD
+>>>>>>> 54475f41 (Create module auth signIn)
+=======
+=======
+#Mon Apr 22 19:50:11 CET 2024
+>>>>>>> d32799fd (screen in progress)
+<<<<<<< HEAD
+>>>>>>> 7e2863bb (screen in progress)
+=======
+=======
+#Sat Apr 27 21:07:01 CET 2024
+>>>>>>> 5bdf0af8 (- ADD element in screen home)
+<<<<<<< HEAD
+>>>>>>> 68f5f074 (- ADD element in screen home)
+=======
+=======
+#Thu May 09 22:30:31 CET 2024
+>>>>>>> feaa7651 (add Desing Screen course details)
+<<<<<<< HEAD
+>>>>>>> 9cfb1182 (add Desing Screen course details)
+=======
+=======
+#Fri May 10 22:30:11 CET 2024
+>>>>>>> 30639760 (module auth and regsister token done)
+<<<<<<< HEAD
+>>>>>>> 67e6b12f (module auth and regsister token done)
+=======
+=======
+#Sun May 12 00:16:43 CET 2024
+>>>>>>> 343adf8e (- add dynamic screen details)
+<<<<<<< HEAD
+>>>>>>> 11b8c648 (- add dynamic screen details)
+=======
+=======
+#Sun May 12 16:53:14 CET 2024
+>>>>>>> 248b181a (add feature chat module)
+<<<<<<< HEAD
+>>>>>>> 3179387e (add feature chat module)
+=======
+=======
+#Sat May 25 17:18:59 CET 2024
+>>>>>>> 7c70e1dc (-add new service profile)
+<<<<<<< HEAD
+>>>>>>> 00287c65 (-add new service profile)
+=======
+=======
+#Sun May 26 01:22:58 CET 2024
+>>>>>>> 1d913c27 (- add design progression)
+>>>>>>> f69bf6ed (- add design progression)
 path.4=7/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex
@@ -8,6 +145,53 @@ path.5=classes2.dex
 path.0=classes.dex
 base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
 base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+=======
+#Sat Apr 20 12:18:51 CET 2024
+path.4=14/classes.dex
+path.3=1/classes.dex
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
+=======
+#Sat Apr 20 12:39:25 CET 2024
+path.4=7/classes.dex
+path.3=14/classes.dex
+<<<<<<< HEAD
+>>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
+path.2=0/classes.dex
+path.1=0/classes.dex
+path.5=classes2.dex
+path.0=classes.dex
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+>>>>>>> 9ce4bce8 (rename project)
+=======
+base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+>>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+>>>>>>> a2d98ded (rename project)
+=======
+base.4=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.3=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
 base.2=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.1=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
 base.0=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
@@ -15,8 +199,36 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 renamed.6=classes7.dex
 renamed.5=classes6.dex
 base.6=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+=======
+renamed.5=classes6.dex
+<<<<<<< HEAD
+>>>>>>> 9ce4bce8 (rename project)
+=======
+renamed.6=classes7.dex
+renamed.5=classes6.dex
+base.6=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+renamed.6=classes7.dex
+renamed.5=classes6.dex
+base.6=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
 renamed.4=classes5.dex
 base.5=/Users/souhail/Documents/freelancer/MOBILE_E-LEAARNING/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex

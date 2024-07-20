@@ -1,26 +1,133 @@
 {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   "name": "digital.tn",
+=======
+  "name": "Reserver",
+>>>>>>> ab93aef2 (first unit project)
+=======
+  "name": "Reserver",
+>>>>>>> 9ce4bce8 (rename project)
+=======
+  "name": "digital.tn",
+>>>>>>> 0d945e64 (change name Digital.Tn)
+=======
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+>>>>>>> 8ad543a9 (change name Digital.Tn)
+  "name": "digital.tn",
+=======
+  "name": "Reserver",
+>>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
+>>>>>>> 4cdec91b (first unit project)
+=======
+=======
+  "name": "Reserver",
+>>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+  "name": "digital.tn",
+>>>>>>> d795e8b9 (change name Digital.Tn)
+>>>>>>> 8ad543a9 (change name Digital.Tn)
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "lint": "eslint .",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     "dev": "cd android/ && ./gradlew clean && react-native start --reset-cache",
     "build-staging": "cp ./.env.staging ./.env && npx react-native run-android",
     "build-prod": "cp ./.env.prod ./.env && npx react-native run-android",
     "release": "cd android && ./gradlew clean && ./gradlew assembleRelease && cd ../",
+=======
+>>>>>>> ab93aef2 (first unit project)
+=======
+=======
+>>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+    "dev": "cd android/ && ./gradlew clean && react-native start --reset-cache",
+    "build-staging": "cp ./.env.staging ./.env && npx react-native run-android",
+    "build-prod": "cp ./.env.prod ./.env && npx react-native run-android",
+<<<<<<< HEAD
+    "release": "cd android && ./gradlew assembleRelease && cd ../",
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9ce4bce8 (rename project)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
+=======
+=======
+>>>>>>> e6aa837d (first unit project)
+=======
+>>>>>>> a2d98ded (rename project)
+<<<<<<< HEAD
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+    "release": "cd android && ./gradlew clean && ./gradlew assembleRelease && cd ../",
+>>>>>>> 7c70e1dc (-add new service profile)
+>>>>>>> 00287c65 (-add new service profile)
     "start": "react-native start",
     "test": "jest"
   },
   "dependencies": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4cdec91b (first unit project)
+=======
+>>>>>>> 214ba539 (- add ui kitten)
     "@eva-design/eva": "^2.2.0",
     "@hookform/resolvers": "^3.3.4",
+<<<<<<< HEAD
     "@react-navigation/bottom-tabs": "^6.5.20",
+=======
+<<<<<<< HEAD
+>>>>>>> ab93aef2 (first unit project)
+=======
+    "@eva-design/eva": "^2.2.0",
+>>>>>>> 38206cac (- add ui kitten)
+=======
+>>>>>>> ef87bf9c (Create module auth signIn)
+=======
+>>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
+>>>>>>> 4cdec91b (first unit project)
+=======
+=======
+    "@eva-design/eva": "^2.2.0",
+>>>>>>> 1b7ac40d (- add ui kitten)
+<<<<<<< HEAD
+>>>>>>> 214ba539 (- add ui kitten)
+=======
+=======
+>>>>>>> 69415541 (Create module auth signIn)
+>>>>>>> 54475f41 (Create module auth signIn)
     "@react-navigation/native": "^6.1.14",
     "@react-navigation/native-stack": "^6.9.22",
     "@react-navigation/stack": "^6.3.25",
     "@reduxjs/toolkit": "^2.2.1",
+<<<<<<< HEAD
+<<<<<<< HEAD
     "@shopify/flash-list": "^1.6.4",
     "@types/react-native-video": "^5.0.19",
     "@ui-kitten/components": "^5.3.1",
@@ -49,6 +156,82 @@
     "react-redux": "^9.1.0",
     "yarn": "^1.22.21",
     "yup": "^1.4.0"
+=======
+=======
+    "@shopify/flash-list": "^1.6.4",
+>>>>>>> 3179387e (add feature chat module)
+    "@types/react-native-video": "^5.0.19",
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "@ui-kitten/components": "^5.3.1",
+    "add": "^2.0.6",
+    "i18next": "^23.10.0",
+    "moment": "^2.30.1",
+<<<<<<< HEAD
+    "react": "18.2.0",
+    "react-hook-form": "^7.51.3",
+    "react-i18next": "^14.0.5",
+    "react-native": "0.73.5",
+    "react-native-circular-progress-indicator": "^4.4.2",
+    "react-native-config": "^1.5.1",
+    "react-native-easy-content-loader": "^0.3.2",
+    "react-native-gesture-handler": "^2.16.0",
+    "react-native-keychain": "^8.2.0",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-localize": "^3.0.6",
+    "react-native-reanimated": "^3.8.1",
+    "react-native-rename": "^3.2.14",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-screens": "^3.29.0",
+    "react-native-svg": "^15.1.0",
+    "react-native-vector-icons": "^10.0.3",
+    "react-native-video": "^6.0.0-beta.8",
+    "react-redux": "^9.1.0",
+<<<<<<< HEAD
+    "yarn": "^1.22.21"
+>>>>>>> ab93aef2 (first unit project)
+=======
+    "yarn": "^1.22.21",
+    "yup": "^1.4.0"
+<<<<<<< HEAD
+>>>>>>> ef87bf9c (Create module auth signIn)
+=======
+=======
+=======
+    "@ui-kitten/components": "^5.3.1",
+>>>>>>> 1b7ac40d (- add ui kitten)
+    "add": "^2.0.6",
+    "i18next": "^23.10.0",
+=======
+>>>>>>> 69415541 (Create module auth signIn)
+    "react": "18.2.0",
+    "react-hook-form": "^7.51.3",
+    "react-i18next": "^14.0.5",
+    "react-native": "0.73.5",
+    "react-native-config": "^1.5.1",
+    "react-native-gesture-handler": "^2.16.0",
+    "react-native-keychain": "^8.2.0",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-localize": "^3.0.6",
+    "react-native-reanimated": "^3.8.1",
+    "react-native-rename": "^3.2.14",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-screens": "^3.29.0",
+    "react-native-svg": "^15.1.0",
+    "react-native-vector-icons": "^10.0.3",
+    "react-native-video": "^6.0.0-beta.8",
+    "react-redux": "^9.1.0",
+<<<<<<< HEAD
+    "yarn": "^1.22.21"
+>>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
+>>>>>>> 4cdec91b (first unit project)
+=======
+=======
+    "yarn": "^1.22.21",
+    "yup": "^1.4.0"
+>>>>>>> 69415541 (Create module auth signIn)
+>>>>>>> 54475f41 (Create module auth signIn)
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

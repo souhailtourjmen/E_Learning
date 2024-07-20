@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0.25x</item>
     <item>0.5x</item>
@@ -17,6 +29,23 @@
     <item quantity="one">กรอกลับ %d วินาที</item>
     <item quantity="other">กรอกลับ %d วินาที</item>
   </plurals>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
@@ -49,7 +78,29 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"แชร์ทาง <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ยุบ"</string>
     <string gender="unknown" name="alert_description">การแจ้งเตือน</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">ต้องมีการตรวจสอบสิทธิ์</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">ต้องมีการตรวจสอบสิทธิ์</string>
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">ต้องมีการตรวจสอบสิทธิ์</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">ต้องมีการตรวจสอบสิทธิ์</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">ต้องมีการตรวจสอบสิทธิ์</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">ยุบ Bottom Sheet</string>
     <string name="bottomsheet_action_expand">ขยาย Bottom Sheet</string>
     <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
@@ -63,6 +114,18 @@
     <string gender="unknown" name="combobox_description">กล่องคอมโบ</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"ใช้รหัสผ่าน"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"ข้อผิดพลาดที่ไม่รู้จัก"</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">กำลังเล่น</string>
     <string name="error_icon_content_description">ข้อผิดพลาด</string>
     <string name="exo_controls_cc_disabled_description">เปิดใช้คำบรรยาย</string>
@@ -116,6 +179,26 @@
     <string name="exo_track_surround_5_point_1">ระบบเสียง 5.1 เซอร์ราวด์</string>
     <string name="exo_track_surround_7_point_1">7.1 เสียงเซอร์ราวด์</string>
     <string name="exo_track_unknown">ไม่ทราบ</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <string name="error_icon_content_description">ข้อผิดพลาด</string>
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">ข้อผิดพลาด</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">ข้อผิดพลาด</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">แสดงเมนูแบบเลื่อนลง</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"แตะเซ็นเซอร์ลายนิ้วมือ"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"ฮาร์ดแวร์ลายนิ้วมือไม่พร้อมใช้งาน"</string>
@@ -146,12 +229,41 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">เลือกเวลา</string>
     <string name="material_timepicker_text_input_mode_description">สลับไปโหมดป้อนข้อความเพื่อป้อนเวลา</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">หยุดชั่วคราว</string>
     <string name="media3_controls_play_description">เล่น</string>
     <string name="media3_controls_seek_back_description">กรอกลับ</string>
     <string name="media3_controls_seek_forward_description">กรอไปข้างหน้า</string>
     <string name="media3_controls_seek_to_next_description">กรอไปยังรายการถัดไป</string>
     <string name="media3_controls_seek_to_previous_description">กรอไปยังรายการก่อนหน้า</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">เมนู</string>
     <string gender="unknown" name="menubar_description">แถบเมนู</string>
     <string gender="unknown" name="menuitem_description">รายการในเมนู</string>

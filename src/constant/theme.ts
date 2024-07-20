@@ -133,7 +133,31 @@ interface IColor {
 }
 
 export const COLORS: IColor = {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   primary:  "#070576",
+=======
+  primary:  "#172731",
+>>>>>>> ab93aef2 (first unit project)
+=======
+  primary:  "#010038",
+>>>>>>> 38206cac (- add ui kitten)
+=======
+=======
+>>>>>>> 214ba539 (- add ui kitten)
+  primary:  "#070576",
+=======
+  primary:  "#172731",
+>>>>>>> e6aa837d (first unit project)
+<<<<<<< HEAD
+>>>>>>> 4cdec91b (first unit project)
+=======
+=======
+  primary:  "#010038",
+>>>>>>> 1b7ac40d (- add ui kitten)
+>>>>>>> 214ba539 (- add ui kitten)
   primaryDarkGrey:  "#222E36",
   secondary: "#7A182A",
   secondaryPink:"#B18787",

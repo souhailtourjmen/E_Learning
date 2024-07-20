@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string-array name="exo_controls_playback_speeds">
     <item>0.25x</item>
     <item>0.5x</item>
@@ -17,6 +29,23 @@
     <item quantity="one">ខា​ថយក្រោយ %d វិនាទី</item>
     <item quantity="other">ខា​ថយក្រោយ %d វិនាទី</item>
   </plurals>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">ការជូនដំណឹងថ្មី %d</item>
     <item quantity="other">ការជូនដំណឹងថ្មី %d</item>
@@ -49,7 +78,29 @@
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"ចែក​រំលែក​ជា​មួយ <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"បង្រួម"</string>
     <string gender="unknown" name="alert_description">ជូន​ដំណឹង</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <string name="authentication_required">តម្រូវឱ្យ​មាន​ការផ្ទៀងផ្ទាត់</string>
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+    <string name="authentication_required">តម្រូវឱ្យ​មាន​ការផ្ទៀងផ្ទាត់</string>
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+    <string name="authentication_required">តម្រូវឱ្យ​មាន​ការផ្ទៀងផ្ទាត់</string>
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+    <string name="authentication_required">តម្រូវឱ្យ​មាន​ការផ្ទៀងផ្ទាត់</string>
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+    <string name="authentication_required">តម្រូវឱ្យ​មាន​ការផ្ទៀងផ្ទាត់</string>
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="bottomsheet_action_collapse">បង្រួមសន្លឹក​ខាងក្រោម</string>
     <string name="bottomsheet_action_expand">ពង្រីកសន្លឹក​ខាងក្រោម</string>
     <string name="bottomsheet_action_expand_halfway">ពង្រីក​ពាក់កណ្ដាល</string>
@@ -63,6 +114,18 @@
     <string gender="unknown" name="combobox_description">ប្រអប់បញ្ចូលគ្នា</string>
     <string msgid="5912733858573823945" name="confirm_device_credential_password">"ប្រើពាក្យសម្ងាត់"</string>
     <string msgid="4776854077120974966" name="default_error_msg">"មាន​បញ្ហា​ដែល​មិន​ស្គាល់"</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="default_notification_channel_name">កំពុងចាក់</string>
     <string name="error_icon_content_description">បញ្ហា</string>
     <string name="exo_controls_cc_disabled_description">បើកអក្សររត់</string>
@@ -116,6 +179,26 @@
     <string name="exo_track_surround_5_point_1">សំឡេង​រងំ​ខ្នាត 5.1</string>
     <string name="exo_track_surround_7_point_1">សំឡេង​រងំ​ខ្នាត 7.1</string>
     <string name="exo_track_unknown">មិនស្គាល់</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <string name="error_icon_content_description">បញ្ហា</string>
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+    <string name="error_icon_content_description">បញ្ហា</string>
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+    <string name="error_icon_content_description">បញ្ហា</string>
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="exposed_dropdown_menu_content_description">បង្ហាញ​ម៉ឺនុយ​ធ្លាក់ចុះ</string>
     <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"ប៉ះ​ឧបករណ៍​ចាប់ស្នាម​ម្រាមដៃ"</string>
     <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"មិន​អាច​ប្រើហាតវែរ​ស្នាមម្រាមដៃបាន​ទេ។"</string>
@@ -146,12 +229,41 @@
     <string name="material_timepicker_pm">ល្ងាច</string>
     <string name="material_timepicker_select_time">ជ្រើស​ម៉ោង</string>
     <string name="material_timepicker_text_input_mode_description">ប្តូរ​ទៅ​មុខងារ​បញ្ចូល​អក្សរ​សម្រាប់​ការ​បញ្ចូល​ម៉ោង។</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string name="media3_controls_pause_description">ផ្អាក</string>
     <string name="media3_controls_play_description">ចាក់</string>
     <string name="media3_controls_seek_back_description">ថយក្រោយ</string>
     <string name="media3_controls_seek_forward_description">រំលង​​ទៅ​មុខ</string>
     <string name="media3_controls_seek_to_next_description">ទៅកាន់ធាតុបន្ទាប់</string>
     <string name="media3_controls_seek_to_previous_description">ទៅកាន់ធាតុមុន</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9ce4bce8 (rename project)
+=======
+>>>>>>> 4005439c (add Desing Screen course details)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+>>>>>>> b980ea3d (rename project)
+=======
+=======
+>>>>>>> a2d98ded (rename project)
+=======
+>>>>>>> feaa7651 (add Desing Screen course details)
+>>>>>>> 9cfb1182 (add Desing Screen course details)
     <string gender="unknown" name="menu_description">ម៉ឺនុយ</string>
     <string gender="unknown" name="menubar_description">របារម៉ឺនុយ</string>
     <string gender="unknown" name="menuitem_description">ធាតុម៉ឺនុយ</string>

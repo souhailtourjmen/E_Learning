@@ -1,8 +1,14 @@
 export const VIDEO= {
     // videos
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00287c65 (-add new service profile)
 }
 export const IMGS= {
     // videos
+<<<<<<< HEAD
+<<<<<<< HEAD
     ArrowIcon: require('../../assets/app_images/ArrowIcon.png'),
 }
 export const ICONS= {
@@ -34,4 +40,25 @@ export const ICONS= {
    MessageIcon: require('../../assets/icon_images/message.png'),
    CardIcon: require('../../assets/icon_images/card.png'),
    reservationProfileMenuIcon: require('../../assets/icon_images/reservationMenuProfile.png'),
+=======
+    VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
+=======
+    ArrowIcon: require('../../assets/app_images/ArrowIcon.png'),
+>>>>>>> 9c8d4eae (- add new screen onbording)
+}
+<<<<<<< HEAD
+export const IMGS= {
+    // videos
+    ArrowIcon: require('../../assets/app_images/ArrowIcon.png'),
+}
+export const ICONS= {
+    // videos
+    VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
+>>>>>>> ab93aef2 (first unit project)
+=======
+export const ICONS= {
+    // videos
+    VIDEOINTRO: require('../../assets/app_videos/pexels-sam-lion-5708477.mp4'),
+>>>>>>> e6aa837d (first unit project)
+>>>>>>> 4cdec91b (first unit project)
 }
