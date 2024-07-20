@@ -182,7 +182,8 @@
       },
       "message": {
         "payment": "Paiement effectuée par succès",
-        "notFound": "Nous sommes ravis de vous informer qu'une toute nouvelle fonctionnalité passionnante est sur le point d'arriver! 🚀 Restez à l'écoute, car nous travaillons ardemment en coulisses pour vous offrir une expérience encore meilleure.\nMerci pour votre patience et votre fidélité."
+        "notFound": "Nous sommes ravis de vous informer qu'une toute nouvelle fonctionnalité passionnante est sur le point d'arriver! 🚀 Restez à l'écoute, car nous travaillons ardemment en coulisses pour vous offrir une expérience encore meilleure.\nMerci pour votre patience et votre fidélité.",
+        "AlertCourse": "Aucun cours trouvé pour ce niveau et cette matière."
       },
       "OnBoarding": {
         "interface": {

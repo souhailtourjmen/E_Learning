@@ -1,25 +1,18 @@
-import React, { ReactElement, forwardRef, memo, useCallback, useEffect, useRef, useState } from 'react';
-import { ImageBackground, StyleSheet, View } from 'react-native';
+import React, { ReactElement, forwardRef,  useRef, } from 'react';
 import Animated from 'react-native-reanimated';
-import ContentLoader, {
-  BulletsLoader,
-  FacebookLoader,
-} from 'react-native-easy-content-loader';
 import { Layout } from '@ui-kitten/components';
 import {CellContainer, FlashList} from '@shopify/flash-list';
 import InputBox from './components/InputBox';
-import { useColorScheme } from '../../hooks';
 import useChatRoomViewModels from './viewModel';
 import ChatMessage from './ChatMessage';
-import { COLORS } from '../../constant';
 type ChatRoomProps = {
 };
 
 const ChatRoom = (): ReactElement => {
-  const {messages,isLoading,user}=useChatRoomViewModels()
+  const {messages,user}=useChatRoomViewModels()
+  
   const AnimatedCellContainer = Animated.createAnimatedComponent(CellContainer);
   const flatListRef:any = useRef(null);
-  const theme = useColorScheme();
   function handleScrollToEnd(width:number, height:number) {
     if (flatListRef.current) {
       flatListRef.current.scrollToOffset({offset: height});

@@ -5,10 +5,10 @@ import { Avatar, Card } from "@ui-kitten/components";
 import { useColorScheme } from "../../../hooks";
 import { COLORS } from "../../../constant";
 import { Text, View } from "../../../components";
-import frLocale from "moment/locale/fr";
+
 import { Image } from "react-native";
 const ChatMessage = ({ message, myId }: any) => {
-  moment.locale("fr", [frLocale]);
+  moment.locale("fr");
   const isMyMessage = () => {
     return message?.nom === myId;
   };
